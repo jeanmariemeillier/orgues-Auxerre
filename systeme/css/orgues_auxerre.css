@@ -7,14 +7,14 @@
     --rouge : #ff0000;
     --vert : #348337;
     --noir :#000;
-    --bleu-cl: rgb(102, 221, 255);
+    --bleu-cl: rgb(11 148 187);
     --navy : Navy;
     --jaune : Yellow;
   }
 body{
     color: var(--bleu);
-    /* background-color: rgb(204, 255, 255); */
-    background-image: url("systeme/img/fond-182.jpg") ;
+    background-color: rgb(204, 255, 255);
+    /* background-image: url("systeme/img/fond-182.jpg") ; */
 }
 footer{
    background-color: var(--bleu); 
@@ -98,7 +98,10 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
-
+#puzzle{
+    text-align: center;
+    font-style: italic;
+}
 #txt_accueil {
     position: relative;
     margin-top: 21vw;

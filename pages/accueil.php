@@ -6,19 +6,27 @@
       ANCIENS INSTRUMENTS
       </li>
       <li>
-         Les Frères Précheurs
+         <a href="index.php?pg=12">
+            Les Frères Précheurs
+         </a>
       </li>
       <li>
-         Notre-Dame-la-d'Hors
+         <a href="index.php?pg=13">
+            Notre-Dame la-d'Hors
+         </a>
       </li>
       <li>
       EGLISES ACTUELLES
       </li>
       <li>
-      Saint-Eus�be l'orgue de choeur
+         <a href="index.php?pg=14">
+            Saint-Eusèbe l'orgue de choeur
+         </a>
       </li>
       <li>
-      Saint-Eus�be le grand-orgue
+         <a href="index.php?pg=14">
+            Saint-Eusèbe le grand-orgue
+         </a>
       </li>
       <li></li>
       <li></li>
@@ -28,7 +36,7 @@
    </article>
    </section>
    <section>
-      <figure>
+      <figure id="puzzle">
          <img src="images/orgue_puzzle_poster.jpg" alt="Puzzle unique de l'orgue de la cathédraled'Auxerre" title="Puzzle unique de l'orgue de la cathédrale d'Auxerre">
          <figcaption>Puzzle unique de l'orgue de la cathédrale d'Auxerre</figcaption>
       </figure>   
