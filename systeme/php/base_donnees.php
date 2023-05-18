@@ -1,0 +1,36 @@
+<?php
+/* 
+	fichier générique collectif 11880 gérant la connextion à la base de donnée
+	
+	version 3.0.0  au 11 aout 2015
+
+	passage en PDO orienté objet et ajout du traitement des erreurs!
+
+	on garde la même variable $laison création de deux comptes: local et internet
+*/
+
+/* tableau en local */
+$config = array(
+	'host'      => 'localhost',
+	'username'  => 'root',
+	'passeword' => '',
+	'database'  => 'collecp11880'
+);
+
+/* tableau sur intenet */
+/* 	$config = array(
+	'host'      => 'collecp11880.mysql.db',
+	'username'  => 'collecp11880',
+	'passeword' => 'Renemaure008',
+	'database'  => 'collecp11880'
+); */
+try{
+	$laison = new PDO('mysql:dbname='.$config['database'].';host='.$config['host'].";charset=utf8",$config['username'],$config['passeword']);	
+} 
+catch(PDOException $exception){
+	 echo($exception->getMessage());  //pas diffusion sur internet qu'en mode local!'
+exit('erreur de conexion a la PDO');
+}
+
+
+?>

@@ -1,0 +1,12 @@
+{	
+"_commentaire": "stucture fichier json version: 1.0.1 au 08/05/2023",
+	"chem": "systeme",
+  	"f_json" : "orgues_auxerre",
+  	"tabbord" : false,
+  	"fich_tabbord" : "",
+  	"pas_bord" :"",
+  	"trt_head" : "Orgues Auxerre V2",
+	"version" : "2.0.0",
+	"date" : "08/05/2023",
+	"copy_site":"2010/2023"
+}
