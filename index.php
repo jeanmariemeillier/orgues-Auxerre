@@ -20,7 +20,6 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="collectif 11880">
@@ -54,7 +53,7 @@
     <footer>
        <p>
         <?php
-            echo " Copyright &copy; ".$demar["copy_site"]." Orgues Auxerre V2  /  Site réalisé par  <a href=\"www.collectif11880.org\">l’association Collectif 11880</a>  / Version ". $demar["version"]." au ".  $demar["date"];
+            echo " Copyright &copy; ".$demar["copy_dte"]." ".$demar["edition"]." /  Site réalisé par  <a href=\"".$demar["lien_realis"]."\">".$demar["realis"]."</a>  /  Version ". $demar["version"]." au ".  $demar["date"];
             // if ($v_tbrd) {
             // echo " / <a href=\"".$liens["indic11"]["lien_pg"]."\">?</a> ";
           // }

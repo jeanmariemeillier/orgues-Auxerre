@@ -1,5 +1,6 @@
 {	
-"_commentaire": "stucture fichier json version: 1.0.1 au 08/05/2023",
+"_commentaire": "fichier crée par l'association collectif 11880",
+"_commentaire": "stucture fichier json version: 1.0.2 au 1408/05/2023",
 	"chem": "systeme",
   	"f_json" : "orgues_auxerre",
   	"tabbord" : false,
@@ -7,6 +8,9 @@
   	"pas_bord" :"",
   	"trt_head" : "Orgues Auxerre V2",
 	"version" : "2.0.0",
+	"edition" : "Jean-Marie Meillier",
 	"date" : "08/05/2023",
-	"copy_site":"2010/2023"
+	"copy_dte":"2010/2023",
+	"realis" :"l’association Collectif 11880",
+	"lien_realis" : "www.collectif11880.org"
 }

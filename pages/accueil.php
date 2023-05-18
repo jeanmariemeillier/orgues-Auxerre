@@ -1,87 +1,40 @@
+<div id="accueil">
+   <section>
+   <article id="menu_accueil">
+   <ul>
+      <li>
+      ANCIENS INSTRUMENTS
+      </li>
+      <li>
+         Les Frères Précheurs
+      </li>
+      <li>
+         Notre-Dame-la-d'Hors
+      </li>
+      <li>
+      EGLISES ACTUELLES
+      </li>
+      <li>
+      Saint-Eus�be l'orgue de choeur
+      </li>
+      <li>
+      Saint-Eus�be le grand-orgue
+      </li>
+      <li></li>
+      <li></li>
+   </ul>
+   
 
-<TABLE width="100%">
-   <TR>
-      <TD>
-	     <br>
-	     <CENTER>
-		    <font face="GothicE" color="#87CEFA" size="+6">Les orgues d'Auxerre
-			</font>    
-		 </CENTER>
-      </TD>
-   </TR>
-</TABLE> 
-<table width="100%" border="0">
-   <tr valign="top">
-      <td width=40%>
-         <img src="systeme/img/invisible.gif" hspace="250">
-		 <img src="systeme/img/invisible.gif" vspace="10">		 
-		 <BR>
-		 <FONT SIZE="-1">
-		 <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="95">ANCIENS INSTRUMENTS
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="4">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="75">
-		 <a href="Les_Cordeliers.htm">Les Cordeliers</a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="60">
-		 <a href="Les_Freres_Precheurs.htm">Les Fr�res Pr�cheurs</a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="47">
-		 <a href="MonastereNDH.htm">Notre-Dame-la-d'Hors</a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="38">
-		 <a href="#"></a>
-		 <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="33">
-		 <a href="Autres1.htm"><FONT color="#666666">Autres</FONT></a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="30"><FONT color="#3366FF">EGLISES ACTUELLES</FONT>
-		 <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="28">
-		 <a href="Saint_Eusebe_-_Choeur.htm">Saint-Eus�be - orgue de choeur</a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="31">
-		 <a href="Saint-Eusebe_-_grand-orgue.htm">Saint-Eus�be - grand-orgue</a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="35">
-		 <a href="Saint-Pierre_-_orgue_de_choeur1.htm"><FONT color="#666666">Saint-Pierre - orgue de choeur</FONT></a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="8">
-		 <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="41">
-		 <a href="Saint-Pierre_-_grand-orgue1.htm"><FONT color="#666666">Saint-Pierre - grand-orgue</FONT></a>
-         <br>
-		 <img src="systeme/img/invisible.gif" vspace="7">
-		 <br>
-         </FONT>
-      </td>
-      
-    <td width="20%" valign=bottom>
-	   <center> 
-      <img src="Images/orgue_puzzle_poster.jpg" align=bottom width="206" height="310"  vspace=10 border="0">
-	  <br>
-	     Puzzle unique de l'orgue de la cathédrale
-		 </center>	
-	  </td>
-	  <td width="40%">
-	     <div id="Actu">
+   </article>
+   </section>
+   <section>
+      <figure>
+         <img src="images/orgue_puzzle_poster.jpg" alt="Puzzle unique de l'orgue de la cathédraled'Auxerre" title="Puzzle unique de l'orgue de la cathédrale d'Auxerre">
+         <figcaption>Puzzle unique de l'orgue de la cathédrale d'Auxerre</figcaption>
+      </figure>   
+   </section>
+   <section>
+   <article id="Actu">
         <p>ACTUALITES</p>
         <div id="ActuContenant"> 
           <div id="ActuTexte"> 
@@ -106,46 +59,14 @@
               mais sans obligation ! </p>
           </div>
         </div>
-      </div>
-        </td> 
-   </tr> 
-   <tr valign=top>
-      <td width="100%" colspan=2>
-         <FONT SIZE="-1">
-	     <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="50">
-	     <a href="Cathedrale_-_orgue_de_choeur1.htm"><FONT color="#666666">Cath�drale - orgue de choeur</FONT></a>
-         <br>
-	     <img src="systeme/img/invisible.gif" vspace="8">
-	     <br>
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="65">
-	     <a href="#"></a>
-         <br>
-	     <img src="systeme/img/invisible.gif" vspace="8">
-	     <!-- <!-- <br> -->
-         <IMG SRC="systeme/img/invisible.gif" ALIGN=LEFT HSPACE="95">
-	     <a href="#"></a>
-         <br>
-	     <img src="systeme/img/invisible.gif" vspace="8">
-		 </FONT>
-		</TD>
-   </TR>
-</TABLE>
-<TABLE width="100%">   	  
-   <TR>	  
-      <TD width="100%">		 
-		 <center>
-         <font color="#666666" size="4">
-		 Ceci n'est pas un site web, du moins, pas encore ; <font color="#FF0000">c'est un feuilleton</font>, dont chacun des �pisodes est complet (sauf d�couvertes nouvelles).
-		 <BR>
+      </article>
+      <article id="txt_accueil">
+      <p>
+         Ceci n'est pas un site web, du moins, pas encore ; <font color="#FF0000">c'est un feuilleton</font>, dont chacun des �pisodes est complet (sauf d�couvertes nouvelles).
+      </p>
+      <p>
 		 Certaines des donn�es qui le composent ou le composeront sont sur deux blogs int�ressant les Orgues de l'Yonne.
-		 <BR>
-		 <BR>
-		 <!-- Quelques photos concernant la r�alisation de mon orgue virtuel se retrouvent <a href="pedales_expression.htm">ici</a> -->
-		 </font>
-		 </center>
-      </td>
-   </tr>
-</table>
-<script>window.onload =  Defilement();</script>
-
-
+      </p>
+      </article>
+   </section>
+</div>

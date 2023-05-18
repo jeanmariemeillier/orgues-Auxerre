@@ -7,19 +7,23 @@
     --rouge : #ff0000;
     --vert : #348337;
     --noir :#000;
-    /* --bleu-cl: rgb(102, 221, 255); */
-    --bleu-cl: rgb(19 155 169);
+    --bleu-cl: rgb(102, 221, 255);
     --navy : Navy;
     --jaune : Yellow;
   }
 body{
     color: var(--bleu);
-   
+    /* background-color: rgb(204, 255, 255); */
     background-image: url("systeme/img/fond-182.jpg") ;
 }
 footer{
    background-color: var(--bleu); 
    color: var(--gris-clr);
+}
+footer p {
+    margin: 0 ;
+    padding: 10px 0;
+    text-align: center;
 }
 #navbar {
     position: fixed;
@@ -52,7 +56,6 @@ footer{
 #menu li {
     margin-left: 10px;
     float: left;
-    pointer-events: ;
 }
 #menu li a {
     padding: 5px;
@@ -64,25 +67,43 @@ footer{
 }
 main{
     min-height: 600px;
-    background-color: rgb(204, 255, 255);
+    margin-top: 7rem;
 }
-footer{
-    text-align: center;
-}
-footer p {
-    margin: 0;
-    padding: 1rem 0;
-}
-#main_total a {
+a {
     text-decoration: none;
     color: var(--bleu-cl);
-    font-size: 1.2rem;
 }
 a:hover, a:active{
     color: var(--bleu); 
 }
 
 /* recup css page presentation ancien site */
+
+/* regles css 2023 */
+#accueil{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    /* grid-row-gap: 1em; */
+    /* padding: 1rem; */
+    /* margin-top: 3.5rem; */
+}
+#menu_accueil {
+    background-color: chartreuse;
+    width: 69%;
+    height: 90%;
+    position: relative;
+    top: 5%;
+    left: 15%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+
+#txt_accueil {
+    position: relative;
+    margin-top: 21vw;
+    margin-right: 1vw;
+}
 #Actu {
    position: relative;
    left:100px;
