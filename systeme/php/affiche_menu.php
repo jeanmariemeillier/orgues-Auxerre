@@ -26,12 +26,12 @@
          echo "</ul>".$rn;
 
          // rajout logo et lien panier gérer par le javascript
-         echo "<article id=\"logo_panier\">".$rn; 
+        /*  echo "<article id=\"logo_panier\">".$rn; 
          echo "<a href=\"".$liens["indic14"]["lien_pg"] ."\">".$rn; 
          echo "<img src=\"".$chem_princ."/".$liens["dirimg"]."/".$liens["img_panier"]."\"/>".$rn;
          echo "<span id=\"chif_pan\"></span>";
          echo "</a>";
-         echo "</article>".$rn;
+         echo "</article>".$rn; */
 
 
         if ($liens["lien_social"]) {
