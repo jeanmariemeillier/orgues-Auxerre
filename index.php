@@ -28,6 +28,7 @@
     <link href="systeme/css/normalize.css" rel="stylesheet">
     <link href="systeme/css/bootstrap-icons.css" rel="stylesheet">
     <link href="systeme/css/orgues_auxerre.css" rel="stylesheet">
+    <script src="systeme/js/jquery-3.6.4.min.js"></script>
     <script src="systeme/js/orgues_auxerre.js"></script>
      <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
    
@@ -40,7 +41,9 @@
             include($chem_princ."/blog/installblog.php");
           } 
           /* fin de modif */
-          echo $rn."</head>".$rn."<body>".$rn;
+          /* test lance fonction defilement en javascript */
+          //echo"<script>Defilement()</script>";
+          echo $rn."</head>".$rn."<body onload=\"Defilement()\">".$rn;
           echo "\t<nav id=\"navbar\">".$rn; 
           include $chem_princ."/php/affiche_menu.php"; 
         echo"</nav>".$rn;
