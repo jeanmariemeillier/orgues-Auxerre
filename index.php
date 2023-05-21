@@ -10,7 +10,8 @@
   $chem_princ =$demar["chem"]; 
   $jsonsite = $demar["f_json"]; 
   include($chem_princ."/php/index_deb.php");
-  /* BDD pour plus  tard */
+
+   /* BDD pour plus  tard */
   //include_once ($chem_princ."/php/base_donnees.php"); */
   
   // $result_site = $laison->query('SELECT * FROM mise_jour_site');
@@ -31,13 +32,18 @@
      <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
    
     <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
-    <?php   // include($chem_princ."/blog/installblog.php"); ?>
-  </head>
-  <body>
-    <nav id="navbar">
-      <?php  include $chem_princ."/php/affiche_menu.php"; ?>
-    </nav>
-      <?php
+    <?php  
+          /* corection d'un bug rajout d'une condition pour afficher le blo ou non
+          modif du 21/05/2023 */
+          if ($liens["mod_blog"]) {
+            echo "<!-- installation du blog -->";
+            include($chem_princ."/blog/installblog.php");
+          } 
+          /* fin de modif */
+          echo $rn."</head>".$rn."<body>".$rn;
+          echo "\t<nav id=\"navbar\">".$rn; 
+          include $chem_princ."/php/affiche_menu.php"; 
+        echo"</nav>".$rn;
         if ($aside) {
           echo"<main id=\"main\">".$rn;
           echo"<aside id=\"aside\">".$rn; 
@@ -45,7 +51,6 @@
           echo "</aside>".$rn;
         }
            else  echo"<main id=\"main_total\">".$rn; 
-         
           include $affpg; 
           // $laison=NULL;
       ?>
