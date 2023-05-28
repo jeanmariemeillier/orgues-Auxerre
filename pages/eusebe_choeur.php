@@ -14,17 +14,17 @@
 		 <BR>
 		 <BR>
 		 <FONT color="#6666FF">
-		    Saint-Eus�be - orgue de choeur
+		    Saint-Eusebe - orgue de choeur
 		 </FONT>
 		 </CENTER>
 		 <BR>
 		 <BR>
 		 <p align="justify">
-		 Plusieurs devis non dat�s, mais apparemment de 1909, mentionnent l'installation d'un orgue neuf propos� par les facteurs Oscar et Joseph Reygaert, install�s � Auxerre (avec une 
-		 succursale � Grammont (Belgique)). Il aurait eu un seul clavier et un p�dalier en tirasse.
+		 Plusieurs devis non datés, mais apparemment de 1909, mentionnent l'installation d'un orgue neuf proposé par les facteurs Oscar et Joseph Reygaert, installés à Auxerre (avec une 
+		 succursale à Grammont (Belgique)). Il aurait eu un seul clavier et un pédalier en tirasse.
 		 <BR>
 		 <BR>
-		 Voici ces documents, dont il n'est pas s�r qu'ils soient dans le bon ordre :
+		 Voici ces documents, dont il n'est pas sûr qu'ils soient dans le bon ordre :
 		 </P>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -63,17 +63,17 @@
 	  </TD>
       <TD width="27%" >
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis1_1_1.JPG','GrandeImage31','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis1_1.JPG" width="367" height="466" border="0" alt="Premi�re page du premier devis">
+	     <img src="Saint-Eusebe/Devis1_1.JPG" width="367" height="466" border="0" alt="Première page du premier devis">
 		 </a>
 	  </TD>
 	  <TD width="27%">
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis1_2a_1.JPG','GrandeImage32','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis1_2a.JPG" width="367" height="466" border="0" alt="Deuxi�me page du premier devis">
+	     <img src="Saint-Eusebe/Devis1_2a.JPG" width="367" height="466" border="0" alt="Deuxième page du premier devis">
 		 </a>
 	  </TD>
 	  <td width="26%">
          <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis1_3_1.JPG','GrandeImage33','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis1_3.JPG" width="367" height="466" border="0" alt="Troisi�me page du premier devis">
+	     <img src="Saint-Eusebe/Devis1_3.JPG" width="367" height="466" border="0" alt="Troisième page du premier devis">
 		 </a>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -82,7 +82,7 @@
    </TR>
 </TABLE>
 <CENTER>
-   Premier devis non dat�.
+   Premier devis non datés.
 </CENTER>
 <BR>
 <table width="100%">   
@@ -92,17 +92,17 @@
 	  </TD>
       <TD width="27%" >
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis2_1_1.JPG','GrandeImage34','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis2_1.JPG" width="367" height="466" border="0" alt="Premiere page du deuxi�me devis">
+	     <img src="Saint-Eusebe/Devis2_1.JPG" width="367" height="466" border="0" alt="Premiere page du deuxième devis">
 		 </a>
 	  </TD>
 	  <TD width="27%">
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis2_2_1.JPG','GrandeImage35','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis2_2.JPG" width="367" height="466" border="0" alt="Deuxi�me page du deuxi�me devis">
+	     <img src="Saint-Eusebe/Devis2_2.JPG" width="367" height="466" border="0" alt="Deuxième page du deuxième devis">
 		 </a>
 	  </TD>
 	  <td width="26%">
         <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis2_3_1.JPG','GrandeImage36','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis2_3.JPG" width="367" height="466" border="0" alt="Troisi�me page du deuxi�me devis">
+	     <img src="Saint-Eusebe/Devis2_3.JPG" width="367" height="466" border="0" alt="Troisième page du deuxième devis">
 		 </a>
 	  </TD>
 	  <TD width="10%">&nbsp;
@@ -118,12 +118,12 @@
       <TD width="40%" >
 	     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis2_4_1.JPG','GrandeImage37','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis2_4.JPG" width="367" height="466" border="0" alt="Quatri�me page du deuxi�me devis">
+	     <img src="Saint-Eusebe/Devis2_4.JPG" width="367" height="466" border="0" alt="Quatrième page du deuxième devis">
 		 </a>
 	  </TD>
 	  <TD width="40%">
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis2_5_1.JPG','GrandeImage38','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis2_5.JPG" width="367" height="466" border="0" alt="Cinqui�me page du deuxi�me devis">
+	     <img src="Saint-Eusebe/Devis2_5.JPG" width="367" height="466" border="0" alt="Cinquième page du deuxième devis">
 		 </a>
 	  </TD>
 	  <TD width="10%">&nbsp;
@@ -132,7 +132,7 @@
    </TR>
 </TABLE>
 <CENTER>
-   Deuxi�me devis non dat�
+   Deuxième devis non daté
 </CENTER>
 <BR>
 <table width="100%">   
@@ -143,13 +143,13 @@
       <TD width="40%" >
 	     <P ALIGN=right>
 		 <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis3_1_1.JPG','GrandeImage39','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis3_1.JPG" width="367" height="466" border="0" alt="Premi�re page du troisi�me devis">
+	     <img src="Saint-Eusebe/Devis3_1.JPG" width="367" height="466" border="0" alt="Première page du troisième devis">
 		 </a> 
 	     </P>
 	  </TD>
 	  <TD width="40%">
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe/Devis3_2_1.JPG','GrandeImage40','width=600,height=800')">
-	     <img src="Saint-Eusebe/Devis3_2.JPG" width="367" height="466" border="0" alt="Deuxi�me page du troisi�me devis">
+	     <img src="Saint-Eusebe/Devis3_2.JPG" width="367" height="466" border="0" alt="Deuxième page du troisième devis">
 		 </a>
 	  </TD>
 	  <TD width="10%">&nbsp;
@@ -158,7 +158,7 @@
    </TR>
 </TABLE>
 <CENTER>
-   On encha�ne avec le m�me motif
+   On enchaîne avec le même motif
 </CENTER>
 <BR>
 <table width="100%">   
@@ -210,7 +210,7 @@
 		 <BR>
 	     <FONT size="5">
 		 <p align="justify">
-            Un devis du 7 mars 1909 d�crit un orgue � deux claviers et p�dalier s�par� en ch�ne cintr� et concave, pour une composition au premier clavier de 56 notes :
+            Un devis du 7 mars 1909 décrit un orgue à deux claviers et pédalier séparé en chêne cintré et concave, pour une composition au premier clavier de 56 notes :
 		 <BR>
 		 <BR>
 		 1. Bourdon 16'
@@ -222,23 +222,23 @@
 		 4. Prestant 4'
 		 <BR>
 		 <BR>
-		 Deuxi�me clavier :
+		 Deuxième clavier :
 		 <BR>
 		 <BR>
 		 5. Viole de gambe 8'
 		 <BR>
-		 6. Voix c�leste 8'
+		 6. Voix céleste 8'
 		 <BR>
 		 7. Trompette harmonique 8'
 		 <BR>
 		 <BR>
-		 P�dale :
+		 Pédale :
 		 <BR>
 		 <BR>
 		 8. Soubasse 16'
 		 <BR>
 		 <BR>
-		 P�dales de combinaisons et sous les tirants de jeux 8 boutons de combinaisons.
+		 Pédales de combinaisons et sous les tirants de jeux 8 boutons de combinaisons.
 		 <BR>
 		 <BR>
 		 Le prix de l'orgue serait de 4000 francs.
@@ -284,12 +284,12 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Un autre devis du m�me jour pour un buffet ainsi d�fini :
+		 Un autre devis du même jour pour un buffet ainsi défini :
 		 <BR>
 		 <BR>
-		 "Un buffet d'orgue en bon bois de sapin sera construit selon le plan fourni par le facteur, le tout proprement ex�cut�.
+		 "Un buffet d'orgue en bon bois de sapin sera construit selon le plan fourni par le facteur, le tout proprement exécuté.
 		 <BR>
-		 Dix neuf tuyaux de montre figureront dans ce buffet ; il seront fabriqu�s en zinc couvert de bronze d'aluminium.
+		 Dix neuf tuyaux de montre figureront dans ce buffet ; il seront fabriqués en zinc couvert de bronze d'aluminium.
 		 <BR>
 		 Le prix de ces travaux est de sept cent cinquante francs..."
 		 </p>
@@ -325,7 +325,7 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Un autre devis non dat� soumet la m�me composition mais pour un prix de huit mille cinq cent francs. La transmission sera pneumatique.
+		 Un autre devis non daté soumet la même composition mais pour un prix de huit mille cinq cent francs. La transmission sera pneumatique.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -385,9 +385,9 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 1er juillet 1909, un ajournement d'installation est re�u de l'architecte des Monuments Historiques par le facteur d'orgues.
+		 Le 1er juillet 1909, un ajournement d'installation est reçu de l'architecte des Monuments Historiques par le facteur d'orgues.
 		 <BR>
-		 Le 18 juillet 1909, Oscar Reygaert �crit de Grammont Belgique, qu'il vient d'exp�dier une partie de l'orgue � son adresse � Auxerre, 5, rue Joubert.
+		 Le 18 juillet 1909, Oscar Reygaert écrit de Grammont Belgique, qu'il vient d'expédier une partie de l'orgue à son adresse à Auxerre, 5, rue Joubert.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -410,7 +410,7 @@
 	  </TD>
 	  <TD width="40%">
 	     <a href="javascript:;" onClick="MM_openBrWindow('Saint-Eusebe2/Premiere_livraison_1.JPG','GrandeImage52','width=600,height=800')">
-	     <img src="Saint-Eusebe2/Premiere_livraison.JPG" width="367" height="466" border="0" alt="Premi�re livraison de mat�riel">
+	     <img src="Saint-Eusebe2/Premiere_livraison.JPG" width="367" height="466" border="0" alt="Premi�re livraison de matériel">
 		 </a>
 	  </TD>
 	  <TD width="10%">&nbsp;
@@ -427,9 +427,9 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 21 juillet 1909, S<SUP>te</SUP>-Anne LOUZIER, architecte du gouvernement, r�pond au Vicaire G�n�ral (l'abb� Barillon), "que c'est au Ministre <U>seul</U>, qu'il appartient 
-		 d'autoriser un travail, quel qu'il soit, dans un �difice class�" et qu'il sera certainement appel� � donner son avis ; mais cet avis ne pourra �tre exprim� sans qu'au pr�alable 
-		 il ait �t� saisi des �l�ments d'appr�ciation...
+		 Le 21 juillet 1909, S<SUP>te</SUP>-Anne LOUZIER, architecte du gouvernement, répond au Vicaire Général (l'abbé Barillon), "que c'est au Ministre <U>seul</U>, qu'il appartient 
+		 d'autoriser un travail, quel qu'il soit, dans un édifice classé" et qu'il sera certainement appelé à donner son avis ; mais cet avis ne pourra être exprimé sans qu'au préalable 
+		 il ait été saisi des éléments d'appréciation...
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -463,7 +463,7 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 22 juillet 1909, lettre de l'archev�ch� au doyen � propos des diverses autorisations.
+		 Le 22 juillet 1909, lettre de l'archevêché au doyen à propos des diverses autorisations.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -537,7 +537,7 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 30 juillet 1909, feuille de douane concernant l'exp�dition d'�l�ments en bois de l'orgue, partant de Grammont (Belgique) pour Auxerre.
+		 Le 30 juillet 1909, feuille de douane concernant l'expédition d'éléments en bois de l'orgue, partant de Grammont (Belgique) pour Auxerre.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -571,7 +571,7 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 17 ao�t 1909, lettre de voiture, pour un transport en petite vitesse, de Weikersheim pour Auxerre.
+		 Le 17 août 1909, lettre de voiture, pour un transport en petite vitesse, de Weikersheim pour Auxerre.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -611,8 +611,8 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 13 septembre 1909, une lettre � en-t�te de la Mairie d'Auxerre mais exp�di�e du Palais Royal par le Sous-Secr�taire d'Etat des Beaux-Arts � Monsieur le Pr�fet de l'Yonne, 
-		 autorise le d�placement de cinq stalles, afin de permettre l'installation d'un orgue de choeur...
+		 Le 13 septembre 1909, une lettre à en-tête de la Mairie d'Auxerre mais expédiée du Palais Royal par le Sous-Secrétaire d'Etat des Beaux-Arts à Monsieur le Préfet de l'Yonne, 
+		 autorise le déplacement de cinq stalles, afin de permettre l'installation d'un orgue de choeur...
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -652,7 +652,7 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 21 septembre 1909, l'architecte �crit au doyen lui proposant de relever des croquis d'emplacement � l'attention de l'architecte en chef.
+		 Le 21 septembre 1909, l'architecte écrit au doyen lui proposant de relever des croquis d'emplacement à l'attention de l'architecte en chef.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -686,9 +686,9 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Le 6 novembre 1909, m�me en-t�te, m�me exp�diteur : "... Or, des difficult�s techniques s'�tant r�v�l�es au moment d'op�rer cette installation, le Cur� demande aujourd'hui la 
-		 permission de changer la disposition approuv�e et de placer simplement l'orgue dans une chapelle inoccup�e, au c�t� sud du choeur, sans toucher au monument." L'autorisation est 
-		 accord�e...
+		 Le 6 novembre 1909, même en-tête, même expéditeur : "... Or, des difficultés techniques s'étant révélées au moment d'opérer cette installation, le Curé demande aujourd'hui la 
+		 permission de changer la disposition approuvée et de placer simplement l'orgue dans une chapelle inoccupée, au côté sud du choeur, sans toucher au monument." L'autorisation est 
+		 accordée...
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -722,9 +722,9 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 L'orgue est dans la chapelle St Pierre, � gauche de l'entr�e de la sacristie.
+		 L'orgue est dans la chapelle St Pierre, à gauche de l'entrée de la sacristie.
 		 <BR>
-		 Il restera � cet endroit jusqu'en 1930. De l� l'organiste voyait bien le sanctuaire et le c�l�brant.
+		 Il restera à cet endroit jusqu'en 1930. De là l'organiste voyait bien le sanctuaire et le célébrant.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -782,15 +782,15 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 [T�moignage recueilli aupr�s de Max Maingonat (organiste)
+		 [Témoignage recueilli auprès de Max Maingonat (organiste)
 		 <BR>
-		 (souvenirs d'enfance, alors qu'il �tait petit chanteur de l'orphelinat man�canterie avec Paul Berthier)
+		 (souvenirs d'enfance, alors qu'il était petit chanteur de l'orphelinat manécanterie avec Paul Berthier)
 		 <BR>
-		 par le P�re P.L. Simonnet - avril 1993. -] 
-		 et mis gentiment � ma disposition, ainsi que les copies de documents qui pr�c�dent.
+		 par le Père P.L. Simonnet - avril 1993. -] 
+		 et mis gentiment à ma disposition, ainsi que les copies de documents qui précédent.
 		 <BR>
 		 <BR>
-		 Voici, pr�sentement, plusieurs re�us constatant le r�glement de l'orgue, �tablis par Oscar Reygaert.
+		 Voici, présentement, plusieurs reçus constatant le règlement de l'orgue, établis par Oscar Reygaert.
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -876,40 +876,40 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 En septembre 1993, monsieur l'Abb� Simonnet a �tabli un "Essai de reconstitution du projet de construction de l'orgue de choeur, � partir des documents qui, la plupart, ne sont pas dat�s 
+		 En septembre 1993, monsieur l'Abbé Simonnet a établi un "Essai de reconstitution du projet de construction de l'orgue de choeur, à partir des documents qui, la plupart, ne sont pas datés 
 		 <I>(sauf 2)</I>".
 		 <BR>
-		 Je lui suis redevable de la quasi int�gralit� de cette �tude. Pour ma part, je n'ai effectu� des recherches que sur l'histoire des orgues de la Cath�drale d'Auxerre, notant cependant, au 
-		 fil du temps, les trouvailles concernant d'autres instrument de la cit� voire du d�partement.
+		 Je lui suis redevable de la quasi intégralité de cette étude. Pour ma part, je n'ai effectué des recherches que sur l'histoire des orgues de la Cathédrale d'Auxerre, notant cependant, au 
+		 fil du temps, les trouvailles concernant d'autres instrument de la cité voire du département.
 		 <BR>
-		 Qu'il soit ici tr�s sinc�rement  et chaleureusement remerci�.
+		 Qu'il soit ici très sincèrement  et chaleureusement remercié.
 		 <BR>
-		 Je poursuis donc par quelques documents qui ne cl�tureront certainement pas les recherches puisque cet ensemble provient des archives paroissiales et que je n'ai pas fouill� les Archives 
-		 d�partementales.
-		 <BR>
-		 <BR>
-		 Entre les divers devis �tablis par le facteur Reygaert, il n'y a aucune lettre de correspondance, permettant de conna�tre le pourquoi des changements... du projet primitif.
+		 Je poursuis donc par quelques documents qui ne clôtureront certainement pas les recherches puisque cet ensemble provient des archives paroissiales et que je n'ai pas fouillé les Archives 
+		 départementales.
 		 <BR>
 		 <BR>
-		 Quelle �tait le composition de l'orgue (en 1909)... difficile � dire ?
+		 Entre les divers devis établis par le facteur Reygaert, il n'y a aucune lettre de correspondance, permettant de connaître le pourquoi des changements... du projet primitif.
 		 <BR>
-		 D'apr�s le dernier devis : 7 jeux :
+		 <BR>
+		 Quelle était le composition de l'orgue (en 1909)... difficile à dire ?
+		 <BR>
+		 D'après le dernier devis : 7 jeux :
 		 <BR>
 		 <BR>
 		 1er clavier : - Bourdon 16 pieds - Montre 8 pieds - Bourdon 8 pieds - Prestant 4 pieds
 		 <BR>
-		 2�me clavier : - Viole de gambe 8 pieds - Voix c�leste 8 pieds - Trompette harmonique 8 pieds
+		 2ème clavier : - Viole de gambe 8 pieds - Voix céleste 8 pieds - Trompette harmonique 8 pieds
 		 <BR>
-		 P�dalier : Soubasse emprunt�e 16 pieds.
+		 Pédalier : Soubasse empruntée 16 pieds.
 		 <BR>
 		 <BR>
-		 D'apr�s une note extraite d'un "Cahier de la Paroisse St-Eus�be "Varia", il est mentionn� ceci : "Re�u du minist�re des Beaux-Arts autorisation voulu pour le d�placement  de l'orgue 
-		 de choeur fait par les fr�res Reygaert-Belges, don en partie de la succession de Mme Ad�le Prudot". (Ann�e 1909).
+		 D'après une note extraite d'un "Cahier de la Paroisse St-Eusèbe "Varia", il est mentionné ceci : "Reçu du ministère des Beaux-Arts autorisation voulu pour le déplacement  de l'orgue 
+		 de choeur fait par les frères Reygaert-Belges, don en partie de la succession de Mme Adèle Prudot". (Année 1909).
 		 <BR>
-		 "Pay� � M. Oscar Reygaert, facteur d'orgues en Belgique, le reste de ce qui lui �tait d� pour l'orgue de choeur, 8.900 frs �taient le prix convenu.
+		 "Payé à M. Oscar Reygaert, facteur d'orgues en Belgique, le reste de ce qui lui était dû pour l'orgue de choeur, 8.900 frs étaient le prix convenu.
 		 <BR>
-		 J'avais d�j� vers� 5.000 frs, vers� aujourd'hui 3.900 frs. Plus 100 pour un nouveau march� conclu avec lui pour augmenter l'instrument et s'�levant � la somme de 2.100 frs. L'instrument 
-		 co�te en somme : 10.600 frs." (id. Ann�e 1910).
+		 J'avais déjà versé 5.000 frs, versé aujourd'hui 3.900 frs. Plus 100 pour un nouveau marché conclu avec lui pour augmenter l'instrument et s'élevant à la somme de 2.100 frs. L'instrument 
+		 coûte en somme : 10.600 frs." (id. Année 1910).
 		 </p>
       </TD>
 	  <TD width="10%">&nbsp;
@@ -948,24 +948,24 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 Quelle �tait la composition de l'orgue en 1909 ? Est-ce la m�me que celle d'aujourd'hui, moins la fourniture qui a �t� rajout�e par Mr Mass� vers 1960-70 ?
+		 Quelle était la composition de l'orgue en 1909 ? Est-ce la même que celle d'aujourd'hui, moins la fourniture qui a été rajoutée par Mr Massé vers 1960-70 ?
 		 <BR>
-		 Le facteur Reygaert proc�de au transfert de l'orgue en 1930, pour le placer dans l'arcade pr�vue en 1909. Entre la console et le buffet de l'orgue, il y 
-		 avait une rang�e de stalles [cette rang�e a �t� enlev�e, et la console rapproch�e du buffet, comme actuellement]
-		 <BR>
-		 <BR>
-		 La restauration du Grand Orgue de la tribune �tait effectu�e  en m�me temps. Mais ceci est une autre histoire...
+		 Le facteur Reygaert procède au transfert de l'orgue en 1930, pour le placer dans l'arcade prévue en 1909. Entre la console et le buffet de l'orgue, il y 
+		 avait une rangée de stalles [cette rangée a été enlevée, et la console rapprochée du buffet, comme actuellement]
 		 <BR>
 		 <BR>
-		 L'orgue de choeur actuel (en 1993) est compos� de 9 jeux, avec soubasse 16 pieds emprunt�e (Bourdon 16' du clavier grand-orgue).
+		 La restauration du Grand Orgue de la tribune était effectuée  en même temps. Mais ceci est une autre histoire...
 		 <BR>
 		 <BR>
-		 Qu'en est-il du classement des stalles qu'on n'a pas voulu toucher en 1909 et qui ont �t� enlev�es dans les ann�es 1960. Je me souviens de la console avanc�e en 1966 
-		 lorsque je suis arriv� dans le d�partement de l'Yonne (Je fr�quentais une fille de la chorale, devenue mon �pouse trois ans apr�s...), mais lorsque je touchais cet orgue � la petite  
-		 messe de 11 h, la console �tait d�j� recul�e.
+		 L'orgue de choeur actuel (en 1993) est composé de 9 jeux, avec soubasse 16 pieds empruntée (Bourdon 16' du clavier grand-orgue).
 		 <BR>
 		 <BR>
-		 La conception d'origine pneumatique a �t� modifi�e par Masset (1960-1970) ; l'instrument est aujourd'hui electrifi� pour la traction des notes.
+		 Qu'en est-il du classement des stalles qu'on n'a pas voulu toucher en 1909 et qui ont été enlevées dans les années 1960. Je me souviens de la console avancée en 1966 
+		 lorsque je suis arrivé dans le département de l'Yonne (Je fréquentais une fille de la chorale, devenue mon épouse trois ans après...), mais lorsque je touchais cet orgue à la petite  
+		 messe de 11 h, la console était déjà reculée.
+		 <BR>
+		 <BR>
+		 La conception d'origine pneumatique a été modifiée par Masset (1960-1970) ; l'instrument est aujourd'hui electrifié pour la traction des notes.
 		 <BR>
 		 <BR>
 		 Composition actuelle :
@@ -1032,32 +1032,32 @@
 	  <TD width="80%">
 	     <p align="justify">
 	     <FONT size="5"> 	  		 
-		 La fiche publi�e par l'ASSERCAM de Bourgogne mentionne les renseignements compl�mentaires suivants :
+		 La fiche publiée par l'ASSERCAM de Bourgogne mentionne les renseignements complémentaires suivants :
 		 <BR>
 		 <BR>
-		 a) <B>Etat actuel :</B> Bon �tat.
+		 a) <B>Etat actuel :</B> Bon état.
 		 <BR>
-		 c) <B>Accouplements :</B> R�cit sur Grand Orgue.
+		 c) <B>Accouplements :</B> Récit sur Grand Orgue.
 		 <BR>
-		 d) <B>Tirasses :</B> 1. Grand Orgue - 2. R�cit expressif.
+		 d) <B>Tirasses :</B> 1. Grand Orgue - 2. Récit expressif.
 		 <BR>
-		 f) <B>Tr�molo-Tremblant :</B> Tr�molo sur R�cit.
+		 f) <B>Trémolo-Tremblant :</B> Trémolo sur Récit.
 		 <BR>
-		 h) <B>Octaves (graves et aig�es) :</B> R�cit/Grand Orgue en 16, et Grand Orgue en 4.
+		 h) <B>Octaves (graves et aigües) :</B> Récit/Grand Orgue en 16, et Grand Orgue en 4.
 		 <BR>
-		 i) <B>Expression :</B> R�cit.
+		 i) <B>Expression :</B> Récit.
 		 <BR>
-		 j) <B>Divers :</B> P�dale de tutti.
+		 j) <B>Divers :</B> Pédale de tutti.
 		 <BR>
-		 k) <B>Console :</B> Retourn�e, d'origine, mais modifi�e par MASSET.
+		 k) <B>Console :</B> Retournée, d'origine, mais modifiée par MASSET.
 		 <BR>
 		 m) <B>Traction des claviers :</B> Electro-pneumatique.
 		 <BR>
 		 n) <B>Traction des jeux :</B> Electro-pneumatique.
 		 <BR>
-		 o) <B>Tirants de registres :</B> B�tons ronds en bois.
+		 o) <B>Tirants de registres :</B> Bâtons ronds en bois.
 		 <BR>
-		 p) <B>Alimentation du vent :</B> Ventilateur �lectrique, r�servoir � doubles plis compens�s.
+		 p) <B>Alimentation du vent :</B> Ventilateur électrique, réservoir à doubles plis compensés.
 		 <BR>
 		 q) <B>Sommiers :</B> A disposition diatonique.
 		 <BR>
@@ -1077,12 +1077,12 @@
 			   </TD>
 			   <TD width="20%">
 			      <CENTER>
-				     <B>3<SUP>�</SUP> UT</B>
+				     <B>3<SUP>è</SUP> UT</B>
 				  </CENTER>
 			   </TD>
 			   <TD width="20%">
 			      <CENTER>
-				     <B>4<SUP>�</SUP> UT</B>
+				     <B>4<SUP>è</SUP> UT</B>
 				  </CENTER>
 			   </TD>
 			</TR>
@@ -1108,7 +1108,7 @@
 			</TR>
 			<TR>
 			   <TD width="40%">
-			      &nbsp; &nbsp; &nbsp; 2<SUP>�</SUP> rang
+			      &nbsp; &nbsp; &nbsp; 2<SUP>è</SUP> rang
 			   </TD>
 			   <TD width="20%">
 			      <CENTER>
@@ -1128,7 +1128,7 @@
 			</TR>
 			<TR>
 			   <TD width="40%">
-			      &nbsp; &nbsp; &nbsp; 3<SUP>�</SUP> rang
+			      &nbsp; &nbsp; &nbsp; 3<SUP>è</SUP> rang
 			   </TD>
 			   <TD width="20%">
 			      <CENTER>
