@@ -10,6 +10,7 @@
     --bleu-cl: rgb(11 148 187);
     --navy : Navy;
     --jaune : Yellow;
+    --parchemin: #f0f7ff;
   }
 body{
     color: var(--bleu);
@@ -189,7 +190,35 @@ a:hover, a:active{
 #orgue_virtuel h1{
     text-align: center;
 }
-
+#table_instru1, #table_instru2{
+    position: relative;
+    width: 60%;
+    margin: 3% 29%;
+}
+#table_instru1 caption, #table_instru2 caption{
+    position: relative;
+    display: block;
+    left: 74%;
+    padding-bottom: 5%;
+}
+#table_instru2 {
+    width: 33%;
+}
+#table_instru2 caption {
+    left: 80%;
+}
+blockquote {
+    text-align: justify;
+    font-style: italic;
+    background-color: var(--parchemin);
+    padding: 5px;
+}
+cite {
+    margin-left: 7%;
+}
+.txt_rouge{
+    color: var(--rouge);
+}
 /* section auteur */
 .image1:hover img{
    width:500px;
