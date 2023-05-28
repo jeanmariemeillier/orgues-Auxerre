@@ -31,9 +31,7 @@
       <li></li>
       <li></li>
    </ul>
-   
-
-   </article>
+  </article>
    </section>
    <section>
       <figure id="puzzle">
@@ -41,16 +39,8 @@
          <figcaption>Puzzle unique de l'orgue de la cathédrale d'Auxerre</figcaption>
       </figure>   
    </section>
-   <section>
-   <article id="Actu">
-        <p>ACTUALITES</p>
-        <div id="ActuContenant"> 
-          <div id="ActuTexte"> 
-            <?php include "pages/elements/info_accueil.php"; ?>
-          </div>
-        </div>
-      </article>
-      <article id="txt_accueil">
+   <section id="blog">
+   <?php include($liens["dirlien"]."/textes_blog/actu_01.php");?>
       <!-- <p>
          Ceci n'est pas un site web, du moins, pas encore ; <font color="#FF0000">c'est un feuilleton</font>, dont chacun des �pisodes est complet (sauf d�couvertes nouvelles).
       </p>
