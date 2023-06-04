@@ -6,12 +6,17 @@
       ANCIENS INSTRUMENTS
       </li>
       <li>
-         <a href="index.php?pg=12">
+         <a href="index.php?pg=10">
+            Les Cordeliers
+         </a>
+      </li>
+      <li>
+         <a href="index.php?pg=11">
             Les Frères Précheurs
          </a>
       </li>
       <li>
-         <a href="index.php?pg=13">
+         <a href="index.php?pg=12">
             Notre-Dame la-d'Hors
          </a>
       </li>
@@ -19,12 +24,12 @@
       EGLISES ACTUELLES
       </li>
       <li>
-         <a href="index.php?pg=14">
+         <a href="index.php?pg=13">
             Saint-Eusèbe l'orgue de choeur
          </a>
       </li>
       <li>
-         <a href="index.php?pg=15">
+         <a href="index.php?pg=14">
             Saint-Eusèbe le grand-orgue
          </a>
       </li>
