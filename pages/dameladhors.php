@@ -1,20 +1,40 @@
 <section id="page_cnt">
 <h1 class="cnt">Notre-Dame la d'Hors</h1>
 	<p>
-		Liminaire
+		Liminaire.
 	</p>
 	<p>
 		A l'emplacement de l'actuel palais de justice, il existait jadis un monastère et une église, Notre-Dame la d'Hors. Ce nom signifiait "hors les murs", en dehors des premières murailles qui ceinturaient le coeur d'Auxerre. Ce sanctuaire a été démantelé pendant la Révolution...
 	</p>
+	<article class="image_cnt">
+		<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+            <img src="images/palaisdejustice.jpg" border="0" alt="">
+			<figcaption>Là était l'église des Cordeliers</figcaption>
+		</figure>
+		<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+            <img src="images/vestigesanciens.jpg" border="0" alt="">
+			<figcaption>Vestiges réhabilités</figcaption>
+    	</figure>
+		<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+            <img src="images/ancienbatiment.jpg" border="0" alt="">
+			<figcaption>Autre ancien bâtiment dont j'ai habité le rez-de-chaussée</figcaption>
+    	</figure>
+		<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+            <img src="images/restedesculpture.jpg" border="0" alt="">
+			<figcaption>Partie de sculpture sur le côté de la maison</figcaption>
+    	</figure>
+		<figure role="figure" aria-label="Désert en Bolivie, prise de vue par Audesou.">
+            <img src="images/nom_de_rue.jpg" border="0" alt="">
+			<figcaption>Pierre gravée au nom ancien</figcaption>
+    	</figure>
+	</article>
 	<p>
 		... A Notre-Dame-la-d'Hors d'Auxerre, en 1659, le facteur s'en tient une fois encore à la formule du grand positif de douze jeux - de 47 notes - avec montre de 4 pieds en façade, un seul clavier cette fois, le clairon remplaçant la trompette que l'on trouve ailleurs, la pédale riche d'une octave ; 94 tuyaux de cymbale s'ajouteront aux 140 tuyaux de la fourniture..
-		<br>
-		o 0 o
 	</p>
 	<p>
 		Le 23 octobre 1659, le notaire royal Aubin Yon recevait le contrat par lequel le facteur Oudart SALOMON [d'après N. Dufourcq in "Le livre de l'orgue français" Tome III** La Facture" (ou OUDARD Salomon d'après Jean Martinod "Répertoire des Travaux des Facteurs d'Orgues du IXè siècle à nos jours")] s'engageait, pour 800 livres tournois, à faire un orgue composé de 13 jeux, savoir :
 	</p>
-	<table id="table_instru1">
+	<table id="table_instru3">
 	<caption>G. O.  R.  47 t.</caption>
 	<tr>
 		<td>Prestant 4'</td>
@@ -36,14 +56,14 @@
 		<tD>Clairon</tD>	
 	</tr>
 </table>
-<table id="table_instru2">
+<table id="table_instru4">
 	<caption>Pédalier : R 13 t.</caption>
 	<tr>
-		<td>Bourdon </td>
+		<td>Bourdon </td><td></td>
 	</tr><tr>
-		<td>Trompette</td>
+		<td>Trompette</td><td></td>
 	</tr><tr>	
-		<td>Tremblant</td>
+		<td>Tremblant</td><td></td>
 	</tr>
 </table>
 	<p>
@@ -52,7 +72,7 @@
 	<figure>
 		<figcaption>Prix fait à Oudart Salomon, facteur d'orgues, de l'orgue de N. D. la d'Hors d'Auxerre..</figcaption>
 			<blockquote>
-				Par devant Aubin Yon, notaire tabellion royal..., le vingt troisiesme jour d'octobre mil six cens cinquante neuf, après midy comparut en sa personne Oudart Salomon° facteur d'orgues demeurant à Troyes, estant de présent en ceste ville d'Auxerre, lequel a marchandé, promis, et c'est obligé à vénérables et religieuses personnes, frère Pierre Duflot, prieur de l'abbaye de Sainct-Marien d'Auxerre et le curé de la paroisse Nostre Dame la Dehors... de faire dans l'église Nostre Dame la Dehors une orgue de quatre pieds, la monstre d'estain sonnant, polly et bruny qui sonnera les quatre pieds ouverts, qui servira pour le prestant, qui sera de quarente sept thyaux.
+				Par devant Aubin Yon, notaire tabellion royal..., le vingt troisiesme jour d'octobre mil six cens cinquante neuf, après midy comparut en sa personne Oudart Salomon<sup>1</sup> facteur d'orgues demeurant à Troyes, estant de présent en ceste ville d'Auxerre, lequel a marchandé, promis, et c'est obligé à vénérables et religieuses personnes, frère Pierre Duflot, prieur de l'abbaye de Sainct-Marien d'Auxerre et le curé de la paroisse Nostre Dame la Dehors... de faire dans l'église Nostre Dame la Dehors une orgue de quatre pieds, la monstre d'estain sonnant, polly et bruny qui sonnera les quatre pieds ouverts, qui servira pour le prestant, qui sera de quarente sept thyaux.
 				<br>
 				2. Plus ung bourdon de quattre pieds bouché qui sonnera l'octave en bas de la monstre, la première octave de thuyau sera de bois de chesne et le reste de plomb, qui sera aussi de quarente sept tuyaulx.
 				<br>
@@ -84,234 +104,233 @@
 				<br>
 				Plus faire trois soufflets de bois de chesne suffisants, pour faire sonner les dictes orgues, de cinq pieds de long, trois pieds de large qui seront, assy [sic] de bois de chesne avec abrégé et mouvements qui s'étireront es deux costez du clavier.
 				<br>
-				Le tout bien et deument et sonnant d'accord. Pour fournir le buffet propre pour mettre les dictz jeux de haulteur de douze pieds et de largeur de sept pieds de bois de chesne, de valleur de cens livres, lequel sera de cinq chambre°°. Plus faire auxdictes orgues un tremblant à vent restrouvétz. Et commencer par le dict entrepreneur a travailler ausdicts orgues et ce rendre pour cest esfect en cette ville d'Auxerre dans le jour des Brandons prochain venant, et rendre le tout faict et parfaict bien et deument comme dessus est dict, a dict de gens a ce cognoissantz... dans le jour et feste de Sainct-Rémy prochain venant, et néanmoings s'oblige le dit entrepreneur de faire jouer partye des dictz jeux dans le jour et feste de Pasque prochain venant... moyennant la somme de huict cens livres tournois°°°.
+				Le tout bien et deument et sonnant d'accord. Pour fournir le buffet propre pour mettre les dictz jeux de haulteur de douze pieds et de largeur de sept pieds de bois de chesne, de valleur de cens livres, lequel sera de cinq chambre<sup>2</sup>. Plus faire auxdictes orgues un tremblant à vent restrouvétz. Et commencer par le dict entrepreneur a travailler ausdicts orgues et ce rendre pour cest esfect en cette ville d'Auxerre dans le jour des Brandons prochain venant, et rendre le tout faict et parfaict bien et deument comme dessus est dict, a dict de gens a ce cognoissantz... dans le jour et feste de Sainct-Rémy prochain venant, et néanmoings s'oblige le dit entrepreneur de faire jouer partye des dictz jeux dans le jour et feste de Pasque prochain venant... moyennant la somme de huict cens livres tournois<sup>3</sup>.
 				<br>
 				(ADY, H 1.222.)
 				<br>
 				(ADAude, 14 G 143 ; 22 H 200, ADY, G 2371.)
 			</blockquote>
-			<cite><sup>1</sup>
-				° Oudart Salomon s'était fait connaître en 1655 pour la restauration de l"orgue de Saint-Eusèbe d'Auxerre ; en 1659, il restaurait l'orgue de N.-D. aux Nonnains de Troyes, en 1660 celui de Saint-Jacques-aux-Nonnains de la même ville. Il avait pour associé Edme Le Bé, comme nous l'apprend la quittance qui se trouve à la fin de cet acte : le 11 février comparurent "le dit Oudart Salomon desnommé cy-dessus et honnorable homme Edme Le Bé, son assocyé" qui reconnurent avoir été entièrement payés.
-			</cite>
-			<cite><sup>2</sup>
-				°° Cinq compartiments ou plates faces : ce buffet était plat sans aucune tourelle, comme l'indique l'acte de 1748 [Voir plus bas].
-			</cite>
-			<cite><sup>3</sup>
-				°°° Le facteur était assuré d'avoir tout le temps que durerait son travail "une chambre à cheminée".	
-			</cite>
+			<cite><sup>1</sup>Oudart Salomon s'était fait connaître en 1655 pour la restauration de l"orgue de Saint-Eusèbe d'Auxerre ; en 1659, il restaurait l'orgue de N.-D. aux Nonnains de Troyes, en 1660 celui de Saint-Jacques-aux-Nonnains de la même ville. Il avait pour associé Edme Le Bé, comme nous l'apprend la quittance qui se trouve à la fin de cet acte : le 11 février comparurent "le dit Oudart Salomon desnommé cy-dessus et honnorable homme Edme Le Bé, son assocyé" qui reconnurent avoir été entièrement payés.
+			</cite><br><cite>
+				<sup>2</sup>Cinq compartiments ou plates faces : ce buffet était plat sans aucune tourelle, comme l'indique l'acte de 1748 [Voir plus bas].
+			</cite><br><cite>
+				<sup>3</sup>Le facteur était assuré d'avoir tout le temps que durerait son travail "une chambre à cheminée".	
+			</cite></cite>
 	</figure>
 		<p>
 			Le 4 octobre 1673, Louis Lebé, facteur d'orgue à Troyes, se chargeait de transporter l'orgue sur le grand portail de l'église, de le réparer et l'augmenter. Lebé devait augmenter la montre, faire un bourdon de 8' bouché, une voix humaine, améliorer le cornet et réparer ou changer pas mal de choses. Tout devait être fini pour la Pentecôte 1674.
 		</p>
-		<p>
-			Transport et augmentation de l'orgue, par Louis Lebé, facteur d'orgues.
-		</p>
-		<p>
-			Par devant Gabriel Paintandre notaire royal à Auxerre, soubzigné le quatriesme jour d'octobre 1673 avant midy compary en sa personne honnorable homme Louis Le Bé° facteur d'orgues demeurant à Troyes estant de présent en ceste ville d'Auxerre tant pour luy que soy faisant et portant fort pour le sieur Edme Le Bé son père, aussi facteur d'orgues demeurant audit Troyes et... lequel es dits noms a marchandé, promet et s'oblige à messieurs les vénérables... de leur faire les besongnes et ouvrages cy après déclarés. C'est ascavoir transporter sur le grand portail de l'église leurs orgues, racommoder et augmenter en cette façon, achever jusques à huict pieds la monstre d'estain, faire un bourdon de bois de huict pieds bouché ; une voix humaine coupée comme la trompette, rendre le cornet de plus grosse taille et de son plus esclattant, à chaque jeu adjouster deux tuyaux en bas plus gros affin de rendre les dits jeux de plus grosse taille, plus faire trois soufflets à neufs de six pieds de longs sur trois de large, les planches jointes à languettes et bien fortiffiés ; deux sommiers de quatre pieds chacun, un clavier neuf, l'abbrégé et toutes autres choses qu'il conviendra pour la dite besogne, excepté la tribune, le buffet, l'estain, plomb et ferrures nécéssaires que les dits sieurs religieux seront tenus de fournir. A rendre les dites orgues bien sonnans et accordans. Faict et parfaict dans le jour de la Pentecoste prochain, à peine de tous despens, dommages et interest et ce moyennant le prix et somme de six cent livres...
-			<br>
-			Appartiendront aux dits entrepreneurs les vieux matériaux restant dudit orgue à la réserve de la tribune.
-		</p>
-		<p>
-			Signé : Louis Le Bé.
-		</p>
-		<p>
-			° Les Lebé furent, au cours du XVIIè siècle et au début du XVIIIè, une des célèbres familles françaises d'organistes et de facteurs d'orgues. Leur filiation exacte n'a pas encore été établie. Peut-être descendent-ils de Guillaume Lebé, le beau-père de Robert Ballard... Installés à Troyes, ils ont surtout travaillé en Champagne, en Bourgogne, en Ile-de-France et en Normandie. Jacques, organiste à Saint-Jean-du-Marché de Troyes (1611-1614), facteur associé à l'organier J. de Herville vers 1624, semble être l'ancêtre de cette famille. Son fils fut sans doute Edme qui s'associa comme facteur à Oudart Salomon. Edme qui fut organiste de Saint-Nicolas de Troyes (1643), puis de Saint-Rémy (1647) et qui restaura entre autres en 1662 l'orgue de Saint-Pantaléon, en 1664, celui de Saint-Jean-du-Marché, de 1664 à 1666 celui de Saint-Nicolas, eut pour fils Louis, le plus célèbre des facteurs troyens et peut- être Adrien qui travailla en Normandie.
-			<br>
-			C'est avec Louis qu'Edme travailla aux orgues de la Madeleine (1664), de Saint-Pantaléon de Troyes (1671), de Notre-Dame-la-d'Hors à Auxerre, et c'est à Louis qu'Edme semble avoir laissé toute sa clientèle.
-			<br>
-			Parmi les travaux de Louis Le Bé, citons les entretiens et restaurations à Troyes, des orgues de Saint-Nicolas (1668-1693), Saint-Jacques-aux-Nonnains (1674-1686), Notre-Dame-de-l'Isle (1674), Saint-Etienne (1684-1693), Saint-Urbain (1689), Saint-Pierre (1693-1724), Saint-Aventin (1694), Saint-Denis (1701), Notre-Dame-aux-Nonnains (1725). En 1676, il restaurait l'orgue de Saint-Martin de Clamecy ; en 1696 construisait un instrument neuf au Ricey-Bas, restaurait la même année les orgues de Saint-Germain de Châlons-sur-Marne et de Saint-Maclou de Bar-sur-Aube, en 1722, celui de la cathédrale de Sens...
-			<br>
-			Son fils Nicolas Le Bé, fut aussi organiste et facteur à Troyes au début du XVIIIè siècle ; il restaura en 1706 avec lui l'orgue de Saint-Pierre de Tonnerre qu'il avait expertisé en 1676 - (Prévost, Instruments de Musique usités dans nos églises... Troyes, 1905 ; ADAube, G 532, 10 G 148, 7 G 7 ; G 124, 11 G 6, 15 G 1, 14 G 163, 16 G 149, 16 G 136, 17 G 70 ; Grignon ; Chartraire, Les orgues de la cathédrale de Sens '1889' ; A. P. de Saint-Pierre de Tonnerre ; A. Mun. Clamecy.)
-		</p>
+		<figure>
+		<figcaption>Transport et augmentation de l'orgue, par Louis Lebé, facteur d'orgues.</figcaption>
+			<blockquote>
+				Par devant Gabriel Paintandre notaire royal à Auxerre, soubzigné le quatriesme jour d'octobre 1673 avant midy compary en sa personne honnorable homme Louis Le Bé° facteur d'orgues demeurant à Troyes estant de présent en ceste ville d'Auxerre tant pour luy que soy faisant et portant fort pour le sieur Edme Le Bé son père, aussi facteur d'orgues demeurant audit Troyes et... lequel es dits noms a marchandé, promet et s'oblige à messieurs les vénérables... de leur faire les besongnes et ouvrages cy après déclarés. C'est ascavoir transporter sur le grand portail de l'église leurs orgues, racommoder et augmenter en cette façon, achever jusques à huict pieds la monstre d'estain, faire un bourdon de bois de huict pieds bouché ; une voix humaine coupée comme la trompette, rendre le cornet de plus grosse taille et de son plus esclattant, à chaque jeu adjouster deux tuyaux en bas plus gros affin de rendre les dits jeux de plus grosse taille, plus faire trois soufflets à neufs de six pieds de longs sur trois de large, les planches jointes à languettes et bien fortiffiés ; deux sommiers de quatre pieds chacun, un clavier neuf, l'abbrégé et toutes autres choses qu'il conviendra pour la dite besogne, excepté la tribune, le buffet, l'estain, plomb et ferrures nécéssaires que les dits sieurs religieux seront tenus de fournir. A rendre les dites orgues bien sonnans et accordans. Faict et parfaict dans le jour de la Pentecoste prochain, à peine de tous despens, dommages et interest et ce moyennant le prix et somme de six cent livres...
+				<br>
+				Appartiendront aux dits entrepreneurs les vieux matériaux restant dudit orgue à la réserve de la tribune.
+				<br>
+				Signé : Louis Le Bé.
+			</blockquote>
+			<cite><sup>1</sup>
+				 Les Lebé furent, au cours du XVIIè siècle et au début du XVIIIè, une des célèbres familles françaises d'organistes et de facteurs d'orgues. Leur filiation exacte n'a pas encore été établie. Peut-être descendent-ils de Guillaume Lebé, le beau-père de Robert Ballard... Installés à Troyes, ils ont surtout travaillé en Champagne, en Bourgogne, en Ile-de-France et en Normandie. Jacques, organiste à Saint-Jean-du-Marché de Troyes (1611-1614), facteur associé à l'organier J. de Herville vers 1624, semble être l'ancêtre de cette famille. Son fils fut sans doute Edme qui s'associa comme facteur à Oudart Salomon. Edme qui fut organiste de Saint-Nicolas de Troyes (1643), puis de Saint-Rémy (1647) et qui restaura entre autres en 1662 l'orgue de Saint-Pantaléon, en 1664, celui de Saint-Jean-du-Marché, de 1664 à 1666 celui de Saint-Nicolas, eut pour fils Louis, le plus célèbre des facteurs troyens et peut- être Adrien qui travailla en Normandie.
+		
+				C'est avec Louis qu'Edme travailla aux orgues de la Madeleine (1664), de Saint-Pantaléon de Troyes (1671), de Notre-Dame-la-d'Hors à Auxerre, et c'est à Louis qu'Edme semble avoir laissé toute sa clientèle.
+				<br>
+				Parmi les travaux de Louis Le Bé, citons les entretiens et restaurations à Troyes, des orgues de Saint-Nicolas (1668-1693), Saint-Jacques-aux-Nonnains (1674-1686), Notre-Dame-de-l'Isle (1674), Saint-Etienne (1684-1693), Saint-Urbain (1689), Saint-Pierre (1693-1724), Saint-Aventin (1694), Saint-Denis (1701), Notre-Dame-aux-Nonnains (1725). En 1676, il restaurait l'orgue de Saint-Martin de Clamecy ; en 1696 construisait un instrument neuf au Ricey-Bas, restaurait la même année les orgues de Saint-Germain de Châlons-sur-Marne et de Saint-Maclou de Bar-sur-Aube, en 1722, celui de la cathédrale de Sens...
+				<br>
+				Son fils Nicolas Le Bé, fut aussi organiste et facteur à Troyes au début du XVIIIè siècle ; il restaura en 1706 avec lui l'orgue de Saint-Pierre de Tonnerre qu'il avait expertisé en 1676 - (Prévost, Instruments de Musique usités dans nos églises... Troyes, 1905 ; ADAube, G 532, 10 G 148, 7 G 7 ; G 124, 11 G 6, 15 G 1, 14 G 163, 16 G 149, 16 G 136, 17 G 70 ; Grignon ; Chartraire, Les orgues de la cathédrale de Sens '1889' ; A. P. de Saint-Pierre de Tonnerre ; A. Mun. Clamecy.)
+			</cite>
+		</figure>
 		<p>
 			Or, le 29 décembre 1674, les Lebé père & fils (Edme & Louis) étaient toujours là, paressant, buvant et jouant (aux cartes ; ou à autre chose...). Or cela ne faisait nullement l'affaire des Religieux de Saint-Marien, chargés de faire les frais de ce travail au ralenti et de cette transformation de la tribune et du logement des Lebé en simple tripot. Ils s'en plaignent dans une épître amère et longue destinée aux arbitres. La conclusion normale est une demande d'argent, tant les Lebé sont coûteux.
 		</p>
-		<p>
-			Prétentions de messieurs les religieux de Saint Marien contre messieurs Edme et Louis Le Bé facteurs d'orgues, demeurant à Troie.
-		</p>
-		<p>
-			Premièrement les dits sieurs religieux demandent et ... sera adjugé par M. les arbitres, la somme de trente et une livres payée en leur acquit a un chartier de Troyes qui a apporté les sommiers, soufflets et autres ouvrages qu'ils estois [sic] tenus de livrer pour leur orgue car tout ouvrier est tenu de mettre son ouvrage en place s'il n'est stipulé au contraire ; or est-il qu'il n'est point stipulé par le marché que nous irons prendre à Troie les dicts ouvrages, doncques les dicts Le Bé en sont tenus, ce qui est à observer, que les dicts sieurs Le Bé ont faict reporter par le mesme chartier les vieux sommiers souflets et fust de l'ancien orgue.
-			<br>
-			Partant ici sera passé......................................................... 31 l. t.
-			<br>
-			Item les dicts sieurs vénérables demandent qu'il leur sera payé les matières suivantes que les dicts sieurs religieux n'estoient obligés de fournir, cod.....les [Illisible], colles fortes fil de fer, de laiton, le cuivre, peaux de mouton, et bois qui ont esté employées au dicts orgues, et achepter par leur ordre.
-			<br>
-			Scavoir pour fils de fer et laton, pris chez Madame Thiriat marchande la somme de six livres onze sols, six deniers suivant sa quictance du 20è décembre dernier, cy 6 l. XI s., 6 d.
-			<br>
-			Item, pour huict livres de colle d'Angleterre à 12 s. la livre 6 l. 16 s.
-			<br>
-			Item pour trente peaux de mouton du prix et somme de treize livres unze sols, cy 13 l., II s.
-			<br>
-			Item, en cuivre pour faire les anches et languettes, 50 s.
-			<br>
-			Item, pour du bois pris chez M. Simon Le Bel menuisier dont les religieux ont respondu suivant son mémoire, seize livres, dix huict sols, cy 16 l., I8 s.
-			<br>
-			Item, pour tous les autres bois employés au dict orgues et pris dans la maison des dicts religieux pour faire l'abrégé, les mouvements, les faux sommiers, sommiers, parfaire le gros bourdon, les dicts Le Bé n'ayant apporté que les quatre maitresses pièces du dit bourdon et les deux gros sommiers, tout le reste ayant esté fourny par les dicts religieux, ce qui sera estimé par un menuisier toutes lesquels materaux [sic] sont à la charge des dicts Le Bé ; ce qui se voit manifestement par la disposition du marché qui n'oblige les religieux qu'à fournir la tribune, le bufet, l'estain, plomb et ferrure nécéssaire, dont toutes autres choses qu'il conviendra pour ladite besongne sont deu estre fournies par les dicts entrpreneurs, comme le dict plus hault le dict marché.
-			<br>
-			lus sera alloué à messieurs les religieux de Saint Marien la nourriture et logement donné aux dicts Le Bé et un aprentif, l'espace de six mois et trois semaines qui contiennent deux cent huict jours depuisd la Pentecoste 1674 jusqu'au 29è de décembre dernier, qui beuvoient six pintes de vin par jour en un temps qu'il valoit quatre et cinq sols la pinte, et quarante sols par jour pour tous les trois. Sera passé... la somme de quatre cent livres, cy 400 l.
-			<br>
-			La raison de cette demande est jeuste par ce que nous n'estions obligés de nourir les dicts ouvriers que jusquez à la Pentecoste de l'année 1674 auquel temps l'orgue devoit estre faict et parfaict comme il est dict dans le marché à peine de tous dépens, dommages et interets lesquels nous laissons au jugement des arbitres de liquider.
-			<br>
-			Quand il est dict à la fin du marché qu'il luy sera fourny sa nourriture et logement, luy troisièsme, pendant qu'ils travailleront aux dictes ouvrages, cela est limité à la Pentecoste de 1674, autrement, il leur auroit esté libre de prolonger l'ouvrage encore cinq ou six ans ou temps qu'ils auroient voulu, ce qui ne se peut, veu qu'il n'est pas dict tant qu'ils travailleront ce qui signifie un temps indéterminé ; mais il est dict pendant qu'ils travailleront, scavoir le temps qui est prefix et limité par le jour de la pentecoste, c'estoit à eux à prendre leur mesures ; car nous avons faict nostre compte la dessus, et s'ils nous eussent dict qu'il estoit necessaire de neuf ou dix mois pour faire le dict orgue nous n'aurions pas donné une somme si considérable, portée par le dit marché ; cela est tout clair sans parler de l'incommodité que nous aovns souffert pendant le dict temps que nous ne pouvions loger nos hostes et religieux et nous avons esté contraint de les envoyer coucher dehors le logis ; mais ce qui a prolongé un si long temps, c'est leur paresse, de se lever à sept heures du matin et couché à huict, c'est de jouer aux cartes°, de boire avec leurs amis qui les venoient veoir, enfin c'est d'avoir mal employé le temps, ce qui ne doibt pas estre supporté par les dicts religieux.
-			<br>
-			Si les dicts Le Bé n'eussent pas emporté tous lesz vieux materiaux de l'ancien orgue, ils n'auraient pas consumé tant de temps, tant de dépense et de couste aux dicts religieux, car ilq estoient obligé de faire les vieux matereaux qui pouvoient servir°".
-			<br>
-			(ADY, H 1.222.)
-			<br>
-			° Ces deux mots sont barrés sur l'original : les facteurs se livraient sans doute à un autre jeu de société que les religieux n'ont su définir !
-			<br>
-			°° Il ressort d'après cet acte, que les facteurs Le Bé en prenaient fort à leur aise avec les religieux ; Ils emportèrent tous les matériaux de l'ancien instrument, et furent si bien logés, hébergés à l'abbaye qu'ils ne firent rien pour activer le travail.
-			<br>
-			Par un acte du 9 janvier 1675, Louis Le Bé avait passé en son nom et au nom de son père une transaction avec les religieux de Saint Marien pour l'orgue de N.-D.-de-la-d'Hors. Les facteurs demandaient 400 l. "pour augmentation par eux faites à l'orgue qu'ils ont composé à l'église... dans la tribune qui est sur la grande porte... et qu'ils ont marchandée par contrat le quatre octobre mil six cent soixante et treize." Ils eurent gain de cause...
-		</p>
+		<figure>
+		<figcaption>Prétentions de messieurs les religieux de Saint Marien contre messieurs Edme et Louis Le Bé facteurs d'orgues, demeurant à Troie.</figcaption>
+			<blockquote>
+				Premièrement les dits sieurs religieux demandent et ... sera adjugé par M. les arbitres, la somme de trente et une livres payée en leur acquit a un chartier de Troyes qui a apporté les sommiers, soufflets et autres ouvrages qu'ils estois [sic] tenus de livrer pour leur orgue car tout ouvrier est tenu de mettre son ouvrage en place s'il n'est stipulé au contraire ; or est-il qu'il n'est point stipulé par le marché que nous irons prendre à Troie les dicts ouvrages, doncques les dicts Le Bé en sont tenus, ce qui est à observer, que les dicts sieurs Le Bé ont faict reporter par le mesme chartier les vieux sommiers souflets et fust de l'ancien orgue.
+				<br>
+				Partant ici sera passé......................................................... 31 l. t.
+				<br>
+				Item les dicts sieurs vénérables demandent qu'il leur sera payé les matières suivantes que les dicts sieurs religieux n'estoient obligés de fournir, cod.....les [Illisible], colles fortes fil de fer, de laiton, le cuivre, peaux de mouton, et bois qui ont esté employées au dicts orgues, et achepter par leur ordre.
+				<br>
+				Scavoir pour fils de fer et laton, pris chez Madame Thiriat marchande la somme de six livres onze sols, six deniers suivant sa quictance du 20è décembre dernier, cy 6 l. XI s., 6 d.
+				<br>
+				Item, pour huict livres de colle d'Angleterre à 12 s. la livre 6 l. 16 s.
+				<br>
+				Item pour trente peaux de mouton du prix et somme de treize livres unze sols, cy 13 l., II s.
+				<br>
+				Item, en cuivre pour faire les anches et languettes, 50 s.
+				<br>
+				Item, pour du bois pris chez M. Simon Le Bel menuisier dont les religieux ont respondu suivant son mémoire, seize livres, dix huict sols, cy 16 l., I8 s.
+				<br>
+				Item, pour tous les autres bois employés au dict orgues et pris dans la maison des dicts religieux pour faire l'abrégé, les mouvements, les faux sommiers, sommiers, parfaire le gros bourdon, les dicts Le Bé n'ayant apporté que les quatre maitresses pièces du dit bourdon et les deux gros sommiers, tout le reste ayant esté fourny par les dicts religieux, ce qui sera estimé par un menuisier toutes lesquels materaux [sic] sont à la charge des dicts Le Bé ; ce qui se voit manifestement par la disposition du marché qui n'oblige les religieux qu'à fournir la tribune, le bufet, l'estain, plomb et ferrure nécéssaire, dont toutes autres choses qu'il conviendra pour ladite besongne sont deu estre fournies par les dicts entrpreneurs, comme le dict plus hault le dict marché.
+				<br>
+				lus sera alloué à messieurs les religieux de Saint Marien la nourriture et logement donné aux dicts Le Bé et un aprentif, l'espace de six mois et trois semaines qui contiennent deux cent huict jours depuisd la Pentecoste 1674 jusqu'au 29è de décembre dernier, qui beuvoient six pintes de vin par jour en un temps qu'il valoit quatre et cinq sols la pinte, et quarante sols par jour pour tous les trois. Sera passé... la somme de quatre cent livres, cy 400 l.
+				<br>
+				La raison de cette demande est jeuste par ce que nous n'estions obligés de nourir les dicts ouvriers que jusquez à la Pentecoste de l'année 1674 auquel temps l'orgue devoit estre faict et parfaict comme il est dict dans le marché à peine de tous dépens, dommages et interets lesquels nous laissons au jugement des arbitres de liquider.
+				<br>
+				Quand il est dict à la fin du marché qu'il luy sera fourny sa nourriture et logement, luy troisièsme, pendant qu'ils travailleront aux dictes ouvrages, cela est limité à la Pentecoste de 1674, autrement, il leur auroit esté libre de prolonger l'ouvrage encore cinq ou six ans ou temps qu'ils auroient voulu, ce qui ne se peut, veu qu'il n'est pas dict tant qu'ils travailleront ce qui signifie un temps indéterminé ; mais il est dict pendant qu'ils travailleront, scavoir le temps qui est prefix et limité par le jour de la pentecoste, c'estoit à eux à prendre leur mesures ; car nous avons faict nostre compte la dessus, et s'ils nous eussent dict qu'il estoit necessaire de neuf ou dix mois pour faire le dict orgue nous n'aurions pas donné une somme si considérable, portée par le dit marché ; cela est tout clair sans parler de l'incommodité que nous aovns souffert pendant le dict temps que nous ne pouvions loger nos hostes et religieux et nous avons esté contraint de les envoyer coucher dehors le logis ; mais ce qui a prolongé un si long temps, c'est leur paresse, de se lever à sept heures du matin et couché à huict, c'est de jouer aux cartes<sup>1</sup>, de boire avec leurs amis qui les venoient veoir, enfin c'est d'avoir mal employé le temps, ce qui ne doibt pas estre supporté par les dicts religieux.
+				<br>
+				Si les dicts Le Bé n'eussent pas emporté tous lesz vieux materiaux de l'ancien orgue, ils n'auraient pas consumé tant de temps, tant de dépense et de couste aux dicts religieux, car ilq estoient obligé de faire les vieux matereaux qui pouvoient servir<sup>2</sup>".
+				<br>
+				(ADY, H 1.222.)
+			</blockquote>
+			<cite>
+				<sup>1</sup> Ces deux mots sont barrés sur l'original : les facteurs se livraient sans doute à un autre jeu de société que les religieux n'ont su définir !
+			</cite><br><cite>
+				<sup>2</sup> Il ressort d'après cet acte, que les facteurs Le Bé en prenaient fort à leur aise avec les religieux ; Ils emportèrent tous les matériaux de l'ancien instrument, et furent si bien logés, hébergés à l'abbaye qu'ils ne firent rien pour activer le travail. Par un acte du 9 janvier 1675, Louis Le Bé avait passé en son nom et au nom de son père une transaction avec les religieux de Saint Marien pour l'orgue de N.-D.-de-la-d'Hors. Les facteurs demandaient 400 l. "pour augmentation par eux faites à l'orgue qu'ils ont composé à l'église... dans la tribune qui est sur la grande porte... et qu'ils ont marchandée par contrat le quatre octobre mil six cent soixante et treize." Ils eurent gain de cause...
+			</cite>
+		</figure>
 		<p>
 			Le 9 janvier 1675, Louis Lebé, agissant en son nom et comme mandataire de son père, transigeait avec les Religieux pour 400 livres. Quelques jours auparavant, les augmentations faites par les facteurs avaient été examinées en détail.
 		</p>
-		<p>
-			Détail des dépenses qui ont été faites par les Lebé pour la construction de l'orgue°
-		</p>
-		<p>
-			Premièrement donné à M. Le Bé le 8è novembre 1673, 198 l. t.
-			<br>
-			Item le 7è mars 1674, le sieur Le Bé est arrivé avec un apprentif et payé pour son cheval, 3 l. t.
-			<br>
-			Item, le 9è mars, pour refaire son habit, 7 l. t.
-			<br>
-			Item, le 8è avril, allant visiter l'orgue des Jacobins, 3 l. t.
-			<br>
-			Item, le 23è du dict mois à M. Le Bé le jeune, 77 l. t.
-			<br>
-			Item, pour six aulnes de toiles, 3l., I2 s., 9 d. de clou, en tout 4 l., I s.
-			<br>
-			Le premier jour de may payé pour le chartier qui apporté les souflets et sommiers et autres ouvrages, 31 l. t.
-			<br>
-			Le 2è may pour une peau de mouton pour faire un tablier au père Le Bé, II s.
-			<br>
-			Le 8è may pour une douzaine de peaux de moutons de cent du sols, et une autre de IIs. en tout 6 l., I s.
-			<br>
-			Le 10è pour une épinette que M. Le Bé le père a achepté de Me. Heuverard, chantre de Saint Estienne, 21 l. t.
-			<br>
-			Le 17 may pour deux livres de colle, 24 s.
-			<br>
-			Le 28è may baillé à m. Le Bé père cent sols, 5 l. t.
-			<br>
-			Item par ordre du dict Le Bé à la blanchisseuse 22 s., 5 d.
-			<br>
-			Le 7 juin, deux livres de colle 24 s.
-			<br>
-			Le 17 juin, donné au sieur Le Bé le jeune, pour reconduire sa femme à Troyes 22 l. t.
-			<br>
-			Le 18è pour cinq aulnes de leton 5 s., et cy devant pour du papîeer, cinq sols, cy I0 s.
-			<br>
-			Le 23è pour douze peaux de mouton, 5 l. t., I0 s.
-			<br>
-			Le 25è donné au sieur Le Bé jeune, 4l. 3 s.
-			<br>
-			et à la blanchisseuse en tout pour son ordre, I7 s., en tout 5 l.
-			<br>
-			Item au père Le Bé le mesme jour 40 s.
-			<br>
-			Le 6 juillet donné par le p[ère] Nicolas au sieur Le Bé jeune, 40 s.
-			<br>
-			Le 7è juillet donné au sieur Le Bé l'aisné pour faire son voyage à Troyes, II l. t.
-			<br>
-			Item payé par le sieur Nicolas tant en colle, poix, eaisine, blanc d'espagne, fil de leton et papier, 35 s.
-			<br>
-			Le 9 juillet donné au sieur Le Bé jeune, pour son voyage à Troies, 22 l., I0 s.
-			<br>
-			Item le mesme jour donné a Carré pas ordre pour un fusil qu'il a emporté à Troyes, 5 l. t.
-			<br>
-			Le mercredi 24 Juillet 1675, M. Le Bé est arrivé avec un apprentif.
-			<br>
-			Le 26 juillet pour une livre et trois quarteron de fil de fer, I7 s
-			<br>
-			Le 27è , pour une livre de colle, I2 s.
-			<br>
-			Le Dimanche 28è Juillet, baillé au jeune Le Bé par le père sousprieur, 30 s.
-			<br>
-			Item, le 5 Aoust pour trois quarterons de laitton, I5 s.
-			<br>
-			Item, pour un quarteron de fil de fer 3 s., 6 d.
-			<br>
-			Le I2è donné au jeune Le Bé pour deux bouteilles de vin, 8 s.
-			<br>
-			Le 14 I/2, pour deux peaux de mouton, 20 s.
-			<br>
-			Le 19è baillé à M. Le Bé jeune pour son voyage de Pontigny, la somme de 30 s.
-			<br>
-			Le 20è baillé à la blanchisseuse par leur ordre, 30 s.
-			<br>
-			Le vendredi 23è Aoust, le père Le Bé est arrivé icy.
-			<br>
-			Le 28è Aoust deux livres de colles pour les sommiers, 24 s.
-			<br>
-			Le jeudi 29è donné au père Le Bé pour aller à la maitrise, 30 s.
-			<br>
-			Le mesme jour pour une peau de mouton, 9 s.
-			<br>
-			Le Ier de septembre, baillé au jeune Le Bé pour son voyage de Trois, la somme de 24 l. t.
-			<br>
-			Le 7 Septembre, baillé au père Le Bé 30 s.
-			<br>
-			... Le 4è Octobre, item donné à la blanchisseuse tant pour linge blanchi que pour avoir raccommodé, des chauses de l'apprentif à Pierot son valet, I8 s.
-			<br>
+		<figure>
+		<figcaption>Détail des dépenses qui ont été faites par les Lebé pour la construction de l'orgue<sup>1</sup></figcaption>
+			<blockquote>
+				Premièrement donné à M. Le Bé le 8è novembre 1673, 198 l. t.
+				<br>
+				Item le 7è mars 1674, le sieur Le Bé est arrivé avec un apprentif et payé pour son cheval, 3 l. t.
+				<br>
+				Item, le 9è mars, pour refaire son habit, 7 l. t.
+				<br>
+				Item, le 8è avril, allant visiter l'orgue des Jacobins, 3 l. t.
+				<br>
+				Item, le 23è du dict mois à M. Le Bé le jeune, 77 l. t.
+				<br>
+				Item, pour six aulnes de toiles, 3l., I2 s., 9 d. de clou, en tout 4 l., I s.
+				<br>
+				Le premier jour de may payé pour le chartier qui apporté les souflets et sommiers et autres ouvrages, 31 l. t.
+				<br>
+				Le 2è may pour une peau de mouton pour faire un tablier au père Le Bé, II s.
+				<br>
+				Le 8è may pour une douzaine de peaux de moutons de cent du sols, et une autre de IIs. en tout 6 l., I s.
+				<br>
+				Le 10è pour une épinette que M. Le Bé le père a achepté de Me. Heuverard, chantre de Saint Estienne, 21 l. t.
+				<br>
+				Le 17 may pour deux livres de colle, 24 s.
+				<br>
+				Le 28è may baillé à m. Le Bé père cent sols, 5 l. t.
+				<br>
+				Item par ordre du dict Le Bé à la blanchisseuse 22 s., 5 d.
+				<br>
+				Le 7 juin, deux livres de colle 24 s.
+				<br>
+				Le 17 juin, donné au sieur Le Bé le jeune, pour reconduire sa femme à Troyes 22 l. t.
+				<br>
+				Le 18è pour cinq aulnes de leton 5 s., et cy devant pour du papîeer, cinq sols, cy I0 s.
+				<br>
+				Le 23è pour douze peaux de mouton, 5 l. t., I0 s.
+				<br>
+				Le 25è donné au sieur Le Bé jeune, 4l. 3 s.
+				<br>
+				et à la blanchisseuse en tout pour son ordre, I7 s., en tout 5 l.
+				<br>
+				Item au père Le Bé le mesme jour 40 s.
+				<br>
+				Le 6 juillet donné par le p[ère] Nicolas au sieur Le Bé jeune, 40 s.
+				<br>
+				Le 7è juillet donné au sieur Le Bé l'aisné pour faire son voyage à Troyes, II l. t.
+				<br>
+				Item payé par le sieur Nicolas tant en colle, poix, eaisine, blanc d'espagne, fil de leton et papier, 35 s.
+				<br>
+				Le 9 juillet donné au sieur Le Bé jeune, pour son voyage à Troies, 22 l., I0 s.
+				<br>
+				Item le mesme jour donné a Carré pas ordre pour un fusil qu'il a emporté à Troyes, 5 l. t.
+				<br>
+				Le mercredi 24 Juillet 1675, M. Le Bé est arrivé avec un apprentif.
+				<br>
+				Le 26 juillet pour une livre et trois quarteron de fil de fer, I7 s
+				<br>
+				Le 27è, pour une livre de colle, I2 s.
+				<br>
+				Le Dimanche 28è Juillet, baillé au jeune Le Bé par le père sousprieur, 30 s.
+				<br>
+				Item, le 5 Aoust pour trois quarterons de laitton, I5 s.
+				<br>
+				Item, pour un quarteron de fil de fer 3 s., 6 d.
+				<br>
+				Le I2è donné au jeune Le Bé pour deux bouteilles de vin, 8 s.
+				<br>
+				Le 14 I/2, pour deux peaux de mouton, 20 s.
+				<br>
+				Le 19è baillé à M. Le Bé jeune pour son voyage de Pontigny, la somme de 30 s.
+				<br>
+				Le 20è baillé à la blanchisseuse par leur ordre, 30 s.
+				<br>
+				Le vendredi 23è Aoust, le père Le Bé est arrivé icy.
+				<br>
+				Le 28è Aoust deux livres de colles pour les sommiers, 24 s.
+				<br>
+				Le jeudi 29è donné au père Le Bé pour aller à la maitrise, 30 s.
+				<br>
+				Le mesme jour pour une peau de mouton, 9 s.
+				<br>
+				Le Ier de septembre, baillé au jeune Le Bé pour son voyage de Trois, la somme de 24 l. t.
+				<br>
+				Le 7 Septembre, baillé au père Le Bé 30 s.
+				<br>
+				... Le 4è Octobre, item donné à la blanchisseuse tant pour linge blanchi que pour avoir raccommodé, des chauses de l'apprentif à Pierot son valet, I8 s.
+				<br>
 			. . . . . . . . . . . . . . . . . . . . .
-			<br><br>
-			Dépense de l'orgue
-			<br>
-			Le vingtroisième d'Octobre donné pour du cloud cinq sols, 5 s.
-			<br>
-			Le 26è donné au jeune Le Bé pour son voyage de Troyes, 27 l., I0 s.
-			<br>
-			... Le 8è Novembre pour trois livres de laiton ou chauderon pour faire les hanches (sic) 38 s.
-			<br>
-			... Le 21è pour deux peaux de mouton pour les sommiers des pédalles, I8 s.
-			<br>
-			Le 22è pour une livre et demi de fil de fer, 20 s.
-			<br>
-			... Le 26è donné pour chauderon à faire languettes, I2 s.
-			<br>
-			... Le mardy 3è Décembre, pour une livre de fil de fer, I4 s.
-			<br>
-			... L'onzièsme pour du laton pour soustenir les pédalles de trompette, I0 s.
-			<br><br>
-			Les articles cy dessus, y compris les quarante livres baillés cy aujourd'huy à M. Le Bé le père onty arrestés à la somme de quatre cens quatre vingt dix huict livres, dix huict sols, non compris les trente et une livres de port et chariage des souflets ny les douze sols cy dessus.
-			<br>
-			Fait le vingt huictièsme jour de Décembre 1675.
-			<br><br>
-			(D'une autre écriture : celle de Le Bé) :
-			<br>
-			J'ay soubsigné comffesse avoir receu les somme si dessus porté par les article qui se sont trouvé monté à la somme de quatre vingt dix huict livres dix huict sols, temps des quitansse que de mon père que de moy donné si devant et tous les quitance sont nul. Faict et sept Janvier 1676.
-			<br>
-			Louis LEBE
-			<br><br>
-			Estoffes fournies pour l'orgue
-			<br><br>
-			Le 12è Mars 1674 a esté achepté 42 livres d'estain et six vingt livres d'estain le 16è Mars pour la somme de 8I l. t.
-			<br>
-			Item, le 2è May, quarante huict livres et demie, 24 l., 5 s.
-			<br>
-			Le 18è, I28 livres d'estain, le 21è seize livres et demye, le 3è Juin trois livres et un quarteron, et le 9 Juillet 4 livres et demy d'estain ; en tout cet article cent cinquante deux livres et un quarteron qui valent la somme de 74 l. 2 s. 5d.
-			<br>
-			Le 27è Juin payé par le père sousprieur à Germain Carré le nombre de cent dix sept livres et demye de fer à 35 s. la livre qui valent I7 l. 2 s.
-			<br>
-			... Item à M. Simon Le Bel menuisier de compte fait avec le p[ère] Grimel il a receu sur le bufet et tribune de l'orgue... 50I l., I4 
-			<br>
-			Item, pour les 5 tuyau de pédalles, 22 l. t.
-			<br>
-			(ADY, H.1.222.)
-			<br>
-			° Il existe dans la liasse H 1222 trois exemplaires de ce compte ; ces exemplaires sont à très peu de choses près semblables.Il est donné ici le plus complet en mettant en italique les passages tirés des deux autres et qui n'existent pas dans le premier.
-		</p>
-		<p>
-			Détail des augmentations faites par les facteurs sur le devis de 1673.
-			<br>
-			1675. 31 décembre ... plusieurs augmentations considérables au dit orgues par l'ordre des dits sieur prieur et religieux, scavoir à la montre deux plates faces qui sont tout en hault faites à neuf, plus une double tierce faict à neuf, plus deux sommiers de cornet faicts à neuf, le dit cornet ne commencoit qu'à f ut fa, et commence présentement à la fainte de C sol ut fa qui sont quatre touches d'augmentations, composé de cinq thuiaux, plus faict quantité de thuiaux tous neufs, aux jeux à la dite orgue, là où il n'estoit obligé que d'en faire deux en bas ; plus fait un plein jeux tout neuf composé de sept thuiaux sur marche° ; plus fait la trompette tout à neuf ; plus fait la place à la double tierce garnie de son registre et chappe et la coupper comme aussi le nazard et la petite tierce pour jouer le parement la basse, et le dessus comme formé de deux claviers ; plus fait deux sommiers de pédalles à neuf composés de neuf marches sur chacun et trois registres de tirants, plus un marche pieds de pédalle fait à neuf composé de dix huict touches de pédalles d'anches tant marche que faincte, plus six thuiaux de pédalles d'anches qui sont les plus gros, plus deux faux sommiers de pédalle d'anche à neuf, plus un tremblant à vent perdu tout à neuf ; plus fait tous les mouvements des jeux couppés, là où il ne falloit qu'un mouvement, il y en a deux présentement...
-			<br>
-			° Il doit s'agir ici de deux registres de fourniture (4 rangs) et de cymbale (3 rangs).
-			<br>
-			(ADY, H.1.222.)
-		</p>
+				<br><br>
+				Dépense de l'orgue
+				<br>
+				Le vingtroisième d'Octobre donné pour du cloud cinq sols, 5 s.
+				<br>
+				Le 26è donné au jeune Le Bé pour son voyage de Troyes, 27 l., I0 s.
+				<br>
+				... Le 8è Novembre pour trois livres de laiton ou chauderon pour faire les hanches (sic) 38 s.
+				<br>
+				... Le 21è pour deux peaux de mouton pour les sommiers des pédalles, I8 s.
+				<br>
+				Le 22è pour une livre et demi de fil de fer, 20 s.
+				<br>
+				... Le 26è donné pour chauderon à faire languettes, I2 s.
+				<br>
+				... Le mardy 3è Décembre, pour une livre de fil de fer, I4 s.
+				<br>
+				... L'onzièsme pour du laton pour soustenir les pédalles de trompette, I0 s.
+				<br><br>
+				Les articles cy dessus, y compris les quarante livres baillés cy aujourd'huy à M. Le Bé le père onty arrestés à la somme de quatre cens quatre vingt dix huict livres, dix huict sols, non compris les trente et une livres de port et chariage des souflets ny les douze sols cy dessus.
+				<br>
+				Fait le vingt huictièsme jour de Décembre 1675.
+				<br><br>
+				(D'une autre écriture : celle de Le Bé) :
+				<br>
+				J'ay soubsigné comffesse avoir receu les somme si dessus porté par les article qui se sont trouvé monté à la somme de quatre vingt dix huict livres dix huict sols, temps des quitansse que de mon père que de moy donné si devant et tous les quitance sont nul. Faict et sept Janvier 1676.
+				<br>
+				Louis LEBE
+				<br><br>
+				Estoffes fournies pour l'orgue
+				<br><br>
+				Le 12è Mars 1674 a esté achepté 42 livres d'estain et six vingt livres d'estain le 16è Mars pour la somme de 8I l. t.
+				<br>
+				Item, le 2è May, quarante huict livres et demie, 24 l., 5 s.
+				<br>
+				Le 18è, I28 livres d'estain, le 21è seize livres et demye, le 3è Juin trois livres et un quarteron, et le 9 Juillet 4 livres et demy d'estain ; en tout cet article cent cinquante deux livres et un quarteron qui valent la somme de 74 l. 2 s. 5d.
+				<br>
+				Le 27è Juin payé par le père sousprieur à Germain Carré le nombre de cent dix sept livres et demye de fer à 35 s. la livre qui valent I7 l. 2 s.
+				<br>
+				... Item à M. Simon Le Bel menuisier de compte fait avec le p[ère] Grimel il a receu sur le bufet et tribune de l'orgue... 50I l., I4 
+				<br>
+				Item, pour les 5 tuyau de pédalles, 22 l. t.
+				<br>
+				(ADY, H.1.222.)
+			</blockquote>
+			<cite>
+				<sup>1</sup> Il existe dans la liasse H 1222 trois exemplaires de ce compte ; ces exemplaires sont à très peu de choses près semblables.Il est donné ici le plus complet en mettant en italique les passages tirés des deux autres et qui n'existent pas dans le premier.
+			</cite>
+		</figure>
+		<p></p>
+		<figure>
+			<figcaption>Détail des augmentations faites par les facteurs sur le devis de 1673.</figcaption>
+			<blockquote>
+				1675. 31 décembre ... plusieurs augmentations considérables au dit orgues par l'ordre des dits sieur prieur et religieux, scavoir à la montre deux plates faces qui sont tout en hault faites à neuf, plus une double tierce faict à neuf, plus deux sommiers de cornet faicts à neuf, le dit cornet ne commencoit qu'à f ut fa, et commence présentement à la fainte de C sol ut fa qui sont quatre touches d'augmentations, composé de cinq thuiaux, plus faict quantité de thuiaux tous neufs, aux jeux à la dite orgue, là où il n'estoit obligé que d'en faire deux en bas ; plus fait un plein jeux tout neuf composé de sept thuiaux sur marche<sup>1</sup> ; plus fait la trompette tout à neuf ; plus fait la place à la double tierce garnie de son registre et chappe et la coupper comme aussi le nazard et la petite tierce pour jouer le parement la basse, et le dessus comme formé de deux claviers ; plus fait deux sommiers de pédalles à neuf composés de neuf marches sur chacun et trois registres de tirants, plus un marche pieds de pédalle fait à neuf composé de dix huict touches de pédalles d'anches tant marche que faincte, plus six thuiaux de pédalles d'anches qui sont les plus gros, plus deux faux sommiers de pédalle d'anche à neuf, plus un tremblant à vent perdu tout à neuf ; plus fait tous les mouvements des jeux couppés, là où il ne falloit qu'un mouvement, il y en a deux présentement...
+			</blockquote>
+			<cite>
+				<sup>1</sup> Il doit s'agir ici de deux registres de fourniture (4 rangs) et de cymbale (3 rangs).
+				<br>
+				(ADY, H.1.222.)
+			</cite>
+		</figure>
 		<p>
 			Le 10 janvier 1676, le facteur Claude Esclavy, d'Appoigny, examine l'orgue et dresse procès-verbal de sa vérification. Il trouve à l'instrument des Lebé de nombreuses imperfections.
 		</p>

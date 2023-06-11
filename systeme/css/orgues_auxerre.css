@@ -195,12 +195,12 @@ a:hover, a:active{
 #orgue_virtuel h1{
     text-align: center;
 }
-#table_instru1, #table_instru2{
+#table_instru1, #table_instru2, #table_instru3, #table_instru4{
     position: relative;
     width: 60%;
-    margin: 3% 29%;
+    margin: 3% auto;
 }
-#table_instru1 caption, #table_instru2 caption{
+#table_instru1 caption, #table_instru2 caption, #table_instru3 caption, #table_instru4 caption{
     position: relative;
     display: block;
     left: 74%;
@@ -211,6 +211,12 @@ a:hover, a:active{
 }
 #table_instru2 caption {
     left: 80%;
+}
+#table_instru3 caption {
+    left: 20%;
+}
+#table_instru4 caption {
+    left: -16%;
 }
 blockquote {
     text-align: justify;
