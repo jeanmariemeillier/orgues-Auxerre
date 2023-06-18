@@ -2,6 +2,8 @@
 <h1 class="cnt">Les Frères Prêcheurs</h1>
 <p>
 	Le couvent des Frères Prêcheurs, ou Jacobins, ou Dominicains, abrite aujourd'hui les locaux de la Trésorerie générale. Les bâtiments sont tout à fait modernisés.
+	<br>
+	Quantin, Histoire anecdotique des rues d'Auxerre.
 </p>
 <figure class="image_cnt">
 	<img src="images/precheurs.jpg" border="0" alt="Les Jacobins modernisés">
@@ -65,6 +67,17 @@ Composition de 1633
 	Le 22 mai 1634, plusieurs religieux du couvent reconnaissent que Lebé a satisfait au marché, qu'il a fait et parfait les orgues ; ils en sont satisfaits, et donnent décharge au facteur. A cette réception assistaient, outre Lebé, l'organiste de la Cathédrale d'Auxerre, Estienne Lejeune, le maître des enfants de choeur et plusieurs chanoines.
 </p>
 <figure>
+	<figcaption>Reconnaissance de l'orgue et décharge au facteur (1634).</figcaption>
+	<blockquote>
+		Le vingt deuxiesme mai mil six cens trente quattre... (comparaissent divers religieux du couvent)... lesquelz ont recogneü que maistre Jacque Lebé, facteur d'orgues demeurant à Troies, a satisfait au marché cy-devant escript et suivant iceluy faict et parfaict les orgues mentionnées audict contrat, desquelles les dictz religieux et Lebé icelles fait contentent et en deschargent ledict Lebé, ayant lesdictz religieux et Lebé icelles fait veoir par venerable et discrette personne, Maistre Germain Henry, chanoine d'Auxerre, et Maistre Estienne Soufflot, chanoine semy-prébendé et Germain Rimbault, aussy semy-prébendé, et sans préjudice de ce qui reste du paiement, car ainsy promettant...
+		<br>
+		(A. dép. Yonne, H 1.392.)
+	</blockquote>
+</figure>
+<p>
+	Mais cette réception n'était pas du goût de tout le monde à en juger par les difficultés qui devaient s'élever entre le facteur et les Religieux. en effet, ces derniers, prétendant que l'orgue révèle des malfaçons que certains "jeux défaillent et plusieurs des autres sont imparfaits", font annuler la réception faite par leurs collègues, qui ont agi, disent-ils, sans mandat.
+</p>
+<figure>
 	<figcaption>Annulation de la réception<sup>1</sup> (1635).</figcaption>
 	<blockquote> 
 	Louis par la grâce de Dieu roy..... lieutenant, salut. De la partye de nos biens am [ez]..... prescheurs de nostre ville d'Auxerre nous a esté..... deslibéré dans leur Chapitre et entrepris de faire..... douze jeux et plus, et a ceste fin, faict marché avec..... donné un estat de ce qu'il y convenoit faire, se seroit..... ladicte esglise et bien accordante en tous les..... dix huict cens livres tournois dont la plus grande..... marché et contract auroit pratiqué quelques religieux..... qui se sont entendus au faict et fabriquation d'orgue..... desdictz religieux auroient rapporté auxdict particuliers..... auroient recogneü iceluy Lebé avoir satisfaict audit m[arché]..... jeux défaillent et plusieurs des autres soient imparfaits..... exposans qui ont notable intherest a l'enthiere exe[cution]..... orgues pour recognoistre enthierement le default et m..... contract et charges dudit Lebé, mais craignant..... donnés par lesdicts particuliers religieux sans le p..... et en tant que besoing seroit, obtenir nos lettres..... sujectz selon l'exigence du cas, vous mandons..... a esté passé au procureur pour elles et lesqu..... ou serrgent sur ce requis qu'à ce faire comme tous..... donné avec les formes convenables et délibérati..... que ceux qui ont veü icelles lors d'icelles descha[rges]..... esté nommés ou accordés par le Chappitre ou en..... dudit marché, ains manques et de deffectueuse et par..... restitution ou de tant que suffire doibve vous en..... et facteurs d'orgues et à prendre telles conclusio[ns]..... laquelle, comme nulle nous avons cassée, et..... les partyes en tel estat qu'elles estoyent aupar[avant]..... justice. Car tel est nostre plaisir. Donné à..... et de nostre regne le vingt-cinquièsme.<br>
@@ -121,8 +134,24 @@ Composition de 1633
 	<cite>Ici devra être inséré un document ADY H.1392, précisant que l'orgue prêté avait été placé sur le jubé.</cite>
 
 <p>
-		Ce procès dura la bagatelle de... 16 ans. Nous savions par expérience que ce genre d'exercice était souvent une course de grand fond, mais avec celui-ci, nous atteignons les limites de l'invraisemblable, si l'on tient compte du fait que la difficulté ne roulait que sur une somme relativement peu élevée. Et quand vint la fin de cette affaire interminable, ce ne fut pas, bien entendu, Lebé père qui signa la transaction - car il était mort depuis longtemps - ce ne fut pas non plus son fils Edme, qui avait engagé la seconde instance, mais ce fut son autre fils Jehan. La transaction ne dit mot de la restitution du petit orgue, mais elle met fin au procès par l'accord des Religieux de payer à Jehan Lebé la somme de 400 livres. Il faut supposer ou bien que cette somme représentait la valeur du petit orgue de Lebé père, ou bien que cet instrument avait enfin été restitué et que ces 400 livres étaient la somme restant due à Lebé pour la construction du grand orgue, [La transaction porte la date du 23 octobre 1651 ; l'acte est passé à Troyes, par le procureur des Frères Prêcheurs, et l'approbation de ces derniers est en date à Auxerre, du 7 novembre 1651.] et pour de légitimes dommages et intérêts.
+		Ce procès dura la bagatelle de... 16 ans. Nous savions par expérience que ce genre d'exercice était souvent une course de grand fond, mais avec celui-ci, nous atteignons les limites de l'invraisemblable, si l'on tient compte du fait que la difficulté ne roulait que sur une somme relativement peu élevée. Et quand vint la fin de cette affaire interminable, ce ne fut pas, bien entendu, Lebé père qui signa la transaction - car il était mort depuis longtemps - ce ne fut pas non plus son fils Edme, qui avait engagé la seconde instance, mais ce fut son autre fils Jehan. La transaction ne dit mot de la restitution du petit orgue, mais elle met fin au procès par l'accord des Religieux de payer à Jehan Lebé la somme de 400 livres. Il faut supposer ou bien que cette somme représentait la valeur du petit orgue de Lebé père, ou bien que cet instrument avait enfin été restitué et que ces 400 livres étaient la somme restant due à Lebé pour la construction du grand orgue, 
+		<br>
+		A. dép. Yonne H 1392
+		<br>
+		[La transaction porte la date du 23 octobre 1651 ; l'acte est passé à Troyes, par le procureur des Frères Prêcheurs, et l'approbation de ces derniers est en date à Auxerre, du 7 novembre 1651.] et pour de légitimes dommages et intérêts.
 </p>
+<figure>
+	<figcaption>LES LE BE ou LEBE.</figcaption>
+	<blockquote>
+		Le premier du nom, Jacques Le Bé facteur d'orgues, était né à Troyes, sans doute à la fin de XVI<sup>è</sup> siècle. C'est lui qui, associé au facteur Jean d'Herville, réparait, en 1624, l'orgue de la Sainte-Chapelle de Dijon. Jacques était, en même temps que facteur, organiste (Saint-Jean-du-Marché, à Troyes, 1611-1614). En 1627, il traite "avec le Chapitre de Saint-Etienne de Besançon pour l'orgue, remet à neuf en 1631 un instrument à Saint-Lazare d'Avallon".
+		<br>
+		Le second, fils de Jacques, s'appelait Edme ou Esme. On a vu plus haut qu'il fut l'associé de Oudart Salomon. Il était également organiste, comme son père (Saint-Nicolas de Troyes, en 1643, et Saint-Rémy, en 1647).
+		<br>
+		Edme eut six enfants connus : trois filles et trois fils , dont deux, Louis et Adrien, devinrent facteurs d'orgues. Louis, surtout, acquit une juste célébrité. Il travailla avec son père, notamment à Auxerre, à Notre-Dame-la-d'Hors, et avec son neveu Nicolas, à la réfection de l'orgue de Saint-Pierre de Tonnerre.
+		<br>
+		On remarquera que le titre de ce chapitre porte les orthographes Le Bé et Lebé. On trouve les deux. en effet, dans les documents consultés ; il semble toutefois que, depuis Edme, l'habitude ait été prise d'orthographier Lebé en un seul mot. 
+	</blockquote>
+</figure>
 <p>
 	Aparté :<br>
 	<span class="txt_rouge">Le pédalier</span><br>
@@ -136,17 +165,30 @@ Composition de 1633
 		Nous voici descendus dans la plaine qui commence au pied du vieil Auxerre, et qui s'étend du côté sud.<br>
 		La rue Valentin tire son nom d'une croix dédiée à saint Valentin qui y existait autrefois (abbaye Saint-Julien, an 1703) et que l'on voit sur le plan d'Auxerre de Belleforest. Au bas de la rue de la Monnaie existait, dès le XVIè siècle, au n° 33, le grand hôtel de la Madelaine voisin de la cour des Jacobins. On y remarquait encore, il y a peu d'années, une grande porte de style renaissance.<br>
 		Le couvent des Pères Dominicains ou Jacobins avait sa principale entrée dans cette rue qu'on appela aussi la rue des Jacobins. C'est aujourd'hui la maison occupée par la Trésorerie générale. Son heureuse disposition, ses vastes jardins en font une résidence sans pareille dans la ville. Les religieux, voulant jouir de la vue de la campagne sans sortir de leur couvent, avaient fait élever à une des extrémités du clos, du côté des murs de la ville, un monticule d'une certaine grandeur qui existe encore entouré d'arbres et de broussailles.<br>
-		Les Jacobins furent appelés à Auxerre, dès l'an 1241, par Amicie, comtesse de Joigny et son fils Gaucher, qui obtinrent par échange du Chapitre Saint-Etienne la place où ils s'établirent.<br>
+		Les Jacobins furent appelés à Auxerre, dès l'an 1241, par Amicie, comtesse de Joigny et son fils Gaucher, qui obtinrent par échange du Chapitre Saint-Etienne la place où ils s'établirent.<sup>1</sup><br>
 		Lebeuf fait remarquer que, comme les Cordeliers, ils occupaient beaucoup de terrain dans la ville, mais qu'ils y rendirent des services considérables. En effet, le couvent des Jacobins était célèbre. Il en sortit au XVIè siècle plusieurs prélats, tels que Guillaume de Valan, évêque d'Evreux et Maurice de Coulanges-les-Vineuses, évêque de Nevers, etc.<br>
 		Les Jacobins avaient reçu de Saint Dominique un habit que la Vierge elle-même avait, dit-on, montré au B. Renaud d'Orléans. Il consistait en une robe blanche avec un scapulaire de même couleur auquel était attaché le chaperon. Ils prirent aussi la chape et le chaperon noir se terminant en pointe comme celui des Chartreux.<br>
 		Mahaut II, comtesse d'Auxerre, favorisa le couvent des Jacobins en lui attribuant la direction d'un petit collège dit des Bons-Enfants, pour la fondation duquel elle leur fit don du cimetière des Juifs en 1253.<br>
-		Ils assistaient chaque année, au XVè siècle, à une touchante cérémonie. Le jour des Morts, les fidèles faisaient à leur église paroissiale les offrandes d'un grand pain pour les pauvres. Les six curés de la ville proprement dite portaient ces pains à l'hôpital de la Madelaine, en la chapelle saint Michel, où le prieur de Saint-Amatre le bénissait. De leur côté, les administrateurs achetaient 70, 80 et même 100 bichets de blé qu'ils faisaient convertir en pain destiné "aux pauvres gens indigents afin qu'ils prient Dieu pour ceux qui ont fondé lesdites Charités." On portait ensuite toute cette provision dans une cuve devant la porte des Jacobins où la distribution s'en faisait aux pauvres.<br>
+		Ils assistaient chaque année, au XVè siècle, à une touchante cérémonie. Le jour des Morts, les fidèles faisaient à leur église paroissiale les offrandes d'un grand pain pour les pauvres. Les six curés de la ville proprement dite portaient ces pains à l'hôpital de la Madelaine, en la chapelle saint Michel, où le prieur de Saint-Amatre le bénissait. De leur côté, les administrateurs achetaient 70, 80 et même 100 bichets de blé qu'ils faisaient convertir en pain destiné "aux pauvres gens indigents afin qu'ils prient Dieu pour ceux qui ont fondé lesdites Charités.<sup>2</sup>" On portait ensuite toute cette provision dans une cuve devant la porte des Jacobins où la distribution s'en faisait aux pauvres.<br>
 		Les curés recevaient 7 sous pour les peines d'avoir apporté le pain de leurs paroisses, et les administrateurs dinaient ensuite ensemble, comme c'était l'usage, pour se dédommager de leurs soins.<br>
-		L'entrée du couvent des Jacobins donne bien sur la rue, mais il faut traverser une longue avenue d'acacias pour arriver aux bâtiments ; il n'y a rien à dire de leur état actuel parce qu'ils sont tout à fait modernisés. L'église, qui est réduite à l'état de magasin, datait du XIVè siècle. Elle avait 108 pieds de longueur dans oeuvre, sur 32 pieds 6 pouces de largeur, et 36 pieds environ de hauteur, l'entablement compris. Elle était construite en partie en moëllons. Lors de la prise d'Auxerre en 1567, les Huguenots voulaient brûler ou au moins découvrir cette église. Elle fut rachetée par une pieuse dame du voisinnage nommée Jeanne Leroy. Mais ils firent main basse sur l'argenterie du couvent qu'un religieux menacé de mort leur fit découvrir. Il y avait dans cette église plusieurs confréries. En 1581, Nicolas Use, peintre à Auxerre, décora les murailles de la chapelle de sainte Barbe en y représentant de nombreux sujets de l'histoire de saint Ursin et d'autres pieuses légendes.<br>
+		L'entrée du couvent des Jacobins donne bien sur la rue, mais il faut traverser une longue avenue d'acacias pour arriver aux bâtiments ; il n'y a rien à dire de leur état actuel parce qu'ils sont tout à fait modernisés. L'église, qui est réduite à l'état de magasin<sup>3</sup>, datait du XIVè siècle. Elle avait 108 pieds de longueur dans oeuvre, sur 32 pieds 6 pouces de largeur, et 36 pieds environ de hauteur, l'entablement compris. Elle était construite en partie en moëllons. Lors de la prise d'Auxerre en 1567, les Huguenots voulaient brûler ou au moins découvrir cette église. Elle fut rachetée par une pieuse dame du voisinnage nommée Jeanne Leroy. Mais ils firent main basse sur l'argenterie du couvent qu'un religieux menacé de mort leur fit découvrir. Il y avait dans cette église plusieurs confréries. En 1581, Nicolas Use, peintre à Auxerre, décora les murailles de la chapelle de sainte Barbe en y représentant de nombreux sujets de l'histoire de saint Ursin et d'autres pieuses légendes.<br>
 		Les Jacobins étaient spécialement les propagateurs de la confrérie du Rosaire. Celle d'Auxerre était nombreuse au XVIIè et au XVIIIè siècle.<br>
 		Ils fournirent, dans les premières guerres de religion, un prédicateur célèbre, le P. Divolé, qui, nouveau Jérémie, signalait hardiment les tendances des principaux officiers à livrer la ville aux Huguenots, et prédisait les malheurs et la ruine qui menaçaient les églises. Aussi, lorsque les Huguenots se furent emparés de la ville, ils firent cruellement souffrir le vieux moine, le dépouillèrent de ses vêtements et le promenèrent ainsi dans les rues et le menacèrent de mort. Son âge le fit échapper à ce dernier péril.<br>
 	</blockquote>
 </figure>
+<p>
+	Quantin. Histoire anecdotique des rues d'Auxerre. Editions de Civry. Avallon, 1979
+</p>
+<cite>
+	<sup>1</sup> Archives de l'Yonne, Fonds des Jacobins.
+	</cite><br>
+<cite>
+	<sup>2</sup> Compte de l'Hôtel-Dieu de 1474.
+</cite><br>
+<cite>
+	<sup>3</sup> Archives de l'Yonne, Jacobins.
+</cite>
+
 <p></p>
 <p></p>
 </section>

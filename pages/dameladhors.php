@@ -1,5 +1,6 @@
 <section id="page_cnt">
-<h1 class="cnt">Notre-Dame la d'Hors</h1>
+<h1 class="cnt">Notre-Dame la d'Hors<br>
+(St Marien)</h1>
 	<p>
 		Liminaire.
 	</p>
@@ -334,100 +335,124 @@
 		<p>
 			Le 10 janvier 1676, le facteur Claude Esclavy, d'Appoigny, examine l'orgue et dresse procès-verbal de sa vérification. Il trouve à l'instrument des Lebé de nombreuses imperfections.
 		</p>
-		<p>
-			Procès-verbal de la vérification de l'orgue par Claude Esclavy, facteur d'orgues°
-			<br>
-			1676. I0 janvier Sur le requis de messieurs les V. Religieux du couvent de Nostre Dame la Dhors, je, Claude Esclavy, organaire csic) demeurant à Appongny, soussigné, certifie avoir veu l'orgue qui est dazns l'église parroichiale N. D. la d'hors, faicte par le sieur Lebé, accompagné du dit Le Bé, lequel orgue après avoir veu le dit ouvrage, faict à neuf s'est trouvé :
-			<br>
-			Les soufflets ne sont garnis ; les portevents sont de sappins e granis de papier et doibvent estre de bois de chesne et garny de vellin.
-			<br>
-			Les ressorts trop affoiblis qui cause que les touches ne se peuvent relever assez vitte.
-			<br>
-			L'abrégé, le fond de l'abrégé est de bois de sappin e doit estre de bois de chesne.
-			<br>
-			Les sommiers ne sont garnis dans les litteaux.
-			<br>
-			La monstre, le C D F ne parlent pas e octavient, à cause que la dite monstre est de trop petite taille, et 7 tuiaux dans le milieu qui sont inégaux.
-			<br>
-			Bourdon de 8 pieds bouchés ; le bourdon est de trop petite taille e n'a point d'effect ; duquel le C D E F d'em bas ne parlent pas e le surplus de la première octave n'a pas la netteté d'armonie.
-			<br>
-			Bourdon de 4 pieds est faible à cause de la taille.
-			<br>
-			Prestant, doublette.
-			<br>
-			Fourniture et cimballe de 7 tuyaux n'a pas effect de 7 tuyaux.
-			<br>
-			Goce tierce, elle est inégale e faut adoucir l'accord.
-			<br>
-			Larigot, donner de la force aux basses.
-			<br>
-			Cornet, n'est pas de tailles ésgalles ce qui cause qu'il est trop aigus sent comme son dessus de plein jeu.
-			<br>
-			Trompette est toutte inesgalle.
-			<br>
-			Voix humaine est de taille de régalle e quoyque la hauteur n'a point effect de voix humaine.
-			<br>
-			Quand au sommier, je n'ay pas visité s'ils sont en la forme de reception.
-			<br>
-			Pédalles, il y a de l'inégalité.
-			<br>
-			Lesquelles ouvrages veu, j'ay trouvé ce que dessus, dont j'ay delivré le présent rapport aux dits vénérables religieux, lequel j'affirme estre très véritable, en foy de quoy j'ay signé.
-			<br>
-			Auxerre, le I0è janvier 1676.                                                         Signé : Esclavy.
+		<figure>
+			<figcaption>Procès-verbal de la vérification de l'orgue par Claude Esclavy, facteur d'orgues.</figcaption>
+			<blockquote>
+				1676. I0 janvier Sur le requis de messieurs les V. Religieux du couvent de Nostre Dame la Dhors, je, Claude Esclavy, organaire (sic) demeurant à Appongny, soussigné, certifie avoir veu l'orgue qui est dazns l'église parroichiale N. D. la d'hors, faicte par le sieur Lebé, accompagné du dit Le Bé, lequel orgue après avoir veu le dit ouvrage, faict à neuf s'est trouvé :
+				<br>
+				Les soufflets ne sont garnis ; les portevents sont de sappins e granis de papier et doibvent estre de bois de chesne et garny de vellin.
+				<br>
+				Les ressorts trop affoiblis qui cause que les touches ne se peuvent relever assez vitte.
+				<br>
+				L'abrégé, le fond de l'abrégé est de bois de sappin e doit estre de bois de chesne.
+				Les sommiers ne sont garnis dans les litteaux.
+				<br>
+				La monstre, le C D F ne parlent pas e octavient, à cause que la dite monstre est de trop petite taille, et 7 tuiaux dans le milieu qui sont inégaux.
+				<br>
+				Bourdon de 8 pieds bouchés ; le bourdon est de trop petite taille e n'a point d'effect ; duquel le C D E F d'em bas ne parlent pas e le surplus de la première octave n'a pas la netteté d'armonie.
+				<br>
+				Bourdon de 4 pieds est faible à cause de la taille.
+				<br>
+				Prestant, doublette.
+				<br>
+				Fourniture et cimballe de 7 tuyaux n'a pas effect de 7 tuyaux.
+				<br>
+				Goce tierce, elle est inégale e faut adoucir l'accord.
+				<br>
+				Larigot, donner de la force aux basses.
+				<br>
+				Cornet, n'est pas de tailles ésgalles ce qui cause qu'il est trop aigus sent comme son dessus de plein jeu.
+				<br>
+				Trompette est toutte inesgalle.
+				<br>
+				Voix humaine est de taille de régalle e quoyque la hauteur n'a point effect de voix humaine.
+				<br>
+				Quand au sommier, je n'ay pas visité s'ils sont en la forme de reception.
+				<br>
+				Pédalles, il y a de l'inégalité.
+				<br>
+				Lesquelles ouvrages veu, j'ay trouvé ce que dessus, dont j'ay delivré le présent rapport aux dits vénérables religieux, lequel j'affirme estre très véritable, en foy de quoy j'ay signé.
+				<br>
+				Auxerre, le I0è janvier 1676.                                                         Signé : Esclavy.
 			<br>
 			(ADY, H.1.222.)
-			<br>
-			° Voir plus loin.
-		</p>
+			
+			</blockquote>
+		</figure>
+		
 		<p>
 			Malgré ce procès-verbal qui lui est défarovable, Louis Lebé est chargé, le 3 décembre 1677, de restaurer l'orgue, pour le prix de 60 livres, plus sa nourriture et son logement jusqu'au 1er février 1678, jour auquel doit être terminé le travail. Mais les Religieux de Notre-Dame-la-d'Hors ont pris leurs précautions. Ils savent par expérience, que les Lebé ne travaillent pas de façon trop rapide et qu'ils mangent et boivent bien, et ils stipulent cette fois que Louis Lebé devra se nourrir et loger à ses frais après le 1er février. De cette façon le facteur aura intérêt à ne pas faire traîner les choses en longueur..
 		</p>
+		<figure>
+			<figcaption>Accord passé entre Louis Le Bé et les religieux pour la restauration de leur orgue.</figcaption>
+			<blockquote>
+				1677. 3 décembre Nous soubsignés sommes convenus de l'accord qui s'ensuit, scavoir, moy Louis Le Bé de faire et parfaire toutes les ouvrages nécéssaires de l'orgue entreprise par moi susdit dans l'aglise de Nostre Dame de la d'hors située dans la ville d'Auxerre, scavoir de la demonter, neoyer, refaire les tuyaux rompus et gastés et rendre enfin le dit orgue en estat de réception le premier jour de février prochain venant, et nous prieur et religieux... de nourir le dit Le Bé et son homme jusqu'au dit jour premier de février, en leur donnant trois paintes de vin par jour et le reste raisonnablement suivant la nourriture de nous dits religieux ; et en cas que le dit Le Bé aye plus tost rendu recevable le dit orgue, il n'en prétendra aucun remboursement de nourriture ; et s'il arrivait qu'il employat plus de temps que jusqu'au dit premier jour de février prochain, le dit Le Bé sera pour lors obligé de se defrayer luy mesme et son homme jusqu'à la réception du dit orgue ; et de plus les dits religieux s'obligent de loger le dit Le Bé et son homme et luy fournir les matériaux nécéssaires comme aussi de luy payer sur son deub dans le dit temps cinquante livres, et après la reception pour demeurer quittes envers luy de toutes choses quelconques, il luy sera payé par nous soixante livres : laquelle reception sera faite par Me. Burat, organiste de la cathédrale d'Auxerre° ou par tout autre au choix de nous dits religieux, sitost l'ouvrage achevée ; et en ce faisant toutes quittences sont demeurées nulles ; le dit Louis Le Bé se portant fort de tout pour Edme Le Bé son père ; en outre, sommes convenu que le dit Le Bé sera seulement obligé de mestre en estat les pédalles tant de flute que de trompettes suivant la quantité qu'elles sont désja dans le dit orgue, scavoir dix huict d'anches, et douze de flustes ; lequel accord a esté fait double et signé par nous ce troisième décembre mil six cent soixante et dix sept.	
+				<br>
+				Signé : Louis Le Bé. (ADY, H.1.222.)
+			</blockquote>
+		</figure>
 		<p>
-			Accord passé entre Louis Le Bé et les religieux pour la restauration de leur orgue.
-			<br>
-			1677. 3 décembre Nous soubsignés sommes convenus de l'accord qui s'ensuit, scavoir, moy Louis Le Bé de faire et parfaire toutes les ouvrages nécéssaires de l'orgue entreprise par moi susdit dans l'aglise de Nostre Dame de la d'hors située dans la ville d'Auxerre, scavoir de la demonter, neoyer, refaire les tuyaux rompus et gastés et rendre enfin le dit orgue en estat de réception le premier jour de février prochain venant, et nous prieur et religieux... de nourir le dit Le Bé et son homme jusqu'au dit jour premier de février, en leur donnant trois paintes de vin par jour et le reste raisonnablement suivant la nourriture de nous dits religieux ; et en cas que le dit Le Bé aye plus tost rendu recevable le dit orgue, il n'en prétendra aucun remboursement de nourriture ; et s'il arrivait qu'il employat plus de temps que jusqu'au dit premier jour de février prochain, le dit Le Bé sera pour lors obligé de se defrayer luy mesme et son homme jusqu'à la réception du dit orgue ; et de plus les dits religieux s'obligent de loger le dit Le Bé et son homme et luy fournir les matériaux nécéssaires comme aussi de luy payer sur son deub dans le dit temps cinquante livres, et après la reception pour demeurer quittes envers luy de toutes choses quelconques, il luy sera payé par nous soixante livres : laquelle reception sera faite par Me. Burat, organiste de la cathédrale d'Auxerre° ou par tout autre au choix de nous dits religieux, sitost l'ouvrage achevée ; et en ce faisant toutes quittences sont demeurées nulles ; le dit Louis Le Bé se portant fort de tout pour Edme Le Bé son père ; en outre, sommes convenu que le dit Le Bé sera seulement obligé de mestre en estat les pédalles tant de flute que de trompettes suivant la quantité qu'elles sont désja dans le dit orgue, scavoir dix huict d'anches, et douze de flustes ; lequel accord a esté fait double et signé par nous ce troisième décembre mil six cent soixante et dix sept.
-			<br>
-			Signé : Louis Le Bé. (ADY, H.1.222.)
+			L'orgue, qui devait être reconnu par M. Burat, organiste de la cathédrale d'Auxerre, fut effectivement reçu par celui-ci après les travaux de Lebé, qui, chose extraordinaire, furent terminés le 18 décembre 1677<sup>1</sup>.
 		</p>
+		<cite>
+			<sup>1</sup>
+			Cette visite fut faite effectivement par Burat, comme le prouve l'acte suivant du I8 décembre 1677 (ibid.)
+			<br>
+		</cite>
 		<p>
-			L'orgue, qui devait être reconnu par M. Burat, organiste de la cathédrale d'Auxerre, fut effectivement reçu par celui-ci après les travaux de Lebé, qui, chose extraordinaire, furent terminés le 18 décembre 1677.
-		</p>
+		<figure>
+			<figcaption>16 X<sup>b</sup> 1677</figcaption>
+			<blockquote>	
+			Visite des orgues
+			<br>
+			"Je soubsigné certifie avoir visitté l'orgue de l'église de Nostre Dame de la Dehors dans laquelle tant au sommier qu'aux soufflets, je n'ay rencontré aucun deffaut essentiel. Les thuyaux estant maintenant bien sonnant et d'accord et toute l'orgue ne souffrant aucune altération. Je suis pourtant d'avis que si l'on y fait un jour un positif, l'on oste du dit orgue la tierce, le nazard et la fluste pour mettre dans le dit positif, estant de trop petite taille pour une grande orgue ; et que l'on mette dans la place de la dite fluste une quarte de nazard et que l'on fasse pour le dit grand corps une tierce et un nazard de taille aussy grosse qu'ils le doibvent estre. C'est mon sentiment. 
+			<br>
+			Ce I8<sup>è</sup> décembre 1677. 
+			<br>
+			P. Burat."
+			<br>
+			(ADY, H.1.222.)
+			</blockquote>
+		</figure>
+		<figure>
+			<figcaption>Testament du facteur Esclavy.</figcaption>
+			<blockquote>	
+				1688. Au nom du père et du fils et du Saint esprit ainsi soit-il.
+				<br>
+				Le cinquièsme jour d'avril mil six cent quatre vingt huit, en la ville d'Apoigny, en la maison de Me. Claude Esclavy facteur d'orgues y demeurant ou je me suis exprès transporté à sa requisition ou etant le dit sieur esclavy gisant au lit malade, néanmoins sain de corps, mémoire et entendement ainsy qu'il est apparu au dit notaire et des sieurs témoins sousignés, lequel a déclaré qu'après avoir souvent et murement considéré que tout ce qui est vivant doit mourir, que la mort est un deffault de notre nature, ayant faict faites de fréquentes et sérieuses reflections sur toutes ces choses et souhaité faire son testament et faire mettre par écrit sa dernière volonté en la manière qui en suit.
+				<br>
+				Avant toutes choses, avec une conscience chrétienne, a le dit testateur recourre à l'infinie miséricorde de Dieu pour en obtenir le pardon de ses péchez qu'il reconnoit estre sans nombre, avec ce sentiment, il rend son âme à Dieu qui la luy a donné et le prien en toute humilité de le recevoir en sa saincte grace.
+				<br>
+				Pour son corps, veut et entend quand il aura plu à Dieu séparer son âme d'icelluy qu'il souhaite etre inhumé dans l'église paroissiale où il sera decedé ; pour en effet qu'il soit fait un convoy honète à l'execution de l'exécuteur de son présent testament cy après nommé, une messe d'obit un service un an après, et un autre service deux ans après son décès à la manière accoutumée.
+				<br>
+				... Item, donne et lègue le dit sieur testateur à Edme Esclavy son fils tous ses houtils de menuiserie et facture d'orgues, les orgues et ouvrages et instruments parfaits<sup>1</sup>° et à parfaire qui pourront estre en la possession du dit testateur, pour sa part des meubles sans exclusion des immeubles et ce par amitié qu'il a pour luy...
+				<br>
+				... Item donne et lègue le dit testateur à Marguerite Thérèse Esclavy sa fille toutes les notes et minutes de notariat que le dit testateur a reçu tant à Apoigny qu'à Everon étant notaire, et ce pour récompense des bons et fidèles services qu'elle luy a rendue...
+				<br>
+				(ADY, G.1992.)
+			</blockquote>
+			<cite>
+				<sup>1</sup>
+				Aucun renseignement n'a été trouvé sur les orgues qui auraient été construites par ce facteur avant cette date ou qui lui auraient été commandées à cette date. En 1663, il était payé I00 l. par le chapitre de Sens pour les réparations qu'il avait faites à l'orgue de la cathédrale. En 1676, il expertisait l'orgue de N.-D.-la-d'Hors d'Auxerre... De son mariage avec Marie Arment, il laissait trois filles, Petronille, Jeanne, Françoise et un fils, Edme, dont nous ne connaissons aucun ouvrage de facteure d'orgues, C. Esclavy figurait le 8 sept. 1666 comme parrain, sur l'un des registres de baptême de Montargis (ADY, H 1222, G 679 ; H Stein, Inventaire des Archives Com. de Montargis.)
+				<br>
+			</cite>
+		</figure>
+			
 		<p>
-			° Cette visite fut faite effectivement par Burat, comme le prouve l'acte suivant du I8 décembre 1677 (ibid.)
+			L'organiste reconnaissait dans son procès-verbal qu'il n'y avait "aucun deffaut essentiel, les tuyaux estant maintenant bien sonnant et d'accord, et toute l'orgue ne souffrant aucune altération"; Le facteur suggérait également de supprimer de l'orgue la tierce, le nasard et la flûte pour les mettre dans le positif, s'il était, plus tard, question d'en faire un. 
 			<br>
-			"Je soubsigné certifie avoir visitté l'orgue de l'église de Nostre Dame de la Dehors dans laquelle tant au sommier qu'aux soufflets, je n'ay rencontré aucun deffaut essentiel. Les thuyaux estant maintenant bien sonnant et d'accord et toute l'orgue ne souffrant aucune altération. Je suis pourtant d'avis que si l'on y fait un jour un positif, l'on oste du dit orgue la tierce, le nazard et la fluste pour mettre dans le dit positif, estant de trop petite taille pour une grande orgue ; et que l'on mette dans la place de la dite fluste une quarte de nazard et que l'on fasse pour le dit grand corps une tierce et un nazard de taille aussy grosse qu'ils le doibvent estre. C'est mon sentiment. Ce I8è décembre 1677. P. Burat."
-		</p>
-		<p>
-			Testament du facteur Esclavy.
-			<br>
-			1688. Au nom du père et du fils et du Saint esprit ainsi soit-il.
-			<br>
-			Le cinquièsme jour d'avril mil six cent quatre vingt huit, en la ville d'Apoigny, en la maison de Me. Claude Esclavy facteur d'orgues y demeurant ou je me suis exprès transporté à sa requisition ou etant le dit sieur esclavy gisant au lit malade, néanmoins sain de corps, mémoire et entendement ainsy qu'il est apparu au dit notaire et des sieurs témoins sousignés, lequel a déclaré qu'après avoir souvent et murement considéré que tout ce qui est vivant doit mourir, que la mort est un deffault de notre nature, ayant faict faites de fréquentes et sérieuses reflections sur toutes ces choses et souhaité faire son testament et faire mettre par écrit sa dernière volonté en la manière qui en suit.
-			<br>
-			Avant toutes choses, avec une conscience chrétienne, a le dit testateur recourre à l'infinie miséricorde de Dieu pour en obtenir le pardon de ses péchez qu'il reconnoit estre sans nombre, avec ce sentiment, il rend son âme à Dieu qui la luy a donné et le prien en toute humilité de le recevoir en sa saincte grace.
-			<br>
-			Pour son corps, veut et entend quand il aura plu à Dieu séparer son âme d'icelluy qu'il souhaite etre inhumé dans l'église paroissiale où il sera decedé ; pour en effet qu'il soit fait un convoy honète à l'execution de l'exécuteur de son présent testament cy après nommé, une messe d'obit un service un an après, et un autre service deux ans après son décès à la manière accoutumée.
-			<br>
-			... Item, donne et lègue le dit sieur testateur à Edme Esclavy son fils tous ses houtils de menuiserie et facture d'orgues, les orgues et ouvrages et instruments parfaits° et à parfaire qui pourront estre en la possession du dit testateur, pour sa part des meubles sans exclusion des immeubles et ce par amitié qu'il a pour luy...
-			<br>
-			... Item donne et lègue le dit testateur à Marguerite Thérèse Esclavy sa fille toutes les notes et minutes de notariat que le dit testateur a reçu tant à Apoigny qu'à Everon étant notaire, et ce pour récompense des bons et fidèles services qu'elle luy a rendue...
-			<br>
-			(ADY, G.1.992.)
-			<br>
-			° Aucun renseignement n'a été trouvé sur les orgues qui auraient été construites par ce facteur avant cette date ou qui lui auraient été commandées à cette date. En 1663, il était payé I00 l. par le chapitre de Sens pour les réparations qu'il avait faites à l'orgue de la cathédrale. En 1676, il expertisait l'orgue de N.-D.-la-d'Hors d'Auxerre... De son mariage avec Marie Arment, il laissait trois filles, Petronille, Jeanne, Françoise et un fils, Edme, dont nous ne connaissons aucun ouvrage de facteure d'orgues, C. Esclavy figurait le 8 sept. 1666 comme parrain, sur l'un des registres de baptême de Montargis (ADY, H 1222, G 679 ; H Stein, Inventaire des Archives Com. de Montargis.)
-		</p>
-		<p>
-			L'organiste reconnaissait dans son procès-verbal qu'il n'y avait "aucun deffaut...". Et nous faisons dans le temps un saut de 70 ans pour arriver au 4 mai 1748. L'orgue qui ne parle plus, est examiné dans tous ses détails par Joseph Cottereau facteur réputé {1741 St Pierre Avallon, devis de réparation ; 1747 cathédrale [sic]de Noyers-sur-Serein, restauration}. Celui-ci reconnaît les jeux, au nombre de 17 (dont 2 à la pédale), et tout ce qu'il faut faire à l'instrument.
-			<br>
-			Il expose que l'orgue a coûté 4000 livres, qu'il faudrait payer 5000 livres pour en avoir un semblable, et que le relevage coûterait 2000 livres. Il nous donne en même temps une description détaillée du buffet, qui se composait de 5 plates-faces, sans tourelles. Il y avait, nous dit-il, une grande plate-face centrale (hauteur : 2,97m), 2 plates-faces de 0,99m, entourant celle du milieu, et, aux deux extrémités, deux plates-faces de 1,98m. Le tout surmonté d'une corniche sculptée, le pied du buffet comportant également des sculptures, une corniche et une frise. [Il est malheureusement impossible d'avoir aujourd'hui une idée plus précise de l'instrument, l'église ayant été détruite avec lui.]
-		</p>
-		<p>
-			Mémoire de l'Etat présent de l'orgue de l'église abbatiale et paroissiale de Notre Dame la Dor fait par l'ordre de monsieur le prieure (sic) de la ditte abbaye.
+			Et nous faisons dans le temps un saut de 70 ans pour arriver au 4 mai 1748. L'orgue qui ne parle plus, est examiné dans tous ses détails par Joseph Cottereau facteur réputé {1741 St Pierre Avallon, devis de réparation ; 1747 cathédrale [sic]de Noyers-sur-Serein, restauration}. Celui-ci reconnaît les jeux, au nombre de 17 (dont 2 à la pédale), et tout ce qu'il faut faire à l'instrument.
+		</p>	
+		</figure>
+
+		<figure>
+			<figcaption>Mémoire de l'Etat présent de l'orgue de l'église abbatiale et paroissiale de Notre Dame la Dor fait par l'ordre de monsieur le prieure (sic) de la ditte abbaye.</figcaption>
+			<blockquote>
 			<br>
 			Premièrement trois soufflets de six pieds de longueur ayant de chaque coté cinq plie (sic) ces à dir douse feuillet et douse a la taite, ce qui fait pour chaque soufflet trante six feuillet, le tout de bon bois de chaine, garnie de leur gozier, bar, chevallet, bascule de bois de chaine, boulet et bar de fer qui serve à faire mouvoir les dit soufflet ; les plis ont de profondeur à la taite cinq pouce et trois agre, et les gozier ont de largeur sept pouce et de profondeur quatre pouce et demie, le tout en dehor. Il faut garnir les soufflets en cuir neuf et garnir les portevant en parchemin.
 			<br>
 			Le portevant qui est au dessous des soufflet et qui vat jusqu'à la boitte du trenblan doux a de largeur en caré en dehors cinq pouce, le portevant qui conduit au saumié du grand orgue a six pouce et un quar de largeur et cinq pouce et demie sur le couté. Ce portevant porte d'un bout à la boite de trenblan doux et de le autre au saumié, après le portevant est attaché le trenblan fort deont le dessus est détaché : je l'ay laissée sur la boite du tremblan doux, le tremblan est fort bien construit, estant à coulisse. qent au le (sic) couvercle de la boite, la soupape et le chappe en sont bon aussi bien que le resor qui est de cuivre. Je ne parle poin de son mouvement, parce que je ne l'ay poin entendu, le roulot est cassée aussi bien que celuy du tremblan fort.
-			<br>
+			<br>	
 			Le clavier de pédalle a dix huit touche. Il vat jusqu'à la clef de f ut fa ; son abrégé est bon, il est de dix huit roulot, garnie de ses vergette, fer d'abrégé, pointe et tourillon esgallement, les vergettes qui vont au saumié des dittes pédalle sont bonnes, excepté qu'il lie en a quel qu'une qu'il faut regarnir.
 			<br>
 			Ilie (sic) a aussi deux pilotte de chaque coté, deux à droite et deux à gauche qui serve à tirer et pousser les registres. Ces pilotte on de longueur trois pieds garnie de leurs fer, de leurs tourillon, de leurs point, de quatre vingt et seize vergette, cet a dire celle qui suporte le clavié, que celle qui (qui) tire au saumié.
@@ -533,17 +558,27 @@
 			Il faut faire attention que ce qui reste de tuiaux a la montre ne peuve plus servir que pour la fonte par ce que la plus grande partie des tuiaux sont afessée et que les bizeau sont enfonsée, et du moin s'il lie en avoit quelques uns qui puisse servir, il faudray y faire des pieds neuf et de autre a qui il faudray mettre des piesse par derrière et sie l'on vendoit à présent la ditte montre comme les autres tuyaux, on ne les vandroit qu'au pois, ce qui feray une perte considérable et de plus des deux tiers.
 			<br>
 			Car je suppose ce qui peut estre vray que l'orgue estant neuve ay couté quatre mille livre a cause du prix modique des metteau et autre mattereau de le tems, mais pour ce qui est a présent, une orgue de cette espèce couteray au moin cinq mille livre non compris la tribune nie le buffet, et je suppose qu'en la vandan dans l'état qu'il est, l'on en poure tire mil ou douse cent livre, ce que j'ay paine a croire ; la perte seray toujour considérable au lieu qu'an la faisant retablir, l'on connettray la bonté de l'ouvrage, ce qui ne se peut connestre à présent que rien ne parle et par conséquan l'orgue seray bien plus de defaite qu'elle ne l'est à présent, et pour la rétablir et la randre aussie bonne comme en sortant de la main du premier maitre, il pouray couter deux mille livres ; ce seroy avoir une orgue a bonmarché. Ce que moy, facteur d'orgue, sousigné, certifie estre véritable. Fait à Auxerre, ce quatre may mil sept cent quarante huit.
-			<br><br>
-			Signé : Cottreau.
+			<br>
+			Signé : Cottreau<sup>1</sup>.
 			<br>
 			(ADY, H I222)
+		</blockquote>
+		<cite>
+			<sup>1</sup>
+			Joseph Cottereau, facteur d'orgues qui semble avoir jouind'une assez grande réputation à Auxerre et dans les environsette ville, restaura entre autres en 1747 l'orgue de l'église de Noyers, et de 1742 à 1747 celui de Saint-Martinbde Clamecy.
+		</cite>
+		</figure>
+		<p>
+			Il expose que l'orgue a coûté 4000 livres, qu'il faudrait payer 5000 livres pour en avoir un semblable, et que le relevage coûterait 2000 livres. Il nous donne en même temps une description détaillée du buffet, qui se composait de 5 plates-faces, sans tourelles. Il y avait, nous dit-il, une grande plate-face centrale (hauteur : 2,97m), 2 plates-faces de 0,99m, entourant celle du milieu, et, aux deux extrémités, deux plates-faces de 1,98m. Le tout surmonté d'une corniche sculptée, le pied du buffet comportant également des sculptures, une corniche et une frise. <span class="txt_rouge">Il est malheureusement impossible d'avoir aujourd'hui une idée plus précise de l'instrument, l'église ayant été détruite avec lui.</span>
 		</p>
 		<p>
-			Un autre facteur , dont le nom ne nous est pas connu, fait à son tour, à une date également imprécise, [mais certainement entre le 4 mai 1748 et 1750], un examen de l'instrument et de ce qu'il y faut faire pour le rendre convenable. Il propose de très sérieuses additions, notamment un cromorne et surtout la construction d'un positif (composé de 8 jeux) et de deux claviers nouveaux (récit et positif).
+			Un autre facteur, dont le nom nenous est pas connu, fait à son tour,une date &galement imprécise, <span class="txt_rouge">mais certainement entre le 4 mai 1748 et 1750</span>, un examen de l'instrumentvet de ce qu'ilby faut faire pour le rendre convenable. Il propose de très sérieuses additions, notamment un cromorne et surtout la construction d'un positif (composé de 8 jeux) et de deux claviers nouveaux (récit et positif).
 		</p>
-		<p>
-			Mémoire de l'état présent de l'orgue de l'église abbatiale et paroissiale de Notre-Dame Lador, et de ce qu'il convient faire au dit orgue°
-			<br><br>
+		
+		<figure>
+			<figcaption>Mémoire de l'état présent de l'orgue de l'église abbatiale et paroissiale de Notre-Dame Lador, et de ce qu'il convient faire au dit orgue<sup>1</sup></figcaption>
+			<blockquote>
+			<br>
 			Premièrement,
 			<br><br>
 			I. L'orgue est un huit pieds en montre ; il y manque quinze tuyaux de montre qu'il faut faire à neuf, si les tuyaux qui sont en place ne sont pas bons et de bon étain, qui ne puissent pas se retablir ; mon avis est de faire une montre neuve ; il serait necessaire de faire une visite de l'orgue et faire pour cela un voyage sur les lieux ; si la montre peut resservir, on curera et polira les tuyaux autant qu'on pourra.
@@ -592,40 +627,107 @@
 			<br>
 			(ADY, H I222.)
 			<br>
-			° Ce mémoire d'une écriture du XVIIIè siècle est sans date et non signé ; il dut être dressé au même moment que le précédent par quelque facteur parisien ou de la région, d'après les dires d'une tierce personne (l'organiste ou le curé) car il est visible que celui qui l'a rédigé n'a pas vu l'orgue dont il parle...
+			</blockquote>
+		<cite>
+			<sup>1</sup>
+			Ce mémoire d'une écriture du XVIII<sup>è</sup> sièle est sans date et non signé : il dut être dressé au même moment que le précédent par quelque facteur parisien ou de la région, d'après les dires d'une tierce personne (l'organiste ou le curé) car il est visible que celui qui l'a rédigé n'a pas vu l'orgue dont il parle...
 			<br>
 			Peut-être est-il dû au facteur Cachet qui entreprendra la restauration de l'orgue en 1750.
 			<br>
 			(Voir plus bas.)
+			<br>
+		</cite>
+		</figure>	
 		</p>
 		<p>
-			Ses propositions ne seront pas accueillies. [Il est très important de souligner ici que ce facteur inconnu ajoute à la fin de son devis : "Si ces messieurs... ...le tout à la volonté de ces messieurs". Quel dommage qu'ici encore nous ne sachions rien !
+			Ses propositions ne seront pas accueillies. <span class="txt_rouge">Il est très important de souligner ici que ce facteur inconnu ajoute à la fin de son devis : "Si ces messieurs doutent que je puisse mettre trois claviers à leur orgue, j'en ay deux dans une chapelle de M. les Bernardins (nous n'avons trouvé aucune trace de ca couvent), qui sont plus de moitié plus petites, qui ont trois claviers, dont pourront rendre témoignage les organistes qui viendrontbles toucher et sur lesquels on touche toutes les pièces que l'on veut : le tout à la volonté de ces messieurs". Quel dommage qu'ici encore nous ne sachions rien !</span>
 		</p>
 		<p>
 			En 1750, le facteur Charles Cachet, de Langres, était chargé, par le Prieur de l'Abbaye, de relever l'orgue dans des conditions analogues à celles proposées par Cottereau, sous cette réserve qu'il devait remplacer la voix humaine par un Clairon.
 		</p>
+		
+		<figure>
+			<figcaption>Marché passé entre les religieux et le facteur Ch. Cachet pour la restauration de leur orgue.</figcaption>
+			<blockquote>
+				1750. Nous soubsignés, prieur de l'abbaye de Saint Marien d'Auxerre ordre des Prémontré, et Charles Cachet<sup>1</sup>, facteur d'orgues et organiste à Langres, sommes convenusz et nous obligeons a ce qui suit, scavoir que moy Cachet, m'oblige et promet de réparer l'orgue de la ditte abbaye sise dans l'église de Notre-Dame de la d'Hors de la mesme ville d'Auxerre, dont les réparations consistent :
+				<br>
+				I° A nettoyer tous et chacuns des tuyaux de la montre et des différens jeux, de les redresser et refaire les pieds de ceux qui ont besoin ; en outre d'y fournir les neufs qui y seront besoin.
+				<br>
+				2° A completter tous les jeux, c'est à dire refaire et completter en neuf tous les tuyaux qui manquent dans chaque jeu, à mettre tous les jeux d'accord et à les rendre tous dans leur parfaite raisonnance
+				<br>
+				3° A refaire tous les mouvemens qui manquent dans les dits jeux tant en fer qu'en bois.
+				<br>
+				4° A réparer et mettre en bon ordre la soufflerie en sorte que rien n'y manque.
+				<br>
+				5° A nettoyer généralement le dedans et le dehors de l'orgue, de mettre le clavier dans sa parfaite harmonie, d'en refaire les touches, , les bois et généralement de faire et parfaire tant le dedans que le dehors de l'orgue pour le premier du mois d'aoust mil sept cent cinquante et un, le tout sujet à la visitte et à dire d'experts ; s'oblige en outre et promet le dit sieur Cachet de faire à neuf une trompette, en place de la voix humaine, lequel ouvrage enentier et parfait le dit sieur Cachet garantit pendant une année et s'oblige à toutes les réparations qui seront à faire pendant le cours de la ditte année...<sup>2</sup>
+				<br>
+				Signé : Cachet.
+				<br>
+				(ADY, H I222.)
+				<br>
+			<cite>
+				<sup>1</sup>
+				 Ce facteur avait été désigné en 1724 pour examiner les orgues que Claude Moucherel venait de réparer à Saint-Epvre de Nancy. Organiste de la cathédrale de Langres, il avait fait en 1736 l'inventaire des jeux de son instrument. En 1735, il avait rétabli l'orgue de l'abbaye des Mureaux, et devait construire en 1740 celui de N.-D. de noyers [pour le moment voir cet orgue sur le blog des orgues de l'Yonne. NdA]. - (Jacquot, Artistes Lorrains...op. cit.).
+			<br>
+			</cite>
+			<cite>
+				<sup>2</sup>
+				Le prieur lui promettait de lui verser 800 livres, en trois paiements.
+			</cite>
+			</blockquote>	
+		</figure>
+		<p>			
+		Le 27 janvier 1755, Cachet reconnaissait, en une valable quittance, avoir reçu 920 livres pour les travaux faits par lui depuis 1750.
+		</p>
+		<figure>
+			<figcaption>Quittance du facteur Cachet.</figcaption>
+			<blockquote>
+				1755. 27 janvier. Par devant les conseillers du roi, notaires à Auxerre soussigné, le vingt septième jour de janvier mil sept cent cinquante cinq après midy, fut présens le sieur Joseph Charles Cachet, facteur d'orgues et organiste demeurant ordinairement à Langres, de présent en cette ville, lequel a reconnu et confessé avoir eu et receu de messieurs le prieur et chanoines reguliers de l'abbaye royalle de Saint Marien d'Auxerre... la somme de neuf cent vingt livres pour tous les ouvrages qu'il a fait aux orgues de la ditte abbaye, depuis l'année mil sept cent cinquante jusqu'à ce jour, suivant les conventions faittes entre eux et qui consistoient premièrement à netoyer tous et un chacuns des tuyaux de la montre et des différents jeux, de les redresser et refaire les pieds de ceux qui ont besoin, en outre d'y fournir les neufs qui y seront besoin.
+				<br>
+				2° A completter tous les jeux, c'est à dire le faire et completter en neuf tous les jeux qui manquent dans chaque jeux, a mettre tous les jeux d'accord, et a les rendre tous dans leurs parfaites raisonnances.
+				<br>
+				3° A refaire tous les mouvements qui manquent dans les dits jeux tant en feort qu'en bois.
+				<br>
+				4° A réparer et mettre en bon ordre la soufflerie, en sorte que rien n'y manque.
+				<br>
+				5° A netoyer généralement le dedans et le dehors de l'orgue, de mettre le clavier dans sa parfaite armonie, d'en refaire les touches, les bois et générallement de faire et parfaire tant le dedans que le dehors de l'orgue, le tout sujet à la visite et à dire d'experts de refaire à neuf une trompette, raisonnante huit pieds, un clairon à l'octave de la trompette, en place de la voix humaine et d'augmenter un jeu appelé l'echo, lesquels ouvrages ont été reçus par gens a ce connaisseurs et accepté par le dit sieur Colette qui luy a payé la susdite somme...
+				<br>
+				(ADY, H I222.)	
+			</blockquote>
+		</figure>
+
+		
+		<p></p>
 		<p>
-			Marché passé entre les religieux et le facteur Ch. Cachet pour la restauration de leur orgue.
+			RESUME ET INFORMATIONS SUPPLEMENTAIRES non référencées.
+		</p>
+		<P>
+			... A N-D la d'Hors, en 1659, le facteur s'en tient encore une fois à la formule du grand positif de douze jeux -de 47 notes- avec une montre de 4' en façade, un seul clavier, le clairon remplaçant la trompette que l'on trouve ailleurs, la pédale riche d'une octave ; 84 tuyaux de cymbale s'ajouteront aux 140 de la fourniture...
 			<br>
-			1750. Nous soubsignés, prieur de l'abbaye de Saint Marien d'Auxerre ordre des Prémontré, et Charles Cachet°, facteur d'orgues et organiste à Langres, sommes convenusz et nous obligeons a ce qui suit, scavoir que moy Cachet, m'oblige et promet de réparer l'orgue de la ditte abbaye sise dans l'église de Notre-Dame de la d'Hors de la mesme ville d'Auxerre, dont les réparations consistent :
+			... Claude ESCLAVY, dont nous avons retrouvé le testament (1688) habitait le bourg d'Appoigny ; il avait travaillé à Sens (1663), expertisé en 1676 l'instrument de N-D la d'Hors...
 			<br>
-			I° A nettoyer tous et chacuns des tuyaux de la montre et des différens jeux, de les redresser et refaire les pieds de ceux qui ont besoin ; en outre d'y fournir les neufs qui y seront besoin.
+			... Charles CACHET, facteur de Neufchateau paraît destiné à constituer un trait d'union entre Lorraine, Champagne et Bourgogne : il réalise son oeuvre entre 1720 et 175O, il restaure l'instrument des Prémontrés de N-D la d'Hors...
 			<br>
-			2° A completter tous les jeux, c'est à dire refaire et completter en neuf tous les tuyaux qui manquent dans chaque jeu, à mettre tous les jeux d'accord et à les rendre tous dans leur parfaite raisonnance
+			... Joseph COTTEREAU, peut-être fixé à Auxerre, établit un mémoire en 1748 sur l'orgue de N-D la d'Hors...
+			<br> 
+			... En 1748, un prieur frappé sans doute par l'état de délabrement de son instrument, prie un organier de venir inspecter le malheureux outil qui ne peut plus servir...
 			<br>
-			3° A refaire tous les mouvemens qui manquent dans les dits jeux tant en fer qu'en bois.
+			... A N-D la d'Hors, en 1676, l'expertise n'intervient qu'après trois ans de difficultés semées sur la route par les facteurs Edmé et Louis Lebé, appelés en 1673 à transporter au revers du grand portail l'instrument construit en 1659 par O. Salomon, pour les religieux de Saint Marien. Les Lebé ont été chargés d'agrandir, de renforcer l'orgue, "à chaque jeu d'ajouster deux tuyaux en bas plus gros affin de rendre lesdits jeux deplus grosse taille". Les religieux s'en prennent aux organiers pour lesquels ils déboursent et avancent des sommes qui n'étaient point prévues au devis, notamment pour le transport de tout le gros matériel de l'atelier de Troyes à Auxerre ; pour l'achat de colle,fil de fer, peaux, bois pour les abrégés, alors qu'ils ne s'étaient engagés qu'à fournir tribune, buffet, étain, plomb et ferrure, et à nourrir les ouvriers de Lebé jusquà la Pentecôte 1674. L'orgue qui devait être prêt à cette date ne sera terminé qu'en décembre 1675, les facteurs ayant été conduits, à la demande des religieux, à "plusieurs augmentations considérables" (cornet neuf ; plein-jeu neuf de VII rangs ; pédale de 18 touches avec 3 jeux). On devine les hésitations de l'expert-organier, Claude Esclavy... qui ne doit pas entretenir de chaudes relations avec les Lebé ! Les remarques qui parsèment son rapport tombent comme autant de couperets : les soufflets ne sont pas garnis ; les portevent paraissent de sapin et non de chêne ; les ressorts demeurent trop faibles ; la montre est de trop menue taille, de même le bourdon "qui n'a point d'effect" ; le plein-jeu à 7 r. ne sonne pas ; il faut adoucir les tierces, renforcer la taille du nasard, égaliser le cornet, la trompette... (10 janvier 1676). Les Lebé devront se remettre à l'ouvrage ! Nouvelle expertise vingt trois mois plus tard par m. Buat, organiste de la cathédrale d'Auxerre, qui se déclare satisfait, même s'il trouve les mutations (2, 2 2/3, 1 3/5) de trop menue taille...
 			<br>
-			4° A réparer et mettre en bon ordre la soufflerie en sorte que rien n'y manque.
+			... Deux mémoires "d'expertise avant travaux" concernent l'orgue de N-D la d'Hors, le premier rédigé par le facteur  Cottereau, qui a visiblement ausculté l'appareil, le second dressé par un anonyme, facteur parisien ou de la région d'après les dires de l'organiste ou de Curé. Il s'agit là, d'un orgue à un seul clavier, un seul buffet plat, sans positif. Cottereau en donne une description très détaillée, dont nous croyons utilr d'extraire quelques savoureux articles. Il a pris son mètre, et mesuré avev conscience les soufflets et leurs plis, la longueur et la largeur des portevent, les pilotes des registres ; il a compté un à un les 48 rouleaux de l'anrégé, une à un les 96 vergettes ; un à un tous les tuyaux de chaque jeu (en calculant la hauteur de tous ceux qui manquent en façade dans les plate-faces) ; il a vérifié les tampons de chacun des tuyaux de bois ; il a remarqué que tous les tubes de la fourniture dont "pelle melle" les uns dans les autres. Il a vérifié les languettes de toutes les anches. Il a constaté que dans un orgue riche de 893 individus, il en manquait 127. Il calculé que cet instrument neuf représenterait 4000 l, mais qu'aujourd'hui sa construction montarait à  5000 livres. Pourtant si on le vendait dans le lamentable état où il se trouve, on n'en tirerait guère plus de 1200 livres.
 			<br>
-			5° A nettoyer généralement le dedans et le dehors de l'orgue, de mettre le clavier dans sa parfaite harmonie, d'en refaire les touches, , les bois et généralement de faire et parfaire tant le dedans que le dehors de l'orgue pour le premier du mois d'aoust mil sept cent cinquante et un, le tout sujet à la visitte et à dire d'experts ; s'oblige en outre et promet le dit sieur Cachet de faire à neuf une trompette, en place de la voix humaine, lequel ouvrage enentier et parfait le dit sieur Cachet garantit pendant une année et s'oblige à toutes les réparations qui seront à faire pendant le cours de la ditte année...°°
+			Le second mémoire concerne le même instrument,  mais dénote un autre état d'esprit : au vu d'une documentation écrite (peut-être le mémoire précédent), celui qui tient la plume présente quelques suggestions pour restaurer ce grand corps malade. C'est un projet idéal de relevage, mais il est proposé en sus, un cornet séparé, un clavier de positif à huit registres (sans buffet séparé), car M. l'organiste de la cathédrale a vu et touché l'orgue du Saint-Esprit (d'Auxerre), il en peut dire son sentiment : "un orgue qui n'a qu'un clavier, l'organiste ne peut s'étandre et est borné surtout" : juste remarque d'un homme de l'art, qui ajoute cette précieuse information : "si ces messieurs doutent que je puisse mettre trois claviers à leur orgue, j'en ay deux dans une chapelle de M. le Bernardins, qui sont de plus de moitié plus petites, qui ont trois claviers dont pourront rendre témoignage les organistes qui viendront les toucher et sur lesquels on touche toutes le pièces que l'on veut". Qui parle ainsi ? Peut-être ce facteur, Charles Cachet, qui sera chargé deux ans plus tard, de restaurer l'orgue de N-D la d'Hors ? ou un autre organier appelé à donner son avis.
 			<br>
-			Signé : Cachet.
+			... Esclavy (1676) expertisant l'orgue de N-D la d'Hors, signale que son confrère Lebé n'a pas "garni les soufflets" et que les "portevent sont de sappins et garnis de papier (alors qu'ils) doibvent estre de bois de chesne et garny de velin". ... "les sommiers ne pas garnis dans les litteaux"...
 			<br>
-			(ADY, H I222.)
+			... Des détails supplémentaires sont fournis en 1748 par le mémoire d'expertise de l'orgue de N-D la d'Hors, signé du facteur Cottereau, qui a remarqué "trois soufflets de six pieds de longueur, ayant de chaque côté cinq plie, ces a dire douse feuillet et douse à la taite (sic et resic) ce qui fait pour chaque soufflet trente six feuillets, le tout de bon bois de chaine, boulet et bar de fer qui serve à faire mouvoir les dits soufflets ; les plis ont de profondeur à la tête cinq pouce et trois agre, et les pozier ont de largeur sept pouce et de profondeur quatre pouce et demie,le tout en dehor. Il faut garnir les soufflets en cuir neuf et garnir les portevent en parchemin". Nous tenons là une des descriptions les plus précises de ces soufflets avec leurs mesures exactes....
+			... Cottereau fait en 1748 la description de l'instrument qu'il ausculte à N-D la d'Hors et voici les détails très precis que nous en extrayons : "le portevent qui est au dessous des soufflets et qui va jusquà la boitte du tremblan doux a de largeur en car sé en dehors cinq pouces, le portevent qui conduit au saumier du grand orgue a six pouces et un quar de largeur et cinq pouce et demie sur le couté (0,17 x 0,14). Ce portevent porte d'un out à la boite du tremblan doux et de la autre au saumié ; après le portevent est attaché le tremblan fort dont le dessus est détaché... Le tremblan est bien construit, estant à coulisse. Qent au couvercle de la boite, la soupape et le chape en sont bon aussi bien que le resor qui est de cuivre". Cottereau signale que le sommier de pédale avec ses deux jeux est séparé en deux blocs de chacun neuf gravures, et que le sommier de grand orgue comporte également deux corps de chacun 24 soupapes, les jeux étant coupés en basses et dessus "pour faciliter messieurs les organistes à diversifier leurs pièsses par ce qu'il nie a qu'un clavié".
 			<br>
-			° Ce facteur avait été désigné en 1724 pour examiner les orgues que Claude Moucherel venait de réparer à Saint-Epvre de Nancy. Organiste de la cathédrale de Langres, il avait fait en 1736 l'inventaire des jeux de son instrument. En 1735, il avait rétabli l'orgue de l'abbaye des Mureaux, et devait construire en 1740 celui de N.-D. de noyers [pour le moment voir cet orgue sur le blog des orgues de l'Yonne. NdA]. - (Jacquot, Artistes Lorrains...)
+			... En 1673, le sieur Lebé reconstruit l'orgue ; en augmentation sur son premier devis, on lui a commandé " un plein jeu tout neuf, composé de sept thuiaux sur marche". Mais celui qui a expertisé l'orgue en 1676 a trouvé que "fourniture et cymbale de 7 tuyaux n'a pas effect de 7 tuyaux". Plein jeu sans doute mal composé et trop maigre, ou bourré d'unissons ? ...
 			<br>
-			°° Le prieur lui promettait de lui verser 800 livres, en trois paiements.
+			... En 1748, celui qui expertise l'orgue de N-D la d'Hors nous donne du plein-jeu une description détaillée : "Fourniture qui est composée de 92 tuiaux... distribués en trois répétitions. Il paraît que le premié de la première marche parle à la quinte plus haut que la doublette, le second à l'octave plus haut ; le troisième à l'octave du premier et le quatrième à l'octave du second, et les autres à proportion suivant les marches. Il manque à ce jeu 24 tuiaux... <span class="txt_rouge">Il faut aussie les desmeller, par ce qu'ils sont tout pelle-melle les uns dans les autres</span>, ce qui ne se peu faire qu'en autant les tuiaux affin de voir par la hauteur où il doive estre placé. Cimbale qui est composée de trois tuiaux par marche qui sonne leur accord avec la fourniture". Ce qui donnait, pour le départ de la fourniture, la composition : 1 1/3, 1, 2/3, 1/2. ...
+			<br>
+			... Nasard et tierce sont coupés en "basses et dessus" en 1676...
 		</p>
 		<p>
 			1748-1750     AUXERRE.     Notre-Dame-la-d'Hors
@@ -638,28 +740,10 @@
 			Trompette ; Clairon.
 			<br>
 			Echo               Cornet.
-			<br><br>
+			<br>
 			Pédale 18 t. Flûte 8 ; Trompette.
-			<br><br>
-			Le 27 janvier 1755, Cachet reconnaissait, en une valable quittance, avoir reçu 920 livres pour les travaux faits par lui depuis 1750.
-		</p>
-		<p>
-			Quittance du facteur Cachet.
-			<br>
-			Par devant les conseillers du roi, notaires à Auxerre soussigné, le vingt septième jour de janvier mil sept cent cinquante cinq après midy, fut présens le sieur Joseph Charles Cachet, facteur d'orgues et organiste demeurant ordinairement à Langres, de présent en cette ville, lequel a reconnu et confessé avoir eu et receu de messieurs le prieur et chanoines reguliers de l'abbaye royalle de Saint Marien d'Auxerre... la somme de neuf cent vingt livres pour tous les ouvrages qu'il a fait aux orgues de la ditte abbaye, depuis l'année mil sept cent cinquante jusqu'à ce jour, suivant les conventions faittes entre eux et qui consistoient premièrement à netoyer tous et un chacuns des tuyaux de la montre et des différents jeux, de les redresser et refaire les pieds de ceux qui ont besoin, en outre d'y fournir les neufs qui y seront besoin.
-			<br>
-			2° A completter tous les jeux, c'est à dire le faire et completter en neuf tous les jeux qui manquent dans chaque jeux, a mettre tous les jeux d'accord, et a les rendre tous dans leurs parfaites raisonnances.
-			<br>
-			3° A refaire tous les mouvements qui manquent dans les dits jeux tant en feort qu'en bois.
-			<br>
-			4° A réparer et mettre en bon ordre la soufflerie, en sorte que rien n'y manque.
-			<br>
-			5° A netoyer généralement le dedans et le dehors de l'orgue, de mettre le clavier dans sa parfaite armonie, d'en refaire les touches, les bois et générallement de faire et parfaire tant le dedans que le dehors de l'orgue, le tout sujet à la visite et à dire d'experts de refaire à neuf une trompette, raisonnante huit pieds, un clairon à l'octave de la trompette, en place de la voix humaine et d'augmenter un jeu appelé l'echo, lesquels ouvrages ont été reçus par gens a ce connaisseurs et accepté par le dit sieur Colette qui luy a payé la susdite somme...
-			<br>
-			(ADY, H I222.)
 		</p>
 		<p>
 			Sur tous les instruments les claviers étaient en basses et dessus.
 		</p>
-			
-</section>
+</section>,

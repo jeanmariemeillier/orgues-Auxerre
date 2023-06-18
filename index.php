@@ -34,7 +34,7 @@
    
     <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
     <?php  
-          /* corection d'un bug rajout d'une condition pour afficher le blo ou non
+          /* corection d'un bug rajout d'une condition pour afficher le blog ou non
           modif du 21/05/2023 */
           if ($liens["mod_blog"]) {
             echo "<!-- installation du blog -->";

@@ -1,7 +1,7 @@
 <?php
  /* 
   blog automatique du collectif 11880
-  Date de création: 21/02/2012  
+  Date de crÃ©ation: 21/02/2012  
   version 1.5.1 au 4/09/2021
 
   manque une condition si mod_blog egale false

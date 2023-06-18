@@ -4,25 +4,50 @@
             Le couvent des Cordeliers dont il ne reste plus rien aujourd'hui (sa suppression date de 1790), s'élevait à l'emplacement de l'actuel marché couvert (ce texte est de 1943)[répertorié 2ème de France et malheureusement détruit pour faire place à un parking en centre-ville]. Rectification : il aurait été démoli et vendu à un américain...
         </p>
         <p>
-            Le 28 mai 1661, le facteur orléannais Pierre BRIDARD [ce facteur nous est signalé à Bourges où il prenait en 1674, la suite de l'organiste parisien Sébastien BURAT, pour entretenir l'orgue de la cathédrale de Bourges] prenait l'engagement de réparer l'orgue de ce couvent, d'en "estancher les soufflets de sorte qu'ils ne perdent point de vent, de tous les porte-vent aussy, d'en relever tous les thuyaux... les nestoier et faire parler tous, dans chacun leur armonie, racommoder tous ceux qui se trouveront gastez et en refaire des neux où il s'en trouvera de manque, faire marcher tous les registres justement, racomoder les anches et languette de la trompette, et de la voix humaine, et faire parler tout le dessus de trompette, quy ne dit mot, et les pédalles, et mettre en estat les deux thuyaux [telle qu'elle est rédigée, cette phrase laisserait entendre que la montre ne comportait que deux tuyaux ; le fait serait trop étrange pour être vraisemblable ; il faut donc entendre par là les deux tuyaux qui sont détériorés ou hors d'usage] de la montre".
+            En 1632, les pédaliers étaient dotés de jeux indépendants... Les plus pauvres, ne pouvaient guère stimuler le jeu de l'organiste. On trouve dix notes au pédalier indépendant des Jacobins<sup>1</sup>...
         </p>
         <p>
-             Ce travail fut effectué pour la somme de 30 livres, - le facteur était en outre "norry et couché", et les Religieux étant tenu de faire toutes les fournitures nécessaires aux travaux - après une réception officielle par un expert.
+            Le 28 mai 1661, le facteur orléannais Pierre BRIDARD [ce facteur nous est signalé à Bourges où il prenait en 1674, la suite de l'organiste parisien Sébastien BURAT, pour entretenir l'orgue de la cathédrale de Bourges] prenait l'engagement de réparer l'orgue de ce couvent, d'en "estancher les soufflets de sorte qu'ils ne perdent point de vent, de tous les porte-vent aussy, d'en relever tous les thuyaux... les nestoier et faire parler tous, dans chacun leur armonie, racommoder tous ceux qui se trouveront gastez et en refaire des neux où il s'en trouvera de manque, faire marcher tous les registres justement, racomoder les anches et languette de la trompette, et de la voix humaine, et faire parler tout le dessus de trompette, quy ne dit mot, et les pédalles, et mettre en estat les deux thuyaux
+        <br> 
+            [telle qu'elle est rédigée, cette phrase laisserait entendre que la montre ne comportait que deux tuyaux ; le fait serait trop étrange pour être vraisemblable ; il faut donc entendre par là <span class="txt_rouge">les deux tuyaux qui sont détériorés ou hors d'usage</span>]
+        <br>
+            de la montre".
+        </p>
+        <p>
+             Ce travail fut effectué pour la somme de 30 livres, - le facteur était en outre "norry et couché", et les Religieux étant tenu de faire toutes les fournitures nécessaires aux travaux - après une réception officielle par un expert<sup>2</sup>.
         </p>
         <p>
             Nous ne connaissons malheureusement ni le nom du facteur de l'instrument, à son origine, ni la composition de ce dernier au moment des réparations faites par BRIDARD. {BRIDARD Pierre. 1661 - Les Cordeliers d'auxerre... Réparations}
         </p>
         <p>
-            On trouve, par ailleurs, cette réflexion : ... Ceux que nous appelons les "petits maîtres", parce que nous ignorons encore le nom et le nombre de leurs clients, seront encore moins bien servis par les textes. Bornons-nous à citer ici tant pour Paris que pour la province immédiate : un Pierre Bridard, d'Orléans, qui restaurait en 1661 l'instrument des Cordeliers d'Auxerre, en 1666 l'orgue des Pénitents Blancs de Bourg, en 1674 celui de la cathédrale de Bourges, construisait en 1677 l'orgue de Saint-Aignan d'Orléans, et relevait, en 1686, l'orgue de la cathédrale de Nantes...
+            On trouve, par ailleurs, cette réflexion : ... Ceux que nous appelons les "petits maîtres", parce que nous ignorons encore le nom et le nombre de leurs clients, seront encore moins bien servis par les textes. Bornons-nous à citer ici tant pour Paris que pour la province immédiate : un Pierre Bridard, d'Orléans, qui restaurait en 1661 l'instrument des Cordeliers d'Auxerre, en 1666 l'orgue des Pénitents Blancs de Bourg, en 1674 celui de la cathédrale de Bourges, construisait en 1677 l'orgue de Saint-Aignan d'Orléans, et relevait, en 1686, l'orgue de la cathédrale de Nantes<sup>3</sup>...
         </p>
+        <cite>
+	        <sup>1</sup>Norbert Dufourcq. Le livre de l'orgue français, Tome III*, LA FACTURE Editions A. & J. Picard. Paris 1975.
+	    </cite><br>
+        <cite>
+	        <sup>2</sup>Archives Départementales de l'Yonne. H.1385.
+	    </cite><br>
+        <cite>
+	        <sup>3</sup>Norbert Dufourcq. Le livre de l'orgue français, Tome III**, LA FACTURE Editions A. & J. Picard. Paris 1978.
+	    </cite>
         <p>
-            Procès-verbaux de l'administration municipale de la ville d'Auxerre pendant la Révolution :
-            <br>
-            31 janvier de l'an IV de la liberté (1792) :
-            <br>Orgue de l'église des ci-devant Cordeliers.
-            <br>Arrêté que le débris de l'orgue des ci-devant Cordeliers seront mis dans le choeur qui ferme à clef, afin qu'ils ne soient point détériorés par les ouvriers, qui apportent dans l'église des matériaux.
-         </p>
-         <figure class="image_cnt">
+            Arrêté que le débris de l'orgue des ci-devant Cordeliers seront mis dans le choeur qui ferme à clef, afin qu'ils ne soient point détériorés par les ouvriers, qui apportent dans l'église des matériaux.
+        </p>   
+        <cite>
+            Procès-verbaux de l'administration municipale de la ville d'Auxerre pendant la Révolution : 
+	    </cite><br>
+        <cite>
+                                par M. CH. DEMAY 
+	    </cite><br>     
+        <cite>
+            31 janvier de l'an IV de la liberté (1792) : 
+	    </cite><br>   
+        <cite>
+        Orgue de l'église des ci-devant Cordeliers. 
+	    </cite>
+        <p></p>     
+        <figure class="image_cnt">
 	        <img src="images/cordeliers.jpg" border="0" alt="l'ancien marché couvert d'Auxerre">
         </figure>
         <figure>
@@ -32,21 +57,19 @@
              <br>
                 La suppression du couvent des Cordeliers, en 1790, fournit une excellente occasion pour établir ce marché. Les bâtiments en furent démolis en partie, et la place où l'on voulait établir d'abord une halle aux grains, fut ensuite affectée à sa destination actuelle. On éleva en 1817, des tentes en ardoise sur des colonnes en bois, qui forment plusieurs lignes parallèles et en sens divers. La disposition des tentes serait plus heureuse si le public y trouvait un abri sûr, mais il n'y reçoit que de l'eau en abondance dans les temps pluvieux.
             <br>
-            L'histoire du couvent des Cordeliers ou Franciscains se lie intimement à celle de la ville d'Auxerre. Ces religieux, qui font voeu de pauvreté absolue et qui sont destinés à la prédication, furent établis d'abord par la comtesse Mathilde, dans un lieu connu sous le nom de Sainte-Nitasse, et situé à droite de la route d'Avallon, à 2 kilomètres d'Auxerre. La comtesse y possédait un manoir dont on voit encore les vestiges dans les prés... Une charte de 1243, la première qui parle des Frères-Mineurs à Auxerre rapporte que le lieu s'appelait la Fertez et Brahanay. On reconnut bientôt que les Frères étaient mal installés, et en 1252 la comtesse les transféra dans la cité. En leur donnant la nouvelle résidence qu'ils devaient occuper jusqu'à la fin, la comtesse exigea d'eux qu'ils fissent murer une porte qui existait, selon Lebeuf, probablement dans les murs de la cité, et ouvrait dans la rue d'Orbandelle.
+            L'histoire du couvent des Cordeliers ou Franciscains se lie intimement à celle de la ville d'Auxerre. Ces religieux, qui font voeu de pauvreté absolue et qui sont destinés à la prédication, furent établis d'abord par la comtesse Mathilde, dans un lieu connu sous le nom de Sainte-Nitasse, et situé à droite de la route d'Avallon, à 2 kilomètres d'Auxerre. La comtesse y possédait un manoir dont on voit encore les vestiges dans les prés... Une charte de 1243, la première qui parle des Frères-Mineurs à Auxerre rapporte que le lieu s'appelait la Fertez et Brahanay<sup>1</sup>. On reconnut bientôt que les Frères étaient mal installés, et en 1252 la comtesse les transféra dans la cité. En leur donnant la nouvelle résidence qu'ils devaient occuper jusqu'à la fin, la comtesse exigea d'eux qu'ils fissent murer une porte qui existait, selon Lebeuf, probablement dans les murs de la cité, et ouvrait dans la rue d'Orbandelle.
             <br>
             Ces religieux, aimés des habitants d'Auxerre, leur donnèrent longtemps l'hospitalité dans leur couvent. Leur église servait aux assemblées populaires avant la construction de l'hôtel de ville. On donnait chez eux ces représentations des Mystères, faites de drames de la vie de Jésus-Christ ou des saints, dans lesquels les personnages se comptaient par centaines, et qui duraient non plus des heures, mais des semaines entières.
             <br>
-            En 1425, au mois de juin, les Frères furent victimes de leur obligeance. Le couvent fut totalement incendié par l'imprudence des ouvriers qui préparaient, dans le cloître, les charpentes destinées à l'horloge que les habitants projetaient déjà de faire bâtir. L'église, la librairie, les dortoirs, le réfectoire, tout fut dévoré par le feu.
-            <br>
-            Mais les habitants résolurent bientôt de réparer les pertes des bons frères, et, selon Bargedé, dès l'an 1438 le couvent était rebâti plus beau que jamais.
+            En 1425, au mois de juin, les Frères furent victimes de leur obligeance. Le couvent fut totalement incendié par l'imprudence des ouvriers qui préparaient, dans le cloître, les charpentes destinées à l'horloge que les habitants projetaient déjà de faire bâtir. L'église, la librairie, les dortoirs, le réfectoire, tout fut dévoré par le feu. Mais les habitants résolurent bientôt de réparer les pertes des bons frères, et, selon Bargedé, dès l'an 1438 le couvent était rebâti plus beau que jamais.
             <br>
             En 1555, le jour de la Saint-François, le roi Henri II visita le couvent et y reçut l'hospitalité. On peut supposer que le menu du dîner fut moins maigre qu'à l'ordinaire.
             <br>
-            A la prise d'Auxerre par les Huguenots, l'église des Cordeliers leur servit de prêche. Elle fut alors endommagée ainsi que le reste du couvent. Le mur du choeur fut jeté à bas, ainsi qu'on le voit par un marché pour sa réfection après l'expulsion des Réformés. Mais les ruines ne furent entièrement réparées qu'au XVIIè siècle. En 1612, les habitants y contribuèrent pour 50 livres. Le couvent était alors dans une ère de prospérité qui ne fit que s'accroître, et qui était telle qu'en 1659 le maire et les échevins attestaient qu'il y avait dans la maison 28 prêtres et 14 frères novices, et "qu'ils avoient besoin de la charité qu'ils demandent."
+            A la prise d'Auxerre par les Huguenots, l'église des Cordeliers leur servit de prêche. Elle fut alors endommagée ainsi que le reste du couvent. Le mur du choeur fut jeté à bas, ainsi qu'on le voit par un marché pour sa réfection après l'expulsion des Réformés<sup>2</sup>. Mais les ruines ne furent entièrement réparées qu'au XVIIè siècle. En 1612, les habitants y contribuèrent pour 50 livres. Le couvent était alors dans une ère de prospérité qui ne fit que s'accroître, et qui était telle qu'en 1659 le maire et les échevins attestaient qu'il y avait dans la maison 28 prêtres et 14 frères novices, et "qu'ils avoient besoin de la charité qu'ils demandent."
             <br>
             L'église des Cordeliers, qui subsista jusqu'en 1789, fut construite au XVè siècle. On arrivait au couvent de la rue des Cordeliers par un passage pratiqué dans le mur de la Cité et qui menait jusqu'au tiers de la place actuelle, où se trouvait le portail de l'église. Cet édifice était surmonté d'un clocher de grande hauteur. Du côté du sud-est, entre le vaisseau et les maisons, se continuait le passage public, large de 6 mètres. Une porte grillée le fermait du côté de la place au Lait. En face était une porte latérale de l'église, et à côté du choeur, le long de la rue Notre-Dame, était une chapelle, et derrière le maître-autel une porte cochère. Le cloître était adossé à l'église et carré ; son entrée à gauche du portail, près du parloir.
             <br>
-            L'église était sombre et triste. Elle portait dans oeuvre 27 toises 5 pieds de longueur sur 5 toises 6 pouces de largeur ; et la voûte 7 toises 3 pieds de haut. Il y avait au milieu du préau du cloître une pyramide qui avait été bénie en 1621 par l'évêque Séguier.
+            L'église était sombre et triste. Elle portait dans oeuvre 27 toises 5 pieds de longueur sur 5 toises 6 pouces de largeur ; et la voûte 7 toises 3 pieds de haut<sup>3</sup>. Il y avait au milieu du préau du cloître une pyramide qui avait été bénie en 1621 par l'évêque Séguier.
             <br>
             C'est dans cet édifice que s'assemblèrent, pour la dernière fois, les trois ordres, le 23 mars 1789, pour l'élection des députés aux Etats-Généraux.
             <br>
@@ -59,13 +82,24 @@
             Il existait autrefois dans l'église des Cordeliers une confrérie très nombreuse du tiers-ordre de Saint-François, et qui réunissait les principales familles bourgeoises de la ville. Le Nécrologe du couvent mentionne les noms de celles qui avaient choisi leur sépulture dans l'église depuis le XVè siècle. A cette époque ce sont les Vivien, les Gonthier, Jean Rapine, qui soumit la ville d'Auxerre à Louis XI, qui mourut en 1748 et fut enterré sous le grand autel. Au XVIè siècle on trouve les Leprince, les Delafaye, les Boucher, les Chrétien, les des Bordes, les Leclerc, Guillaume Coephy, maître de la Monnaie, les Collinet, dont l'un d'eux se tua en se jetant tout armé par dessus les murailles, la nuit de la prise d'Auxerre par les Huguenots. Au XVIIè siècle, ce sont les Le Muet, les Duvoigne, encore les Boucher et les Leclerc, les Baudesson, les Chevalier, les Girardin, les Martineau. Tous ces représentants de la bourgeoisie auxerroise reposent sur le chemin foulé chaque jour par les pieds des nombreuses ménagères qui visitent le marché.   
             </blockquote>
         </figure>
+        <p>
+	        Quantin. Histoire anecdotique des rues d'Auxerre. Editions de Civry. Avallon, 1979
+        </p>
+        <cite>
+	        <sup>1</sup> Archives de l'Empire, J, 256, n° 44.
+	    </cite><br>
+        <cite>
+            <sup>2</sup> Archives de l'Yonne, E, minutes de divers notaires.
+        </cite><br>
+        <cite>
+	        <sup>3</sup> Procès-verbal d'expertise du 16 octobre 1791.
+        </cite>
+        <p></p>
         <figure class="image_cnt">
             <figcaption>Actuelle place des Cordeliers et entrée du sous-sol</figcaption>
 	        <img src="images/aujourd'hui.jpg" border="0" alt="">
             <img src="images/soussol.jpg" border="0" alt="">
         </figure>
-        <p>
-         
-        </p>       
-
+        <p></p>
+        <p></p>
 </section>
