@@ -16,14 +16,14 @@
 	"dirlien" : "pages",
 	"dirimg" : "img",
 	"dirtxt" : "elements",
-	"index" : "accueil",
+	"index" : "gestion_tabbord",
 	"aside" : false,
 	"fich_aside" : "",
 	"trt_head" : "Orgues Auxerre V2",
 
 "_commentaire": "données à renseigner pour le menu",
 	"typ_logo" : false,
-	"img_nav" : "logo_repere_invers_pt01.png",
+	"img_nav" : "",
 	"txt_alt" : "site des orgues d'Auxerre",
 	"trt_home" : "site des orgues d'Auxerre",
 	"img_panier" :"logo_panier.png",
@@ -31,11 +31,11 @@
 
 "_commentaire": "données à renseigner pour le lien social",
 	"lien_social" : false,
-	"auto_fb" : true,
+	"auto_fb" : false,
 	"lien_fb" : "",
 	"auto_insta" : false,
 	"lien_insta" :"",
-	"auto_youtube" : true,
+	"auto_youtube" : false,
 	"lien_youtube" :"",
 
 	"nbr_menu" :4,
@@ -47,13 +47,6 @@
 				"lrm" : "accueil",
 				"arm" : "vide"
 	},
-	"indic5" :{
-				"valid" : true,
-				"trt_menu" : "Contact",
-				"lien_pg" : "index.php?pg=2",
-				"lrm" : "contacts",
-				"arm" : "vide"
-	},
 	"indic3" :{
 				"valid" : true,
 				"trt_menu" : "Mon orgue virtuel",
@@ -63,16 +56,16 @@
 	},
 	"indic4" :{
 				"valid" : true,
-				"trt_menu" : "L'auteur",
-				"lien_pg" : "index.php?pg=4",
-				"lrm" : "quijesuis",
+				"trt_menu" : "Quitter",
+				"lien_pg" : "index.php?quit=1",
+				"lrm" : "",
 				"arm" : "vide"
 	},
 	"indic2" :{
 				"valid" : true,
-				"trt_menu" : "le grand orgue de la cathédrale",
+				"trt_menu" : "gestion menu ",
 				"lien_pg" : "index.php?pg=2",
-				"lrm" : "orgue_cathedrale",
+				"lrm" : "gestion_menu_site",
 				"arm" : "vide"
 	},
 	

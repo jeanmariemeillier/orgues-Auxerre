@@ -1,0 +1,584 @@
+/* @import url("fateh.css");  */
+
+#gestion_prd {
+    margin-top: 7.5rem;
+    position: relative;
+}
+#modif_blog {
+    position: relative;
+    margin: 0px 18%;
+    /* width: 100%; */
+}
+label, textarea {
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+#text_blog {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/*accueil_bord*/
+
+#main_tab {
+    display: flex;
+}
+#demarage {
+    width: 450px;
+    padding: 1rem;
+}
+#demarage section {
+    column-count: 3;
+}
+#demarage ul {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+#demarage li {
+    padding-top: 10px;
+    margin-top: 25px;
+}
+.b-example-divider {
+    flex-shrink: 0;
+    width: 1.5rem;
+    /*height: 100vh;*/
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+#favoris, #agenda {
+    padding: 1rem;
+    flex-shrink: 0;
+    flex-direction: column;
+    display: flex;
+    width: 450px;
+}
+#favoris h3 {
+    text-align: center;
+}
+#favoris ul {
+    padding-left: 0;
+    list-style: none;
+}
+#favoris li {
+    margin-bottom: .25rem;
+}
+#favoris button {
+    padding: .25rem .5rem;
+    font-weight: 600;
+    color: rgba(0, 0, 0, .65);
+    background-color: var(--mauve);
+    border: 1px;
+}
+
+/*pas encore vérifié*/
+/* supprimer le id #tab_tab_bord et le remplacer avec table  pour metter tout le table en html le meme css 
+
+NON déjà on ne suprime jamais du code comme ça et de plus on n'utilise jamais des balises génériques pour faire du css, sauf boby
+
+
+/*  ajouter de class tab_de_ficher_trav  */
+#tab_tab_bord, .tab_de_ficher_trav, #tab_bord_trav, #tab_temps_passer, .tab_tab_bord{
+    width: 99%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 5px;
+    font-size: 1.1rem;
+    border-spacing: 4px 0;
+}
+#tab_tab_bord caption, .tab_de_ficher_trav caption, #tab_temps_passer caption, .tab_tab_bord caption{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+#gestion_prd h2 {
+    text-align: center;
+    margin-top: 3rem;
+}
+#tab_tab_bord thead th, .tab_de_ficher_trav thead th, #tab_temps_passer thead th, .tab_tab_bord thead th{
+    background-color: var(--bleu);
+    color: var(--blanc);
+    padding: 10px;
+}
+#tab_tab_bord tbody td, .tab_de_ficher_trav tbody td, #tab_temps_passer tbody td, .tab_tab_bord tbody td
+{
+height: 25px;
+}
+#tab_tab_bord tbody tr:nth-child(even), .tab_de_ficher_trav tbody tr:nth-child(even), #tab_temps_passer tbody tr:nth-child(even), .tab_tab_bord tbody tr:nth-child(even){
+    background-color: var(--bleublanc);
+}
+#tab_tab_bord tbody tr:nth-child(odd), .tab_de_ficher_trav tbody tr:nth-child(odd), #tab_temps_passer tbody tr:nth-child(odd), .tab_tab_bord tbody tr:nth-child(odd){
+    background-color: var(--gris_clr);
+}
+#tab_tab_bord tbody tr input, .tab_de_ficher_trav tbody tr input {
+    width: 150px;
+    border: none;
+    /* text-align: center; */
+}
+.tab_de_ficher_trav {
+    margin: 0 auto;
+    margin-top: rem;
+}
+#tab_temps_passer{
+    margin-top: 3rem;
+}
+#tab_tab_bord .gs_bout {
+    width: 100px;
+}
+#tab_tab_bord .btsupprd, #tab_tab_bord .btmodprd {
+    margin-top: 5px;
+    margin-left: 10%;
+}
+/* rajout page produit */
+#nom_table{
+    width: 160px;
+}
+#affich_fam, #tab_rubriques{
+    display: none;
+}
+.btmodif, .btsuprim, .btnouv {
+    border: 1px solid var(--blanc);
+    background-color: var(--bleu);
+    padding: 0.313em 0.5em;
+    cursor: pointer;
+    display: inline-block;
+    color: var(--blanc);
+    border-radius: 6px;
+}
+.btsuprim {
+    background-color: var(--rouge);
+}
+#btnouv,.bt_mauv,.bt_vert{
+    cursor: pointer;
+    height: 30px;
+    font: 1.1rem bold;
+    padding: 0px 5px;
+    margin-left: 20px;
+    width: 180px;
+}
+#btnouv,.bt_vert{
+    background-color: var(--vert);
+    color: var(--blanc);
+}
+.bt_mauv {
+    background-color: var(--mauv-clr);
+    border-color: var(--bleu);
+}
+#btnouv_prd, #bt_anuler, #btmofdif_prd {
+    height: 35px;
+    font-weight: bold;
+    color: var(--bleu);
+}
+#btnouv_prd, #btmofdif_prd {
+    display: none;
+}
+#bt_anuler {
+    margin-left: 10px;
+}
+.btmodif:hover, .btsuprim:hover, .btnouv:hover, #bt_anuler:hover, #btnouv_prd:hover, #btmofdif_prd:hover {
+    color: var(--blanc);
+    background-color:var(--rouge);
+}
+#search-box, #status-select{
+    margin-left: 20px;
+    border: 2px solid var(--bleu);
+    background-color: var(--mauv-clr);
+    text-align: center;
+}
+#search-box::placeholder{
+    color: var(--noir);
+    text-align: center;
+}
+#popup-ajouter {
+    position: absolute;
+    top: 6%;
+    left: 17%;
+    width: 83%;
+    height: 410px;
+    border-color: var(--bleu);
+    background-color: var(--mauv-clr);
+    z-index: 0;
+    border-style: solid;
+    border-width: 2px;
+    display: none;
+}
+#tab_ajouter {
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    width: 100%;
+}
+#tab_ajouter tr {
+    text-align: center;
+}
+#tab_ajouter td {
+    padding-left: 5px;
+}
+#tab_ajouter .small {
+    width: 95px;
+}
+#tab_ajouter .longue {
+    width: 300px;
+}
+#tab_ajouter #textproduit {
+    width: 200px;
+    height: 80px;
+}
+.trt_label {
+    text-align: center;
+}
+.fm_tab_bord input {
+    position: relative;
+    margin: 0 auto;
+}
+.nav-tab_bord {
+    margin-left: 20px;
+    width: 200px;
+}
+.nav-tab_bord nav {
+    background-color: #A78ABE;
+    border: 1px solid;
+    border-color: #201962;
+    top: 130px;
+    position: relative;
+}
+.nav-tab_bord nav a {
+    display: block;
+    padding: .75rem 1.25rem;
+    font-size: 1rem;
+    margin-top: 5px;
+}
+a {
+   color: var(--bleu);
+}
+/*page traveaux*/
+#tav_bord {
+    width: 99%;
+    padding: 1rem;
+}
+.fblanc {
+    /* color: white; */
+    color: var(--blanc);
+}
+.link-dark {
+    color: var(--noir);
+}
+#navbar-bord {
+    position: fixed;
+    width: 99%;
+    top: 0;
+    height: 80px;
+    z-index: 10;
+    background-color: var(--mauve);
+    display: flex;
+    justify-content: space-between;
+    color: var(--blanc);
+}
+#titre-bord {
+    font-size: 2.5rem;
+    margin-top: 6px;
+    font-weight: bold;
+}
+#version-bord {
+    margin-right: 15px;
+    font-size: 0.95rem;
+    font-style: italic;
+    margin-top: 25px;
+}
+.dropdown-toggle {
+    outline: 0;
+}
+.nav-flush .nav-link {
+    border-radius: 0;
+}
+.btn-toggle {
+    display: inline-flex;
+    align-items: center;
+    padding: .25rem .5rem;
+    font-weight: 600;
+    color: rgba(0, 0, 0, .65);
+    background-color: var(--mauve);
+    border: 0;
+}
+.btn-toggle:hover, .btn-toggle:focus {
+    color: rgba(0, 0, 0, .85);
+    background-color: #d2f4ea;
+}
+.btn-toggle::before {
+    width: 1.25em;
+    line-height: 0;
+    content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
+    transition: transform .35s ease;
+    transform-origin: .5em 50%;
+}
+.btn-toggle[aria-expanded="true"] {
+    color: rgba(0, 0, 0, .85);
+}
+.btn-toggle[aria-expanded="true"]::before {
+    transform: rotate(90deg);
+}
+.btn-toggle-nav a {
+    display: block;
+    padding: 1.1975rem;
+    margin-left: 1.5rem;
+    text-decoration: none;
+    padding: .5rem;
+}
+.btn-toggle-nav a:hover, .btn-toggle-nav a:focus {
+
+    background-color: var(--blanc);
+}
+.scrollarea {
+    overflow-y: auto;
+}
+.fw-semibold {
+    font-weight: 600;
+}
+.lh-tight {
+    line-height: 1.25;
+    margin-bottom: 10px;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+.nav {
+    padding-top: 2rem;
+}
+#traveaux {
+    width: 440px;
+    padding: 1rem;
+    align-items: stretch;
+    flex-shrink: 0;
+    flex-direction: column;
+    display: flex;
+}
+#zone_affiche {
+    overflow-y: auto;
+    border-bottom: 1px solid var(--blanc);
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+}
+.cellule-trav {
+    line-height: 1.25;
+    position: relative;
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+}
+.bleu-trav, .rouge-trav, .mauve-trav, .vert-trav {
+    border: 1px solid var(--noir);
+    color: var(--blanc);
+}
+/* .bleu-trav {
+    background-color: #0d6efd;
+}
+.rouge-trav {
+    background-color: #fd0d2e;
+}
+.mauve-trav {
+    background-color: #A78ABE;
+}
+.vert-trav {
+    background-color: #4caf50;
+}
+.blanc-trav {
+    background-color: #FFF;
+    color: #000;
+} */
+.titre-trav {
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+}
+.list_bleue {
+    z-index: 2;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+.txt_trav {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+    font-size: .875em;
+    margin-bottom: 0.25rem;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+.mb-1 {
+    margin-bottom: .25rem !important;
+}
+/* popup 1 2 3 */
+#fenetre-enrg, #popup-energ, #popup_3_energ, #popup_nouv_prd{
+    position: fixed;
+    top: 15%;
+    left: 13%;
+    width: 1200px;
+    height: 610px;
+    border-color: var(--bleu);
+    background-color: var(--mauv-clr);
+    z-index: 0;
+    border-style: solid;
+    border-width: 2px;
+    display: none;
+}
+#fenetre-enrg{
+    height: 315px;
+}
+.titre_trav {
+    text-align: center;
+}
+.lign_bouton, .lign_champ{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.lign_champ {
+    margin-bottom: 40px;
+}
+.lign_champ input, .lign_champ select {
+    margin-left: 20px;
+    padding: 10px 10px;
+}
+.lign_champ label{
+    margin-top: 10px;
+    display: block;
+    font-size: 1.2rem;
+    margin-left: 20px;
+}
+/* #second-half select{
+    margin-left: 20px;
+} */
+/* .lign_champ label.inline {
+    display:inline;
+    margin-right:50px;
+} */
+.imput_dat, .imp_tel{
+    width: 100px;
+}
+.imp_nom {
+    width: 300px;
+}
+.imp_txt {
+    width: 40%;
+}
+/* tableau popup 2 */
+#table_energ {
+   margin: 0 auto;
+   width: 100%;
+
+}
+#table_energ tr td {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}
+#lab_des_trav {
+    position: relative;
+    left: 65px;
+}
+#des_trav {
+    position: relative;
+    top: 35px;
+    width: 400px;
+    height: 120px;
+    left: 139px;
+}
+#fenetre-enrg fieldset {
+    width: 95%;
+}
+#lab_trt_trav {
+    top: 4px;
+    position: relative;
+    left: 63px;
+}
+#trt_trav {
+    position: relative;
+    left: 72px;
+    width: 300px;
+    top: 5px;
+}
+#lab_date_trav {
+    position: relative;
+    top: 5px;
+}
+/* #fin_date {
+    padding: 10px 20px;
+    margin: 0 0.6em;
+    width: 248px;
+} */
+#cookie_date_container {
+    color: white;
+    font-weight: bold;
+    font-size: 110%;
+    display: block;
+    text-align: center;
+}
+#cookie_date_container span {
+    color: black;
+    font-weight: normal;
+    font-size: 100%;
+    display: block;
+    margin-bottom: 20px;
+}
+.input_date_cookie {
+    bottom: 28px;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 110%;
+}
+.nombre_de_fiche:hover {
+    cursor: pointer;
+    background-color: var(--mauv-clr);
+    font-size: 1.2rem;
+}
+#description_energ {
+    width: 90%;
+    height: 100px;
+    font-size: 1.2rem;
+    color: var(--noir);
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* .input_container {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 50px;
+} */
+
+#inputs_energ select {
+    width: 30%;
+}
+#sor_energ_trav, table + div {
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+    column-gap: 20px;
+}
+/* popup 3  */

@@ -10,7 +10,7 @@
 	permet de quiter le mode tabbord et suprimer le cookie
 	*/
 		if (isset($_POST['acces']) && md5($_POST['acces']) == $demar["pas_bord"]){
-			$jsonsite = "tab_bord";
+			$jsonsite = "tab_bord"; // donnée a corigée dans la json du site 25/06/2023
 			setcookie("tabbord", "ok", time()+ $tempo_cle,"/"); // modif crée une variable pour la durée du cookie
 			$v_tbrd = false;
 		}

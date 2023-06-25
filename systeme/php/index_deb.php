@@ -20,7 +20,7 @@
 	 	le 04/08/2022 modif sur la variable $active: elle est egale à l'indice du lien dans le menu supression du tableau
 	 	dernière modif le 12/03/2023: 
 	 	
-		rajout d'une condition si un Get'act' est pesent pour consever l'active sur une page à affichage automatique.
+		rajout d'une condition si un Get'act' est present pour consever l'active sur une page à affichage automatique.
 	 	modif crée une variable  $tempo_cle pour la durée du cookie 
 
 	 	NOTE:
@@ -35,7 +35,7 @@
 	$activ = "1";
 	$tempo_cle = 86400; /* modif de la valeur: nouvelle valeur= 24h */
 	$aside = false;
-	$v_tbrd = true;
+	$v_tbrd = true;// variable de présence du tableau de bord
 	if ($demar["tabbord"]) {
 
 		include ("tabbord_deb.php"); // nouveau sous fichier

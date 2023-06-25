@@ -28,6 +28,8 @@
     <link href="systeme/css/normalize.css" rel="stylesheet">
     <link href="systeme/css/bootstrap-icons.css" rel="stylesheet">
     <link href="systeme/css/orgues_auxerre.css" rel="stylesheet">
+    <link href="systeme/css/entrer_securiser.css" rel="stylesheet">
+    <link href="systeme/css/tab-bord.css" rel="stylesheet">
     <script src="systeme/js/jquery-3.6.4.min.js"></script>
     <script src="systeme/js/orgues_auxerre.js"></script>
      <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
@@ -62,9 +64,9 @@
        <p>
         <?php
             echo " Copyright &copy; ".$demar["copy_dte"]." ".$demar["edition"]." /  Site réalisé par  <a href=\"".$demar["lien_realis"]."\">".$demar["realis"]."</a>  /  Version ". $demar["version"]." au ".  $demar["date"];
-            // if ($v_tbrd) {
-            // echo " / <a href=\"".$liens["indic11"]["lien_pg"]."\">?</a> ";
-          // }
+            if ($v_tbrd) {
+            echo " / <a href=\"".$liens["indic20"]["lien_pg"]."\">?</a> ";
+          }
         ?>
       </p>
     </footer>
