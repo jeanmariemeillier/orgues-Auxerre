@@ -189,6 +189,11 @@ Composition de 1633
 	<sup>3</sup> Archives de l'Yonne, Jacobins.
 </cite>
 
-<p></p>
+<p>
+	Marché par J. LEVASSEUR facteur d'orgues demeurant à Tonnerre avec les frères prêcheurs d'Auxerre pour réparer leurs orgues
+	<br><br>
+	A. D. Y. E 500 (28 juin 1649).
+</p>
+</p>
 <p></p>
 </section>
