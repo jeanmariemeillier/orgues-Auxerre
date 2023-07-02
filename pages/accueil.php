@@ -2,27 +2,12 @@
    <section>
    <article id="menu_accueil">
    <ul>
-      <li>
-      ANCIENS INSTRUMENTS
-      </li>
-      <li>
-         <a href="index.php?pg=10">
-            Les Cordeliers
-         </a>
-      </li>
-      <li>
-         <a href="index.php?pg=11">
-            Les Frères Précheurs
-         </a>
-      </li>
-      <li>
-         <a href="index.php?pg=12">
-            Notre-Dame la-d'Hors
-         </a>
-      </li>
-      <li>
-      EGLISES ACTUELLES
-      </li>
+      <li class="trt_accueil">BATIMENTS DISPARUS</li>
+      <li><a href="index.php?pg=10">Les Cordeliers</a></li>
+      <li><a href="index.php?pg=11">Les Frères Précheurs</a></li>
+      <li><a href="index.php?pg=12">Notre-Dame la-d'Hors</a></li>
+      
+      <li>EGLISES ACTUELLES</li>
       <li>
          <a href="index.php?pg=13">
             Saint-Eusèbe l'orgue de choeur

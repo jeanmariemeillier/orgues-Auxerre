@@ -2,7 +2,7 @@
     <h1 class="cnt">Les Cordeliers</h1>
          <figure class="image_cnt">
 	        <img src="images/eglise_cordeliers.jpg" title="*(Quantin, 1979, 69)" alt="dessin ancien de l'église des Cordeliers">
-            <figcaption><span class="i">Dessin ancien de l'église des Cordeliers - *(Quantin, 1979, 69)</span></figcaption>
+            <figcaption><dfn>Dessin ancien de l'église des Cordeliers - *(Quantin, 1979, 69)</dfn></figcaption>
         </figure>
 
         <p>
@@ -48,7 +48,7 @@
 	   </cite>
         <figure class="image_cnt">
 	        <img src="images/carte_postale_auxerre.jpg" alt="Carte postal montrant l'ancien marché couvert d'Auxerre en 1918">
-            <figcaption>Avant-hier... le couvent des cordeliers. Hier... la place du Marché à Auxerre - *(1918)</span></figcaption>
+            <figcaption><dfn>Avant-hier... le couvent des cordeliers. Hier... la place du Marché à Auxerre - *(1918)</dfn></figcaption>
         </figure>
         <figure>
 	        <figcaption></figcaption>
@@ -92,10 +92,8 @@
         </cite>
         <p></p>
         <figure class="image_cnt">
-            <figcaption>Actuelle place des Cordeliers et entrée du sous-sol</figcaption>
-	        <img src="images/aujourd'hui.jpg" border="0" alt="">
-            <img src="images/soussol.jpg" border="0" alt="">
+            <figcaption><dfn>Actuelle place des Cordeliers et entrée du sous-sol</dfn></figcaption>
+	        <img src="images/place_cordelier_actu_01.jpg" border="0" alt="">
+            <img src="images/place_cordelier_actu_02.jpg" border="0" alt="">
         </figure>
-        <p></p>
-        <p></p>
 </section>

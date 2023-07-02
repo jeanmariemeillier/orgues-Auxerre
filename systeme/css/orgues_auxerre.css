@@ -33,6 +33,9 @@ footer p {
     padding: 10px 0;
     text-align: center;
 }
+figcaption {
+    text-align: center;
+}
 #navbar {
     position: fixed;
     width: 100%;
@@ -103,7 +106,7 @@ a:hover, a:active{
     /* padding: 1rem; */
     /* margin-top: 3.5rem; */
 }
-#menu_accueil {
+#menu_accueil{
     background-color: chartreuse;
     width: 69%;
     height: 90%;
@@ -112,6 +115,14 @@ a:hover, a:active{
     left: 15%;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
+}
+#menu_accueil ul {
+    list-style: none;
+    height: inherit;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 #puzzle{
     text-align: center;
@@ -178,6 +189,7 @@ a:hover, a:active{
     position: relative;
     margin-top: 7rem;
     z-index: -1;
+    padding-bottom: 1rem;
 }
 #page_cnt p{
     font-size: 1.3rem;
@@ -201,12 +213,20 @@ a:hover, a:active{
     position: relative;
     width: 60%;
     margin: 3% auto;
+    border: 1px solid var(--bleu);
 }
-#table_instru1 caption, #table_instru2 caption, #table_instru3 caption, #table_instru4 caption{
+#table_instru1, #table_instru2, #table_instru3, #table_instru4 {
     position: relative;
-    display: block;
-    left: 74%;
-    padding-bottom: 5%;
+    width: 60%;
+    margin: 3% auto;
+    background-color: var(--parchemin);
+    padding: 5px;
+}
+#table_instru1 th{
+    text-align: center;
+}
+#table_instru1 td{
+    width: calc(100%/3);
 }
 #table_instru2 {
     width: 33%;

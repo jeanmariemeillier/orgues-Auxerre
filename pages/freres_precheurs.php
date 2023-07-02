@@ -1,24 +1,29 @@
 <section id="page_cnt">
-<h1 class="cnt">Les Frères Prêcheurs</h1>
-<p>
-	Le couvent des Frères Prêcheurs, ou Jacobins, ou Dominicains, abrite aujourd'hui les locaux de la Trésorerie générale. Les bâtiments sont tout à fait modernisés.
-	<br>
-	Quantin, Histoire anecdotique des rues d'Auxerre.
-</p>
-<figure class="image_cnt">
+	<h1 class="cnt">Les Frères Prêcheurs</h1>
+	<p>
+		Le couvent des Frères Prêcheurs, ou Jacobins, ou Dominicains, abrite aujourd'hui les locaux de la Trésorerie générale. Les bâtiments sont tout à fait modernisés.
+		<br>
+		Quantin, Histoire anecdotique des rues d'Auxerre.
+	</p>
+<!-- <figure class="image_cnt">
 	<img src="images/precheurs.jpg" border="0" alt="Les Jacobins modernisés">
-</figure>
+</figure> -->
+	<figure class="image_cnt">
+		<img src="images/couvent_jacobins_actu.jpg" border="0" alt="Les Jacobins modernisés/">
+        <figcaption><dfn>Batiment actuel du couvent des Jacobins</dfn></figcaption>
+    </figure>
 <p>
 Bien que la construction de cet instrument remonte à la première moitié du XVIè siècle, signalons là cependant et donnons quelques précisions sur cet orgue dont il ne reste rien aujourd'hui.
 </p>
 <p>
 Le 25 septembre 1632, le facteur troyen Jacques Lebé s'engageait à construire, pour ce couvent, un orgue de 12 jeux, composé comme suit :
 </p>
-<p class="cnt">
+<!-- <p class="cnt">
 Composition de 1633
-</p>
+</p> -->
 <table id="table_instru1">
-	<caption>G. O.  R.  47 t.</caption>
+<tbody>
+	<th colspan="3">G. O.  R.  47 t.</th>
 	<tr>
 		<td>Montre 8'</td>
 		<tD>Nasard</tD>
@@ -39,17 +44,18 @@ Composition de 1633
 		<td>Doublette 2'</td>
 		<tD>Cymbale II</tD>
 		<td>&nbsp</td>
-	</tr>
-</table>
-<table id="table_instru2">
-	<caption>Pédalier R. 10 t.</caption>
-	<tr>
+	</tr><tr>
+		<th colspan="3">Pédalier R. 10 t.</th>
+	</tr><tr>
 		<td>Flûte 8' </td>
 		<tD>Trompette 8'</tD>
+		<td>&nbsp</td>
 	</tr><tr>
 		<td>Tremblant doux</td>
 		<td>&nbsp</td>
+		<td>&nbsp</td>
 	</tr>
+</tbody>
 </table>
 
 <p>
