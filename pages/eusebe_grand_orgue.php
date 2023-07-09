@@ -82,7 +82,11 @@
 	    <sup>1</sup>Illisible
 	</cite><br>
     <br>
-</figure>    
+</figure> 
+<figure class="image_cnt">
+	<img src="images/orgue_&_tribune_28_03_1654.jpg">
+    <figcaption><dfn>Le dessin au crayon est au verso du présent acte.</dfn></figcaption>
+</figure>   
 
 
 <p>
@@ -113,8 +117,12 @@
     <br>
 </figure> 
 <p></p>
-<p>
-    Nous, soubsignés, certifions avoir veu, visité et examiné, après avoir esté appellé pour ce subject, par messieurs les procureurs fabriciens de l'glise de Saint Eusèbe d'Auxerre, l'orgue neuf de huit pieds en montre posé dans icelle, faicts par Maitres Houdart Salomon et Claude Le Moine, dans lequel nous n'avons rien trouvé qui ne soit bien et deuement faict, conformément au marché qu'ils ont contracté avec M. Burat demeurant à Auxerre selon le mémoire et contrat que le dit Burat a faict avec messieurs les procureurs fabriciens de la dite église. Fait le seizièsme jour juin mille six cent cinquante cinq.
+<figure>
+    <figcaption> </figcaption>
+	<blockquote> 
+        Nous, soubsignés, certifions avoir veu, visité et examiné, après avoir esté appellé pour ce subject, par messieurs les procureurs fabriciens de l'glise de Saint Eusèbe d'Auxerre, l'orgue neuf de huit pieds en montre posé dans icelle, faicts par Maitres Houdart Salomon et Claude Le Moine, dans lequel nous n'avons rien trouvé qui ne soit bien et deuement faict, conformément au marché qu'ils ont contracté avec M. Burat demeurant à Auxerre selon le mémoire et contrat que le dit Burat a faict avec messieurs les procureurs fabriciens de la dite église. Fait le seizièsme jour juin mille six cent cinquante cinq.
+    </blockquote>
+</figure>
     <br>
     <span class="i">Signé :</span> Charmolu, Le Vasseur, Alexis Georgis, Camart.
     <br>

@@ -123,7 +123,7 @@
         1661, 27 juin     Le vingt septième jour de juin mil six cent soixante et un, comparut en sa personne honnorable homme Michel Burat organiste demeurant à Auxerre, lequel a procès de l'un de nous, notaires roialx sousignés, l'aultre présent, luy ayant faict lecture de mot à autre... d'une conclusion portant pouvoir à noble messire Claude Marie conseiller du roy juge, magistrat au baillage et siège présidial d'Auxerre, honnorable homme Zacarie Arnault marchand et maître Edme Berthe greffier au magazin et grenier a sel d'Auxerre, de changer l'orgue de la dite eglise du lieu ou elle est, pour les raisons cy-contenues et pouvoir de les posser a costé du jubé raportant par les dits sieurs fabriciens raport d'experts qu'elles s'y peuvent facilement placer, duquel raport signé... luy ay aussy présentement faict lecture et après lesquelles lectures ouyes, il a dit conformément a la teneur d'iceux actes, s'oblige et promet par ces présentes d'hoster et desmonter bien et deuement les dites orgues et tout ce qui en dépend, du lieu ou elles sont de présent et rendre la place en meme estat de cimétrie qu'elle estoit auparavant qu'elles y fussent placées, et e faict les transporter à costé du dict jubé entre icelluy jubé et la chaire, et afin de n'oster aucune cimétrie a la dite eglise, il fera posser le bas de la tribune des dites orgues au dessus de l'apuy du dit jubé et à niveau d'icelluy, en sorte que l'apuis du dit jubé n'en soit aucunement empesché ; laquelle tribune sera ornée de quarderonds, paissés tant aux apuicts qu'au solive et autres pièces traversantes, le dessous avec trois culs de lampes aux places convenables, et du costé de la choise sera taillée la dite tribune à pands avec une corniche dessus  afin de donner plus de grace à icelle, et d'aultant que les dites orgues viendroient a d'eflourer par trop au dedans d'icelle église sy elles n'estoient enfoncées au dessus de l'arc de la dite place. Le dit Burat s'oblige de faire construire et bander une grande arcade de structure pareille au reste de la dite ésglise, d'époisseur et haulteur convenable de pierre de taille, pour les enfoncercomme dit est. Laquelle arcade sera bandée auparavant qu'il puisse rompre le fault pillier qui bande les deux petits arcs qu'y sont de présent, et ce pour plus grande assurance et afin qu'il n'en arive aucun accident. Ce faict, les jeux des dictes orgues seront posés de sorte que le buffet ne déflourera pas plus que l'avance du pillier de la chaire ; ausquelles orgues, outre tous les jeux qui y sont de présent que le dit Burat s'oblige de netoier, racomoder et metre en bon estat, il s'oblige de plus de faire bienn et duement neuf à dire d'organistes et de personnes à ce cognoissans, des pédalles de trompettes et de flustes composées de vingt six thuiaux seullement, scavoir douze de trompettes d'estain avec une feinte, et douze de fluste de bois, avec encore une feinte. De plus sera faict par le dict Burat a ses frais et despens, comme tout ce que dessus une petite montée de pierre en quarte de ronds <sup>1</sup> qui reignera depuis la hault de l'entrée du dit jubé et sans ampesché icelle, jusques au dessus de l'apuis du dit jubé, qui servira pour entrer dans la tribune des dites orgues. Fera faire en outre une porte resonable a costé du pillier du dit jubé et sans rien démolir au dit jubé ny pillier pour entrer dans la chambre des souffletcs qui seront posés sur les basses voultes ; et là fera bastir une chambre pour y mettre les dits soufflects de grandeur, haulteur et largeur convenables, avec bois de colombage et soulives resonnables, marelée et proportionnées, sur lesquelles sera fait un terrin avec fusée et en glassis en pente de cinq poulces afin de metre les dits soufflets a couvert ; laquelle chambre sera carelée ; et enfin faire ou faire faire a ses frais et despens générallement tout ce qu'il conviendra et sera nécessaire pour la perfection des dits besongnes, quoy que non exprimées ne soyent par ces présentes, et ce à dire de gens a ce cognoissant et fournir par luy et à ses frais tous mathériaux universellement  comme bois, fer, plastre et autre exprimés ou non exprimés et qui seront nécéssaires pour construire ce que dit est sans qu'il puisse rien exiger que le prix qui sera cy après dict... Et s'oblige le dit Burat rendre la dite besongnes cy dessus faictes, parfaictes... dans le dernier Aoust prochain. Le présent marché faict moiennant la somme de cinq cent vingt livres t.
     </blockquote>
     <cite>
-	    <sup>1</sup>Cet escalier fut définitivement fzit en bois, pour éviter de surcharger le jubé. Aussi lit-on  à la suite de cet acte : Burat "ne pourra rien prétendre pour six thuiaux de pédalles de trompettes et fluttes faits et fournies par icelluy oultre les vingtsix thuiaux portéz par le dit marché"...
+	    <sup>1</sup>Cet escalier fut définitivement fait en bois, pour éviter de surcharger le jubé. Aussi lit-on  à la suite de cet acte : Burat "ne pourra rien prétendre pour six thuiaux de pédalles de trompettes et fluttes faits et fournies par icelluy oultre les vingtsix thuiaux portéz par le dit marché"...
 	</cite><br> 
 </figure>   
 Norbert DUFOURCQ.
@@ -141,7 +141,7 @@ Editions PICARD. 1978 & 1982
 <p>
     Le 16 juin 1662, les travaux sont revus, et le procès-verbal fait mention d'une nouvelle augmentation de 6 tuyaux de pédales dont on refuse de régler le montant à Burat. Le pédalier a donc, en trois fois, été porté successivement de 13 notes à 17, puis 20.
 </p>
-<p>    
+<!-- <p>    
     Composition de 1654-1662 ; Oudart Salomon & Lemoyne
     <br><br>
     <span class="i">Grand-orgue : E. 47 t.</span>
@@ -161,7 +161,40 @@ Editions PICARD. 1978 & 1982
     <span class="i">Pédalier : R. 20 t.</span>
     <br><br>
     Flûte                           Trompette 8'
-</p>
+</p> -->
+
+<figcaption><span class="i">Composition de 1654-1662 ; Oudart Salomon & Lemoyne</span> </figcaption>   
+<table id="table_instru3">
+	<caption>Grand-orgue : E. 47 t.</caption>
+	<tr>
+		<td>Montre 8'</td>
+		<tD>nasard</tD>
+        <td>Cromorne 8'</td>
+	</tr><tr>
+		<td>Bourdon 8'</td>
+		<tD>quinte
+        <td>Voix Humaine 8'</td>
+    </tr><tr>
+		<td>Prestant 4'</td>
+		<tD>Tierce</tD>
+	</tr><tr>
+		<td>DDoublette 2'</td>
+		<tD>Fourniture III</tD>
+	</tr><tr>
+		<td></td>
+		<tD>Cornet V</tD>
+	</tr><tr>
+		<td></td>
+		<tD>Cymbale III</tD>	
+	</tr>
+</table>
+<table id="table_instru4">
+	<caption>Pédalier : R 20 t.</caption>
+	<tr>
+		<td>Flute</td>
+        <td>Trompette 8'</td>
+	</tr>
+</table>
 <p>
     L'orgue fut-il mémoli en 1733 ? Ou n'en reste-il presque rien à cette époque ? 
 </p>
@@ -207,7 +240,11 @@ Editions PICARD. 1978 & 1982
     <br>
     Le prix de ces travaux est de sept cent cinquante francs..."
 </p>
-** Photo de 1909. Projet de placer un orgue de choeur.
+<figure class="image_cnt">
+	        <img src="images/projet_emplacement_orgue_de_choeur_1909.jpg" alt="">
+            <figcaption><dfn>Projet d'y placer un orgue de choeur.<br>Demande pour enlever des stalles...</dfn></figcaption>
+        </figure>
+
 <p>
     Un autre devis non daté soumet la même composition mais pour un prix de huit mille cinq cent francs. La transmission sera pneumatique.
 </p>
@@ -298,7 +335,12 @@ Editions PICARD. 1978 & 1982
     <br><br>
     Qu'en est-il du classement des stalles qu'on n'a pas voulu toucher en 1909 et qui ont été enlevées dans les années 1960. Je me souviens de la console avancée en 1966 lorsque je suis arrivé dans le département de l'Yonne (Je fréquentais une fille de la chorale, devenue mon épouse trois ans après...), mais lorsque je touchais cet orgue à la petite messe de 11 h, la console était déjà reculée.
 </p>
-**** Mettre ici le document établi par la père Simonnet en septembre 1993.
+<figure class="image_cnt">
+    <figcaption><dfn>essai de reconstitution projet construction orgue de choeur septembre 1993</dfn></figcaption>
+	    <img src="images/essai_père_philippe_simonnet.jpg" border="0" alt="">
+        <img src="images/essai_père_philippe_simonnet_2.jpg" border="0" alt="">
+</figure>
+
 <p>
     Les notes récentes sont faites d'après les documents d'archives de la paroisse St Eusèbe et sont de septembre 1993.
 </p>
