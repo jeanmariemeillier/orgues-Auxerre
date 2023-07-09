@@ -13,6 +13,7 @@
     --parchemin: #f0f7ff;
     --bleu_clr:#7567f3;
     --bleublanc:#ced4e5;
+    --haut_accueil: 475px;
   }
   html {
    
@@ -109,7 +110,7 @@ a:hover, a:active{
 #menu_accueil{
     background-color: chartreuse;
     width: 69%;
-    height: 90%;
+    height: var(--haut_accueil);
     position: relative;
     top: 5%;
     left: 15%;
@@ -185,14 +186,14 @@ a:hover, a:active{
 #page_cnt {
     width: 80%;
     margin: 0 auto;
-    /* background-color: chocolate; */
-    position: relative;
+     position: relative;
     margin-top: 7rem;
     z-index: -1;
     padding-bottom: 1rem;
 }
 #page_cnt p{
     font-size: 1.3rem;
+    text-align: justify;
 }
 .image_cnt {
     margin: 0;

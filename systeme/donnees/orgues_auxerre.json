@@ -25,7 +25,7 @@
 	"typ_logo" : false,
 	"img_nav" : "logo_repere_invers_pt01.png",
 	"txt_alt" : "site des orgues d'Auxerre",
-	"trt_home" : "site des orgues d'Auxerre",
+	"trt_home" : "Les orgues d'Auxerre",
 	"img_panier" :"logo_panier.png",
 	"sous_trt" : false,
 
@@ -55,7 +55,7 @@
 				"arm" : "vide"
 	},
 	"indic3" :{
-				"valid" : true,
+				"valid" : false,
 				"trt_menu" : "Mon orgue virtuel",
 				"lien_pg" : "index.php?pg=3",
 				"lrm" : "pedales_expression",
@@ -77,34 +77,51 @@
 	},
 	
 	"_commentaire": "menu page acceuil",
+	"nbr_menu_acc" :16,
 	"indic10" :{
-				"valid" : false,
+		"valid" : 0,
+		"trt_menu" : "BATIMENTS DISPARUS",
+		"lien_pg" :"trt_accueil",
+		"lrm" :""
+},
+	"indic11" :{
+				"valid" : 1,
+				"trt_menu" : "Les Cordeliers",
 				"lien_pg" :"index.php?pg=11",
 				"lrm" :"cordeliers"
 	},
-	"indic11" :{
-				"valid" : false,
-				"lien_pg" :"",
+	"indic12" :{
+				"valid" : 1,
+				"trt_menu" : "Les Frères Précheurs",
+				"lien_pg" :"index.php?pg=12",
 				"lrm" :"freres_precheurs",
 				"arm" : "vide"
 	},
-	"indic12" :{
-				"valid" : false,
-				"lien_pg" :"",
+	"indic13" :{
+				"valid" : 1,
+				"trt_menu" : "Notre-Dame la-d'Hors",
+				"lien_pg" :"index.php?pg=13",
 				"lrm" :"dameladhors",
 				"arm" : "vide"
 	},
-	"indic13" :{
-				"valid" : false,
-				"trt_menu" : "",
-				"lien_pg" : "index.php?pg=14",
+	"indic14" :{
+		"valid" : 0,
+		"trt_menu" : "EGLISES ACTUELLES",
+		"lien_pg" : "trt_accueil",
+		"lrm" : "",
+		"arm" : ""
+},
+	"indic15" :{
+				"valid" : 1,
+				"trt_menu" : "Saint-Eusèbe l'orgue de choeur",
+				"lien_pg" : "index.php?pg=15",
 				"lrm" : "eusebe_choeur",
 				"arm" : "vide"
 	},
-	"indic14" :{
-				"valid" : false,
-				"trt_menu" : "",
-				"lien_pg" : "index.php?pg=15",
+	"indic16" :{
+				"valid" : 1,
+				"trt_menu" : "Saint-Eusèbe le grand-orgue",
+				"lien_pg" : "index.php?pg=16",
 				"lrm" : "eusebe_grand_orgue",
 				"arm" : "vide"
 	},
