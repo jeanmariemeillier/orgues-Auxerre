@@ -25,11 +25,18 @@ footer {
     background-color: var(--bleu);
     color: var(--gris-clr);
     height: 40px;
+    font-style: italic;
 }
 footer p {
     margin: 0 ;
     padding: 10px 0;
     text-align: center;
+}
+footer a{
+    color: var(--blanc);
+}
+footer a:hover, footer a:active{
+    color: var(--noir);
 }
 figcaption {
     text-align: center;
@@ -104,13 +111,14 @@ a:hover, a:active{
     /* padding: 1rem; */
     /* margin-top: 3.5rem; */
 }
-#menu_accueil{
-    background-color: chartreuse;
+#menu_accueil {
+    /* background-color: chartreuse; */
     width: 69%;
-    height: var(--haut_accueil);
+    /* height: var(--haut_accueil); */
+    height: 500px;
     position: relative;
-    top: 5%;
-    left: 15%;
+    top: 3%;
+    left: 32%;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
@@ -120,7 +128,40 @@ a:hover, a:active{
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    right: 40px;
+}
+.indic10 {
+    position: relative;
+    left: 73px;
+}
+.indic11 {
+    position: relative;
+    left: 34px;
+}
+.indic12 {
+    position: relative;
+    left: 12px;
+}
+.indic13 {
+    position: relative;
+    left: 0px;
+}
+.indic14 {
+    position: relative;
+    left: 0px;
+}
+.indic15 {
+    position: relative;
+    left: 12px;
+}
+.indic16 {
+    position: relative;
+    left: 34px;
+}
+.indic17 {
+    position: relative;
+    left: 73px;
 }
 #puzzle{
     text-align: center;
@@ -149,28 +190,25 @@ a:hover, a:active{
     font-size: 14pt;
     font-weight: bold;
     text-align: center;
-    background-color: var(--jaune);
+    background-color: var(--bleu);
     border-width: 1px;
     border-style: solid;
     border-color: var(--navy);
-    color: var(--navy);
+    color: var(--gris-clr);
 }
 #ActuContenant {
-    height: 460px;
-    /* top: 50px; */
-    /* left: -1px; */
+    height: 435px;
     overflow: hidden;
     position: relative;
     visibility: visible;
-    /* width: 329px; */
     font-family: sans-serif;
     font-size: 10pt;
-    /* font-weight: normal; */
     border-width: 1px;
     border-style: solid;
     border-color: var(--navy);
-    /* text-align: left; */
     background-color: var(--gris);
+    color: var(--noir);
+    text-align:justify ;
 }
 #ActuTexte {
    left: 0px;
@@ -246,7 +284,7 @@ blockquote {
     text-align: justify;
     font-style: italic;
     background-color: var(--parchemin);
-    padding: 5px;
+    padding: 1rem;
 }
 cite {
     margin-left: 7%;

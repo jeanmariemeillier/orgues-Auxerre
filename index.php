@@ -32,6 +32,7 @@
     <link href="systeme/css/tab-bord.css" rel="stylesheet">
     <script src="systeme/js/jquery-3.6.4.min.js"></script>
     <script src="systeme/js/orgues_auxerre.js"></script>
+    <script src="systeme/js/puzzle.js"></script>
      <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
    
     <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
@@ -63,7 +64,7 @@
     <footer>
        <p>
         <?php
-            echo " Copyright &copy; ".$demar["copy_dte"]." ".$demar["edition"]." /  Site réalisé par  <a href=\"".$demar["lien_realis"]."\">".$demar["realis"]."</a>  /  Version ". $demar["version"]." au ".  $demar["date"];
+            echo " Copyright &copy; ".$demar["copy_dte"]." ".$demar["edition"]." /  Site réalisé par  <a href=\"".$demar["lien_realis"]."\" target=\"_blank\">".$demar["realis"]."</a>  /  Version ". $demar["version"]." au ".  $demar["date"];
             if ($v_tbrd) {
             echo " / <a href=\"".$liens["indic20"]["lien_pg"]."\">?</a> ";
           }

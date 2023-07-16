@@ -4,7 +4,7 @@
     </div>
         <div id="ActuContenant"> 
           <div id="ActuTexte"> 
-            <?php include "pages/elements/info_accueil.php"; ?>
+            <?php include "pages/textes_blog/".$liens["fich_blog"].".php"; ?>
           </div>
         </div>
 </article>

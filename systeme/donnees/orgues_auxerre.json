@@ -10,7 +10,7 @@
 "_commentaire": "variable utile pour le module blog",
 	"tmp_blog" : "20000",
 	"id_blog" : "info_accueil",
-	"fich_blog" : "accueil",
+	"fich_blog" : "info_accueil",
 
 "_commentaire": "données à renseigner pour le site",
 	"dirlien" : "pages",
@@ -77,7 +77,7 @@
 	},
 	
 	"_commentaire": "menu page acceuil",
-	"nbr_menu_acc" :16,
+	"nbr_menu_acc" :17,
 	"indic10" :{
 		"valid" : 0,
 		"trt_menu" : "BATIMENTS DISPARUS",
@@ -125,10 +125,22 @@
 				"lrm" : "eusebe_grand_orgue",
 				"arm" : "vide"
 	},
+	"indic17" :{
+		"valid" : 1,
+		"trt_menu" : "Saint-Pierre en Vallée",
+		"lien_pg" : "index.php?pg=17",
+		"lrm" : "pierre_vallee",
+		"arm" : "vide"
+},
 	"indic20" :{
 		"valid" : false,
 		"lien_pg" :"index.php?pg=20",
 		"lrm" :"entrer_seruriser"
+},
+"indic21" :{
+	"valid" : false,
+	"lien_pg" :"index.php?pg=21",
+	"lrm" :"puzzle"
 }
 
 }
