@@ -13,10 +13,7 @@
     --parchemin: #f0f7ff;
     --bleu_clr:#7567f3;
     --bleublanc:#ced4e5;
-    --haut_accueil: 475px;
-  }
-  html {
-   
+    --haut_accueil: 515px;
   }
 body{
     color: var(--bleu);
@@ -134,20 +131,24 @@ a:hover, a:active{
 #puzzle img{
     width: 85%;
 }
-#txt_accueil {
+/* #txt_accueil {
     position: relative;
     margin-top: 21vw;
     margin-right: 1vw;
-}
-#Actu {
+} */
+#blog_actu{
     position: relative;
     margin: 0 auto;
     top: 2rem;
+    height: var(--haut_accueil);
+    width: 330px;
+}
+#Actu {
+    position: relative;
     font-family: sans-serif;
     font-size: 14pt;
     font-weight: bold;
     text-align: center;
-    width: 330px;
     background-color: var(--jaune);
     border-width: 1px;
     border-style: solid;
@@ -155,20 +156,20 @@ a:hover, a:active{
     color: var(--navy);
 }
 #ActuContenant {
-    height: 365px;
+    height: 460px;
     /* top: 50px; */
-    left: -1px;
+    /* left: -1px; */
     overflow: hidden;
-    position: absolute;
+    position: relative;
     visibility: visible;
-    width: 330px;
+    /* width: 329px; */
     font-family: sans-serif;
     font-size: 10pt;
-    font-weight: normal;
+    /* font-weight: normal; */
     border-width: 1px;
     border-style: solid;
     border-color: var(--navy);
-    text-align: left;
+    /* text-align: left; */
     background-color: var(--gris);
 }
 #ActuTexte {
