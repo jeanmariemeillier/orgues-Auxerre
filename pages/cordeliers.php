@@ -1,6 +1,6 @@
 <section id="page_cnt">
     <h1 class="cnt">Les Cordeliers</h1>
-         <figure class="image_cnt">
+        <figure class="image_cnt">
 	        <img src="images/eglise_cordeliers.jpg" title="*(Quantin, 1979, 69)" alt="dessin ancien de l'église des Cordeliers">
             <figcaption><dfn>Dessin ancien de l'église des Cordeliers - *(Quantin, 1979, 69)</dfn></figcaption>
         </figure>
