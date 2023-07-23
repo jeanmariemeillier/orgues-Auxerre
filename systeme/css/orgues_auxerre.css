@@ -131,37 +131,20 @@ a:hover, a:active{
     justify-content: space-between;
     right: 40px;
 }
-.indic10 {
+.indic10, .indic17, .indic11, .indic16, .indic12, .indic15, .indic13, .indic14{
     position: relative;
+}
+.indic10, .indic17{
     left: 73px;
 }
-.indic11 {
-    position: relative;
+.indic11, .indic16{
     left: 34px;
 }
-.indic12 {
-    position: relative;
+.indic12, .indic15 {
     left: 12px;
 }
-.indic13 {
-    position: relative;
+.indic13, .indic14{
     left: 0px;
-}
-.indic14 {
-    position: relative;
-    left: 0px;
-}
-.indic15 {
-    position: relative;
-    left: 12px;
-}
-.indic16 {
-    position: relative;
-    left: 34px;
-}
-.indic17 {
-    position: relative;
-    left: 73px;
 }
 #puzzle{
     text-align: center;
