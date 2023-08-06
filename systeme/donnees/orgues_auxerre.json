@@ -70,9 +70,9 @@
 	},
 	"indic2" :{
 				"valid" : true,
-				"trt_menu" : "le grand orgue de la cathédrale",
+				"trt_menu" : "Les orgues de la cathédrale",
 				"lien_pg" : "index.php?pg=2",
-				"lrm" : "orgue_cathedrale",
+				"lrm" : "accueil_cathedrale",
 				"arm" : "vide"
 	},
 	
