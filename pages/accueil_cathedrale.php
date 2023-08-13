@@ -4,19 +4,25 @@
 
 <div id="accueil_cath">
    <section id="menu_cath">
-        <!-- <article id="menu_cath">
-
-        </article> -->
-    <ul>
-        <li class="trt_accueil indic10">Le grand orgue</li>
-        <li class="indic11 "><a href="index.php?pg=11">Les Cordeliers</a></li>
-        <li class="indic12 "><a href="index.php?pg=12">Les Frères Précheurs</a></li>
-        <li class="indic13 "><a href="index.php?pg=13">Notre-Dame la-d'Hors</a></li>
-        <li class="trt_accueil indic14">L'orgue de choeur</li>
-        <li class="indic15 "><a href="index.php?pg=15">Saint-Eusèbe l'orgue de choeur</a></li>
-        <li class="indic16 "><a href="index.php?pg=16">Saint-Eusèbe le grand-orgue</a></li>
-        <li class="indic17 "><a href="index.php?pg=17">Saint-Pierre en Vallée</a></li>
-    </ul>
+        <ul>
+            <li class="indic30 "><a href="#">Préface</a></li>
+            <li class="trt_accueil indic31">Histoire des orgues</li>
+        
+            <li class="indic32">
+                <a href="#">Des origines à 1789</a>
+                <ul class="sous_mn1">
+                    <li><a class="" href="#">Chapitre 1</a></li>
+                    <li><a href="#">Chapitre 2</a></li>
+                    <li><a href="#">Chapitre 3</a></li>
+                </ul>
+                
+            </li>
+            <li class="indic13 "><a href="index.php?pg=13">Notre-Dame la-d'Hors</a></li>
+            <li class="trt_accueil indic14">L'orgue de choeur</li>
+            <li class="indic15 "><a href="index.php?pg=15">Saint-Eusèbe l'orgue de choeur</a></li>
+            <li class="indic16 "><a href="index.php?pg=16">Saint-Eusèbe le grand-orgue</a></li>
+            <li class="indic17 "><a href="index.php?pg=17">Saint-Pierre en Vallée</a></li>
+        </ul>
     </section>
     <section id="milieu_cath">
 

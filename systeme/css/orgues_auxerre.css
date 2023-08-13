@@ -152,6 +152,15 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
+#accueil_cat a {
+    display: block;
+}
+#accueil_cath .sous_mn1{
+    display: none;
+}
+#accueil_cath > li:hover .sous_mn1{
+    display: block;
+}
 #milieu_cath {
     position: relative;
     background-color: blueviolet;
