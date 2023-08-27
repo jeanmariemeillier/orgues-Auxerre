@@ -126,7 +126,7 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
-#menu_accueil ul, #menu_cath ul {
+#menu_accueil ul{
     list-style: none;
     height: inherit;
     position: relative;
@@ -144,7 +144,6 @@ a:hover, a:active{
 #menu_cath {
     background-color: chartreuse;
     width: 69%;
-    /* height: var(--haut_accueil); */
     height: 450px;
     position: relative;
     top: 3%;
@@ -152,14 +151,70 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
-#accueil_cat a {
-    display: block;
+#nav_cath {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    left: 90px;
+    position: relative;
+    top: -15px;
+    height: 423px;
+    padding: 0px;
 }
-#accueil_cath .sous_mn1{
+#nav_cath ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
     display: none;
+    margin-left: 15px;
 }
-#accueil_cath > li:hover .sous_mn1{
+#nav_cath li a , #nav_cath li{
     display: block;
+   
+    font-size: 1rem;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.sous_menu_cath li{
+    padding: 0.35rem 0.5rem; 
+}
+#nav_cath li:hover ul {
+   display: block ;
+   position: relative;
+   z-index: 100; 
+}
+.indic30{
+    position: relative;
+    left: 100px;
+}
+.indic31{
+    position: relative;
+    left: -15px;
+}
+.indic32 {
+    position: relative;
+    left: -60px;
+}
+.indic33 {
+    position: relative;
+    left: -90px;
+}
+.indic34 {
+    position: relative;
+    left: -85px;
+}
+.indic35 {
+    position: relative;
+    left: -120px;
+}
+.indic36 {
+    position: relative;
+    left: -90px;
+}
+.indic37 {
+    position: relative;
+    left: -120px;
 }
 #milieu_cath {
     position: relative;
