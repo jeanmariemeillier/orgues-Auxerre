@@ -142,7 +142,7 @@ a:hover, a:active{
     height: 467px;
 }
 #menu_cath {
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
     width: 69%;
     height: 450px;
     position: relative;
@@ -161,6 +161,7 @@ a:hover, a:active{
     top: -15px;
     height: 423px;
     padding: 0px;
+    width: 240px;
 }
 #nav_cath ul {
     list-style-type: none;
@@ -190,31 +191,35 @@ a:hover, a:active{
 }
 .indic31{
     position: relative;
-    left: -15px;
+    left: -8px;
 }
 .indic32 {
     position: relative;
-    left: -60px;
+    left: -54px;
 }
 .indic33 {
     position: relative;
-    left: -90px;
+    left: -79px;
 }
 .indic34 {
     position: relative;
-    left: -85px;
+    left: -90px;
 }
 .indic35 {
     position: relative;
-    left: -120px;
+    left: -86px;
 }
 .indic36 {
     position: relative;
-    left: -90px;
+    left: -67px;
 }
 .indic37 {
     position: relative;
-    left: -120px;
+    left: -33px;
+}
+.indic38 {
+    position: relative;
+    left: 35px;
 }
 #milieu_cath {
     position: relative;
