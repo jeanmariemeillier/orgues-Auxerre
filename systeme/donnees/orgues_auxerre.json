@@ -2,7 +2,7 @@
 	"_commentaire": "stucture fichier json version: 1.2.0 au 04/08/2022",
 	
 "_commentaire": "modules principaux",
-	"list" :false,
+	"list" :true,
 	"auto_menu" : true,
 	"activ_li"	: false,
 	"mod_blog" : false,

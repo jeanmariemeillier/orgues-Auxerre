@@ -62,6 +62,7 @@
         </ul>
     </section>
     <section id="milieu_cath">
+        <?php include($liens["dirlien"]."/".$liens["dirtxt"]."/".$affichtxt["milieu_cath"].$lp); ?>
 
     </section>
 </div>

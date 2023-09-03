@@ -17,7 +17,7 @@
   }
 body{
     color: var(--bleu);
-    background-color: rgb(204, 255, 255);
+    background-color: var(--gris-clr);
     /* background-image: url("systeme/img/fond-182.jpg") ; */
     /* min-height: 100vh; */
 }
@@ -126,7 +126,7 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
-#menu_accueil ul{
+#menu_accueil ul, #nav_cath {
     list-style: none;
     height: inherit;
     position: relative;
@@ -134,6 +134,19 @@ a:hover, a:active{
     flex-direction: column;
     justify-content: space-between;
     right: 40px;
+    width: 240px;
+}
+#nav_cath {
+    /* list-style-type: none; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    left: 90px;
+    /* position: relative; */
+    top: -15px;
+    height: 423px;
+    padding: 0px;
+    
 }
 #accueil_cath {
     display: grid;
@@ -151,18 +164,7 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
-#nav_cath {
-    list-style-type: none;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    left: 90px;
-    position: relative;
-    top: -15px;
-    height: 423px;
-    padding: 0px;
-    width: 240px;
-}
+
 #nav_cath ul {
     list-style-type: none;
     margin: 0px;
@@ -172,10 +174,15 @@ a:hover, a:active{
 }
 #nav_cath li a , #nav_cath li{
     display: block;
-   
     font-size: 1rem;
     margin-top: 2px;
     font-weight: bold;
+}
+.trt_accueil {
+    color: var(--gris-clr);
+    background-color: var(--bleu);
+    width: 140px;
+    text-align: center;
 }
 .sous_menu_cath li{
     padding: 0.35rem 0.5rem; 
@@ -223,11 +230,27 @@ a:hover, a:active{
 }
 #milieu_cath {
     position: relative;
-    background-color: blueviolet;
+    overflow-y: scroll;
+    background-color: var(--gris); 
+    color: var(--noir);
+    padding: 10px 5px 10px 5px;
     top: 3%;
     left: 15%;
     width: 69%;
     height: 450px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--navy);
+}
+#milieu_cath h3{
+    text-align: center;
+}
+#para_retrait p{
+    margin-bottom: 0;
+}
+#para_retrait p + p{
+    text-indent: 1rem;
+    margin-top: 0;
 }
 #titre_cath {
     position: relative;
