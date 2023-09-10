@@ -31,11 +31,11 @@
 
 "_commentaire": "données à renseigner pour le lien social",
 	"lien_social" : false,
-	"auto_fb" : true,
+	"auto_fb" : false,
 	"lien_fb" : "",
 	"auto_insta" : false,
 	"lien_insta" :"",
-	"auto_youtube" : true,
+	"auto_youtube" : false,
 	"lien_youtube" :"",
 
 	"nbr_menu" :4,

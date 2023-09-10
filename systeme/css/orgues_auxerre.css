@@ -150,8 +150,8 @@ a:hover, a:active{
 }
 #accueil_cath {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 70px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
     height: 467px;
 }
 #menu_cath {
@@ -164,7 +164,31 @@ a:hover, a:active{
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
-
+#milieu_cath {
+    top: 50px;
+    position: relative;
+}
+.d1{
+    height: 400px;
+    width: 533px;
+    background-color: beige;
+    box-shadow: 0px 15px 10px -5px #777;
+    background-size: contain;
+}
+#droit_cath{
+    position: relative;
+    overflow-y: scroll;
+    background-color: var(--gris); 
+    color: var(--noir);
+    padding: 10px 5px 10px 5px;
+    top: 3%;
+    left: 15%;
+    width: 69%;
+    height: 450px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--navy);
+}
 #nav_cath ul {
     list-style-type: none;
     margin: 0px;
@@ -172,11 +196,12 @@ a:hover, a:active{
     display: none;
     margin-left: 15px;
 }
-#nav_cath li a , #nav_cath li{
+#nav_cath li a, #nav_cath li {
     display: block;
     font-size: 1rem;
     margin-top: 2px;
     font-weight: bold;
+    padding: 3px;
 }
 .trt_accueil {
     color: var(--gris-clr);
@@ -228,20 +253,7 @@ a:hover, a:active{
     position: relative;
     left: 35px;
 }
-#milieu_cath {
-    position: relative;
-    overflow-y: scroll;
-    background-color: var(--gris); 
-    color: var(--noir);
-    padding: 10px 5px 10px 5px;
-    top: 3%;
-    left: 15%;
-    width: 69%;
-    height: 450px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: var(--navy);
-}
+
 #milieu_cath h3{
     text-align: center;
 }
@@ -256,6 +268,9 @@ a:hover, a:active{
     position: relative;
     margin-top: 6%;
     text-align: center;
+}
+#titre_cath > h1 {
+    margin-bottom: 10px;
 }
 .indic10, .indic17, .indic11, .indic16, .indic12, .indic15, .indic13, .indic14{
     position: relative;
