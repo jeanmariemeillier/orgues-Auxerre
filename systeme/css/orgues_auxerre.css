@@ -123,8 +123,8 @@ a:hover, a:active{
     position: relative;
     top: 3%;
     left: 32%;
-    border-top-left-radius: 50%;
-    border-bottom-left-radius: 50%;
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
 }
 #menu_accueil ul, #nav_cath {
     list-style: none;
@@ -161,19 +161,68 @@ a:hover, a:active{
     position: relative;
     top: 3%;
     left: 15%;
-    border-top-left-radius: 50%;
-    border-bottom-left-radius: 50%;
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
 }
 #milieu_cath {
-    top: 50px;
+    top: 15px;
     position: relative;
 }
-.d1{
-    height: 400px;
-    width: 533px;
+.vue_slide {
+    height: 465px;
+    /* width: 307px; */
     background-color: beige;
     box-shadow: 0px 15px 10px -5px #777;
     background-size: contain;
+    animation: fondu 30s linear infinite both;
+    aspect-ratio:3/4 ;
+}
+/* .slide{
+    width: 100%;
+    height: 0px;
+    box-shadow: 0 0 10px #777;
+    animation: fondu 50s ease-in-out infinite both;
+} */
+/* .container{
+    padding-top: 75%;
+    margin: 50px auto;
+} */
+@keyframes fondu {
+    0%{
+        background-image: url(../img/images_slide/orgue_style_louis_XIV_ancien.jpg);
+        /* background-size: 100%; */
+    }
+    14.28%{
+        background-image: url(../img/images_slide/orgue_style_louis_XIV_actuel.jpg);
+        /* background-size: 100%; */
+    }
+    28.57%{
+        background-image: url(../img/images_slide/orgue_anneessens_1901.jpg);
+        /* background-size: 100%; */
+    }
+    42.85%{
+        background-image: url(../img/images_slide/orgue_anneessens_1973_1.jpg);
+        /* background-size: 100%; */
+    }
+    57.13%{
+        background-image: url(../img/images_slide/orgue_anneessens_1973_2.jpg);
+        /* background-size: 100%; */
+    }
+    71.41%{
+        background-image: url(../img/images_slide/orgue_oberthur_1.jpg);
+        /* background-size: 100%; */
+    }
+    85.69%{
+        background-image: url(../img/images_slide/orgue_oberthur_2a.jpg);
+        /* background-size: 100%; */
+    }
+    100%{
+        background-image: url(../img/images_slide/orgue_oberthur_3a.jpg);
+        /* background-size: 100%; */
+    }
+}
+.vue_slide:hover, .slide:hover{
+    animation-play-state: paused;
 }
 #droit_cath{
     position: relative;

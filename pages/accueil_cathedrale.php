@@ -62,10 +62,16 @@
         </ul>
     </section>
     <section id="milieu_cath">
-      <div class="d1">
-      <div class="container">
-        <div class="slide"></div>
-      </div>
+      <div class="vue_slide">
+
+      </div>  
+      <!-- <div class="container">
+            <div class="slide">
+
+
+            </div>
+        </div>     -->
+      
     </section>
     <section id="droit_cath">
         <?php include($liens["dirlien"]."/".$liens["dirtxt"]."/".$affichtxt["milieu_cath"].$lp); ?>
