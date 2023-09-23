@@ -1,10 +1,11 @@
 <?php
 /*
 	fichier d'affichage du menu pour les sites conçu ou gérer par l'association collectif 11880.
-	version 1.2.3 au 04/08/2022.
-	rajout condition avec valid pour activer ou non un élémént du menu
+	version 1.2.4 au 04/08/2022.
 	fichier libre d'utilisation en sitant l'association collectif11880.org.
-	modifi variable $activ egale à l'indice du lien dans le menu
+	modifs importantes:
+	rajout condition avec valid pour activer ou non un élémént du menu
+	modif variable $activ egale à l'indice du lien dans le menu
 */
 
 function Genenu($activ, $liens, $rn)
@@ -17,13 +18,9 @@ function Genenu($activ, $liens, $rn)
 	  	 	echo "<li";	
 			if ($activ==$menu)
 			{
-    			if ($liens["activ_li"])
-    			{
-					echo " class=\"active\">".$rn."<a";
-				}
-				else{
-					echo ">".$rn."<a class=\"active";		
-				}
+    			if ($liens["activ_li"])	echo " class=\"active\"><a";
+				else echo "><a class=\"active";		
+			
 				if ($liens["css_a_menu"]!="")
 				{
 					echo" ".$liens["css_a_menu"]."\" ";
@@ -37,7 +34,7 @@ function Genenu($activ, $liens, $rn)
 				}
 			}
     		else{
-    			echo ">".$rn."<a";
+    			echo "><a";
     			if ($liens["css_a_menu"]!="")
     			{
     				echo " class=\"".$liens["css_a_menu"]."\"";
