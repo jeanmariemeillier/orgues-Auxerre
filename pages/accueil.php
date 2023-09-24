@@ -3,6 +3,7 @@
       <article id="menu_accueil">
          <ul>
             <?php
+               
             	for ($menu=10; $menu <=$liens["nbr_menu_acc"]; $menu++)
                { 
                  if ($liens["indic".$menu]["valid"]==1)

@@ -1,79 +1,74 @@
 <?php
 	/*
-		Date de création: 18/02/2012 version 1.1.8
+		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 
 
-		fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 
-
-	 	version 4.13.1 au 20/04/2023.
+	 	Date de création: 18/02/2012  / version 4.20.0 au 23/09/2023.
 
 	 	Ce fichier est libre d'utilisation en sitant l'association: www.collectif11880.org.
 
-	 	DERNIERE MODIFS IMPORTANTES
+	 	DERNIERE MODIFS 
 
-	 	!* rajout d'une varaible $fich_blog  contennat le nom de la page active pour l'option blog auto *!
-
-	 	rajout d'un fichier json à la racine du site pour activer des modules particuliers comme un tableau de bord ou 
-		l'utilisation de différantes langues. 
+	 	Nouvelle version 4.20.0 du 23/09/2023: 
+			La varaible $fich_blog  contennant le nom de la page active pour l'option blog auto *!
+			Elle ne doit pas etre modifiée  constante! 
+			
+			Rajout d'un fichier json à la racine du site pour activer des modules particuliers comme un tableau de bord ou 
+			l'utilisation de différantes langues. 
 		
-		rajout de la variable $autopg par defaut 
-
-	 	le 04/08/2022 modif sur la variable $active: elle est egale à l'indice du lien dans le menu supression du tableau
-	 	dernière modif le 12/03/2023: 
+			Modif sur la variable $active: elle est egale à l'indice du lien dans le menu supression du tableau.
 	 	
-		rajout d'une condition si un Get'act' est present pour consever l'active sur une page à affichage automatique.
-	 	modif crée une variable  $tempo_cle pour la durée du cookie 
+			Rajout d'une condition si un Get'act' est pesent pour consever l'active sur une page à affichage automatique. remis en option dans les variables get
 
-	 	NOTE:
-	 	si vous vouyez un bug ou une amélioration contactez le collectif, on sitera votre nom, merci!
+	 		La variable $tempo_cle pour la durée du cookie (elle est déplacée dans le fichier tabbord_deb.php
+
+	 	Si vous vouyez un bug ou une amélioration contactez le collectif, on sitera votre nom, merci!
 	*/
 	
-	/* déclaration des variables pour le site*/
+	/* extensions utilisées pour le site */
 	$rn = "\r\n";
 	$lp = ".php";
 	$lh = ".html";
 	$lxt = ".txt";
-	$activ = "1";
-	$tempo_cle = 86400; /* modif de la valeur: nouvelle valeur= 24h */
+	
+	
 	$aside = false;
-	$v_tbrd = true;// variable de présence du tableau de bord
-	if ($demar["tabbord"]) {
+	$v_tbrd = true;
+	if ($demar["tabbord"]) 	include ("tabbord_deb.php"); 
 
-		include ("tabbord_deb.php"); // nouveau sous fichier
-	}
 	$json = file_get_contents($chem_princ."/donnees/".$jsonsite.".json");
 	$liens = json_decode($json, true);
-	$dirlien = $liens["dirlien"]."/";
-	$fich_blog = $liens["index"]; // nouvelle varaible lance le blog sur une page unique
-	$affpg =  $dirlien.$liens["index"].$lp;
-	$autopg =  "pg_tt"; // modif supression de l'aside page accueil en version test
+
+	$dirlien = $liens["dirlien"]."/";// permet d'indexer le repertoire
+	$fich_blog = $liens["index"]; // variable lance le blog sur une page unique 
+	//verifier son fonctionnement au 23/09/2023
+
+	/* variables par défaut pour afficher la page en index */
+	$affpg =  $dirlien.$liens["index"].$lp; 
+	$activ = "1";
 	if ($liens["aside"]){
-		$affasi =  $dirlien.$liens["fich_aside"].$lp; // corection bug 24/01/2022 
+		$affasi =  $dirlien.$liens["fich_aside"].$lp; 
 		$aside = true;
 	}
+	/* requetes en get */
 	if(isset($_GET['pg'])) {
-		$affpg =  $dirlien.$liens["indic".$_GET['pg']]["lrm"].$lp;
-		$fich_blog = $liens["indic".$_GET['pg']]["lrm"];
-		/*modif : variable act */
+		$pgmain = $_GET['pg'];// rajout d'une variable 23/09/2023
+		$affpg =  $dirlien.$liens["indic".$pgmain]["lrm"].$lp;
 		if(isset($_GET['act'])) $activ = $_GET['act'];
 		else  $activ = $_GET['pg']; 
-		/* fin mofif*/	
 		if (isset($_GET['asi'])) {
 			$affasi =  $dirlien.$liens["indic".$_GET['pg']]["arm"].$lp;
 			$aside = true;
 		}
+		/*si la variable 'aupg' existe elle reference en BDD une table produit le 23/09/2023*/
+		if(isset($_GET['aupg'])){
+			$autopg = $_GET['aupg'];
+		}
 	}
-	 /*  fichier list-elements.json. contient tous les nons des éléments à afficher sur la site 	 */
+        /*  en option fichier list-elements.json. contient tous les nons des éléments à afficher sur la site 	 */
 	if($liens["list"]){
 		$lstelemt = file_get_contents($chem_princ."/donnees/list-elements.json");
 		$affichtxt = json_decode($lstelemt, true);
 	}
-	/*recupere le nom de la page active dans un sous menu / si la variable 'aupg' existe 
-	la modif depuis aupg c'est une reference soit json soit BDD	*/
-	if(isset($_GET['aupg'])){
-		$autopg = $_GET['aupg'];
-	}
 	/* générateur de menu: appel de la fonction dans <ul> avec  <?php Genenu($activ, $liens, $rn);  */
-	if ($liens["auto_menu"]) {
-		include ($chem_princ."/php/menu_deb.php");
-	}
+	if ($liens["auto_menu"]) include ($chem_princ."/php/menu_deb.php");
 ?>	
