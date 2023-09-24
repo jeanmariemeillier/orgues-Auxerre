@@ -190,14 +190,14 @@ a:hover, a:active{
 } */
 @keyframes fondu {
     0%{
-        background-image: url(../img/images_slide/orgue_style_louis_XIV_ancien.jpg);
+        background-image: url(../img/images_slide/orgue_jacques_amyot_01.png);
         /* background-size: 100%; */
     }
     14.28%{
-        background-image: url(../img/images_slide/orgue_style_louis_XIV_actuel.jpg);
+        background-image: url(../img/images_slide/orgue_jacques_amyot_02.png);
         /* background-size: 100%; */
     }
-    28.57%{
+    28.56%{
         background-image: url(../img/images_slide/orgue_anneessens_1901.jpg);
         /* background-size: 100%; */
     }
@@ -210,11 +210,11 @@ a:hover, a:active{
         /* background-size: 100%; */
     }
     71.41%{
-        background-image: url(../img/images_slide/orgue_oberthur_1.jpg);
+        background-image: url(../img/images_slide/vue_orgue_auxerre.png);
         /* background-size: 100%; */
     }
     85.69%{
-        background-image: url(../img/images_slide/orgue_oberthur_2a.jpg);
+        background-image: url(../img/images_slide/chamades_orgue_auxerre.png);
         /* background-size: 100%; */
     }
     100%{

@@ -40,7 +40,7 @@
             <li class="indic35">
                 <a href="#">Inauguration de l’orgue </a>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="#">Chapitre 1</a></li>
+                    <li><a class="" href="index.php?pg=30">Chapitre 1</a></li>
                     <li><a href="#">Chapitre 2</a></li>
                     <li><a href="#">Chapitre 3</a></li>
                     <li><a href="#">Chapitre 4</a></li>

@@ -131,16 +131,22 @@
 		"lien_pg" : "index.php?pg=17",
 		"lrm" : "pierre_vallee",
 		"arm" : "vide"
-},
+	},
 	"indic20" :{
 		"valid" : false,
 		"lien_pg" :"index.php?pg=20",
 		"lrm" :"entrer_seruriser"
-},
-"indic21" :{
+	},
+	"indic21" :{
 	"valid" : false,
 	"lien_pg" :"index.php?pg=21",
 	"lrm" :"puzzle"
+	},
+	"indic30" :{
+	"valid" : 1,
+	"trt_menu" : "",
+	"lien_pg" : "index.php?pg=30",
+	"lrm" : "origine_chap_01",
+	"arm" : "vide"
 }
-
 }
