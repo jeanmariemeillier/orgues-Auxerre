@@ -1,80 +1,59 @@
-<html>
-<head>
-<title>Des origines à la Révolution Française I</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<SCRIPT language = JavaScript>
-<!--
-function dblclick()
-   {
-      window.scrollTo(0,0)
-   }
-   if (document.layers)
-      {
-	     document.captureEvents(Event.ONDBLCLICK);
-	  }
-   document.ondblclick = dblclick;
 
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
-</SCRIPT>
-</head>
 
-<body bgcolor="#0000AA" text="#FFFFFF">
+
    <TABLE WIDTH="100%">
-      <TH>
-	     <img src="Vignettes3/Guirlande.jpg" width="746" height="80">
+      <!--  <TH>
+	     <img src="systeme/img/Guirlande.jpg" width="746" height="80">
 	  </TH>
 	  <TR>
-	     <TD WIDTH="100%">
+	    <TD WIDTH="100%">
 		    <CENTER>
 			   <H1><I>LES ORGUES</I></H1>
-			   <H1><I>de la Cathédrale</I></H1>
+			   <H1><I>de la Cathï¿½drale</I></H1>
 			   <H1><I>d'Auxerre</I></H1>
 			</CENTER>
          </TD>
       </TR>
-   </TABLE>
+   </TABLE> -->
    <HR WIDTH="80%">
    <TABLE WIDTH="100%">
       <TR>
 	     <TD WIDTH="100%" >
 		    <CENTER>
-               <BR>			
-			   <H2>Première partie</H2>
-			   <img src="Vignettes3/Gothique.jpg" width="789" height="128">
+              <!--  <BR>			
+			   <H2>Premiï¿½re partie</H2> -->
+			   <img src="systeme/img/Gothique.jpg" width="789" height="128">
 			   
-			   <H2>Chapitre premier</H2>
+			   <!-- <H2>Chapitre premier</H2> -->
 			</CENTER>
 		</TD>
       </TR>
    </TABLE>
-   <TABLE WIDTH="100%"  bgcolor="#0000AA" BORDER="0" SUMMARY="">
+   <TABLE WIDTH="100%"   BORDER="0" SUMMARY="">
       <TR>
          <TD WIDTH="10%">
 	     </TD>
 	     <TD WIDTH="80%">
-	        <FONT size=4 color=#FFFFFF>
+	        <FONT size=4>
 		    <CENTER><B>...</B></CENTER>
 		    <br>
-		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Tandis qu'à Mayence apparaît, en 826, le premier orgue de pays franc...
+		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Tandis qu'ï¿½ Mayence apparaï¿½t, en 826, le premier orgue de pays franc...
 			<SUP><font color="#ff0000">1</FONT></SUP>
 			<BR>
 			<CENTER><B>...</B></CENTER>
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On peut faire remonter la trace des premiers instruments joués à la cathédrale
-			Saint Etienne d'Auxerre à l'époque de François 1er de DINTEVILLE, 41ème évêque d'Auxerre (1513-1580).
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On peut faire remonter la trace des premiers instruments jouï¿½s ï¿½ la cathï¿½drale
+			Saint Etienne d'Auxerre ï¿½ l'ï¿½poque de Franï¿½ois 1er de DINTEVILLE, 41ï¿½me ï¿½vï¿½que d'Auxerre (1513-1580).
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'illustres historiens, dont l'abbé LEBEUF, chanoine et sous-chantre de l'Eglise
-			Cathédrale, de l'Académie des Inscriptions et Belles Lettres, donnent des versions contradictoires de mêmes faits
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'illustres historiens, dont l'abbï¿½ LEBEUF, chanoine et sous-chantre de l'Eglise
+			Cathï¿½drale, de l'Acadï¿½mie des Inscriptions et Belles Lettres, donnent des versions contradictoires de mï¿½mes faits
 			, dont il sera question plus avant.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cependant dans ses
 			<BR>
 			<center>
-			<B><FONT SIZE=5>Mémoires concernant l'histoire ecclésiastique et civile d'Auxerre
+			<B><FONT SIZE=5>Mï¿½moires concernant l'histoire ecclï¿½siastique et civile d'Auxerre
 			<BR>
 			-tome second-</FONT></B>
 			<BR>
@@ -85,13 +64,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</center>
 			</P>
 			<CENTER>
-			   <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Mémoires_Lebeuf_1_1.jpg ','GrandeImage','status=yes,menubar=yes,width=700,height=700')">//-->
-			   <img src="Cathedrale/Mémoires_Lebeuf_1.jpg" width="221" height="320" border="0"></a>
+			   <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Mï¿½moires_Lebeuf_1_1.jpg ','GrandeImage','status=yes,menubar=yes,width=700,height=700')">//-->
+			   <img src="Cathedrale/Mï¿½moires_Lebeuf_1.jpg" width="221" height="320" border="0"></a>
 			</CENTER>
 			on peut extraire du
 			<BR>
 			<center>
-			   "<U>Catalogue des Dignités Séculières de la Ville, des Ecrivains Auxerrois et des Illustres du pays</U>"
+			   "<U>Catalogue des Dignitï¿½s Sï¿½culiï¿½res de la Ville, des Ecrivains Auxerrois et des Illustres du pays</U>"
 			</center>
 			<BR>
 			un
@@ -100,19 +79,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <B><FONT SIZE=5>"Catalogue des Anciens Gouverneurs de l'Hotel de Ville d'Auxerre".</FONT></B>
 			</center>
 			<p align="justify">
-			Dans un paragraphe concernant les comptes de 1379 par Guillaume du VAL DE MARCY, un renvoi précise :
+			Dans un paragraphe concernant les comptes de 1379 par Guillaume du VAL DE MARCY, un renvoi prï¿½cise :
 			<BR>
-			<I>"On y lit qu'il y avoit un jeu d'orgue appartenant à la ville, dont on toucha à l'arrivée du Roi."</I>
+			<I>"On y lit qu'il y avoit un jeu d'orgue appartenant ï¿½ la ville, dont on toucha ï¿½ l'arrivï¿½e du Roi."</I>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il s'agit là, sans doute, d'un orgue portatif destiné à des musiques profanes, aucun 
-			document ne nous renseignant sur une utilisation religieuse dans la cathédrale ou les autres églises de la ville.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il s'agit lï¿½, sans doute, d'un orgue portatif destinï¿½ ï¿½ des musiques profanes, aucun 
+			document ne nous renseignant sur une utilisation religieuse dans la cathï¿½drale ou les autres ï¿½glises de la ville.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette année 1379 est la plus ancienne, dans l'état actuel de mes recherches (1997 pour
-			cette tranche d'histoire), à laquelle on peut remonter pour faire mention d'orgues, lesdites recherches  ne portant, 
-			pour le présent ouvrage, que sur la cathédrale, d'autres étant en cours pour les autres églises de la ville, voire 
-			parallèlement du département.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette annï¿½e 1379 est la plus ancienne, dans l'ï¿½tat actuel de mes recherches (1997 pour
+			cette tranche d'histoire), ï¿½ laquelle on peut remonter pour faire mention d'orgues, lesdites recherches  ne portant, 
+			pour le prï¿½sent ouvrage, que sur la cathï¿½drale, d'autres ï¿½tant en cours pour les autres ï¿½glises de la ville, voire 
+			parallï¿½lement du dï¿½partement.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est admis, que le premier orgue de la cathédrale fut installé en 1529 (1520 ?). Or, 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est admis, que le premier orgue de la cathï¿½drale fut installï¿½ en 1529 (1520 ?). Or, 
 			et toujours dans les
 			</P>
 			<TABLE width="100%" border=0 CELLSPACING=10>
@@ -126,115 +105,115 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  <TD WIDTH="50%">
 				     <CENTER>
 					    <!--<a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Rue_F&#233;cauderie_1.jpg','GrandeImage2','width=700,height=700')">//-->
-						<img src="Vignettes3/Rue_Fécauderie.jpg" width="414" height="500" border="0"></a>
+						<img src="Vignettes3/Rue_Fï¿½cauderie.jpg" width="414" height="500" border="0"></a>
 					 </CENTER>
 				  </TD>
 			   </TR>
 			</TABLE>   	  	 	
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"Mémoires"</B></FONT></P>
-			de l'abbé LEBEUF (dans le tome II), aux
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"Mémoires  historiques sur les évêques d'Auxerre"</B></FONT></P>
-			une cinquième partie contient
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"Mï¿½moires"</B></FONT></P>
+			de l'abbï¿½ LEBEUF (dans le tome II), aux
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"Mï¿½moires  historiques sur les ï¿½vï¿½ques d'Auxerre"</B></FONT></P>
+			une cinquiï¿½me partie contient
 			<BR>
-			<P ALIGN="CENTER"><FONT SIZE=4><B>"Les actions de onze évêques qui ont siégé depuis l'an 1514 jusqu'en l'an 1576"
+			<P ALIGN="CENTER"><FONT SIZE=4><B>"Les actions de onze ï¿½vï¿½ques qui ont siï¿½gï¿½ depuis l'an 1514 jusqu'en l'an 1576"
 			</B></FONT></P> 
-			du chapitre I relatif à
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"François 1er de DINTEVILLE"</B></FONT></P>
-			cité plus haut, l'extrait
+			du chapitre I relatif ï¿½
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"Franï¿½ois 1er de DINTEVILLE"</B></FONT></P>
+			citï¿½ plus haut, l'extrait
 			<BR>
-			<I>"... C'est avec raison qu'on a vanté les ornements que Fran-
+			<I>"... C'est avec raison qu'on a vantï¿½ les ornements que Fran-
 			<BR>
-			"çois de DINTEVILLE donna à son église cathédrale. Ils éclataient
+			"ï¿½ois de DINTEVILLE donna ï¿½ son ï¿½glise cathï¿½drale. Ils ï¿½clataient
 			<BR>
-			"en or et en pierreries, et certainement aucun édifice de France
+			"en or et en pierreries, et certainement aucun ï¿½difice de France
 			<BR>
-			"n'en avait alors de plus beaux (si ce n'est peut-être la Ste
+			"n'en avait alors de plus beaux (si ce n'est peut-ï¿½tre la Ste
 			<BR>
 			"Chapelle de Bourges). Ils furent depuis la proie des Calvinistes
 			<BR>
 			"... Les orgues qu'il fit construire proche la grande porte de
 			<BR>
-			"l'église coûtèrent beaucoup...".</I>
+			"l'ï¿½glise coï¿½tï¿½rent beaucoup...".</I>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le texte ne donne pas de date, mais dans la marge d'où est prélevé ce passage, 
-			deux dates précisent la période concernée, ce sont les années 1513-1530 (Edition de 1831).
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le texte ne donne pas de date, mais dans la marge d'oï¿½ est prï¿½levï¿½ ce passage, 
+			deux dates prï¿½cisent la pï¿½riode concernï¿½e, ce sont les annï¿½es 1513-1530 (Edition de 1831).
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cependant et, dans le même ouvrage un nom vient remettre en cause cette affirmation, 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cependant et, dans le mï¿½me ouvrage un nom vient remettre en cause cette affirmation, 
 			bien que ne parlant pas des orgues :
 			</P>
-			<I>"Chrestien MAILLARD, qui avoit été maître des enfants de
+			<I>"Chrestien MAILLARD, qui avoit ï¿½tï¿½ maï¿½tre des enfants de
 			<BR>
-			"choeur, en 1497, puis organiste, en 1499, était chanoine et sous-
+			"choeur, en 1497, puis organiste, en 1499, ï¿½tait chanoine et sous-
 			<BR>
-			"chantre au mois de décembre 1513, lorsqu'on indiqua le jour pour
+			"chantre au mois de dï¿½cembre 1513, lorsqu'on indiqua le jour pour
 			<BR>
-			"choisir un évêque après la mort de Jean BAILLET. On le retrouve
+			"choisir un ï¿½vï¿½que aprï¿½s la mort de Jean BAILLET. On le retrouve
 			<BR>
 			"dans les registres de 1523 et 1524."</I>
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une étude parue dans le
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"Bulletin de la Société des Sciences"</B></FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=4>de 1898 - 52ème volume :</FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"L'Evêque d'Auxerre et le Chapitre cathédral"</B></FONT></P>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une ï¿½tude parue dans le
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"Bulletin de la Sociï¿½tï¿½ des Sciences"</B></FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=4>de 1898 - 52ï¿½me volume :</FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"L'Evï¿½que d'Auxerre et le Chapitre cathï¿½dral"</B></FONT></P>
 			mentionne :
 			<BR>
-			<I>"... l'évêque François 1er de DINTEVILLE fit construire en
-			<BR>"1529 l'orgue auprès de la grande porte de l'église sous la pre-
-			<BR>"mière arcade à gauche en entrant. La pose de ce buffet nécessita
-			<BR>"la destruction de deux chapiteaux qui n'ont pas été refaits de-
+			<I>"... l'ï¿½vï¿½que Franï¿½ois 1er de DINTEVILLE fit construire en
+			<BR>"1529 l'orgue auprï¿½s de la grande porte de l'ï¿½glise sous la pre-
+			<BR>"miï¿½re arcade ï¿½ gauche en entrant. La pose de ce buffet nï¿½cessita
+			<BR>"la destruction de deux chapiteaux qui n'ont pas ï¿½tï¿½ refaits de-
 			<BR>"puis."
 			<BR>
-			"... cet orgue subsista jusqu'en 1745 ou par une conclusion du 21 juillet il fut arrêté qu'il serait détruit 
-			'parcequ'il périssait de vétusté'".</I>
+			"... cet orgue subsista jusqu'en 1745 ou par une conclusion du 21 juillet il fut arrï¿½tï¿½ qu'il serait dï¿½truit 
+			'parcequ'il pï¿½rissait de vï¿½tustï¿½'".</I>
 			<BR>
 			<p align="justify">
-			Il faut attacher une certaine attention à cette date dont il sera fait mention plus loin.
+			Il faut attacher une certaine attention ï¿½ cette date dont il sera fait mention plus loin.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abel MOREAU, historien contemporain local, relate la suite des événements dans son 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abel MOREAU, historien contemporain local, relate la suite des ï¿½vï¿½nements dans son 
 			livre :
 			</P>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"La Cathédrale d'Auxerre"</B></FONT></P>
-			<I>"Le 27 septembre 1567, les Calvinistes s'emparèrent d'Auxer-
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"La Cathï¿½drale d'Auxerre"</B></FONT></P>
+			<I>"Le 27 septembre 1567, les Calvinistes s'emparï¿½rent d'Auxer-
 			<BR>
-			"re, livrèrent la ville au pillage, s'acharnèrent sur la cathédrale,
+			"re, livrï¿½rent la ville au pillage, s'acharnï¿½rent sur la cathï¿½drale,
 			<BR>
-			"brisèrent les statues qui ornent les portails, les autels, les vi-
+			"brisï¿½rent les statues qui ornent les portails, les autels, les vi-
 			<BR>
-			"traux, brûlent les stalles, montent à la tour et font choir les
+			"traux, brï¿½lent les stalles, montent ï¿½ la tour et font choir les
 			<BR>
-			"sept grosses cloches, enlèvent dans l'église les tombes de cui-
+			"sept grosses cloches, enlï¿½vent dans l'ï¿½glise les tombes de cui-
 			<BR>
-			"vre, les colonnes du sanctuaire, les chandeliers, bénitiers,
+			"vre, les colonnes du sanctuaire, les chandeliers, bï¿½nitiers,
 			<BR>
-			"creusant sous le pavé où ils pensent trouver des trésors, <U>empor-</U>
+			"creusant sous le pavï¿½ oï¿½ ils pensent trouver des trï¿½sors, <U>empor-</U>
 			<BR>
 			"<U>tent les tuyaux des orgues</U>, arrachent les grilles, forcent les
 			<BR>
-			"portes du trésor et s'emparent de tous les objets précieux...
+			"portes du trï¿½sor et s'emparent de tous les objets prï¿½cieux...
 			<BR>
-			"Jacques AMYOT, le pacifique évêque d'Auxerre, devait consacrer
+			"Jacques AMYOT, le pacifique ï¿½vï¿½que d'Auxerre, devait consacrer
 			<BR>
-			"ses efforts à réparer les dégâts, dont beaucoup, hélas ! étaient
+			"ses efforts ï¿½ rï¿½parer les dï¿½gï¿½ts, dont beaucoup, hï¿½las ! ï¿½taient
 			<BR>
-			"irréparables".</I>
+			"irrï¿½parables".</I>
 			<BR>
 			<br>
 			<br>
 			M. LEBLANC-DAVAUD, en 1871 dans
 			<P ALIGN="CENTER"><FONT SIZE=4><B>"Recherches historiques et statistiques sur Auxerre, ses monuments 
 			et ses environs"</B></FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=4>(Recherches sur les édifices. -paragraphe 8 sur les</FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=4>profanations et la restauration de cette église)</FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=4>(Recherches sur les ï¿½difices. -paragraphe 8 sur les</FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=4>profanations et la restauration de cette ï¿½glise)</FONT></P>
 			cite
 			<P ALIGN="CENTER"><FONT SIZE=5><B>"LEBEUF : Prise d'Auxerre"</B></FONT></P>
 			<I>"L'ancien jeu d'orgue, qui garnissait toute la largeur de la
 			<BR>
-			"nef, contre le grand portail, fut détruit entièrement, celui que
+			"nef, contre le grand portail, fut dï¿½truit entiï¿½rement, celui que
 			<BR>
-			"l'évêque AMYOT a fait établir contre le portail méridional, ne
+			"l'ï¿½vï¿½que AMYOT a fait ï¿½tablir contre le portail mï¿½ridional, ne
 			<BR>
-			"peut lui être comparé".</I>
+			"peut lui ï¿½tre comparï¿½".</I>
 			<BR>
 			<TABLE WIDTH="100%" BORDER="0">
                <TR>
@@ -248,104 +227,104 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		          </TD>
                </TR>
 	        </TABLE>
-			     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des détails nous sont donnés dans l'
+			ï¿½ï¿½ï¿½ï¿½ï¿½&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des dï¿½tails nous sont donnï¿½s dans l'
 			<P ALIGN="CENTER"><FONT SIZE=5><B>"Histoire de la prise d'Auxerre par les Huguenots et de</B></FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>la délivrance de la même ville"</B></FONT></P>
-			par un chanoine de la cathédrale d'Auxerre. 17.. (S'agit-il de l'abbé LEBEUF ?)
+			<P ALIGN="CENTER"><FONT SIZE=5><B>la dï¿½livrance de la mï¿½me ville"</B></FONT></P>
+			par un chanoine de la cathï¿½drale d'Auxerre. 17.. (S'agit-il de l'abbï¿½ LEBEUF ?)
 			<BR>
-			<I>"Les Huguenots emportèrent les tuiaux des orgues au nombre de
+			<I>"Les Huguenots emportï¿½rent les tuiaux des orgues au nombre de
 			<BR>
-			"sept mille et en brisèrent l'étui qui était l'un des plus magni-
+			"sept mille et en brisï¿½rent l'ï¿½tui qui ï¿½tait l'un des plus magni-
 			<BR>
 			"fiques du Royaume".</I>
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette relation inspire trois reflexions :
 			<BR>
 			<p align="justify">
-			* il ne peut être question de l'abbé LEBEUF qui écrit que le buffet n'a pas été détruit, en ces termes :
+			* il ne peut ï¿½tre question de l'abbï¿½ LEBEUF qui ï¿½crit que le buffet n'a pas ï¿½tï¿½ dï¿½truit, en ces termes :
 			<BR>
-			<I>"... les Huguenots profitèrent depuis des tuiaux et n'y lais-
+			<I>"... les Huguenots profitï¿½rent depuis des tuiaux et n'y lais-
 			<BR>
-			"sèrent que le buffet qui subsiste...".</I>
+			"sï¿½rent que le buffet qui subsiste...".</I>
 			<BR>
-			** ensuite, il y a polémique au sujet des 7000 tuyaux, certains pensant qu'il est question de 700, d'autres que 
-			7000 tuyaux pouvaient constituer un jeu unique, sorte de grand plein-jeu. Je ne trancherai pas dans ce débat, 
-			les deux hypothèses ayant ici leurs arguments : pour les 7000, l'abbé LEBEUF dit précédemment :
+			** ensuite, il y a polï¿½mique au sujet des 7000 tuyaux, certains pensant qu'il est question de 700, d'autres que 
+			7000 tuyaux pouvaient constituer un jeu unique, sorte de grand plein-jeu. Je ne trancherai pas dans ce dï¿½bat, 
+			les deux hypothï¿½ses ayant ici leurs arguments : pour les 7000, l'abbï¿½ LEBEUF dit prï¿½cï¿½demment :
 			<BR>
 			<I>"l'ancien jeu d'orgue qui garnissait toute la largeur de la nef..."</I>
-			et puis ces grands plein-jeu n'étaient pas rares à cette époque, mais il n'est pas question ici de faire une 
-			histoire de l'orgue ; d'autre part, contre les 7000, le fait qu'il est habituel d'éxagérer dans des relations 
+			et puis ces grands plein-jeu n'ï¿½taient pas rares ï¿½ cette ï¿½poque, mais il n'est pas question ici de faire une 
+			histoire de l'orgue ; d'autre part, contre les 7000, le fait qu'il est habituel d'ï¿½xagï¿½rer dans des relations 
 			de ce genre, et aucun document d'archives ne mentionne d'orgue au-dessus du grand portail, mais seulement :
 			<BR>
-			<I>"... sous la première arcade à gauche en entrant."</I>
+			<I>"... sous la premiï¿½re arcade ï¿½ gauche en entrant."</I>
 			<BR>
 			enfin tout ce que l'on sait de cet orgue est qu'il contenait 14 jeux. Les partisans des 700 tuyaux diront que 
-			le compte peut être fait facilement :
+			le compte peut ï¿½tre fait facilement :
 			<BR>
-			clavier de 50 touches X 14 jeux donnent 700 tuyaux. Or, rien ne précise l'étendue des claviers, ni la composition 
-			des jeux et il n'est pas tenu compte du pédalier éventuel ;
+			clavier de 50 touches X 14 jeux donnent 700 tuyaux. Or, rien ne prï¿½cise l'ï¿½tendue des claviers, ni la composition 
+			des jeux et il n'est pas tenu compte du pï¿½dalier ï¿½ventuel ;
 			<BR>
-			*** le buffet de l'orgue subsista jusqu'en 1745 comme déjà écrit, ce qui constitue une autre contradiction.
+			*** le buffet de l'orgue subsista jusqu'en 1745 comme dï¿½jï¿½ ï¿½crit, ce qui constitue une autre contradiction.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans les pièces justificatives de l'ouvrage ci-dessus, au chapitre
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans les piï¿½ces justificatives de l'ouvrage ci-dessus, au chapitre
 			</P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>"Catalogues des principaux bienfaiteurs et restaurateurs</B></FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>des églises d'Auxerre, depuis la spoliation arrivée en 1567"</B></FONT></P>
-			à l'
+			<P ALIGN="CENTER"><FONT SIZE=5><B>des ï¿½glises d'Auxerre, depuis la spoliation arrivï¿½e en 1567"</B></FONT></P>
+			ï¿½ l'
 			<P ALIGN="CENTER"><FONT SIZE=5><B>article I :</B></FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>de l'église Cathédrale :</B></FONT></P>
-			<I>"Messire AMYOT qui prit possession de l'évêché d'Auxerre en
+			<P ALIGN="CENTER"><FONT SIZE=5><B>de l'ï¿½glise Cathï¿½drale :</B></FONT></P>
+			<I>"Messire AMYOT qui prit possession de l'ï¿½vï¿½chï¿½ d'Auxerre en
 			<BR>
 			"1571... fit aussi faire en 1591 toute la boiserie des nouvelles
 			<BR>
-			"orgues, qu'on plaça au coin du choeur, et fournit à la dépense
+			"orgues, qu'on plaï¿½a au coin du choeur, et fournit ï¿½ la dï¿½pense
 			<BR>
-			"des tuyaux qui furent fondus par Frère Hilaire..."</I>
+			"des tuyaux qui furent fondus par Frï¿½re Hilaire..."</I>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'abbé LEBEUF dans la suite de ses
-			<P ALIGN="CENTER"><FONT SIZE=5><B>"Mémoires"</B></FONT></P>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'abbï¿½ LEBEUF dans la suite de ses
+			<P ALIGN="CENTER"><FONT SIZE=5><B>"Mï¿½moires"</B></FONT></P>
 			indique pour 1576 :
 			<BR>
-			<I>"En même temps que les ouvrages (l'église ayant besoin d'être
+			<I>"En mï¿½me temps que les ouvrages (l'ï¿½glise ayant besoin d'ï¿½tre
 			<BR>
-			"bénie de nouveau 'à cause des profanations horribles que les Hu-
+			"bï¿½nie de nouveau 'ï¿½ cause des profanations horribles que les Hu-
 			<BR>
-			"guenots y avaient commises' le nouveau prélat commençat par là
+			"guenots y avaient commises' le nouveau prï¿½lat commenï¿½at par lï¿½
 			<BR>
-			"aussitôt après son arrivée...) se firent en bois, en cuivre, en
+			"aussitï¿½t aprï¿½s son arrivï¿½e...) se firent en bois, en cuivre, en
 			<BR>
-			"pierre, l'évêque AMYOT songea à la construction d'<U>un nouveau</U>
+			"pierre, l'ï¿½vï¿½que AMYOT songea ï¿½ la construction d'<U>un nouveau</U>
 			<BR>
 			"<U>jeu d'orgues</U> qu'il avait dessein de placer au coin du choeur. Il fit
 			<BR>
-			"venir pour la confection des tuyaux, le Frère Hilaire, religieux
+			"venir pour la confection des tuyaux, le Frï¿½re Hilaire, religieux
 			<BR>
-			"de Notre-Dame en l'Isle, à Troyes, de l'Ordre du Val des Ecoliers
+			"de Notre-Dame en l'Isle, ï¿½ Troyes, de l'Ordre du Val des Ecoliers
 			<BR>
-			"qui passait pour très expérimenté."</I>
+			"qui passait pour trï¿½s expï¿½rimentï¿½."</I>
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A nouveau deux dates : 1591 et 1576... Le bon évêque eut beaucoup de problèmes 
-			et le Chapitre se mit à contester ses réalisations et leur coût. On peut voir dans les documents qu'il a répondu 
-			à ses détracteurs et s'est justifié.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A nouveau deux dates : 1591 et 1576... Le bon ï¿½vï¿½que eut beaucoup de problï¿½mes 
+			et le Chapitre se mit ï¿½ contester ses rï¿½alisations et leur coï¿½t. On peut voir dans les documents qu'il a rï¿½pondu 
+			ï¿½ ses dï¿½tracteurs et s'est justifiï¿½.
 			</P>
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour clore ce premier chapitre, une dernière référence :
-			<P ALIGN="CENTER"><FONT SIZE=5><B>Description générale et particulière du Duché de Bourgogne</B></FONT></P>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour clore ce premier chapitre, une derniï¿½re rï¿½fï¿½rence :
+			<P ALIGN="CENTER"><FONT SIZE=5><B>Description gï¿½nï¿½rale et particuliï¿½re du Duchï¿½ de Bourgogne</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>Tome VI</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>Dijon</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>Causse 1781</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>p. 659 ou</B></FONT></P>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>Tome quatrième</B></FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=5><B>Tome quatriï¿½me</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>Dijon</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>Victor Lagier 1848</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>p. 315</B></FONT></P>
-			Eglise cathédrale
+			Eglise cathï¿½drale
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est dommage que des deux tours à côté du grand portail de St Etienne, il n'y en 
-			ait qu'une de finie, ayant 183 pieds de hauteur, et que le buffet d'orgue ait été placé en 1768 à la porte 
-			latérale du midi, faute de fonds suffisants pour le mettre à la grande porte où il avait été posé par François 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est dommage que des deux tours ï¿½ cï¿½tï¿½ du grand portail de St Etienne, il n'y en 
+			ait qu'une de finie, ayant 183 pieds de hauteur, et que le buffet d'orgue ait ï¿½tï¿½ placï¿½ en 1768 ï¿½ la porte 
+			latï¿½rale du midi, faute de fonds suffisants pour le mettre ï¿½ la grande porte oï¿½ il avait ï¿½tï¿½ posï¿½ par Franï¿½ois 
 			d'Inteville en <U>1520</U>.
 			</P>
 		    </FONT>
@@ -359,8 +338,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD>
             <p align="justify">
             <BR>
-            <SUP><font color="#ff0000">1</FONT></SUP>Ernold Le NOIR <I>Poèmes sur Louis le Pieux</I>. <I>Epïtres au roi Pépin</I>. Budé 
-            Paris, 1937 p. 193, note 1 dans : LA VALLEE D'AILLANT dans l'histoire des origines à nos jours Tome 4 Abbé A-J NOIROT   
+            <SUP><font color="#ff0000">1</FONT></SUP>Ernold Le NOIR <I>Poï¿½mes sur Louis le Pieux</I>. <I>Epï¿½tres au roi Pï¿½pin</I>. Budï¿½ 
+            Paris, 1937 p. 193, note 1 dans : LA VALLEE D'AILLANT dans l'histoire des origines ï¿½ nos jours Tome 4 Abbï¿½ A-J NOIROT   
             <BR>
             <BR>
             <BR>
@@ -423,15 +402,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		  </TD>
 		  <TD WIDTH="34%">
 		    <P ALIGN="center">
-               <a href="Origines_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxième</FONT></a>
+               <a href="Origines_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxiï¿½me</FONT></a>
 			</P>
 		  </TD>
 		  <TD WIDTH="33%">
 		     <P ALIGN="right">
-			    <a href="Origines_III.htm"><FONT COLOR = #99FFFF>Chapitre troisième</FONT></A>
+			    <a href="Origines_III.htm"><FONT COLOR = #99FFFF>Chapitre troisiï¿½me</FONT></A>
 			 </P>
 		  </TD>
       </TR>
    </TABLE>
-</body>
-</html>

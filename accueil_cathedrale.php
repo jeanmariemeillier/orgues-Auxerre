@@ -1,5 +1,5 @@
 <section id="titre_cath">
-    <h1>test Les orgues de la Cathédrale d'Auxerre</h1>
+    <h1>Les orgues de la Cathédrale d'Auxerre</h1>
 </section>
 
 <div id="accueil_cath">
@@ -8,7 +8,7 @@
         <li class="indic30">
                 <a href="#">Préface</a>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="">La cathédrale </a></li>
+                    <li><a class="" href="#">La cathédrale </a></li>
                     <li><a href="#"></a>Musique religieuse </li>
                     <li><a href="#"></a>Note d’art et d’histoire </li>
                 </ul>
@@ -17,7 +17,7 @@
             <li class="indic32">
                 <a href="#">Des origines à 1789</a>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="index.php?pg=30">Chapitre 1</a></li>
+                    <li><a class="" href="#">Chapitre 1</a></li>
                     <li><a href="#">Chapitre 2</a></li>
                     <li><a href="#">Chapitre 3</a></li>
                 </ul>
