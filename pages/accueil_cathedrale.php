@@ -6,52 +6,54 @@
    <section id="menu_cath">
         <ul id="nav_cath">
         <li class="indic30">
-                <a href="#">Préface</a>
+            <?php echo"<a href=\"".$liens["indic30"]["lien_pg"]."\">".$liens["indic30"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="">La cathédrale </a></li>
+                    <?php echo"<li><a href=\"".$liens["indic30"]["sous_menu"]["href_1"]."\">".$liens["indic30"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
                     <li><a href="#"></a>Musique religieuse </li>
                     <li><a href="#"></a>Note d’art et d’histoire </li>
                 </ul>
             </li>
-            <li class="trt_accueil indic31">Histoire des orgues</li>
+            <li class="trt_accueil indic31"><?php echo $liens["indic31"]["trt_menu"]; ?></li>
             <li class="indic32">
-                <a href="#">Des origines à 1789</a>
+            <?php echo"<a href=\"".$liens["indic32"]["lien_pg"]."\">".$liens["indic32"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="index.php?pg=30">Chapitre 1</a></li>
+                    <!-- <li><a class="" href="index.php?pg=30">Chapitre 1</a></li> -->
                     <li><a href="#">Chapitre 2</a></li>
                     <li><a href="#">Chapitre 3</a></li>
                 </ul>
             </li>
             <li class="indic33">
-                <a href="#">De 1789 à 1900</a>
+            <?php echo"<a href=\"".$liens["indic33"]["lien_pg"]."\">".$liens["indic33"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="#">Chapitre 1</a></li>
+                    <!-- <li><a class="" href="#">Chapitre 1</a></li> -->
                     <li><a href="#">Chapitre 2</a></li>
                     <li><a href="#">Chapitre 3</a></li>
                 </ul>
             </li>
             <li class="indic34">
-                <a href="#">De 1900 aux soumissions </a>
+            <?php echo"<a href=\"".$liens["indic34"]["lien_pg"]."\">".$liens["indic34"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="#">Chapitre 1</a></li>
+                    <!-- <li><a class="" href="#">Chapitre 1</a></li> -->
                     <li><a href="#">Chapitre 2</a></li>
                 </ul>
             </li>
             <li class="indic35">
-                <a href="#">Inauguration de l’orgue </a>
+            <?php echo"<a href=\"".$liens["indic35"]["lien_pg"]."\">".$liens["indic35"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="index.php?pg=30">Chapitre 10</a></li>
+                    <!-- <li><a class="" href="index.php?pg=30">Chapitre 10</a></li> -->
                     <li><a href="#">Chapitre 2</a></li>
                     <li><a href="#">Chapitre 3</a></li>
                     <li><a href="#">Chapitre 4</a></li>
                 </ul>
             </li>
-            <li class="trt_accueil indic36">Albums photos </li>
-            <li class="indic37"><a href="#">Photos avant 1983 </a></li>
+            <li class="trt_accueil indic36"><?php echo $liens["indic36"]["trt_menu"]; ?></li>
+            <li class="indic37">
+                <?php echo"<a href=\"".$liens["indic37"]["lien_pg"]."\">".$liens["indic37"]["trt_menu"]."</a>"; ?>
+            </li>
             <li class="indic38">
-                <a href="#">Photos à partir de 1985</a>
+                <?php echo"<a href=\"".$liens["indic38"]["lien_pg"]."\">".$liens["indic38"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <li><a class="" href="#">Album 1</a></li>
+                    <li><a href="#">Album 1</a></li>
                     <li><a href="#">Album 2</a></li>
                     <li><a href="#">Album 3</a></li>
                     <li><a href="#">Album 4</a></li>

@@ -4,7 +4,7 @@
 
 	 	Date de création: 18/02/2012  / version 4.20.0 au 23/09/2023.
 
-	 	Ce fichier est libre d'utilisation en sitant l'association: www.collectif11880.org.
+	 	Ce fichier est libre d'utilisation en citant l'association: www.collectif11880.org.
 
 	 	DERNIERE MODIFS 
 
@@ -17,7 +17,7 @@
 		
 			Modif sur la variable $active: elle est egale à l'indice du lien dans le menu supression du tableau.
 	 	
-			Rajout d'une condition si un Get'act' est pesent pour consever l'active sur une page à affichage automatique. remis en option dans les variables get
+			Rajout d'une condition si un Get'act' est présent pour consever l'active sur une page à affichage automatique. remis en option dans les variables get
 
 	 		La variable $tempo_cle pour la durée du cookie (elle est déplacée dans le fichier tabbord_deb.php
 
@@ -44,7 +44,7 @@
 
 	/* variables par défaut pour afficher la page en index */
 	$affpg =  $dirlien.$liens["index"].$lp; 
-	$activ = "1";
+	$activ = "1"; //à modifier, faire une variable json
 	if ($liens["aside"]){
 		$affasi =  $dirlien.$liens["fich_aside"].$lp; 
 		$aside = true;
@@ -64,7 +64,7 @@
 			$autopg = $_GET['aupg'];
 		}
 	}
-        /*  en option fichier list-elements.json. contient tous les nons des éléments à afficher sur la site 	 */
+        /*  en option fichier list-elements.json. contient tous les nons des éléments à afficher sur le site 	 */
 	if($liens["list"]){
 		$lstelemt = file_get_contents($chem_princ."/donnees/list-elements.json");
 		$affichtxt = json_decode($lstelemt, true);

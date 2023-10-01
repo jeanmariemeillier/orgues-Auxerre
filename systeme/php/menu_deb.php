@@ -1,6 +1,6 @@
 <?php
 /*
-	fichier d'affichage du menu pour les sites conçu ou gérer par l'association collectif 11880.
+	fichier d'affichage du menu pour les sites conçu ou gérés par l'association collectif 11880.
 	version 1.2.4 au 04/08/2022.
 	fichier libre d'utilisation en sitant l'association collectif11880.org.
 	modifs importantes:
