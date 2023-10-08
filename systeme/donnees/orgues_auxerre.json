@@ -144,6 +144,7 @@
 	},
 	"indic30" :{
 	"valid" : 1,
+	"fn_tit_menu" : false,
 	"trt_menu" : "Préface",
 	"lien_pg" : "index.php?pg=30",
 	"lrm" : "preface",
@@ -163,13 +164,12 @@
 	},
 	"indic31" :{
 	"valid" : 1,
-	"trt_menu" : "Histoire des orgues",
-	"lien_pg" : "index.php?pg=31",
-	"lrm" : "",
-	"arm" : "vide"
+	"fn_tit_menu" : true,
+	"trt_menu" : "Histoire des orgues"
 	},
 	"indic32" :{
 	"valid" : 1,
+	"fn_tit_menu" : false,
 	"trt_menu" : "Des origines à 1789",
 	"lien_pg" : "index.php?pg=32&act=2",
 	"lrm" : "origine_1",
@@ -186,6 +186,7 @@
 	},
 	"indic33" :{
 		"valid" : 1,
+		"fn_tit_menu" : false,
 		"trt_menu" : "De 1789 à 1900",
 		"lien_pg" : "index.php?pg=33",
 		"lrm" : "revolution",
@@ -202,6 +203,7 @@
 	},
 	"indic34" :{
 		"valid" : 1,
+		"fn_tit_menu" : false,
 		"trt_menu" : "De 1900 aux soumissions",
 		"lien_pg" : "index.php?pg=34",
 		"lrm" : "soumissions_1",
@@ -215,6 +217,7 @@
 	},
 	"indic35" :{
 		"valid" : 1,
+		"fn_tit_menu" : false,
 		"trt_menu" : "Inauguration de l’orgue",
 		"lien_pg" : "index.php?pg=35",
 		"lrm" : "inauguration",
@@ -234,6 +237,7 @@
 	},
 	"indic36" :{
 		"valid" : 1,
+		"fn_tit_menu" : false,
 		"trt_menu" : "Albums photos",
 		"lien_pg" : "",
 		"lrm" : "",
@@ -241,13 +245,12 @@
 		},
 	"indic37" :{
 		"valid" : 1,
-		"trt_menu" : "Photos avant 1983 ",
-		"lien_pg" : "index.php?pg=37",
-		"lrm" : "",
-		"arm" : "vide"
+		"fn_tit_menu" : true,
+		"trt_menu" : "Photos avant 1983 "
 		},
 	"indic38" :{
 		"valid" : 1,
+		"fn_tit_menu" : false,
 		"trt_menu" : "Photos à partir de 1985",
 		"lien_pg" : "index.php?pg=38",
 		"lrm" : "",

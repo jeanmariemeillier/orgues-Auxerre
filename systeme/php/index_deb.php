@@ -2,13 +2,13 @@
 	/*
 		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 
 
-	 	Date de création: 18/02/2012  / version 4.20.0 au 23/09/2023.
+	 	Date de création: 18/02/2012  / version 4.20.1 du 08/10/2023.
 
 	 	Ce fichier est libre d'utilisation en citant l'association: www.collectif11880.org.
 
 	 	DERNIERE MODIFS 
 
-	 	Nouvelle version 4.20.0 du 23/09/2023: 
+	 	Nouvelle version 4.20.1 du 08/10/2023: 
 			La varaible $fich_blog  contennant le nom de la page active pour l'option blog auto *!
 			Elle ne doit pas etre modifiée  constante! 
 			
@@ -20,6 +20,8 @@
 			Rajout d'une condition si un Get'act' est présent pour consever l'active sur une page à affichage automatique. remis en option dans les variables get
 
 	 		La variable $tempo_cle pour la durée du cookie (elle est déplacée dans le fichier tabbord_deb.php
+
+			Nouvelle variable Get'sm' crée pour le site orgueauxerre.net. Indexe un sous-lien dans un menu aside.
 
 	 	Si vous vouyez un bug ou une amélioration contactez le collectif, on sitera votre nom, merci!
 	*/
