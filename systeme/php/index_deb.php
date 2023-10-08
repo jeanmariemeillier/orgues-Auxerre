@@ -55,6 +55,12 @@
 		$affpg =  $dirlien.$liens["indic".$pgmain]["lrm"].$lp;
 		if(isset($_GET['act'])) $activ = $_GET['act'];
 		else  $activ = $_GET['pg']; 
+		/* modification du 08/10/2023 pour les orgues d'auxerre */
+		if (isset($_GET['sm'])) {
+			$sous_menu = $_GET['sm'];
+			$affpg = $dirlien.$liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu].$lp;
+			// echo $liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu];
+		}
 		if (isset($_GET['asi'])) {
 			$affasi =  $dirlien.$liens["indic".$_GET['pg']]["arm"].$lp;
 			$aside = true;

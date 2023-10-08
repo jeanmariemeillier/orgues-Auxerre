@@ -150,15 +150,15 @@
 	"arm" : "vide",
 	"nbr_lien" : 3,
 	"sous_menu" :{
-		"href_1" : "la_cathedrale.php",
-		"txt_lien_1" : "la cathédrale",
-		"lrm_1" : "",
-		"href_2" : "musique_religieuse.php",
-		"txt_lien_2" : "musique religieuse",
-		"lrm_2" : "",
-		"href_3" : "notes_d_art_et_d_histoire.php",
-		"txt_lien_3" : "notes d’art et d’histoire",
-		"lrm_3" : ""
+		"href_1" : "index.php?pg=30&sm=1&act=2",
+		"txt_lien_1" : "La cathédrale",
+		"lrm_1" : "la_cathedrale",
+		"href_2" : "index.php?pg=30&sm=2&act=2",
+		"txt_lien_2" : "Musique religieuse",
+		"lrm_2" : "musique_religieuse",
+		"href_3" : "index.php?pg=30&sm=3&act=2",
+		"txt_lien_3" : "Notes d’art et d’histoire",
+		"lrm_3" : "notes_d_art_et_d_histoire"
 		} 
 	},
 	"indic31" :{
@@ -171,17 +171,17 @@
 	"indic32" :{
 	"valid" : 1,
 	"trt_menu" : "Des origines à 1789",
-	"lien_pg" : "index.php?pg=32",
-	"lrm" : "origine_I",
+	"lien_pg" : "index.php?pg=32&act=2",
+	"lrm" : "origine_1",
 	"arm" : "vide",
 	"nbr_lien" : 2,
 	"sous_menu" :{
-		"href_1" : "origine_II.php",
-		"txt_lien_1" : "origine II",
-		"lrm_1" : "origine",
-		"href_2" : "origine_III.php",
-		"txt_lien_2" : "origine III",
-		"lrm_2" : ""
+		"href_1" : "index.php?pg=32&sm=1&act=2",
+		"txt_lien_1" : "Origine 2",
+		"lrm_1" : "origine_2",
+		"href_2" : "index.php?pg=32&sm=2&act=2",
+		"txt_lien_2" : "Origine 3",
+		"lrm_2" : "origine_3"
 		}
 	},
 	"indic33" :{
@@ -192,25 +192,25 @@
 		"arm" : "vide",
 		"nbr_lien" : 2,
 		"sous_menu" :{
-			"href_1" : "revolution_II.php",
-			"txt_lien_1" : "revolution II",
-			"lrm_1" : "revolution",
-			"href_2" : "revolution_III.php",
-			"txt_lien_2" : "revolution III",
-			"lrm_2" : "revolution"
+			"href_1" : "index.php?pg=33&sm=1&act=2",
+			"txt_lien_1" : "Révolution 2",
+			"lrm_1" : "revolution_2",
+			"href_2" : "index.php?pg=33&sm=2&act=2",
+			"txt_lien_2" : "Révolution 3",
+			"lrm_2" : "revolution_3"
 			}	
 	},
 	"indic34" :{
 		"valid" : 1,
 		"trt_menu" : "De 1900 aux soumissions",
 		"lien_pg" : "index.php?pg=34",
-		"lrm" : "soumissions",
+		"lrm" : "soumissions_1",
 		"arm" : "vide",
 		"nbr_lien" : 1,
 		"sous_menu" :{
-			"href_1" : "soumissions_II.php",
-			"txt_lien_1" : "soumissions II",
-			"lrm_1" : "soumissions"
+			"href_1" : "index.php?pg=34&sm=1&act=2",
+			"txt_lien_1" : "Soumissions 2",
+			"lrm_1" : "soumissions_2"
 			}	
 	},
 	"indic35" :{
@@ -221,15 +221,15 @@
 		"arm" : "vide",
 		"nbr_lien" : 3,
 		"sous_menu" :{
-		"href_1" : "inauguration_II.php",
-		"txt_lien_1" : "inauguration II",
-		"lrm_1" : "inauguration",
-		"href_2" : "inauguration_III.php",
-		"txt_lien_2" : "inauguration III",
-		"lrm_2" : "inauguration",
-		"href_3" : "inauguration_IV.php",
-		"txt_lien_3" : "inauguration IV",
-		"lrm_3" : "inauguration"
+		"href_1" : "index.php?pg=35&sm=1&act=2",
+		"txt_lien_1" : "Inauguration 2",
+		"lrm_1" : "inauguration_2",
+		"href_2" : "index.php?pg=35&sm=2&act=2",
+		"txt_lien_2" : "Inauguration 3",
+		"lrm_2" : "inauguration_3",
+		"href_3" : "index.php?pg=35&sm=3&act=2",
+		"txt_lien_3" : "Inauguration 4",
+		"lrm_3" : "inauguration_4"
 		} 
 	},
 	"indic36" :{

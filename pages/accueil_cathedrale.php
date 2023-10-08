@@ -31,9 +31,9 @@
                 <ul class="sous_menu_cath">
                     <!-- <li><a class="" href="#">Chapitre 1</a></li> -->
                     <?php echo"<li><a href=\"".$liens["indic33"]["sous_menu"]["href_1"]."\">".$liens["indic33"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic33"]["sous_menu"]["href_2"]."\">".$liens["indic33]["sous_menu"]["txt_lien_2"]."</a>"; ?>
-                    // <li><a href="#">Chapitre 2</a></li>
-                    // <li><a href="#">Chapitre 3</a></li>
+                    <?php echo"<li><a href=\"".$liens["indic33"]["sous_menu"]["href_2"]."\">".$liens["indic33"]["sous_menu"]["txt_lien_2"]."</a>"; ?>
+                    <!-- // <li><a href="#">Chapitre 2</a></li> -->
+                    <!-- // <li><a href="#">Chapitre 3</a></li> -->
                 </ul>
             </li>
             <li class="indic34">
@@ -45,10 +45,6 @@
             <li class="indic35">
             <?php echo"<a href=\"".$liens["indic35"]["lien_pg"]."\">".$liens["indic35"]["trt_menu"]."</a>"; ?>
                 <ul class="sous_menu_cath">
-                    <!-- <li><a class="" href="index.php?pg=30">Chapitre 10</a></li> -->
-                    // <li><a href="#">Chapitre 2</a></li>
-                    // <li><a href="#">Chapitre 3</a></li>
-                    // <li><a href="#">Chapitre 4</a></li>
                     <?php echo"<li><a href=\"".$liens["indic35"]["sous_menu"]["href_1"]."\">".$liens["indic35"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
                     <?php echo"<li><a href=\"".$liens["indic35"]["sous_menu"]["href_2"]."\">".$liens["indic35"]["sous_menu"]["txt_lien_2"]."</a>"; ?>
                     <?php echo"<li><a href=\"".$liens["indic35"]["sous_menu"]["href_3"]."\">".$liens["indic35"]["sous_menu"]["txt_lien_3"]."</a>"; ?>
