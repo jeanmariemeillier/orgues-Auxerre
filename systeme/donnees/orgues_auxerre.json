@@ -135,7 +135,7 @@
 	"indic20" :{
 		"valid" : false,
 		"lien_pg" :"index.php?pg=20",
-		"lrm" :"entrer_seruriser"
+		"lrm" :"entrer_securiser"
 	},
 	"indic21" :{
 	"valid" : false,
@@ -150,18 +150,21 @@
 	"arm" : "vide",
 	"nbr_lien" : 3,
 	"sous_menu" :{
-		"href_1" : "",
-		"txt_lien_1" : "La cathédrale",
-		"href_2" : "",
-		"txt_lien_2" : "",
-		"href_3" : "",
-		"txt_lien_3" : ""
+		"href_1" : "la_cathedrale.php",
+		"txt_lien_1" : "la cathédrale",
+		"lrm_1" : "",
+		"href_2" : "musique_religieuse.php",
+		"txt_lien_2" : "musique religieuse",
+		"lrm_2" : "",
+		"href_3" : "notes_d_art_et_d_histoire.php",
+		"txt_lien_3" : "notes d’art et d’histoire",
+		"lrm_3" : ""
 		} 
 	},
 	"indic31" :{
 	"valid" : 1,
 	"trt_menu" : "Histoire des orgues",
-	"lien_pg" : "",
+	"lien_pg" : "index.php?pg=31",
 	"lrm" : "",
 	"arm" : "vide"
 	},
@@ -169,30 +172,66 @@
 	"valid" : 1,
 	"trt_menu" : "Des origines à 1789",
 	"lien_pg" : "index.php?pg=32",
-	"lrm" : "origines_1",
-	"arm" : "vide"
+	"lrm" : "origine_I",
+	"arm" : "vide",
+	"nbr_lien" : 2,
+	"sous_menu" :{
+		"href_1" : "origine_II.php",
+		"txt_lien_1" : "origine II",
+		"lrm_1" : "origine",
+		"href_2" : "origine_III.php",
+		"txt_lien_2" : "origine III",
+		"lrm_2" : ""
+		}
 	},
 	"indic33" :{
 		"valid" : 1,
 		"trt_menu" : "De 1789 à 1900",
 		"lien_pg" : "index.php?pg=33",
-		"lrm" : "",
-		"arm" : "vide"
+		"lrm" : "revolution",
+		"arm" : "vide",
+		"nbr_lien" : 2,
+		"sous_menu" :{
+			"href_1" : "revolution_II.php",
+			"txt_lien_1" : "revolution II",
+			"lrm_1" : "revolution",
+			"href_2" : "revolution_III.php",
+			"txt_lien_2" : "revolution III",
+			"lrm_2" : "revolution"
+			}	
 	},
 	"indic34" :{
 		"valid" : 1,
 		"trt_menu" : "De 1900 aux soumissions",
 		"lien_pg" : "index.php?pg=34",
-		"lrm" : "",
-		"arm" : "vide"
-		},
+		"lrm" : "soumissions",
+		"arm" : "vide",
+		"nbr_lien" : 1,
+		"sous_menu" :{
+			"href_1" : "soumissions_II.php",
+			"txt_lien_1" : "soumissions II",
+			"lrm_1" : "soumissions"
+			}	
+	},
 	"indic35" :{
 		"valid" : 1,
 		"trt_menu" : "Inauguration de l’orgue",
 		"lien_pg" : "index.php?pg=35",
-		"lrm" : "",
-		"arm" : "vide"
-		},
+		"lrm" : "inauguration",
+		"arm" : "vide",
+		"nbr_lien" : 3,
+		"sous_menu" :{
+		"href_1" : "inauguration_II.php",
+		"txt_lien_1" : "inauguration II",
+		"lrm_1" : "inauguration",
+		"href_2" : "inauguration_III.php",
+		"txt_lien_2" : "inauguration III",
+		"lrm_2" : "inauguration",
+		"href_3" : "inauguration_IV.php",
+		"txt_lien_3" : "inauguration IV",
+		"lrm_3" : "inauguration"
+		} 
+	},
 	"indic36" :{
 		"valid" : 1,
 		"trt_menu" : "Albums photos",

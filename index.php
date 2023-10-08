@@ -1,7 +1,7 @@
 <?php 
   /* 
   site  orgues auxerre version 2 création 07/05/2023
-  ce site est la proprièté de Jean-Marie Meillieur
+  ce site est la proprièté de Jean-Marie Meillier
   ce site est réalisé avec l'association collectif 11880
   */
   // session_start();// bug possible
