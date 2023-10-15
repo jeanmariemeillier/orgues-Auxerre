@@ -5,58 +5,30 @@
 <div id="accueil_cath">
    <section id="menu_cath">
         <ul id="nav_cath">
-            <li class="indic30">
-                <?php echo"<a href=\"".$liens["indic30"]["lien_pg"]."\">".$liens["indic30"]["trt_menu"]."</a>"; ?>
-                <ul class="sous_menu_cath">
-                    <?php echo"<li><a href=\"".$liens["indic30"]["sous_menu"]["href_1"]."\">".$liens["indic30"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic30"]["sous_menu"]["href_2"]."\">".$liens["indic30"]["sous_menu"]["txt_lien_2"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic30"]["sous_menu"]["href_3"]."\">".$liens["indic30"]["sous_menu"]["txt_lien_3"]."</a>"; ?>
-                </ul>
-            </li>
-            <li class="indic31 trt_accueil"><?php echo $liens["indic31"]["trt_menu"]; ?></li>
-            <li class="indic32">
-            <?php echo"<a href=\"".$liens["indic32"]["lien_pg"]."\">".$liens["indic32"]["trt_menu"]."</a>"; ?>
-                <ul class="sous_menu_cath">
-                    <?php echo"<li><a href=\"".$liens["indic32"]["sous_menu"]["href_1"]."\">".$liens["indic32"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic32"]["sous_menu"]["href_2"]."\">".$liens["indic32"]["sous_menu"]["txt_lien_2"]."</a>"; ?>
-                </ul>
-            </li>
-            <li class="indic33">
-            <?php echo"<a href=\"".$liens["indic33"]["lien_pg"]."\">".$liens["indic33"]["trt_menu"]."</a>"; ?>
-                <ul class="sous_menu_cath">
-                    <?php echo"<li><a href=\"".$liens["indic33"]["sous_menu"]["href_1"]."\">".$liens["indic33"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic33"]["sous_menu"]["href_2"]."\">".$liens["indic33"]["sous_menu"]["txt_lien_2"]."</a>"; ?>
-                </ul>
-            </li>
-            <li class="indic34">
-            <?php echo"<a href=\"".$liens["indic34"]["lien_pg"]."\">".$liens["indic34"]["trt_menu"]."</a>"; ?>
-                <ul class="sous_menu_cath">
-                    <?php echo"<li><a href=\"".$liens["indic34"]["sous_menu"]["href_1"]."\">".$liens["indic34"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
-                </ul>
-            </li>
-            <li class="indic35">
-            <?php echo"<a href=\"".$liens["indic35"]["lien_pg"]."\">".$liens["indic35"]["trt_menu"]."</a>"; ?>
-                <ul class="sous_menu_cath">
-                    <?php echo"<li><a href=\"".$liens["indic35"]["sous_menu"]["href_1"]."\">".$liens["indic35"]["sous_menu"]["txt_lien_1"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic35"]["sous_menu"]["href_2"]."\">".$liens["indic35"]["sous_menu"]["txt_lien_2"]."</a>"; ?>
-                    <?php echo"<li><a href=\"".$liens["indic35"]["sous_menu"]["href_3"]."\">".$liens["indic35"]["sous_menu"]["txt_lien_3"]."</a>"; ?>
-                </ul>
-            </li>
-            <li class="indic36 trt_accueil "><?php echo $liens["indic36"]["trt_menu"]; ?></li>
-            <li class="indic37">
-                <?php echo"<a href=\"".$liens["indic37"]["lien_pg"]."\">".$liens["indic37"]["trt_menu"]."</a>"; ?>
-            </li>
-            <li class="indic38">
-                <?php echo"<a href=\"".$liens["indic38"]["lien_pg"]."\">".$liens["indic38"]["trt_menu"]."</a>"; ?>
-                <ul class="sous_menu_cath">
-                    <li><a href="#">Album 1</a></li>
-                    <li><a href="#">Album 2</a></li>
-                    <li><a href="#">Album 3</a></li>
-                    <li><a href="#">Album 4</a></li>
-                    <li><a href="#">Album 5</a></li>
-                    <li><a href="#">Album 6</a></li>
-                </ul>
-            </li>
+        <?php
+            $tab="\t\t\t\t";
+            for ($menasd=$liens["indssmenu_2"]; $menasd <=$liens["indssmenu_2"]+ $liens["nbr_ssmenu"] ; $menasd++) { 
+                echo"\t<li class=\"indic".$menasd;
+                if ($liens["indic".$menasd]["fn_tit_menu"]) {
+                    echo " trt_accueil\">".$liens["indic".$menasd]["trt_menu"];
+                }
+                else {
+                    echo"\">".$rn;
+                
+                    echo $tab."<a href=\"".$liens["indic".$menasd]["lien_pg"]."\">".$liens["indic".$menasd]["trt_menu"]."</a>".$rn;
+                    if ($liens["indic".$menasd]["nbr_lien_ssm"]!=0) {
+                        echo $tab."<ul class=\"sous_menu_cath\">".$rn;
+                        for ($ssm=1; $ssm <=$liens["indic".$menasd]["nbr_lien_ssm"] ; $ssm++) { 
+                            echo $tab."\t<li><a href=\"".$liens["indic".$menasd]["sous_menu"]["href_".$ssm]."\">".$liens["indic".$menasd]["sous_menu"]["txt_lien_".$ssm]."</a>";
+                            echo "</li>".$rn;
+                        }
+                        echo $tab."</ul>".$rn;
+                    }
+                }
+                echo "\t\t\t</li>".$rn;
+            }
+        ?>
+            
         </ul>
     </section>
     <section id="milieu_cath">

@@ -142,6 +142,9 @@
 	"lien_pg" :"index.php?pg=21",
 	"lrm" :"puzzle"
 	},
+	"indssmenu_2" : 30,
+	"nbr_ssmenu" : 8,
+
 	"indic30" :{
 	"valid" : 1,
 	"fn_tit_menu" : false,
@@ -149,7 +152,7 @@
 	"lien_pg" : "index.php?pg=30",
 	"lrm" : "preface",
 	"arm" : "vide",
-	"nbr_lien" : 3,
+	"nbr_lien_ssm" : 3,
 	"sous_menu" :{
 		"href_1" : "index.php?pg=30&sm=1&act=2",
 		"txt_lien_1" : "La cathédrale",
@@ -174,7 +177,7 @@
 	"lien_pg" : "index.php?pg=32&act=2",
 	"lrm" : "origine_1",
 	"arm" : "vide",
-	"nbr_lien" : 2,
+	"nbr_lien_ssm" : 2,
 	"sous_menu" :{
 		"href_1" : "index.php?pg=32&sm=1&act=2",
 		"txt_lien_1" : "Origine 2",
@@ -191,7 +194,7 @@
 		"lien_pg" : "index.php?pg=33",
 		"lrm" : "revolution",
 		"arm" : "vide",
-		"nbr_lien" : 2,
+		"nbr_lien_ssm" : 2,
 		"sous_menu" :{
 			"href_1" : "index.php?pg=33&sm=1&act=2",
 			"txt_lien_1" : "Révolution 2",
@@ -208,7 +211,7 @@
 		"lien_pg" : "index.php?pg=34",
 		"lrm" : "soumissions_1",
 		"arm" : "vide",
-		"nbr_lien" : 1,
+		"nbr_lien_ssm" : 1,
 		"sous_menu" :{
 			"href_1" : "index.php?pg=34&sm=1&act=2",
 			"txt_lien_1" : "Soumissions 2",
@@ -222,7 +225,7 @@
 		"lien_pg" : "index.php?pg=35",
 		"lrm" : "inauguration",
 		"arm" : "vide",
-		"nbr_lien" : 3,
+		"nbr_lien_ssm" : 3,
 		"sous_menu" :{
 		"href_1" : "index.php?pg=35&sm=1&act=2",
 		"txt_lien_1" : "Inauguration 2",
@@ -241,7 +244,8 @@
 		"trt_menu" : "Albums photos",
 		"lien_pg" : "",
 		"lrm" : "",
-		"arm" : "vide"
+		"arm" : "vide",
+		"nbr_lien_ssm" : 0
 		},
 	"indic37" :{
 		"valid" : 1,
@@ -254,6 +258,7 @@
 		"trt_menu" : "Photos à partir de 1985",
 		"lien_pg" : "index.php?pg=38",
 		"lrm" : "",
-		"arm" : "vide"
+		"arm" : "vide",
+		"nbr_lien_ssm" : 0
 		}
 }
