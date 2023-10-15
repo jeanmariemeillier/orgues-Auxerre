@@ -21,7 +21,7 @@
 
 	 		La variable $tempo_cle pour la durée du cookie (elle est déplacée dans le fichier tabbord_deb.php
 
-			Nouvelle variable Get'sm' crée pour le site orgueauxerre.net. Indexe un sous-lien dans un menu aside.
+			Nouvelle variable Get'sm' crée pour le site orgueauxerre.net, permet d'indexer une page dans un sous-lien du menu aside.
 
 	 	Si vous vouyez un bug ou une amélioration contactez le collectif, on sitera votre nom, merci!
 	*/
@@ -61,7 +61,6 @@
 		if (isset($_GET['sm'])) {
 			$sous_menu = $_GET['sm'];
 			$affpg = $dirlien.$liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu].$lp;
-			// echo $liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu];
 		}
 		if (isset($_GET['asi'])) {
 			$affasi =  $dirlien.$liens["indic".$_GET['pg']]["arm"].$lp;
