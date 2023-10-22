@@ -2,13 +2,12 @@
 <head>
 <title>Notes d'art et d'histoire</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript" type="text/JavaScript">
-<!--
+<!-- <script language="JavaScript" type="text/JavaScript">
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</script>
+<!-- </script>  -->
 </head>
 
 <body bgcolor="#bccadb">
@@ -18,11 +17,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <br>
    <br>
    <br>
-   <h1><i>Troisième partie</i>
+   <h1><i>Troisiï¿½me partie</i>
    </h1>
    <hr width="20%">
    <br>
-   <font size=7 color="#ff0000"><b>Dans la Cathédrale St Etienne d'Auxerre</b>
+   <font size=7 color="#ff0000"><b>Dans la Cathï¿½drale St Etienne d'Auxerre</b>
    </font>
    <br>
    <br>
@@ -39,30 +38,30 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <br>
 		   <br>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les peintres qui, sur l'ordre de François de 
-		   DINTEVILLE, IIème du nom, couvrirent de fresques les parois de l'ancienne chapelle St Georges, ne voulurent
-		   pas laisser dans l'incertitude les admirateurs de leur gracieux cortège d'inspirées.<font color="#ff0000">&#185;
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les peintres qui, sur l'ordre de Franï¿½ois de 
+		   DINTEVILLE, IIï¿½me du nom, couvrirent de fresques les parois de l'ancienne chapelle St Georges, ne voulurent
+		   pas laisser dans l'incertitude les admirateurs de leur gracieux cortï¿½ge d'inspirï¿½es.<font color="#ff0000">&#185;
            </font>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ils précisèrent par des légendes fort explicites le 
-		   nom de chacune d'elles, l'objet particulier de leurs prophéties, l'âge qu'elles avaient au moment où elles 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ils prï¿½cisï¿½rent par des lï¿½gendes fort explicites le 
+		   nom de chacune d'elles, l'objet particulier de leurs prophï¿½ties, l'ï¿½ge qu'elles avaient au moment oï¿½ elles 
 		   rendirent leurs oracles. En cela, ils furent sages. Malheureusement, le temps a fait son oeuvre, et leurs
-		   étranges voyances ne sont plus guère qu'un souvenir.
+		   ï¿½tranges voyances ne sont plus guï¿½re qu'un souvenir.
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les orgues qui ont envahi la chapelle ne permettent 
 		   d'ailleurs plus aux visiteurs de les voir.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elles occupaient deux rangées superposées de médaillons 
-		   d'une hauteur de 83 centimètres, chaque rangée comptant quatre médaillons. Une troisième rangée, depuis longtemps 
-		   complètement effacée, n'a-t-elle pas jadis portée à douze le nombres des Sibylles ? Je dirai plus loin les raisons 
-		   que j'ai de le supposer. Mais d'abord, je relève les inscriptions, en caractères gothiques, des médaillons, telles 
-		   qu'il était encore possible de les lire au siècle dernier.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elles occupaient deux rangï¿½es superposï¿½es de mï¿½daillons 
+		   d'une hauteur de 83 centimï¿½tres, chaque rangï¿½e comptant quatre mï¿½daillons. Une troisiï¿½me rangï¿½e, depuis longtemps 
+		   complï¿½tement effacï¿½e, n'a-t-elle pas jadis portï¿½e ï¿½ douze le nombres des Sibylles ? Je dirai plus loin les raisons 
+		   que j'ai de le supposer. Mais d'abord, je relï¿½ve les inscriptions, en caractï¿½res gothiques, des mï¿½daillons, telles 
+		   qu'il ï¿½tait encore possible de les lire au siï¿½cle dernier.
 		   <br>
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   La Sibylle Lybique tient un cierge à la main. Légende :
+		   La Sibylle Lybique tient un cierge ï¿½ la main. Lï¿½gende :
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -144,7 +143,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Sera d'épines couronne.>>
+		   Sera d'ï¿½pines couronne.>>
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -173,7 +172,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Que en croix seroit mis à honte.>>
+		   Que en croix seroit mis ï¿½ honte.>>
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -196,7 +195,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   de Jesus ; à tous vous souvienne
+		   de Jesus ; ï¿½ tous vous souvienne
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -205,28 +204,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   De la premeditation.>>
 		   <br>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hélas ! Depuis que <b>la forêt des tuyaux d'orgue</b> 
-		   a envahi la jolie chapelle de St Georges, les pauvres Sibylles sont prisonnières derrière l'épais rideau qui les
-		   plonge dans une perpétuelle nuit.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hï¿½las ! Depuis que <b>la forï¿½t des tuyaux d'orgue</b> 
+		   a envahi la jolie chapelle de St Georges, les pauvres Sibylles sont prisonniï¿½res derriï¿½re l'ï¿½pais rideau qui les
+		   plonge dans une perpï¿½tuelle nuit.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BARRES s'est plu, au cours du récit de sa visite à 
-		   la cathédrale, à évoquer le souvenir de la Sibylle des Cumes dont les restes desséchés étaient conservés dans 
-		   une urne précieuse au milieu du temple d'Apollon. Les enfants qui passaient près d'elle s'amusaient à lui crier : 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BARRES s'est plu, au cours du rï¿½cit de sa visite ï¿½ 
+		   la cathï¿½drale, ï¿½ ï¿½voquer le souvenir de la Sibylle des Cumes dont les restes dessï¿½chï¿½s ï¿½taient conservï¿½s dans 
+		   une urne prï¿½cieuse au milieu du temple d'Apollon. Les enfants qui passaient prï¿½s d'elle s'amusaient ï¿½ lui crier : 
 		   <br>
-		   <i>"Sibylle, que veux-tu ?"</i> Et de l'urne, une voix répondait, rapide comme un écho :
+		   <i>"Sibylle, que veux-tu ?"</i> Et de l'urne, une voix rï¿½pondait, rapide comme un ï¿½cho :
 		   <br>
 		   <i>"Je voudrais mourir !"</i>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je ne puis m'empêcher de me rappeler cette scène 
-		   légendaire lorsque je songe aux tristes recluses de la chapelle St Georges. Elles sont là, comme des vestales 
-		   infidèles jetées vivantes au tombeau, et chacune d'elles sans doute, si leurs lèvres pouvaient parler, répéterait 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je ne puis m'empï¿½cher de me rappeler cette scï¿½ne 
+		   lï¿½gendaire lorsque je songe aux tristes recluses de la chapelle St Georges. Elles sont lï¿½, comme des vestales 
+		   infidï¿½les jetï¿½es vivantes au tombeau, et chacune d'elles sans doute, si leurs lï¿½vres pouvaient parler, rï¿½pï¿½terait 
 		   le cri tragique de la Cumane...
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Du moins, je me dis ces choses, en sachant bien 
-		   qu'elles sont du domaine de la pure fantaisie. Puis je me prends à imaginer les antiques messagères reprises, 
-		   un instant, par le fol espoir de revoir un jour la lumière et cherchant tout-à-coup à bercer leur ennui en 
-		   inspirant <b>au maître dont les doigts courent sur le clavier d'ivoire</b> les plus merveilleuses harmonies 
-		   à la louange du Seigneur qu'elles ont jadis annoncé...
+		   qu'elles sont du domaine de la pure fantaisie. Puis je me prends ï¿½ imaginer les antiques messagï¿½res reprises, 
+		   un instant, par le fol espoir de revoir un jour la lumiï¿½re et cherchant tout-ï¿½-coup ï¿½ bercer leur ennui en 
+		   inspirant <b>au maï¿½tre dont les doigts courent sur le clavier d'ivoire</b> les plus merveilleuses harmonies 
+		   ï¿½ la louange du Seigneur qu'elles ont jadis annoncï¿½...
 		   <br> 
 		   <br>
 		   <br>
@@ -238,7 +237,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Abbé René FOURREY
+		   Abbï¿½ Renï¿½ FOURREY
 		   <br>
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -249,7 +248,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Professeur au grand séminaire de Sens
+		   Professeur au grand sï¿½minaire de Sens
 		   <br>
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -267,22 +266,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <br>
 		   <font color="#ff0000">&#185;</font><font color="#666600"><i> M. Emile MALE dans on ouvrage sur</i>
 		   <br>
-		   <i>"L'art chrétien de la fin du moyen-âge"</i>
+		   <i>"L'art chrï¿½tien de la fin du moyen-ï¿½ge"</i>
 		   <br>
 		   <i>signale ces sibylles, mais il commet une erreur lorsqu'il indique la place qu'elles occupent</i>
 		   <br>
-		   <i>"A la cathédrale d'Auxerre, </i>écrit-il<i>, le buffet de l'orgue a</i>
+		   <i>"A la cathï¿½drale d'Auxerre, </i>ï¿½crit-il<i>, le buffet de l'orgue a</i>
 		   <br>
-		   <i>"été décoré, au XVIème siècle, de peintures représentant les Sibylles."</i>
+		   <i>"ï¿½tï¿½ dï¿½corï¿½, au XVIï¿½me siï¿½cle, de peintures reprï¿½sentant les Sibylles."</i>
 		   <br>
-		   <i>C'est sur la muraille même de la chapelle St Georges, entre la fenêtre aujourd'hui condamnée et l'ouverture 
+		   <i>C'est sur la muraille mï¿½me de la chapelle St Georges, entre la fenï¿½tre aujourd'hui condamnï¿½e et l'ouverture 
 		   donnant sur le transept, qu'elles se trouvent.</i>
 		   <br>
-		   <i>On chercherait en vain dans la cathédrale l'orgue du XVIème siècle. Les Huguenots détruisirent en 1567 celui que 
-		   François 1er de DINTEVILLE avait fait installer près de la porte d'entrée de la nef, dans la première travée du 
-		   collatéral nord. Quant à celui que fit construire au même endroit Jacques AMYOT, et dont le transfert à l'angle 
-		   du transept méridional, contre la chapelle de St Georges, fut effectué en 1768, l'église de Toucy le possède 
-		   depuis 1900. L'orgue installé actuellement dans l'intérieur même de la chapelle St Georges est tout moderne.</i>
+		   <i>On chercherait en vain dans la cathï¿½drale l'orgue du XVIï¿½me siï¿½cle. Les Huguenots dï¿½truisirent en 1567 celui que 
+		   Franï¿½ois 1er de DINTEVILLE avait fait installer prï¿½s de la porte d'entrï¿½e de la nef, dans la premiï¿½re travï¿½e du 
+		   collatï¿½ral nord. Quant ï¿½ celui que fit construire au mï¿½me endroit Jacques AMYOT, et dont le transfert ï¿½ l'angle 
+		   du transept mï¿½ridional, contre la chapelle de St Georges, fut effectuï¿½ en 1768, l'ï¿½glise de Toucy le possï¿½de 
+		   depuis 1900. L'orgue installï¿½ actuellement dans l'intï¿½rieur mï¿½me de la chapelle St Georges est tout moderne.</i>
 		   </font>
 		   <br>
 		   <BR>
@@ -296,8 +295,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <TR>
      <TD>
 	    <P ALIGN="CENTER">
-		   <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_0_1.jpg','GrandeImage93','width=700,height=700')">
-		   <img src="Vignettes3/Sibylles_0.jpg" width="215" height="340" border="0"></a>
+		   <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_0_1.jpg','GrandeImage93','width=700,height=700')">
+		   <img src="Vignettes3/Sibylles_0.jpg" width="215" height="340" border="0"></a> -->
 	    </P>
 	 </TD>
    </TR>
@@ -306,15 +305,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <CENTER>		   
    <BR>
    <BR>
-   Bulletin de la Société des Sciences Historiques et Naturelles de l'Yonne
+   Bulletin de la Sociï¿½tï¿½ des Sciences Historiques et Naturelles de l'Yonne
    <br>
-   Année 1903
+   Annï¿½e 1903
    <br>
    <br>
    <i> Sciences historiques</i>
    <br>
    <br>
-   <u><b>Une fresque des Sybilles dans la cathédrale d'auxerre</b></u>
+   <u><b>Une fresque des Sybilles dans la cathï¿½drale d'auxerre</b></u>
    <br>
    <br>
    par M. Ch. DEMAY
@@ -328,98 +327,98 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    <p align="justify">
 		   <br>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>...</b> A l'époque où s'opérait ce mouvement 
-		   considérable de retour à cette architecture qui avait brillé d'un si vif éclat dans la Grèce antique, et 
-		   jouissait de tout le prestige qu'inspire la nouveauté, c'est-à-dire au commencement du XVIème siècle, la 
-		   cathédrale d'Auxerre était bien près d'être arrivée à l'état où nous la voyons maintenant. On travaillait 
-		   activement à la construction de la tour qui ne fut achevée qu'en 1543. Le portail latéral nord, dit de St 
-		   Germain, venait d'être terminé et décoré de verrières splendides, par les soins de François 1er de 
-		   DINTEVILLE, qui y avait fait mettre ses armes. <b>La chapelle St Georges</b>, la dernière de la nef du côté 
-		   droit, <b>où sont aujourd'hui les grandes orgues</b>, venait également d'être achevée. La première chapelle 
-		   de la nef du côté gauche n'existait pas encore, sa construction en avait été différée pour maintenir au pied 
-		   de la tour un espace libre suffisant pour son édification complète ; elle ne fut construite que plus tard et 
-		   ne reçut même sa verrière que vers 1630. Ces deux chapelles furent construites dans le style de la Renaissance, 
-		   avec fenêtre en plein cintre.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>...</b> A l'ï¿½poque oï¿½ s'opï¿½rait ce mouvement 
+		   considï¿½rable de retour ï¿½ cette architecture qui avait brillï¿½ d'un si vif ï¿½clat dans la Grï¿½ce antique, et 
+		   jouissait de tout le prestige qu'inspire la nouveautï¿½, c'est-ï¿½-dire au commencement du XVIï¿½me siï¿½cle, la 
+		   cathï¿½drale d'Auxerre ï¿½tait bien prï¿½s d'ï¿½tre arrivï¿½e ï¿½ l'ï¿½tat oï¿½ nous la voyons maintenant. On travaillait 
+		   activement ï¿½ la construction de la tour qui ne fut achevï¿½e qu'en 1543. Le portail latï¿½ral nord, dit de St 
+		   Germain, venait d'ï¿½tre terminï¿½ et dï¿½corï¿½ de verriï¿½res splendides, par les soins de Franï¿½ois 1er de 
+		   DINTEVILLE, qui y avait fait mettre ses armes. <b>La chapelle St Georges</b>, la derniï¿½re de la nef du cï¿½tï¿½ 
+		   droit, <b>oï¿½ sont aujourd'hui les grandes orgues</b>, venait ï¿½galement d'ï¿½tre achevï¿½e. La premiï¿½re chapelle 
+		   de la nef du cï¿½tï¿½ gauche n'existait pas encore, sa construction en avait ï¿½tï¿½ diffï¿½rï¿½e pour maintenir au pied 
+		   de la tour un espace libre suffisant pour son ï¿½dification complï¿½te ; elle ne fut construite que plus tard et 
+		   ne reï¿½ut mï¿½me sa verriï¿½re que vers 1630. Ces deux chapelles furent construites dans le style de la Renaissance, 
+		   avec fenï¿½tre en plein cintre.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pendant la même période l'église d'Auxerre fut 
-		   gouvernée par deux évêques : François de DINTEVILLE, succédant à Jean BAILLET, de 1514 à 1530, et François de 
-		   DINTEVILLE, deuxième du nom, son neveu, qui mourut le 27 septembre 1554. Ces deux prélats, mais surtout le 
-		   second, amis des arts et artistes eux-mêmes, enrichirent la cathédrale d'&#156;uvres de sculpture et de peinture 
-		   remarquables. En 1543, François II consacra à ces travaux une somme importante, dont partie fut employée à 
-		   orner les piliers de l'église de sculptures brisées par les Huguenots en 1567, et partie en peintures à 
-		   fresque. Il reste de cette époque un tableau sur bois représentant la lapidation de St Etienne, que M. Victor 
-		   PETIT, dans l'ignorance de son origine, attribuait à Jean COUSIN<font color="#ff0000">&#185;</font>, mais qui 
-		   est l'&#156;uvre du chanoine Félix CHRESTIEN<font color="#ff0000">&#178;</font>.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pendant la mï¿½me pï¿½riode l'ï¿½glise d'Auxerre fut 
+		   gouvernï¿½e par deux ï¿½vï¿½ques : Franï¿½ois de DINTEVILLE, succï¿½dant ï¿½ Jean BAILLET, de 1514 ï¿½ 1530, et Franï¿½ois de 
+		   DINTEVILLE, deuxiï¿½me du nom, son neveu, qui mourut le 27 septembre 1554. Ces deux prï¿½lats, mais surtout le 
+		   second, amis des arts et artistes eux-mï¿½mes, enrichirent la cathï¿½drale d'&#156;uvres de sculpture et de peinture 
+		   remarquables. En 1543, Franï¿½ois II consacra ï¿½ ces travaux une somme importante, dont partie fut employï¿½e ï¿½ 
+		   orner les piliers de l'ï¿½glise de sculptures brisï¿½es par les Huguenots en 1567, et partie en peintures ï¿½ 
+		   fresque. Il reste de cette ï¿½poque un tableau sur bois reprï¿½sentant la lapidation de St Etienne, que M. Victor 
+		   PETIT, dans l'ignorance de son origine, attribuait ï¿½ Jean COUSIN<font color="#ff0000">&#185;</font>, mais qui 
+		   est l'&#156;uvre du chanoine Fï¿½lix CHRESTIEN<font color="#ff0000">&#178;</font>.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placé du temps du Chapitre dans la chapelle de la 
-		   Vierge, alors de St Alexandre, il y était bien en évidence ; il vient d'être relégué dans la première chapelle 
-		   de la nef, côté gauche, endroit peu favorable pour en faire ressortir le mérite.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placï¿½ du temps du Chapitre dans la chapelle de la 
+		   Vierge, alors de St Alexandre, il y ï¿½tait bien en ï¿½vidence ; il vient d'ï¿½tre relï¿½guï¿½ dans la premiï¿½re chapelle 
+		   de la nef, cï¿½tï¿½ gauche, endroit peu favorable pour en faire ressortir le mï¿½rite.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;François II fit peindre à fresque sa chapelle. Des 
-		   restes de cette peinture se voient encore près de la porte d'entrée. Il fit représenter dans la chapelle de St 
-		   Sébastien, la dernière à gauche de la nef et attenant au transept, les portraits des évêques d'Auxerre vénérés 
-		   comme saints dont l'office se célébrait. Il applique enfin tous ses soins à faire de la chapelle St Georges 
-		   un véritable bijou en la faisant couvrir entièrement de peintures, aujourd'hui bien endommagées, sauf la voûte 
-		   peinte en bleu semée d'étoiles d'or et les nervures de la même couleur relevée d'un filet rouge et or. Sur un 
-		   des côtés de cette chapelle est représentée la scène de la transfiguration. Le Christ est de grandeur naturelle, 
-		   la tête nimbée de rayons d'or et étendant les bras au-dessus de deux personnages en adoration personnifiés l'un
-		   par le mot HELIAS, l'autre par celui de MOISES. Au-dessous on lit en caractères gothiques, ce passage de St 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Franï¿½ois II fit peindre ï¿½ fresque sa chapelle. Des 
+		   restes de cette peinture se voient encore prï¿½s de la porte d'entrï¿½e. Il fit reprï¿½senter dans la chapelle de St 
+		   Sï¿½bastien, la derniï¿½re ï¿½ gauche de la nef et attenant au transept, les portraits des ï¿½vï¿½ques d'Auxerre vï¿½nï¿½rï¿½s 
+		   comme saints dont l'office se cï¿½lï¿½brait. Il applique enfin tous ses soins ï¿½ faire de la chapelle St Georges 
+		   un vï¿½ritable bijou en la faisant couvrir entiï¿½rement de peintures, aujourd'hui bien endommagï¿½es, sauf la voï¿½te 
+		   peinte en bleu semï¿½e d'ï¿½toiles d'or et les nervures de la mï¿½me couleur relevï¿½e d'un filet rouge et or. Sur un 
+		   des cï¿½tï¿½s de cette chapelle est reprï¿½sentï¿½e la scï¿½ne de la transfiguration. Le Christ est de grandeur naturelle, 
+		   la tï¿½te nimbï¿½e de rayons d'or et ï¿½tendant les bras au-dessus de deux personnages en adoration personnifiï¿½s l'un
+		   par le mot HELIAS, l'autre par celui de MOISES. Au-dessous on lit en caractï¿½res gothiques, ce passage de St 
 		   Mathieu :
 		   <br>
 		   <i>"Visi sunt Moises et Helias loquentes cum co in maiestate sua"</i>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur une autre face, entre la fenêtre et l'<b>arcature 
-		   </b>donant sur le transept, <b>qui fut détruite pour faciliter la pose de l'orgue</b>, lorsque le Chapitre le 
-		   transféra en 1768, dans cette partie de l'église, on pouvait voir recemment encore, dans un assez mauvais état 
-		   de conservation et couvert de la poussière des siècles, c'est bien le cas de le dire, une série de médaillons 
-		   disposés sur deux rangs, au-dessus les uns des autres, d'un diamètre de 83 centimètres, chacun représentant un 
-		   buste de femme dans une attitude et avec des attributs particuliers. Une légende écrite en caractères gothiques de 
-		   3 centimètres de hauteur pour chaque médaillon, en même temps que le nom de la Sibylle qui y est représentée, 
-		   l'objet de sa prédiction.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur une autre face, entre la fenï¿½tre et l'<b>arcature 
+		   </b>donant sur le transept, <b>qui fut dï¿½truite pour faciliter la pose de l'orgue</b>, lorsque le Chapitre le 
+		   transfï¿½ra en 1768, dans cette partie de l'ï¿½glise, on pouvait voir recemment encore, dans un assez mauvais ï¿½tat 
+		   de conservation et couvert de la poussiï¿½re des siï¿½cles, c'est bien le cas de le dire, une sï¿½rie de mï¿½daillons 
+		   disposï¿½s sur deux rangs, au-dessus les uns des autres, d'un diamï¿½tre de 83 centimï¿½tres, chacun reprï¿½sentant un 
+		   buste de femme dans une attitude et avec des attributs particuliers. Une lï¿½gende ï¿½crite en caractï¿½res gothiques de 
+		   3 centimï¿½tres de hauteur pour chaque mï¿½daillon, en mï¿½me temps que le nom de la Sibylle qui y est reprï¿½sentï¿½e, 
+		   l'objet de sa prï¿½diction.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans le premier, le seul qui soit assez bien conservé, 
-		   est figuré une jeune femme ayant la main gauche ouverte et portant de sa main droite un cierge allumé. Au-dessous 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans le premier, le seul qui soit assez bien conservï¿½, 
+		   est figurï¿½ une jeune femme ayant la main gauche ouverte et portant de sa main droite un cierge allumï¿½. Au-dessous 
 		   on lit :
-		   <i>"Sibile Sibica aagée de XXIV ans a predit que JHS pour humain lignage viendroit rempli du saint Christ".</i> {C'est certainement Saint Esprit}
+		   <i>"Sibile Sibica aagï¿½e de XXIV ans a predit que JHS pour humain lignage viendroit rempli du saint Christ".</i> {C'est certainement Saint Esprit}
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans le second, une jeune fille est représentée 
-		   tenant d'une main une conque marine (biberon) avec la légende :
-		   <i>"Sibile Cymeria aagée de XVIII ans a dit que la Vierge alectera son enfant, sans nul contredit".</i>
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans le second, une jeune fille est reprï¿½sentï¿½e 
+		   tenant d'une main une conque marine (biberon) avec la lï¿½gende :
+		   <i>"Sibile Cymeria aagï¿½e de XVIII ans a dit que la Vierge alectera son enfant, sans nul contredit".</i>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les autres médaillons sont ou effacés ou couverts de 
-		   poussière, on ne peut lire que les trois légendes suivantes :
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les autres mï¿½daillons sont ou effacï¿½s ou couverts de 
+		   poussiï¿½re, on ne peut lire que les trois lï¿½gendes suivantes :
 		   <br>
-		   <i>"Sibile Cumana n'avoit que XV ans d'aage parfaicte, la nativité présidoit de JHS, souverain pontife".</i>
+		   <i>"Sibile Cumana n'avoit que XV ans d'aage parfaicte, la nativitï¿½ prï¿½sidoit de JHS, souverain pontife".</i>
 		   <br>
-		   <i>"Sibile Europa aagée de XV ans recite que l'humble Vierge pucelle et son fils fuirent en Egypte".</i>
+		   <i>"Sibile Europa aagï¿½e de XV ans recite que l'humble Vierge pucelle et son fils fuirent en Egypte".</i>
 		   <br>
 		   <i>"Sibile Erythrea de l'aage de XXV ans ; comment l'ange Gabriel prouva de la Vierge l'enfantement".</i>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qui ne reconnaîtra dans le style à la fois assez 
-		   naïf et gracieux de ces inscriptions, ce vieil idiome du XVIème siècle, incomplètement dégagé des tournures et 
-		   des expressions latines qui devait un siècle plus tard parvenir à un degré de perfection qui n'a pas été dépassé 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qui ne reconnaï¿½tra dans le style ï¿½ la fois assez 
+		   naï¿½f et gracieux de ces inscriptions, ce vieil idiome du XVIï¿½me siï¿½cle, incomplï¿½tement dï¿½gagï¿½ des tournures et 
+		   des expressions latines qui devait un siï¿½cle plus tard parvenir ï¿½ un degrï¿½ de perfection qui n'a pas ï¿½tï¿½ dï¿½passï¿½ 
 		   depuis.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si l'on parcourt les bas-côtés du choeur, à gauche, 
-		   on peut y voir, non sans étonnement, une série bien curieuse de têtes ; les unes, et c'est le plus grand 
-		   nombre, d'un noble caractère, les autres grimaçantes et affligées d'une laideur repoussante comme pour stigmatiser 
-		   les vices, dont elles sont les emblèmes.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si l'on parcourt les bas-cï¿½tï¿½s du choeur, ï¿½ gauche, 
+		   on peut y voir, non sans ï¿½tonnement, une sï¿½rie bien curieuse de tï¿½tes ; les unes, et c'est le plus grand 
+		   nombre, d'un noble caractï¿½re, les autres grimaï¿½antes et affligï¿½es d'une laideur repoussante comme pour stigmatiser 
+		   les vices, dont elles sont les emblï¿½mes.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On peut aussi y voir trois gracieuses têtes de jeunes 
-		   filles, l'une couronnée d'un riche diadème, les deux autres de feuillage, au-dessus desquelles l'artiste, pour 
-		   écarter toute incertitude sur leur personnification, a gravé le mot <b>sibilla</b> en caractères usuels du XIIIème. 
-		   Il y a là un témoignage irrécusable que dès cette époque l'Eglise affirmait par des monuments publics sa vénération 
-		   pour ces vierges inspirées.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On peut aussi y voir trois gracieuses tï¿½tes de jeunes 
+		   filles, l'une couronnï¿½e d'un riche diadï¿½me, les deux autres de feuillage, au-dessus desquelles l'artiste, pour 
+		   ï¿½carter toute incertitude sur leur personnification, a gravï¿½ le mot <b>sibilla</b> en caractï¿½res usuels du XIIIï¿½me. 
+		   Il y a lï¿½ un tï¿½moignage irrï¿½cusable que dï¿½s cette ï¿½poque l'Eglise affirmait par des monuments publics sa vï¿½nï¿½ration 
+		   pour ces vierges inspirï¿½es.
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Autrefois comprises des foules, ces charmantes figures
-		   sont inaperçues aujourd'hui des visiteurs indifférents qui réservent toute leur admiration pour celles portant 
-		   un masque grotesque sur lesquelles s'est exercée l'imagination de l'artiste.
+		   sont inaperï¿½ues aujourd'hui des visiteurs indiffï¿½rents qui rï¿½servent toute leur admiration pour celles portant 
+		   un masque grotesque sur lesquelles s'est exercï¿½e l'imagination de l'artiste.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant aux médaillons de la chapelle St Georges, ils ne 
-		   pouvaient être connus avant <b>la pose des orgues actuelles</b> que de rares personnes. Maintenant que <b>cette 
-		   chapelle est complètement remplie des tuyaux de l'orgue</b>, il est impossible de les apercevoir, et si jamais 
-		   on donne suite au projet malheureusement abandonné de <b>transférer l'orgue au-dessus de la porte d'entrée</b>, 
-		   ils apparaîtront à nos descendants comme un souvenir précieux à conserver d'une des époques les plus fécondes en 
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant aux mï¿½daillons de la chapelle St Georges, ils ne 
+		   pouvaient ï¿½tre connus avant <b>la pose des orgues actuelles</b> que de rares personnes. Maintenant que <b>cette 
+		   chapelle est complï¿½tement remplie des tuyaux de l'orgue</b>, il est impossible de les apercevoir, et si jamais 
+		   on donne suite au projet malheureusement abandonnï¿½ de <b>transfï¿½rer l'orgue au-dessus de la porte d'entrï¿½e</b>, 
+		   ils apparaï¿½tront ï¿½ nos descendants comme un souvenir prï¿½cieux ï¿½ conserver d'une des ï¿½poques les plus fï¿½condes en 
 		   oeuvres artistiques religieuses et profanes.                                                                                       
            <br>
 		   <br>
@@ -451,28 +450,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      <TR>
 			     <TD WIDTH="50%">
 				    <P ALIGN="CENTER">
-					  <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_1_1.jpg','GrandeImage95','width=700,height=700')">
-					  <img src="Vignettes3/Sibylles_1.jpg" width="319" height="500" border="0"></a>
+					  <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_1_1.jpg','GrandeImage95','width=700,height=700')">
+					  <img src="Vignettes3/Sibylles_1.jpg" width="319" height="500" border="0"></a> -->
 					</P>
 			     </TD>
 			  	 <TD WIDTH="50%">
 				    <P ALIGN="CENTER">
-					  <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_2_1.jpg','GrandeImage96','width=700,height=700')">
-					  <img src="Vignettes3/Sibylles_2.JPG" width="317" height="500" border="0"></a>
+					  <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_2_1.jpg','GrandeImage96','width=700,height=700')">
+					  <img src="Vignettes3/Sibylles_2.JPG" width="317" height="500" border="0"></a> -->
 					</P>
 				 </TD>
 			  </TR>
 			  <TR>
 			     <TD WIDTH="50%">
 				    <P ALIGN="CENTER">
-					  <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_3_1.jpg','GrandeImage97','width=700,height=700')">
-					  <img src="Vignettes3/Sibylles_3.JPG" width="322" height="500" border="0"></a>
+					  <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_3_1.jpg','GrandeImage97','width=700,height=700')">
+					  <img src="Vignettes3/Sibylles_3.JPG" width="322" height="500" border="0"></a> -->
 					</P>
 				 </TD>
 				 <TD WIDTH="50%">
 				    <P ALIGN="CENTER">
-					  <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_4_1.jpg','GrandeImage98','width=700,height=700')">
-					  <img src="Vignettes3/Sibylles_4.JPG" width="320" height="500" border="0"></a>
+					  <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Sibylles_4_1.jpg','GrandeImage98','width=700,height=700')">
+					  <img src="Vignettes3/Sibylles_4.JPG" width="320" height="500" border="0"></a> -->
 					</P>
 				 </TD>
 			  </TR>
@@ -485,7 +484,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			  </TR>
 		   </TABLE>	 	  	 	 
 		   <br>
-		   <a href="La_cathedrale.htm">La cathédrale
+		   <a href="La_cathedrale.htm">La cathï¿½drale
 		   </a>
 		   <br>
 		   <a href="Musique_religieuse.htm">Musique religieuse

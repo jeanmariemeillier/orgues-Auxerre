@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>De la Révolution Française à 1899 II</title>
+<title>De la Rï¿½volution Franï¿½aise ï¿½ 1899 II</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
    <!--
@@ -10,7 +10,7 @@
 		 }
    -->
 </style>
-<SCRIPT language = JavaScript>
+/* <SCRIPT language = JavaScript>
 <!--
 function dblclick()
    {
@@ -22,7 +22,7 @@ function dblclick()
 	  }
    document.ondblclick = dblclick;
 //-->
-</SCRIPT>
+</SCRIPT> */
 </head>
 
 <body bgcolor="#00AA00" text="#FFFFFF">
@@ -31,9 +31,9 @@ function dblclick()
 	     <TD>
 		    <CENTER>
                <BR>			
-			   <H2>Deuxième partie</H2>
+			   <H2>Deuxiï¿½me partie</H2>
 			   <img src="Vignettes3/Gothique_2.jpg" width="789" height="128">
-			   <H2>Chapitre deuxième</H2>
+			   <H2>Chapitre deuxiï¿½me</H2>
 			</CENTER>
 		</TD>
       </TR>
@@ -45,10 +45,10 @@ function dblclick()
 	     <TD WIDTH="80%">
 	        <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A partir de 1798 les archives fournissent une série de documents détaillant les 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A partir de 1798 les archives fournissent une sï¿½rie de documents dï¿½taillant les 
 			comptes de la fabrique qu'il serait fastidieux de reproduire, mais qui sont significatifs, entr'autre de 
-			l'évolution des salaires des organistes, souffleurs..., et qui à eux seuls pourraient faire l'objet d'une 
-			étude dont je m'abstiendrai.
+			l'ï¿½volution des salaires des organistes, souffleurs..., et qui ï¿½ eux seuls pourraient faire l'objet d'une 
+			ï¿½tude dont je m'abstiendrai.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je propose quelques extraits, pour la plupart anecdotiques, en simple citation, 
 			sans commentaire :
@@ -58,7 +58,7 @@ function dblclick()
 			<BR>
 			<BR>
 			<CENTER>
-			Chapitre des dépenses 1798
+			Chapitre des dï¿½penses 1798
 			</CENTER>
 			<BR>
 			<TABLE WIDTH="100%">
@@ -66,17 +66,17 @@ function dblclick()
 			      <TD WIDTH="90%">
 				     <div class="mondiv">ADY 11 J 24/11</div>
 				     <FONT size=4 color=#FFFFFF>
-			         Du jour de Pâques donné à l'organiste qui a arrangé
+			         Du jour de Pï¿½ques donnï¿½ ï¿½ l'organiste qui a arrangï¿½
 			         <BR>
-			         avec Mr l'abbé Ruby
+			         avec Mr l'abbï¿½ Ruby
 					 <BR> 
-	                 plus Mr l'abbé Ruby pour six journées à l'orgue donné		
+	                 plus Mr l'abbï¿½ Ruby pour six journï¿½es ï¿½ l'orgue donnï¿½		
 			         <BR>
-					 Du 26 juin donné neuf francs à Jaubart et aurganiste
+					 Du 26 juin donnï¿½ neuf francs ï¿½ Jaubart et aurganiste
 			         <BR>
 			         pour les assistances aux Saluts de l'Octave
 					 <BR>
-			         du 9 septembre donné au souffleur de l'orgue
+			         du 9 septembre donnï¿½ au souffleur de l'orgue
 					 </FONT>
                   </TD>
 			      <TD WIDTH="10%">
@@ -102,7 +102,7 @@ function dblclick()
 			<BR>
 			QUATRIEME ANNEE
 			<BR>
-			<B>Chapitre des dépenses</B>
+			<B>Chapitre des dï¿½penses</B>
 			<BR>
 			1800
 			</CENTER>
@@ -111,25 +111,25 @@ function dblclick()
 			   <TR>
 			      <TD WIDTH="90%">
 				     <FONT size=4 color=#FFFFFF>
-					 Du 21 mai. Donné à l'organiste pour trois mois
+					 Du 21 mai. Donnï¿½ ï¿½ l'organiste pour trois mois
 					 <BR>
-					 Du 22 juillet. Donné à l'organiste pour six mois d'appointement
+					 Du 22 juillet. Donnï¿½ ï¿½ l'organiste pour six mois d'appointement
 					 <BR>
-					 Du 4 août. Donné à Jobard serpent a compte
+					 Du 4 aoï¿½t. Donnï¿½ ï¿½ Jobard serpent a compte
 					 <BR>
-					 Du 2 septembre. Donné à Jobard  "      "
+					 Du 2 septembre. Donnï¿½ ï¿½ Jobard  "      "
 					 <BR>
-					 Du 17 septembre. Donné à l'organiste
+					 Du 17 septembre. Donnï¿½ ï¿½ l'organiste
 					 <BR>
 					 Du 30 9bre.         "         "        pour ses traitements
 					 <BR>
-					 Du 8 décembre. Donné au souffleur de l'orgue
+					 Du 8 dï¿½cembre. Donnï¿½ au souffleur de l'orgue
 					 <BR>
-					 Du 5 décembre. Payé aux Autrichiers pour avoir soufflé
+					 Du 5 dï¿½cembre. Payï¿½ aux Autrichiers pour avoir soufflï¿½
 					 <BR>
 					 pendant quatre jours pour l'accord
 					 <BR>
-					 plus donné pour avoir fait tirer les soufflets de l'orgue
+					 plus donnï¿½ pour avoir fait tirer les soufflets de l'orgue
 					 </FONT>
 				  </TD>
 			      <TD WIDTH="10%">
@@ -165,22 +165,22 @@ function dblclick()
 			   <div class="mondiv">ADY 11 J 24/11</div>
 			   Comptes de la fabrique pour
 			   <BR>
-			   les années 1801, 1802, 1803
+			   les annï¿½es 1801, 1802, 1803
 			   <BR>
 			   ...
 			   <BR>
-			   Dépenses
+			   Dï¿½penses
 			   <BR>
 			</CENTER>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dépense contient six chapitres
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dï¿½pense contient six chapitres
 			<BR>
 			...
 			<BR>
-			Le quatrième regarde les ouvriers
+			Le quatriï¿½me regarde les ouvriers
 			<BR>
 			...
 			<CENTER>
-			   Quatrième chapitre
+			   Quatriï¿½me chapitre
 			   <BR>
 			</CENTER>
 			<TABLE WIDTH="100%">
@@ -189,7 +189,7 @@ function dblclick()
 				     <FONT size=4 color=#FFFFFF>
 					 Genoye, facteur d'orgues
 			         <BR>
-			         23° Du 7 may. Pour réparation à l'orgue payé aud. Genoye   
+			         23ï¿½ Du 7 may. Pour rï¿½paration ï¿½ l'orgue payï¿½ aud. Genoye   
 				     <BR>
 					 suivant quittance cent douze livres cy
 					 <BR>
@@ -197,7 +197,7 @@ function dblclick()
 					 <BR>
 					 deux livres huit sols cy
 					 <BR>
-					 Pour les journées du souffleur lors de la dite réparation
+					 Pour les journï¿½es du souffleur lors de la dite rï¿½paration
 					 <BR>
 					 neuf livres sept sols cy
 					 </FONT>
@@ -227,15 +227,15 @@ function dblclick()
 			   <B>...</B>
 			   <BR>
 			   <BR>
-			   Suite des Recettes et Dépenses
+			   Suite des Recettes et Dï¿½penses
 			   <BR>
 			   faites pendant les mois de septembre, octobre,
 			   <BR>
-			   novembre, jusqu'au 11 décembre inclusivement...
+			   novembre, jusqu'au 11 dï¿½cembre inclusivement...
 			   <BR>
 			   ...
 			   <BR>
-			   Dépense
+			   Dï¿½pense
 			   <BR>
 			   ?
 			   <BR>
@@ -245,15 +245,15 @@ function dblclick()
 			   <TR>
 			      <TD WIDTH="90%">
 				     <FONT size=4 color=#FFFFFF>
-				     Dix avrille. Donnée a laurganiste pour son quartier	 
+				     Dix avrille. Donnï¿½e a laurganiste pour son quartier	 
 					 <BR>
 					 <BR>
 					 Du 11 juliette
 					 </FONT>
 					 <FONT size=5 color=#FFFFFF>
-					 <S>Du maime jourd. Donné a laurganiste pour
+					 <S>Du maime jourd. Donnï¿½ a laurganiste pour
 					 <BR>
-					 cartier échu au premier juliette dernier</S>
+					 cartier ï¿½chu au premier juliette dernier</S>
 					 </FONT>
                   </TD>
 				  <TD WIDTH="10%">
@@ -270,7 +270,7 @@ function dblclick()
 			   <B>...</B>
 			   <BR>
 			   <BR>
-			   Dépense de leglise de
+			   Dï¿½pense de leglise de
 			   <BR>
 			   St Etienne premier
 			   <BR>
@@ -283,82 +283,82 @@ function dblclick()
 			   <TR>
 			      <TD WIDTH="90%">
 				     <FONT size=4 color=#FFFFFF>
-					 1801. février
+					 1801. fï¿½vrier
 					 <BR>
-				     Du vinte un février sure le Cartier de laurganiste donné
+				     Du vinte un fï¿½vrier sure le Cartier de laurganiste donnï¿½
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marse
 					 <BR>
-					 Du 10 donnée à laurganisstre pour finition de son quartier
+					 Du 10 donnï¿½e ï¿½ laurganisstre pour finition de son quartier
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avrille
 					 <BR>
-					 Du douze donnée pour souflée à laurge pour quatre fois
+					 Du douze donnï¿½e pour souflï¿½e ï¿½ laurge pour quatre fois
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May
 					 <BR>
-					 Douze livres de gratifications à monsieur Sergens
+					 Douze livres de gratifications ï¿½ monsieur Sergens
 					 <BR>
-					 plus pour dês paux &nbsp;&nbsp;&nbsp;&nbsp;fournis pour lês souflait
-					 <BR>plus pour faire souflée
+					 plus pour dï¿½s paux &nbsp;&nbsp;&nbsp;&nbsp;fournis pour lï¿½s souflait
+					 <BR>plus pour faire souflï¿½e
 					 <BR>
-					 pour de la graisse pour grêssée lês souflait une demi-livre de
+					 pour de la graisse pour grï¿½ssï¿½e lï¿½s souflait une demi-livre de
 					 <BR>
-					 Du premier juin Donnée a laurganistre pour trois moÿs
+					 Du premier juin Donnï¿½e a laurganistre pour trois moï¿½s
 					 <BR>
-					 Du 13 juin Donné a laurganistre pour sonne Octave
+					 Du 13 juin Donnï¿½ a laurganistre pour sonne Octave
 					 <BR>
-					 Du 14 juliette Donnée a laurganistre a conte sure son Carrtiée
+					 Du 14 juliette Donnï¿½e a laurganistre a conte sure son Carrtiï¿½e
 					 <BR>
-					 Du 16 aoux Donne a laurganistre pour finitions de son cartiée
+					 Du 16 aoux Donne a laurganistre pour finitions de son cartiï¿½e
 					 <BR>
-					 Du 4 décembre Donne a laurganistre pour son Carrtiée
+					 Du 4 dï¿½cembre Donne a laurganistre pour son Carrtiï¿½e
 					 <BR>
-					 Du 7 de janvier 1802 Donnée à laurganistre pour sonne moÿ de
+					 Du 7 de janvier 1802 Donnï¿½e ï¿½ laurganistre pour sonne moï¿½ de
 					 <BR>
 					 Bas Choeur
 					 <BR>
-					 Du 21 févriée Donnée a conte a lorganiste sure son Cartiée
+					 Du 21 fï¿½vriï¿½e Donnï¿½e a conte a lorganiste sure son Cartiï¿½e
 					 <BR>
-					 Du 10 marsse Donnée pour finitions de son Cartiée
+					 Du 10 marsse Donnï¿½e pour finitions de son Cartiï¿½e
 					 <BR>
-					 Du 1 juin Donnée pour la Cartiée de lorganiste
+					 Du 1 juin Donnï¿½e pour la Cartiï¿½e de lorganiste
 					 <BR>
-					 Du 13 juin Donnée des gratifications a lorganiste
+					 Du 13 juin Donnï¿½e des gratifications a lorganiste
 					 <BR>
-					 Du 14 juliette Donnée a conte a lorganistre sure son cartiée
+					 Du 14 juliette Donnï¿½e a conte a lorganistre sure son cartiï¿½e
 					 <BR>
-					 Du 7 moÿ Depansse de lorgeu Donnée a louvriée
+					 Du 7 moï¿½ Depansse de lorgeu Donnï¿½e a louvriï¿½e
 					 <BR>
-					 Du 7 moÿ Donnée a Mr Sergen pour honnoraire
+					 Du 7 moï¿½ Donnï¿½e a Mr Sergen pour honnoraire
 					 <BR>
-					 plus pour dês paux pour lês soufloite Donnée
+					 plus pour dï¿½s paux pour lï¿½s soufloite Donnï¿½e
 					 <BR>
-					 Du 7 moÿ Donnée pour le soufleure
+					 Du 7 moï¿½ Donnï¿½e pour le soufleure
 					 <BR>
 					 plus pour une demis livre de graise pour les soufloite de
 					 <BR>
-					 Du 25 marse dês trois joud de paque du Dimanche de
+					 Du 25 marse dï¿½s trois joud de paque du Dimanche de
 					 <BR>
-					 Casimodot Donnée aux soufleurs de laurgue
+					 Casimodot Donnï¿½e aux soufleurs de laurgue
 					 <BR>
-					 Du 4 maÿ Donnée pour avoyre souflée quatre foite
+					 Du 4 maï¿½ Donnï¿½e pour avoyre souflï¿½e quatre foite
 					 <BR>
-					 Du 29 7bre Donnée a laurganistre pour son Carrtiée à échoir
+					 Du 29 7bre Donnï¿½e a laurganistre pour son Carrtiï¿½e ï¿½ ï¿½choir
 					 <BR>
-					 aux premiers 8bre prochain vinte cinque livres cÿ *
+					 aux premiers 8bre prochain vinte cinque livres cï¿½ *
 					 <BR>
-					 du 23 9bre Donné a laurganiste a conte *
+					 du 23 9bre Donnï¿½ a laurganiste a conte *
 					 <BR>
-					 Ce 26 juin recu pour mon quartier à écheoir le 1er juillet *
+					 Ce 26 juin recu pour mon quartier ï¿½ ï¿½cheoir le 1er juillet *
 					 <BR>
 					 vingt cinq livres cy
 					 <BR>
-					 Du 3 aout payé à Mr Sergent pour gratification six livres cy *
+					 Du 3 aout payï¿½ ï¿½ Mr Sergent pour gratification six livres cy *
 					 <BR>
 					 <BR>
 					 <p align="RIGHT">
-					    * Signé Sergent
+					    * Signï¿½ Sergent
 					 </P>	
 					 </FONT>
                   </TD>
@@ -444,11 +444,11 @@ function dblclick()
             <FONT SIZE=4>
 			20 avril 1817
 			<BR>
-			Réparation à l'orgue
+			Rï¿½paration ï¿½ l'orgue
 			<p align="justify">
-			... Mr le curé, président, a exposé que l'orgue avait besoin de réparations très urgentes, plusieurs tuyaux 
-			étant dessoudés et ne rendant plus aucun son, que la soufflerie était dans le plus mauvais état , qu'il était 
-			<I>(?)[urgent]</I> de faire les réparations convenables pour ne pas s'exposer à des dépenses plus importantes.
+			... Mr le curï¿½, prï¿½sident, a exposï¿½ que l'orgue avait besoin de rï¿½parations trï¿½s urgentes, plusieurs tuyaux 
+			ï¿½tant dessoudï¿½s et ne rendant plus aucun son, que la soufflerie ï¿½tait dans le plus mauvais ï¿½tat , qu'il ï¿½tait 
+			<I>(?)[urgent]</I> de faire les rï¿½parations convenables pour ne pas s'exposer ï¿½ des dï¿½penses plus importantes.
 			<BR>
 			</P>
 			<CENTER> 
@@ -461,23 +461,23 @@ function dblclick()
 			<p align="justify">
 			Le dimanche vingt deux avril mil huit cent vingt sept
 			<BR>
-			Réparations à faire aux orgues
+			Rï¿½parations ï¿½ faire aux orgues
 			<BR>
-			... Que, ce qui est beaucoup plus grave, l'orgue a été mis dans un tel état par l'insouciance des organistes 
-			qui se sont succédés & quelquefois par leur témérité à déplacer & assortir les tuyaux suivant leur volonté, 
-			qu'il faut une somme considérable pour le réparer, sous peine d'être privé du noble & harmonieux auxiliaire des 
-			Pompes religieuses qui dans l'église Saint Etienne appellent les foules des fidèles ou ce qui serait pire, de 
+			... Que, ce qui est beaucoup plus grave, l'orgue a ï¿½tï¿½ mis dans un tel ï¿½tat par l'insouciance des organistes 
+			qui se sont succï¿½dï¿½s & quelquefois par leur tï¿½mï¿½ritï¿½ ï¿½ dï¿½placer & assortir les tuyaux suivant leur volontï¿½, 
+			qu'il faut une somme considï¿½rable pour le rï¿½parer, sous peine d'ï¿½tre privï¿½ du noble & harmonieux auxiliaire des 
+			Pompes religieuses qui dans l'ï¿½glise Saint Etienne appellent les foules des fidï¿½les ou ce qui serait pire, de 
 			blesser l'oreille des Assistants par des discordances qui en ravissant au Chant son imposante expression 
-			substitueraient l'incohérence des sons à cette puissance d'Emotion religieuse qu'enfante leur harmonie.
+			substitueraient l'incohï¿½rence des sons ï¿½ cette puissance d'Emotion religieuse qu'enfante leur harmonie.
 			<BR>
-			... le conseil, délibérant & touché de l'urgence des réparations proposées, considérant que les fonds prévus 
-			au budget sont évidemment insuffisants pour fournir à ces frais ;
+			... le conseil, dï¿½libï¿½rant & touchï¿½ de l'urgence des rï¿½parations proposï¿½es, considï¿½rant que les fonds prï¿½vus 
+			au budget sont ï¿½videmment insuffisants pour fournir ï¿½ ces frais ;
 			<BR>
 			<B>A R R E T E</B>
 			<BR>
-			<B>Que Mr le curé & MM les Fabriciens sont priés de reconnaître approximativement, soit pour eux-mêmes, soit 
-			par le secours de personnes de l'art quelles sommes sont nécessaires pour effectuer les dites réparations 
-			après quoi le Conseil délibérera sur les moyens de faire les fonds, s'il y a lieu.</B>
+			<B>Que Mr le curï¿½ & MM les Fabriciens sont priï¿½s de reconnaï¿½tre approximativement, soit pour eux-mï¿½mes, soit 
+			par le secours de personnes de l'art quelles sommes sont nï¿½cessaires pour effectuer les dites rï¿½parations 
+			aprï¿½s quoi le Conseil dï¿½libï¿½rera sur les moyens de faire les fonds, s'il y a lieu.</B>
 			<BR>
 			<CENTER> 
 			   <BR>
@@ -489,37 +489,37 @@ function dblclick()
 			<p align="justify">
 			Le 12 mars 1829
 			<BR>
-			Orgues. 3000 Frs votés pour les réparer
+			Orgues. 3000 Frs votï¿½s pour les rï¿½parer
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Il a été exposé par Mr le Curé que conformément au v&#156;u exprimé par le 
-			Conseil dans sa délibération du 22 avril 1827, il s'est occupé de réunir tous les renseignements nécessaires 
-			pour reconnaître la nature & le prix des réparations à faire à l'orgue ; qu'un sieur Cadau <I>[Gadault, sans 
-			doute NdA]</I> s'est présenté pour en donner l'apperçu, & pour y consacrer ses soins. Qu'il porte approximativement 
-			la dépense à 2400 Frs. Que la capacité de ce facteur d'instruments qui demeure à Parie, rue de la Bretonnerie... 
-			a été l'objet des recherches & des prises de renseignements les plus multipliées de la part de MM les Fabriciens 
-			et de Mr le Curé lui-même & que les témoignages les plus imposants ont été donnés en sa faveur; qu'un orgue 
-			construit par lui récemment pour l'église Ste Geneviève de Paris a répondu parfaitement à l'attente et au désir 
-			de MM les ecclésiastiques qui sont en possession de cette église d'après l'attestation des supérieurs & de 
-			l'ingénieur qui a procédé à la réception de cet orgue. Les certificats ont été déposés sur le bureau & lus au 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Il a ï¿½tï¿½ exposï¿½ par Mr le Curï¿½ que conformï¿½ment au v&#156;u exprimï¿½ par le 
+			Conseil dans sa dï¿½libï¿½ration du 22 avril 1827, il s'est occupï¿½ de rï¿½unir tous les renseignements nï¿½cessaires 
+			pour reconnaï¿½tre la nature & le prix des rï¿½parations ï¿½ faire ï¿½ l'orgue ; qu'un sieur Cadau <I>[Gadault, sans 
+			doute NdA]</I> s'est prï¿½sentï¿½ pour en donner l'apperï¿½u, & pour y consacrer ses soins. Qu'il porte approximativement 
+			la dï¿½pense ï¿½ 2400 Frs. Que la capacitï¿½ de ce facteur d'instruments qui demeure ï¿½ Parie, rue de la Bretonnerie... 
+			a ï¿½tï¿½ l'objet des recherches & des prises de renseignements les plus multipliï¿½es de la part de MM les Fabriciens 
+			et de Mr le Curï¿½ lui-mï¿½me & que les tï¿½moignages les plus imposants ont ï¿½tï¿½ donnï¿½s en sa faveur; qu'un orgue 
+			construit par lui rï¿½cemment pour l'ï¿½glise Ste Geneviï¿½ve de Paris a rï¿½pondu parfaitement ï¿½ l'attente et au dï¿½sir 
+			de MM les ecclï¿½siastiques qui sont en possession de cette ï¿½glise d'aprï¿½s l'attestation des supï¿½rieurs & de 
+			l'ingï¿½nieur qui a procï¿½dï¿½ ï¿½ la rï¿½ception de cet orgue. Les certificats ont ï¿½tï¿½ dï¿½posï¿½s sur le bureau & lus au 
 			Conseil.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que si l'église St Etienne a de nombreux & urgents besoins de plus d'un genre, il 
-			est vrai de dire qu'il faut mettre au premier rang la réparation de l'orgue. Car sans parler de l'extrême avantage 
-			qu'il a pour la Paroisse à pouvoir soutenir la pompe des cérémonies par l'harmonie de cet imposant instrument ; il 
-			est certain qu'un faible retard suffirait pour l'anéantir en quelque sorte & qu'on aurait à déplorer une perte 
-			sextuple du montant de la dépense qu'il faut faire pour conserver ce précieux ouvrage, à ne considérer que la valeur matérielle des choses.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que si l'ï¿½glise St Etienne a de nombreux & urgents besoins de plus d'un genre, il 
+			est vrai de dire qu'il faut mettre au premier rang la rï¿½paration de l'orgue. Car sans parler de l'extrï¿½me avantage 
+			qu'il a pour la Paroisse ï¿½ pouvoir soutenir la pompe des cï¿½rï¿½monies par l'harmonie de cet imposant instrument ; il 
+			est certain qu'un faible retard suffirait pour l'anï¿½antir en quelque sorte & qu'on aurait ï¿½ dï¿½plorer une perte 
+			sextuple du montant de la dï¿½pense qu'il faut faire pour conserver ce prï¿½cieux ouvrage, ï¿½ ne considï¿½rer que la valeur matï¿½rielle des choses.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qu'une telle urgence & un tel intérêt ne permettent pas de mettre aucun autre 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qu'une telle urgence & un tel intï¿½rï¿½t ne permettent pas de mettre aucun autre 
 			objet en comparaison.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil convaincu de cette nécessité & pénétré de l'intérêt immense qu'il a à 
-			conserver les orgues actuellement éxistantes en la paroisse sous les rapports religieux et temporels, autorise 
-			Mr le Curé et MM les Fabriciens à faire toutes les dépenses que les réparations exigeront, jusqu'à concurrence 
-			d'une somme de 3000 Frs sur l'assurance donnée par Mr le Curé qu'il joindra aux fonds de la Fabrique des secours 
-			mis à sa disposition particulière...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil convaincu de cette nï¿½cessitï¿½ & pï¿½nï¿½trï¿½ de l'intï¿½rï¿½t immense qu'il a ï¿½ 
+			conserver les orgues actuellement ï¿½xistantes en la paroisse sous les rapports religieux et temporels, autorise 
+			Mr le Curï¿½ et MM les Fabriciens ï¿½ faire toutes les dï¿½penses que les rï¿½parations exigeront, jusqu'ï¿½ concurrence 
+			d'une somme de 3000 Frs sur l'assurance donnï¿½e par Mr le Curï¿½ qu'il joindra aux fonds de la Fabrique des secours 
+			mis ï¿½ sa disposition particuliï¿½re...
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil vote des remerciements à Mr le Curé et à MM les Fabriciens pour les soins 
-			qu'ils ont donnés à cette affaire & il s'en rapporte à leur zèle & à leur sagacité pour le choix du facteur.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil vote des remerciements ï¿½ Mr le Curï¿½ et ï¿½ MM les Fabriciens pour les soins 
+			qu'ils ont donnï¿½s ï¿½ cette affaire & il s'en rapporte ï¿½ leur zï¿½le & ï¿½ leur sagacitï¿½ pour le choix du facteur.
 			</P>
 			<CENTER> 
 			   <BR>
@@ -535,10 +535,10 @@ function dblclick()
 				     <div class="mondiv">ADY 11 J 24/11</div>
 				     <FONT size=4 color=#FFFFFF>
 					 <p align="justify">
-			         Sera allouée au rendant la Se de deux mille soixante dix huit francs payée au Sr Gadaut facteur d'orgue le 
+			         Sera allouï¿½e au rendant la Se de deux mille soixante dix huit francs payï¿½e au Sr Gadaut facteur d'orgue le 
 				     28 mars 7 juin 22 8bre 1829 ci
 			         <BR>
-					 Celle de soixante dix neuf francs payé à Clopet souffleur pendant la restauration de l'orgue ci
+					 Celle de soixante dix neuf francs payï¿½ ï¿½ Clopet souffleur pendant la restauration de l'orgue ci
 				     </P>
 					 </FONT>
 				  </TD>
@@ -569,10 +569,10 @@ function dblclick()
 					 <p align="justify">
 			         Mme Barois
 					 <BR>
-					 Celle de huit cent vingt deux francs payé au Sr G0dot facteur d'orgue suivant sa quittance du 7 Décbre 
+					 Celle de huit cent vingt deux francs payï¿½ au Sr G0dot facteur d'orgue suivant sa quittance du 7 Dï¿½cbre 
 					 1830
 			         <BR>
-					 Celle de dix francs cinquante centimes payée à Clopet souffleur le 6 décembre 1830 ci
+					 Celle de dix francs cinquante centimes payï¿½e ï¿½ Clopet souffleur le 6 dï¿½cembre 1830 ci
 				     </P>
 					 </FONT>
 				  </TD>
@@ -603,7 +603,7 @@ function dblclick()
 			      <TD WIDTH="90%">
 				     <FONT size=4 color=#FFFFFF>
 					 <p align="justify">
-			         Celle de cinq cent francs payée à Mr Lété, facteur d'orgue pour la réparation de l'orgue suivant 
+			         Celle de cinq cent francs payï¿½e ï¿½ Mr Lï¿½tï¿½, facteur d'orgue pour la rï¿½paration de l'orgue suivant 
 					 quittance, ci 
 					 </P>
 					 </FONT>
@@ -620,33 +620,25 @@ function dblclick()
 			<TABLE WIDTH="100%">
 			   <TR>
 			      <TD WIDTH="80%">
-				     <div class="mondiv">ADY 11 J 24/6 f°34r°v°</div>
+				     <div class="mondiv">ADY 11 J 24/6 fï¿½34rï¿½vï¿½</div>
 				     <FONT size=4 color=#FFFFFF>
 					 <BR>
 					 <p align="justify">
-			         Réparations à l'orgue 
+			         Rï¿½parations ï¿½ l'orgue 
 					 <BR>
-					 Traité fait avec Mr Lété facteur d'orgues.
+					 Traitï¿½ fait avec Mr Lï¿½tï¿½ facteur d'orgues.
 					 <BR>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je soussigné Nicolas Antoine Lété, maître facteur d'orgues, demeurant à 
-					 Mirecourt, département des Vosges, m'engage par la présente à faire toutes les réparations 
-					 nécessaires à l'orgue de l'Eglise Saint Etienne d'Auxerre et de le rendre en parfait état de 
-					 réparation et bien d'accord, le tout à dire d'experts : les tuyaux de la montre seront nettoyés aussi 
-					 bien que leur état le permettra sans les refaire.
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je soussignï¿½ Nicolas Antoine Lï¿½tï¿½, maï¿½tre facteur d'orgues, demeurant ï¿½ 
+					 Mirecourt, dï¿½partement des Vosges, m'engage par la prï¿½sente ï¿½ faire toutes les rï¿½parations 
+					 nï¿½cessaires ï¿½ l'orgue de l'Eglise Saint Etienne d'Auxerre et de le rendre en parfait ï¿½tat de 
+					 rï¿½paration et bien d'accord, le tout ï¿½ dire d'experts : les tuyaux de la montre seront nettoyï¿½s aussi 
+					 bien que leur ï¿½tat le permettra sans les refaire.
 					 <BR>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compris dans ce travail Mr le Curé ainsi que Mr le Trésorier de la 
-					 fabrique s'engagent personnellement pour tous les membres qui la composent à payer Mr Lété la somme 
-					 de cinq cent francs après le travail terminé et reçu.
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compris dans ce travail Mr le Curï¿½ ainsi que Mr le Trï¿½sorier de la 
+					 fabrique s'engagent personnellement pour tous les membres qui la composent ï¿½ payer Mr Lï¿½tï¿½ la somme 
+					 de cinq cent francs aprï¿½s le travail terminï¿½ et reï¿½u.
 					 <BR>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait double à Auxerre le 14 janvier 1840.
-					 <BR>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 Signé Fortin C. Archiprêtre
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait double ï¿½ Auxerre le 14 janvier 1840.
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -654,8 +646,7 @@ function dblclick()
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 Marie Trésorier
+					 Signï¿½ Fortin C. Archiprï¿½tre
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -664,7 +655,16 @@ function dblclick()
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					 N. A. Lété
+					 Marie Trï¿½sorier
+					 <BR>
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					 N. A. Lï¿½tï¿½
 					 </P>
 					 <CENTER> 
 			            <BR>
@@ -674,20 +674,20 @@ function dblclick()
 			         </CENTER>
 					 <div class="mondiv">ADY V 37</div>
 					 <p align="justify">
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une lettre de Paris, du 9 novembre 1840 est adressée au préfet de l'Yonne 
-					 par le Sous-Secrétaire d'Etat auprès du Ministre Secrétaire d'Etat de l'Intérieur. Elle répond à une 
-					 demande envoyée par les marguilliers de l'Eglise St Etienne d'Auxerre au Ministre de la Justice et des 
-					 Cultes. L'objet en était : l'etablissement d'orgues nouvelles & secours demandés.
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une lettre de Paris, du 9 novembre 1840 est adressï¿½e au prï¿½fet de l'Yonne 
+					 par le Sous-Secrï¿½taire d'Etat auprï¿½s du Ministre Secrï¿½taire d'Etat de l'Intï¿½rieur. Elle rï¿½pond ï¿½ une 
+					 demande envoyï¿½e par les marguilliers de l'Eglise St Etienne d'Auxerre au Ministre de la Justice et des 
+					 Cultes. L'objet en ï¿½tait : l'etablissement d'orgues nouvelles & secours demandï¿½s.
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les marguilliers demandent des orgues nouvelles ou la restauration de celles 
-					 qui existent. Le Ministre fait répondre que le budget de son département ne comprend pas de fonds pour une 
-					 semblable dépense, et prie d'en informer les pétitionnaires et de leur exprimer ses regrets.
+					 qui existent. Le Ministre fait rï¿½pondre que le budget de son dï¿½partement ne comprend pas de fonds pour une 
+					 semblable dï¿½pense, et prie d'en informer les pï¿½titionnaires et de leur exprimer ses regrets.
 					 <BR>
 					 <BR>
 					 <div class="mondiv">ADY 11 V 37</div>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 14 9bre 1840, le préfet de l'Yonne adresse une lettre à M. le Curé de 
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 14 9bre 1840, le prï¿½fet de l'Yonne adresse une lettre ï¿½ M. le Curï¿½ de 
 					 St Etienne d'Auxerre. Il ne s'embarrasse pas de fioritures en reprenant pratiquement in-extenso les termes 
-					 de la lettre du ministère.
+					 de la lettre du ministï¿½re.
 					 </P>
 					 <BR>
 					 <CENTER> 
@@ -699,9 +699,9 @@ function dblclick()
 			            <BR>
 			            <BR>
 			            <BR>
-						<B>Le département de l'Yonne
+						<B>Le dï¿½partement de l'Yonne
 						<BR>
-						comme Diocèse</B>
+						comme Diocï¿½se</B>
 						<BR>
 						Alype-Jean NOIROT
 						<BR>
@@ -709,20 +709,20 @@ function dblclick()
 						<BR>
 						Un feu pour illuminer la nuit (1790-1843)
 						<BR>
-						Chap. IV Le droit à l'existence	et les moyens de l'espérance (1830-1843)					
+						Chap. IV Le droit ï¿½ l'existence	et les moyens de l'espï¿½rance (1830-1843)					
 			         </CENTER>
 					 <p align="justify">
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Au chapitre troisième l'administration des sacrements passe 
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Au chapitre troisiï¿½me l'administration des sacrements passe 
 					 en revue chacun des sacrements.
 					 <BR>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour le mariage, il est déjà noté que <I>"le mariage n'est plus guère regardé 
-					 de nos jours, que comme une pure cérémonie, et la grande partie des époux ne reçoit ce sacrement qu'en 
-					 commettant un sacrilège"</I>. Le pasteur devra donc faire une préparation sérieuse des futurs et leur 
-					 manifester qu'il est défendu <I>"aux garçons de faire aucune insolence dans le temps de la célébration 
-					 des mariages sous pretexte de certaines coutumes ou de prétendus droits... ; de permettre que l'on y fasse 
-					 usage d'aucun instrument de musique, à l'exception de </I>l'orgue<I> ; que l'on présente aucune 
-					 nourriture ni boisson aux époux ; que l'on y fasse la quête, à moins que ce ne soit l'un des syndics 
-					 fabriciens, et dans l'intérêt de l'église..."</I>.
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour le mariage, il est dï¿½jï¿½ notï¿½ que <I>"le mariage n'est plus guï¿½re regardï¿½ 
+					 de nos jours, que comme une pure cï¿½rï¿½monie, et la grande partie des ï¿½poux ne reï¿½oit ce sacrement qu'en 
+					 commettant un sacrilï¿½ge"</I>. Le pasteur devra donc faire une prï¿½paration sï¿½rieuse des futurs et leur 
+					 manifester qu'il est dï¿½fendu <I>"aux garï¿½ons de faire aucune insolence dans le temps de la cï¿½lï¿½bration 
+					 des mariages sous pretexte de certaines coutumes ou de prï¿½tendus droits... ; de permettre que l'on y fasse 
+					 usage d'aucun instrument de musique, ï¿½ l'exception de </I>l'orgue<I> ; que l'on prï¿½sente aucune 
+					 nourriture ni boisson aux ï¿½poux ; que l'on y fasse la quï¿½te, ï¿½ moins que ce ne soit l'un des syndics 
+					 fabriciens, et dans l'intï¿½rï¿½t de l'ï¿½glise..."</I>.
 					 </P>
 					 <BR>
 					 <BR>
@@ -734,13 +734,13 @@ function dblclick()
 			         </CENTER>
 					 <div class="mondiv">ADY 11 J 24/12</div>
 					 <p align="justify">
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le salaire de Madame Barois, organiste du grand orgue était fixe et de 
-					 200 francs par an pour la période de 1830 à 1851
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le salaire de Madame Barois, organiste du grand orgue ï¿½tait fixe et de 
+					 200 francs par an pour la pï¿½riode de 1830 ï¿½ 1851
 					 <BR>
 					 <BR>
 					 <BR>
 					 <div class="mondiv">ADY 11 J 24/16</div>
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans les détails des paiements faits aux employés de l'église, il y avait
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans les dï¿½tails des paiements faits aux employï¿½s de l'ï¿½glise, il y avait
 					 en 1850 : un serpent, un souffleur, une organiste.
 					 <BR>
 					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1851, le serpent est aussi contrebassier...
@@ -771,7 +771,7 @@ function dblclick()
 		  </TD>
 		  <TD WIDTH="33%">
 		     <P ALIGN="right">
-			    <a href="Revolution_III.htm"><FONT COLOR = #99FFFF>Chapitre troisième</FONT></A>
+			    <a href="Revolution_III.htm"><FONT COLOR = #99FFFF>Chapitre troisiï¿½me</FONT></A>
 			 </P>
 		  </TD>
       </TR>

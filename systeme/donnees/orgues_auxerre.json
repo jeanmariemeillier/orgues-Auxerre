@@ -142,29 +142,30 @@
 	"lien_pg" :"index.php?pg=21",
 	"lrm" :"puzzle"
 	},
-	"indssmenu_2" : 30,
-	"nbr_ssmenu" : 8,
 
-	"indic30" :{
-	"valid" : 1,
-	"fn_tit_menu" : false,
-	"trt_menu" : "Préface",
-	"lien_pg" : "index.php?pg=30",
-	"lrm" : "preface",
-	"arm" : "vide",
-	"nbr_lien_ssm" : 3,
-	"sous_menu" :{
-		"href_1" : "index.php?pg=30&sm=1&act=2",
-		"txt_lien_1" : "La cathédrale",
-		"lrm_1" : "la_cathedrale",
-		"href_2" : "index.php?pg=30&sm=2&act=2",
-		"txt_lien_2" : "Musique religieuse",
-		"lrm_2" : "musique_religieuse",
-		"href_3" : "index.php?pg=30&sm=3&act=2",
-		"txt_lien_3" : "Notes d’art et d’histoire",
-		"lrm_3" : "notes_d_art_et_d_histoire"
-		} 
-	},
+	"_commentaire": "menu acceuil cathédrale",
+		"indssmenu_2" : 30,
+		"nbr_ssmenu_2" : 8,
+		"indic30" :{
+			"valid" : 1,
+			"fn_tit_menu" : false,
+			"trt_menu" : "Préface",
+			"lien_pg" : "index.php?pg=30",
+			"lrm" : "preface",
+			"arm" : "vide",
+			"nbr_lien_ssm" : 3,
+			"sous_menu" :{
+				"href_1" : "index.php?pg=30&sm=1&act=2",
+				"txt_lien_1" : "La cathédrale",
+				"lrm_1" : "la_cathedrale",
+				"href_2" : "index.php?pg=30&sm=2&act=2",
+				"txt_lien_2" : "Musique religieuse",
+				"lrm_2" : "musique_religieuse",
+				"href_3" : "index.php?pg=30&sm=3&act=2",
+				"txt_lien_3" : "Notes d’art et d’histoire",
+				"lrm_3" : "notes_d_art_et_d_histoire"
+			} 
+		},
 	"indic31" :{
 	"valid" : 1,
 	"fn_tit_menu" : true,
@@ -261,4 +262,5 @@
 		"arm" : "vide",
 		"nbr_lien_ssm" : 0
 		}
+
 }

@@ -1,31 +1,13 @@
-<html>
-<head>
-<title>La cathédrale</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="content-Language" content="fr">
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
-</script>
-</head>
 
 <body bgcolor="#bccadb">
 <center>
-   <br>
-   <br>
-   <br>
-   <br>
-   <h1><i>Première partie</i>
-   </h1>
-   <hr width="20%">
+   
+   
    <br>
    <font size=7 color="#ff0000">L a &nbsp;&nbsp;&nbsp;C A T H E D R A L E
    </font>
-   <br>
-   <br>
+   <br><hr width="20%">
+   
    <font size=5 color="#0000ff"><i>Quelques mots d'histoire</i>
    </font>
 </center>
@@ -39,72 +21,65 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <br>
 		   <br>
 		   <br>
-		   Une large majorité de l'histoire des Evêques d'Auxerre et par conséquent de la cathédrale est extraite des
-		   <br>
-		   <br>
-		   <center>
-		      <h2>
-		         <b>Mémoires concernant l'Histoire civile et ecclésiastique d'Auxerre et de son ancien diocèse</b>
-		      </h1>
-			  de l'Abbé LEBEUF
+		   Une grande partie de l'histoire des EvÃªques d'Auxerre et par consÃ©quent de la cathÃ©drale est extraite du livre "MÃ©moires concernant l'Histoire civile et ecclÃ©siastique d'Auxerre et de son ancien diocÃ¨se" de l'AbbÃ© LEBEUF.
 		      <br>
-		      <i>Chanoine et Sous-Chantre de l'église cathédrale de la même ville
-		      <br>
-		      de l'Académie des Inscriptions et Belles-Lettres</i>
+		      <i>Chanoine et Sous-Chantre de la cathÃ©drale d'Auxerre, membre  
+		      de l'AcadÃ©mie des Inscriptions et Belles-Lettres.</i>
 		   </center>
 		</p>   
 		   <br>
 		   <br>
 		   <br>
 		<p align = "justify">
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La première cathédrale d'Auxerre fut l'église 
-		   construite par St PELERIN [premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre] dans la plaine 
-		   au bord de l'Yonne ; c'est seulement vers l'an 400 que l'évêque
-		   St AMATRE [Vè Evêque de 386 à 418] la transféra à son endroit actuel ; voyant que l'église consacrée du temps 
-		   de saint Pélerin, sur le bord de la rivière du côté qui regardait l'orient d'hiver {c'était du côté de la porte 
-		   que les anciens auteurs appelaient la <I>Porte des Bains</I>, ne pouvait plus contenir le nombre des fidèles 
-		   qui allait toujours en aumentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte 
-		   de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé RUPTILIUS ou Rutilius. Ruptilius refusa 
-		   d'abord d'accorder à l'évêque ce qu'il demandait ; mais, étant ensuite tombé gravement malade, il y vit une 
-		   punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE 
-		   fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville.
+			[Retrouver la page et le paragraphe du texte]
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La premiï¿½re cathï¿½drale d'Auxerre fut l'ï¿½glise 
+		   construite par St PELERIN [premier Evï¿½que de cette ville de 258 au 16 mai 303 ou 304 martyre] dans la plaine 
+		   au bord de l'Yonne ; c'est seulement vers l'an 400 que l'ï¿½vï¿½que
+		   St AMATRE [Vï¿½ Evï¿½que de 386 ï¿½ 418] la transfï¿½ra ï¿½ son endroit actuel ; voyant que l'ï¿½glise consacrï¿½e du temps 
+		   de saint Pï¿½lerin, sur le bord de la riviï¿½re du cï¿½tï¿½ qui regardait l'orient d'hiver {c'ï¿½tait du cï¿½tï¿½ de la porte 
+		   que les anciens auteurs appelaient la <I>Porte des Bains</I>, ne pouvait plus contenir le nombre des fidï¿½les 
+		   qui allait toujours en aumentant, trouva le moyen de se faire cï¿½der un grand corps de logis situï¿½ dans l'enceinte 
+		   de la nouvelle citï¿½. Il avait obtenu ce bï¿½timent d'un riche citoyen nommï¿½ RUPTILIUS ou Rutilius. Ruptilius refusa 
+		   d'abord d'accorder ï¿½ l'ï¿½vï¿½que ce qu'il demandait ; mais, ï¿½tant ensuite tombï¿½ gravement malade, il y vit une 
+		   punition divine et s'amenda. Agrandie et embellie par les gï¿½nï¿½rations suivantes, la cathï¿½drale de St AMATRE 
+		   fut dï¿½truite par le feu ï¿½ la fin du IXï¿½me siï¿½cle, au cours d'un grand incendie qui ravagea toute la ville.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bienheureux (que Lebeuf dit vénérable) HERIFRIED 
-		   (qui, selon le langage vulgaire, devrait être prononcé Herfroy) [XLè Evêque d'Auxerre de 887 au 23 octobre 909] rebâtit 
-		   l'édifice {La cathédrale, composée des trois églises de Notre-Dame, Saint-Jean et Saint-Etienne, ayant été 
-		   enveloppée dans ce malheur aussi bien que la maison épiscopale, Hérifrid se proposa de la rebâtir ; et, en 
-		   attendant, il se contenta d'un petit logis qu'il fit accomoder à son usage. Il vint à bout de remettre sur 
-		   pied les trois églises, et la mort l'ayant prévenu, il laissa à son successeur le soin de rebâtir la maison 
-		   épiscopale} et l'orna richement. Il le dota d'une tour. Il existait des cryptes au-dessous de l'église. 
-		   Ce sanctuaire n'avait pas les dimensions de la cathédrale actuelle. Le portail devait se trouver à l'emplacement 
-		   du transept d'aujourd'hui. Mais la cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr 
-		   par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bienheureux (que Lebeuf dit vï¿½nï¿½rable) HERIFRIED 
+		   (qui, selon le langage vulgaire, devrait ï¿½tre prononcï¿½ Herfroy) [XLï¿½ Evï¿½que d'Auxerre de 887 au 23 octobre 909] rebï¿½tit 
+		   l'ï¿½difice {La cathï¿½drale, composï¿½e des trois ï¿½glises de Notre-Dame, Saint-Jean et Saint-Etienne, ayant ï¿½tï¿½ 
+		   enveloppï¿½e dans ce malheur aussi bien que la maison ï¿½piscopale, Hï¿½rifrid se proposa de la rebï¿½tir ; et, en 
+		   attendant, il se contenta d'un petit logis qu'il fit accomoder ï¿½ son usage. Il vint ï¿½ bout de remettre sur 
+		   pied les trois ï¿½glises, et la mort l'ayant prï¿½venu, il laissa ï¿½ son successeur le soin de rebï¿½tir la maison 
+		   ï¿½piscopale} et l'orna richement. Il le dota d'une tour. Il existait des cryptes au-dessous de l'ï¿½glise. 
+		   Ce sanctuaire n'avait pas les dimensions de la cathï¿½drale actuelle. Le portail devait se trouver ï¿½ l'emplacement 
+		   du transept d'aujourd'hui. Mais la cathï¿½drale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, pï¿½rir 
+		   par le feu. Elle fut entiï¿½rement consumï¿½e aprï¿½s un demi-siï¿½cle d'existence.
 		   <br>
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vénérable GUY (XLIVè évêque d'Auxerre de 933 à 961)
-		   se mit à l'&#156;uvre pour réparer le désastre. Il voulut avoir sa sépulture dans sa cathédrale. Jusqu'à lui 
-		   il n'y avait encore eu aucun évêque inhumé dans l'église cathédrale, et lui-même par humilité n'avait d'abord 
-		   souhaité d'être inhumé que sous son portique. Mais le malheur de l'incendie arrivé sous son épiscopat fit changer 
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vï¿½nï¿½rable GUY (XLIVï¿½ ï¿½vï¿½que d'Auxerre de 933 ï¿½ 961)
+		   se mit ï¿½ l'&#156;uvre pour rï¿½parer le dï¿½sastre. Il voulut avoir sa sï¿½pulture dans sa cathï¿½drale. Jusqu'ï¿½ lui 
+		   il n'y avait encore eu aucun ï¿½vï¿½que inhumï¿½ dans l'ï¿½glise cathï¿½drale, et lui-mï¿½me par humilitï¿½ n'avait d'abord 
+		   souhaitï¿½ d'ï¿½tre inhumï¿½ que sous son portique. Mais le malheur de l'incendie arrivï¿½ sous son ï¿½piscopat fit changer 
 		   son premier dessein : ainsi, on enterra son corps entre le choeur et la nef devant l'image du crucifix. Comme le 
-		   bâtiment de l'église était alors beaucoup plus petit que n'est le nouveau qui a été commencé en 1215, le choeur 
-		   finissait à peu près à l'endroit ou se trouve le petit clocher... Hélas ! le feu, 
-           une fois de plus, vint réduire son &#156;uvre à néant (1023).
+		   bï¿½timent de l'ï¿½glise ï¿½tait alors beaucoup plus petit que n'est le nouveau qui a ï¿½tï¿½ commencï¿½ en 1215, le choeur 
+		   finissait ï¿½ peu prï¿½s ï¿½ l'endroit ou se trouve le petit clocher... Hï¿½las ! le feu, 
+           une fois de plus, vint rï¿½duire son &#156;uvre ï¿½ nï¿½ant (1023).
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après le dernier incendie, l'évêque HUGUES DE CHALONS
-		   (XLVIIIè évêque du 5 mars 999 au 4 novembre 1039) entreprit la construction d'une cathédrale voûtée, {Hugues, au lieu de la 
-		   rebâtir de moellon, comme elle avait été auparavant, en jeta les fondements sur le roc avec des pierres de taille ; 
-		   il voulut que son enceinte fût d'une plus grande étendue, et il y fit faire les grottes ou cryptes telles qu'on 
-		   les voit encore aujourd'hui sous le sanctuaire et sous la moitié du choeur [Les cryptes de la cathédrale forment 
-		   un monument très-intéressant. Elles s'étendent sous le choeur entier de l'église et se composent de trois nefs 
-		   à six travées avec les bas-côtés terminés circulairement et conduisant à la chapelle qui est à l'extrémité orientale. 
-		   Le système de construction de ces cryptes est le plein-cintre rustique. Les piliers sont cantonnés de quatre colonnes 
-		   munies d'un chapiteau taillé en bizeau et orné d'un simple cordon sur les angles. Les voûtes sont à nervures. Des 
-		   baies étroites jettent un jour douteux dans les profondeurs de l'édifice. La chapelle terminale voûtée  en berceau 
-		   est peinte de fresques représentant le Christ à cheval escorté de quatre anges, et, au fond du cul-de-four, le 
-		   Christ bénissant, entouré des animaux symboliques.Une restauration intelligente vient de rendre à ce monument sa 
-		   physionomie primitive (Perriquet, éditeur, 1848)]}dans le style roman qui florissait alors et 
-		   que la crypte  permet d'évoquer en l'absence de renseignements certains. {L'ouvrage était déjà bien avancé} 
-		   Ce n'est que de justesse qu'elle échappa à l'incendie de 1035. Elle fut aménagée et embellie par les successeurs 
-		   d'HUGUES DE CHALONS sur le siège épiscopal d'Auxerre.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s le dernier incendie, l'ï¿½vï¿½que HUGUES DE CHALONS
+		   (XLVIIIï¿½ ï¿½vï¿½que du 5 mars 999 au 4 novembre 1039) entreprit la construction d'une cathï¿½drale voï¿½tï¿½e, {Hugues, au lieu de la 
+		   rebï¿½tir de moellon, comme elle avait ï¿½tï¿½ auparavant, en jeta les fondements sur le roc avec des pierres de taille ; 
+		   il voulut que son enceinte fï¿½t d'une plus grande ï¿½tendue, et il y fit faire les grottes ou cryptes telles qu'on 
+		   les voit encore aujourd'hui sous le sanctuaire et sous la moitiï¿½ du choeur [Les cryptes de la cathï¿½drale forment 
+		   un monument trï¿½s-intï¿½ressant. Elles s'ï¿½tendent sous le choeur entier de l'ï¿½glise et se composent de trois nefs 
+		   ï¿½ six travï¿½es avec les bas-cï¿½tï¿½s terminï¿½s circulairement et conduisant ï¿½ la chapelle qui est ï¿½ l'extrï¿½mitï¿½ orientale. 
+		   Le systï¿½me de construction de ces cryptes est le plein-cintre rustique. Les piliers sont cantonnï¿½s de quatre colonnes 
+		   munies d'un chapiteau taillï¿½ en bizeau et ornï¿½ d'un simple cordon sur les angles. Les voï¿½tes sont ï¿½ nervures. Des 
+		   baies ï¿½troites jettent un jour douteux dans les profondeurs de l'ï¿½difice. La chapelle terminale voï¿½tï¿½e  en berceau 
+		   est peinte de fresques reprï¿½sentant le Christ ï¿½ cheval escortï¿½ de quatre anges, et, au fond du cul-de-four, le 
+		   Christ bï¿½nissant, entourï¿½ des animaux symboliques.Une restauration intelligente vient de rendre ï¿½ ce monument sa 
+		   physionomie primitive (Perriquet, ï¿½diteur, 1848)]}dans le style roman qui florissait alors et 
+		   que la crypte  permet d'ï¿½voquer en l'absence de renseignements certains. {L'ouvrage ï¿½tait dï¿½jï¿½ bien avancï¿½} 
+		   Ce n'est que de justesse qu'elle ï¿½chappa ï¿½ l'incendie de 1035. Elle fut amï¿½nagï¿½e et embellie par les successeurs 
+		   d'HUGUES DE CHALONS sur le siï¿½ge ï¿½piscopal d'Auxerre.
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parmi eux : 
         </P>
@@ -116,8 +91,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				 <br>
 				 ou de Champ-Aleman (Lebeuf)
 				 <br>
-				 fils d'Hugues, vicomte de Nevers. Il était surnommé de Champ-Aleman qui est un village du Nivernais, proche Anant.
-				 Il était clerc du palais du roi Henri, ce que nous appellerions aujourd'hui aumonier ou chapelain, lorsqu'Héribert 
+				 fils d'Hugues, vicomte de Nevers. Il ï¿½tait surnommï¿½ de Champ-Aleman qui est un village du Nivernais, proche Anant.
+				 Il ï¿½tait clerc du palais du roi Henri, ce que nous appellerions aujourd'hui aumonier ou chapelain, lorsqu'Hï¿½ribert 
 				 (successeur d'Hugues de Chalons) obtint de ce prince qu'il fut son successeur...
 				 </p>
 				 <br>
@@ -131,24 +106,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			  </td>
               <td width="67%">
 			     <p align = "justify">
-			     (Lè évêque du 1er décembre 1051 au 15 septembre 1076) Placé sur le siège épiscopal, il tourna d'abord son attention 
-				 sur l'église cathédrale ; et ayant remarqué qu'elle était dénuée de tout, il fit en sorte que son successeur 
-				 ne la trouvât pas dans le même état. L'an 1075. Ce fut cette année-là qu'il arriva, à Auxerre, un incendie 
-				 dans lequel la cathédrale fut enveloppée.Le pieux évêque ne perdit point courage en voyant ce malheur. 
-				 Il fit faire si grande diligence pour le réparer, qu'en moins d'un an la nouvelle charpente fut montée et 
-				 la couverture mise en sa perfection. Pour cet effet, on le vit veiller lui-même sur les ouvriers et leur 
-				 donner ses domestiques pour les aider et avancer l'ouvrage. A l'égard du vitrage, il chargea cinq de ses 
-				 officiers de ce soin, voulant que chacun d'eux fit une des cinq verrières du fond de l'église, et il pria 
-				 son chapelain de se charger de la sixième et plus considérable, qui était celle de la chapelle de Saint-
-				 Alexandre. Ayant à coeur le bien et la décoration de son église, il destina quelques prébendes pour des 
-				 ecclésiastiques qui sauraient des métiers : l'une, pour un habile orfèvre, l'autre, pour un savant peintre, 
-				 la troisième, pour un vitrier adroit et intelligent ; et les chanoines lui en firent leurs remerciements 
-				 (Les détails dans lesquels entre l'auteur de la vie de Geoffroy de Champ-Aleman sur les soins que donnait 
-				 le prélat à la décoration de sa cathédrale et à sa restauration, le choix de clercs artistes qu'il dote 
-				 de canonicats, tout cela indique d'une manière évidente que le clergé et les évêques eux-mêmes présidaient 
-				 à la direction des travaux. Les arts tombés dans un anéantissement presque complet au Xè siècle, se relevèrent 
-				 en France au XIè siècle sous l'influence de quelques prélats, en tête desquels Geoffroy de Champ-Aleman mérite 
-				 d'être placé (Perriquet, éditeur, 1848)). 
+			     (Lï¿½ ï¿½vï¿½que du 1er dï¿½cembre 1051 au 15 septembre 1076) Placï¿½ sur le siï¿½ge ï¿½piscopal, il tourna d'abord son attention 
+				 sur l'ï¿½glise cathï¿½drale ; et ayant remarquï¿½ qu'elle ï¿½tait dï¿½nuï¿½e de tout, il fit en sorte que son successeur 
+				 ne la trouvï¿½t pas dans le mï¿½me ï¿½tat. L'an 1075. Ce fut cette annï¿½e-lï¿½ qu'il arriva, ï¿½ Auxerre, un incendie 
+				 dans lequel la cathï¿½drale fut enveloppï¿½e.Le pieux ï¿½vï¿½que ne perdit point courage en voyant ce malheur. 
+				 Il fit faire si grande diligence pour le rï¿½parer, qu'en moins d'un an la nouvelle charpente fut montï¿½e et 
+				 la couverture mise en sa perfection. Pour cet effet, on le vit veiller lui-mï¿½me sur les ouvriers et leur 
+				 donner ses domestiques pour les aider et avancer l'ouvrage. A l'ï¿½gard du vitrage, il chargea cinq de ses 
+				 officiers de ce soin, voulant que chacun d'eux fit une des cinq verriï¿½res du fond de l'ï¿½glise, et il pria 
+				 son chapelain de se charger de la sixiï¿½me et plus considï¿½rable, qui ï¿½tait celle de la chapelle de Saint-
+				 Alexandre. Ayant ï¿½ coeur le bien et la dï¿½coration de son ï¿½glise, il destina quelques prï¿½bendes pour des 
+				 ecclï¿½siastiques qui sauraient des mï¿½tiers : l'une, pour un habile orfï¿½vre, l'autre, pour un savant peintre, 
+				 la troisiï¿½me, pour un vitrier adroit et intelligent ; et les chanoines lui en firent leurs remerciements 
+				 (Les dï¿½tails dans lesquels entre l'auteur de la vie de Geoffroy de Champ-Aleman sur les soins que donnait 
+				 le prï¿½lat ï¿½ la dï¿½coration de sa cathï¿½drale et ï¿½ sa restauration, le choix de clercs artistes qu'il dote 
+				 de canonicats, tout cela indique d'une maniï¿½re ï¿½vidente que le clergï¿½ et les ï¿½vï¿½ques eux-mï¿½mes prï¿½sidaient 
+				 ï¿½ la direction des travaux. Les arts tombï¿½s dans un anï¿½antissement presque complet au Xï¿½ siï¿½cle, se relevï¿½rent 
+				 en France au XIï¿½ siï¿½cle sous l'influence de quelques prï¿½lats, en tï¿½te desquels Geoffroy de Champ-Aleman mï¿½rite 
+				 d'ï¿½tre placï¿½ (Perriquet, ï¿½diteur, 1848)). 
 				 </p>   
 			  </td>
 		   </tr>
@@ -164,20 +139,20 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			  </td>
               <td width="67%">
 			     <p align = "justify">
-			     (LIè évêque de septembre 1076 au 12 février 1084) A son entrée au trône épiscopal il donna un dorsal rouge 
+			     (LIï¿½ ï¿½vï¿½que de septembre 1076 au 12 fï¿½vrier 1084) A son entrï¿½e au trï¿½ne ï¿½piscopal il donna un dorsal rouge 
 				 (cela signifie des tapisseries qui se mettaient aux murs du choeur ou au dos des stalles). Il fit faire une 
-				 tribune pour la lecture de l'Evangile, et il y employa la somme de quatre cents sols de ce temps-là. Il fit 
-				 continuer le vitrage du choeur, dont on n'avait fait que le fond du vivant de son prédécesseur. Comme les cryptes 
-				 bâties par Hugues de Chalon étaient obscures, il leur donna du jour par le moyen de deux ouvertures qui 
-				 servirent d'entrées. Les tours pour les cloches, qui ne s'élevaient que jusqu'au bas de la couverture de 
-				 l'église, furent pareillement achevées par ses soins et à ses frais...
+				 tribune pour la lecture de l'Evangile, et il y employa la somme de quatre cents sols de ce temps-lï¿½. Il fit 
+				 continuer le vitrage du choeur, dont on n'avait fait que le fond du vivant de son prï¿½dï¿½cesseur. Comme les cryptes 
+				 bï¿½ties par Hugues de Chalon ï¿½taient obscures, il leur donna du jour par le moyen de deux ouvertures qui 
+				 servirent d'entrï¿½es. Les tours pour les cloches, qui ne s'ï¿½levaient que jusqu'au bas de la couverture de 
+				 l'ï¿½glise, furent pareillement achevï¿½es par ses soins et ï¿½ ses frais...
 				 </p>  
 			  </td>
            </tr>
            <tr>
               <td width="33%">
 			     <p align = "justify">
-			     HUMBAUD (que Lebeuf dit vénérable)
+			     HUMBAUD (que Lebeuf dit vÃ©nÃ©rable)
 				 </p>
 				 <br>
 				 <br>
@@ -193,26 +168,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			  </td>
               <td width="67%">
 			     <p align = "justify">
-			     (LIIè évêque de 6 mai 1087 à 20 octobre 1114) L'église d'Auxerre fut si inconsolable de la mort de Robert de Nevers, et la perte qu'elle 
-				 avait faite en sa personne fut jugée si difficile à réparer, que le siège épiscopal resta vacant pendant trois ans (Le 
-				 <I>Gesta Pontificum</I> ne dit que deux mots, en passant, sur les troubles qui se sont élevés à la mort de 
-				 Robert de Nevers et qui ont empêché l'élection de son successeur). Ce successeur fut Humbaud, noble auxerrois...
+			     (LIIï¿½ ï¿½vï¿½que de 6 mai 1087 ï¿½ 20 octobre 1114) L'ï¿½glise d'Auxerre fut si inconsolable de la mort de Robert de Nevers, et la perte qu'elle 
+				 avait faite en sa personne fut jugï¿½e si difficile ï¿½ rï¿½parer, que le siï¿½ge ï¿½piscopal resta vacant pendant trois ans (Le 
+				 <I>Gesta Pontificum</I> ne dit que deux mots, en passant, sur les troubles qui se sont ï¿½levï¿½s ï¿½ la mort de 
+				 Robert de Nevers et qui ont empï¿½chï¿½ l'ï¿½lection de son successeur). Ce successeur fut Humbaud, noble auxerrois...
 				 <br>
-				 Le détail de tout ce qu'il fit pour l'embellissement de son église cathédrale est de longue étendue. Il la 
-				 fit recouvrir à neuf : il fit élever une flèche de charpente sur la tour qui était alors au-dessus de la chapelle de 
-				 Saint-Alexandre : et, à l'égard de l'autre tour qui était bâtie au-dessus du choeur, il la fit voûter de grosses pierres, pour 
-				 éviter les accidents qui auraient pu arriver aux cloches. Il fit faire un vitrage très-beau aux quatre fenêtres 
-				 qui éclairaient le grand autel, aux deux qui donnaient sur le choeur, et à vingt trois autres fenêtres de la nef. 
-				 Il donna cinq chandeliers d'une hauteur prodigieuse, où l'on devait placer des cierges pour éclairer, pendant la nuit, 
-				 le clergé et les fidèles qui venaient à l'office... des tapisseries diverses... Il mourut dans un vaisseau brisé 
-				 par la tempête, lors du retour d'un voyage à Jérusalem.
+				 Le dï¿½tail de tout ce qu'il fit pour l'embellissement de son ï¿½glise cathï¿½drale est de longue ï¿½tendue. Il la 
+				 fit recouvrir ï¿½ neuf : il fit ï¿½lever une flï¿½che de charpente sur la tour qui ï¿½tait alors au-dessus de la chapelle de 
+				 Saint-Alexandre : et, ï¿½ l'ï¿½gard de l'autre tour qui ï¿½tait bï¿½tie au-dessus du choeur, il la fit voï¿½ter de grosses pierres, pour 
+				 ï¿½viter les accidents qui auraient pu arriver aux cloches. Il fit faire un vitrage trï¿½s-beau aux quatre fenï¿½tres 
+				 qui ï¿½clairaient le grand autel, aux deux qui donnaient sur le choeur, et ï¿½ vingt trois autres fenï¿½tres de la nef. 
+				 Il donna cinq chandeliers d'une hauteur prodigieuse, oï¿½ l'on devait placer des cierges pour ï¿½clairer, pendant la nuit, 
+				 le clergï¿½ et les fidï¿½les qui venaient ï¿½ l'office... des tapisseries diverses... Il mourut dans un vaisseau brisï¿½ 
+				 par la tempï¿½te, lors du retour d'un voyage ï¿½ Jï¿½rusalem.
 				 </p> 
               </td>
            </tr>
            <tr>
               <td width="33%">
 			     <p align =" justify">
-			     Guillaume de TOUCY, frère de Hugues de Toucy, archevêque de Sens, fils de Girard de Narbonne, qui a été le premier surnom des barons de Toucy...
+			     Guillaume de TOUCY, frï¿½re de Hugues de Toucy, archevï¿½que de Sens, fils de Girard de Narbonne, qui a ï¿½tï¿½ le premier surnom des barons de Toucy...
 				 </p>
 				 <br>
 				 <br>
@@ -220,13 +195,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			  </td>
               <td width="67%">
 			     <p align = "justify">
-			     (LVIè &eacute;v&ecirc;que du 2 juillet 1167 au 28 février 1181) ... Il partit pour Rome, à dessein de reconnaître pour pape Alexandre III ; 
-				 il fut le premier évêque de France qui fit cette démarche.
+			     (LVIï¿½ &eacute;v&ecirc;que du 2 juillet 1167 au 28 fï¿½vrier 1181) ... Il partit pour Rome, ï¿½ dessein de reconnaï¿½tre pour pape Alexandre III ; 
+				 il fut le premier ï¿½vï¿½que de France qui fit cette dï¿½marche.
 				 <br>
-				 Ce qu'il fit pour la décoration de son église cathédrale est digne d'attention. Il la fit revêtir, par dehors, d'un entablement de pierre ; il 
-				 fit refaire à neuf le pignon de devant et celui de derrière, avec les vitrages qui en dépendaient. Il fortifia la tour méridionale, 
-				 et la fit recouvrir de tuiles au lieu de bois ; il renouvela entièrement la couverture de tout le bâtiment, tant en poutres 
-				 et en chevrons qu'en tuiles plombées qu'il fit employer pour plus grande sûreté. Il fit des présents au trésor... 
+				 Ce qu'il fit pour la dï¿½coration de son ï¿½glise cathï¿½drale est digne d'attention. Il la fit revï¿½tir, par dehors, d'un entablement de pierre ; il 
+				 fit refaire ï¿½ neuf le pignon de devant et celui de derriï¿½re, avec les vitrages qui en dï¿½pendaient. Il fortifia la tour mï¿½ridionale, 
+				 et la fit recouvrir de tuiles au lieu de bois ; il renouvela entiï¿½rement la couverture de tout le bï¿½timent, tant en poutres 
+				 et en chevrons qu'en tuiles plombï¿½es qu'il fit employer pour plus grande sï¿½retï¿½. Il fit des prï¿½sents au trï¿½sor... 
 				 </p>
 			  </td>
           </tr>
@@ -238,83 +213,83 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		     </td>
              <td width="67%">
 			    <p align = "justify">
-			    (LVIIè évêque du 13 mars 1183 au 29 novembre 1206) ... On lui attribue plusieurs décorations faites au bâtiment, comme d'avoir agrandi les 
-				fenêtres du frontispice de l'église, pour la rendre plus claire, d'avoir élevé le pavé de l'église en faisant apporter des terres et 
-				d'avoir refait ce pavé tout à neuf... 
+			    (LVIIï¿½ ï¿½vï¿½que du 13 mars 1183 au 29 novembre 1206) ... On lui attribue plusieurs dï¿½corations faites au bï¿½timent, comme d'avoir agrandi les 
+				fenï¿½tres du frontispice de l'ï¿½glise, pour la rendre plus claire, d'avoir ï¿½levï¿½ le pavï¿½ de l'ï¿½glise en faisant apporter des terres et 
+				d'avoir refait ce pavï¿½ tout ï¿½ neuf... 
 				</p>
 			 </td>
            </tr>
         </table>
 		<p align = "justify">
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GUILLAUME DE SEIGNELAY (LVIIIè évêque d'Auxerre de mi février 1206 {quoiqu'en France 
-		   on ne comptât encore alors que 1206, parce que l'année n'y commençait qu'à Pâques, on comptait à Rome 1207 depuis le premier jour de janvier} 
-		   à 1220 {mort le 23 novembre 1223}) voyant que de tous côtés on rebâtissait les églises cathédrales, ménagea une somme d'argent pour rebâtir la sienne 
-		   qui menaçait ruine en quelques endroits dans le nouveau goût (gothique). Il fit commencer à détruire l'ancienne du côté de l'orient, 
-		   l'an 1215. On n'eut pas besoin de jeter de nouveaux fondements ; ceux qui avaient été assis sur le roc, sous l'épiscopat d'Hugues de Chalon, 
-		   environ deux cents ans auparavant, furent trouvés solide et excellents ; mais comme on jugea que l'espace de l'église souterraine, qui 
-		   se trouvait toute faite, pouvait servir à régler la largeur de celle qu'on allait élever au-dessus, on ne crut pas devoir prendre d'autres 
-		   dimensions, et on se contenta de l'élever beaucoup plus que n'avait été la précédente. C'est ce qui a été cause que l'édifice 
-		   parut un peu étroit, quant aux bas-côtés, lorsqu'il fut achevé. Toute l'église inférieure ayant donc été conservée en son 
-		   entier, quant aux piliers du dedans et aux cintres de la voûte, on vit avancer considérablement dans l'espace d'un an l'ouvrage de la nouvelle. 
-		   L'évêque y employa, pour cette première année, sept cents livres. Les années suivantes il donna souvent, par chaque semaine, 
-		   dix livres ou au moins cent sous... Moyennant les aumones et les offrandes des peuples, avec tout ce que purent produire les quêtes 
-		   faites dans son diocèse et dans les diocèses voisins, l'ouvrage continua d'avancer dans un goût qui fut trouvé d'une grande délicatesse. 
-		   Quelques évènements parurent tenir du miracle dans le temps de la démolition de l'ancien choeur. La tour méridionale, manquant de son 
-		   appui ordinaire, tomba sur celle qui était vers le septentrion, sans que personne fût écrasé, par les précautions qu'on avait prises, 
-		   et une demi-heure après cette dernière tomba d'elle-même sans autre accident. Pour preuve de miracle, aucune des cloches qui 
-		   étaient dans ces deux tours ne fut cassée, les deux jubés, qui étaient adossés à l'un des piliers angulaires de ces tours, ni les 
-		   autels qui étaient sous chacun, ni la croix placée sur le jubé septentrional, ne furent presque pas endommagés, non plus que 
-		   les châsses qui étaient sous l'autel de l'un de ces jubés. Plus d'un mois après on retrouva sous les ruines, au milieu du choeur 
-		   le volume qui contenait la règle d'Aix-la-Chapelle et le martyrologe, avec quelques livres graduels sains et entiers, quoique le 
-		   coffre qui les renfermait eût été brisé en pièces. Cette chute arriva, l'an 1217, le dimanche de devant le commencement des offices 
-		   de l'Avent, sur l'heure de midi [Le récit de cet évènement présente des détails intéressants. On y voit la situation des deux 
-		   tours de l'ancienne église ; elles étaient placées aux deux côtés du choeur et assez rapprochées, puisqu'elles étaient alors 
-		   étayées l'une contre l'autre. Leur chute avait été annoncée par des signes précurseurs. Les chanoines, célébrant l'office au-dessous, 
-		   effrayés du danger appelèrent le <I>maître des oeuvres</I>. Celui-ci, dont le nom a été malheureusement omis, garantit la solidité 
-		   des tours et reprit même un de ses ouvriers qui prédisait leur chute prochaine. Cependant, pressé de nouveau, il finit par déclarer 
-		   qu'il ne répondait de rien ; aussitôt le Chapitre quitta la cathédrale et se retira dans l'église Notre-Dame-de-la-Cité qui était voisine 
-		   (Perriquet, éditeur, 1848)]. Au reste, il n'y a rien d'absolument merveilleux, ni qui n'eût pu arriver sous un autre évêque, 
-		   si dès lors on eût affaibli le soutien de ces tours.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GUILLAUME DE SEIGNELAY (LVIIIï¿½ ï¿½vï¿½que d'Auxerre de mi fï¿½vrier 1206 {quoiqu'en France 
+		   on ne comptï¿½t encore alors que 1206, parce que l'annï¿½e n'y commenï¿½ait qu'ï¿½ Pï¿½ques, on comptait ï¿½ Rome 1207 depuis le premier jour de janvier} 
+		   ï¿½ 1220 {mort le 23 novembre 1223}) voyant que de tous cï¿½tï¿½s on rebï¿½tissait les ï¿½glises cathï¿½drales, mï¿½nagea une somme d'argent pour rebï¿½tir la sienne 
+		   qui menaï¿½ait ruine en quelques endroits dans le nouveau goï¿½t (gothique). Il fit commencer ï¿½ dï¿½truire l'ancienne du cï¿½tï¿½ de l'orient, 
+		   l'an 1215. On n'eut pas besoin de jeter de nouveaux fondements ; ceux qui avaient ï¿½tï¿½ assis sur le roc, sous l'ï¿½piscopat d'Hugues de Chalon, 
+		   environ deux cents ans auparavant, furent trouvï¿½s solide et excellents ; mais comme on jugea que l'espace de l'ï¿½glise souterraine, qui 
+		   se trouvait toute faite, pouvait servir ï¿½ rï¿½gler la largeur de celle qu'on allait ï¿½lever au-dessus, on ne crut pas devoir prendre d'autres 
+		   dimensions, et on se contenta de l'ï¿½lever beaucoup plus que n'avait ï¿½tï¿½ la prï¿½cï¿½dente. C'est ce qui a ï¿½tï¿½ cause que l'ï¿½difice 
+		   parut un peu ï¿½troit, quant aux bas-cï¿½tï¿½s, lorsqu'il fut achevï¿½. Toute l'ï¿½glise infï¿½rieure ayant donc ï¿½tï¿½ conservï¿½e en son 
+		   entier, quant aux piliers du dedans et aux cintres de la voï¿½te, on vit avancer considï¿½rablement dans l'espace d'un an l'ouvrage de la nouvelle. 
+		   L'ï¿½vï¿½que y employa, pour cette premiï¿½re annï¿½e, sept cents livres. Les annï¿½es suivantes il donna souvent, par chaque semaine, 
+		   dix livres ou au moins cent sous... Moyennant les aumones et les offrandes des peuples, avec tout ce que purent produire les quï¿½tes 
+		   faites dans son diocï¿½se et dans les diocï¿½ses voisins, l'ouvrage continua d'avancer dans un goï¿½t qui fut trouvï¿½ d'une grande dï¿½licatesse. 
+		   Quelques ï¿½vï¿½nements parurent tenir du miracle dans le temps de la dï¿½molition de l'ancien choeur. La tour mï¿½ridionale, manquant de son 
+		   appui ordinaire, tomba sur celle qui ï¿½tait vers le septentrion, sans que personne fï¿½t ï¿½crasï¿½, par les prï¿½cautions qu'on avait prises, 
+		   et une demi-heure aprï¿½s cette derniï¿½re tomba d'elle-mï¿½me sans autre accident. Pour preuve de miracle, aucune des cloches qui 
+		   ï¿½taient dans ces deux tours ne fut cassï¿½e, les deux jubï¿½s, qui ï¿½taient adossï¿½s ï¿½ l'un des piliers angulaires de ces tours, ni les 
+		   autels qui ï¿½taient sous chacun, ni la croix placï¿½e sur le jubï¿½ septentrional, ne furent presque pas endommagï¿½s, non plus que 
+		   les chï¿½sses qui ï¿½taient sous l'autel de l'un de ces jubï¿½s. Plus d'un mois aprï¿½s on retrouva sous les ruines, au milieu du choeur 
+		   le volume qui contenait la rï¿½gle d'Aix-la-Chapelle et le martyrologe, avec quelques livres graduels sains et entiers, quoique le 
+		   coffre qui les renfermait eï¿½t ï¿½tï¿½ brisï¿½ en piï¿½ces. Cette chute arriva, l'an 1217, le dimanche de devant le commencement des offices 
+		   de l'Avent, sur l'heure de midi [Le rï¿½cit de cet ï¿½vï¿½nement prï¿½sente des dï¿½tails intï¿½ressants. On y voit la situation des deux 
+		   tours de l'ancienne ï¿½glise ; elles ï¿½taient placï¿½es aux deux cï¿½tï¿½s du choeur et assez rapprochï¿½es, puisqu'elles ï¿½taient alors 
+		   ï¿½tayï¿½es l'une contre l'autre. Leur chute avait ï¿½tï¿½ annoncï¿½e par des signes prï¿½curseurs. Les chanoines, cï¿½lï¿½brant l'office au-dessous, 
+		   effrayï¿½s du danger appelï¿½rent le <I>maï¿½tre des oeuvres</I>. Celui-ci, dont le nom a ï¿½tï¿½ malheureusement omis, garantit la soliditï¿½ 
+		   des tours et reprit mï¿½me un de ses ouvriers qui prï¿½disait leur chute prochaine. Cependant, pressï¿½ de nouveau, il finit par dï¿½clarer 
+		   qu'il ne rï¿½pondait de rien ; aussitï¿½t le Chapitre quitta la cathï¿½drale et se retira dans l'ï¿½glise Notre-Dame-de-la-Citï¿½ qui ï¿½tait voisine 
+		   (Perriquet, ï¿½diteur, 1848)]. Au reste, il n'y a rien d'absolument merveilleux, ni qui n'eï¿½t pu arriver sous un autre ï¿½vï¿½que, 
+		   si dï¿½s lors on eï¿½t affaibli le soutien de ces tours.
 		   <br>
-		   Le prélat fit d'autres dons à l'église de Saint-Etienne.
+		   Le prï¿½lat fit d'autres dons ï¿½ l'ï¿½glise de Saint-Etienne.
 		   <br>
-		   Et ces travaux durèrent jusqu'au milieu du XIVème siècle. 
+		   Et ces travaux durï¿½rent jusqu'au milieu du XIVï¿½me siï¿½cle. 
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D'AYMERIC GUENAUD (LXXè évêque d'Auxerre du samedi des Quatre-Temps de l'Avent de l'an 1331 
-		   au 15 février 1338)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D'AYMERIC GUENAUD (LXXï¿½ ï¿½vï¿½que d'Auxerre du samedi des Quatre-Temps de l'Avent de l'an 1331 
+		   au 15 fï¿½vrier 1338)
 		   <br>
-		   ... Le commencement de son épiscopat ne fournit aucun acte important, il n'y paraît de remarquable que la consécration du grand autel de la 
-		   cathédrale, en 1334 ; encore ne l'apprend-on que par l'apostille d'un catalogue manuscrit des évêques d'Auxerre. Il consacra aussi, en 1338, 
-		   l'autel appelé <I>de la Comtesse</I>, au fond du sanctuaire. D'où il resulterait que, jusqu'à son temps, la chaire de pierre, placée 
-		   depuis au côté droit du sanctuaire, aurait été dans ce fond conformément à la bonne antiquité, et qu'on la déplaça alors pour construire 
-		   ce nouvel autel ; mais on est sûr, d'ailleurs, qu'il existait au XIIIè siècle un autel de <I>la Comtesse</I>. On a aussi lieu d'inférer 
-		   que vers le temps de son arrivée, il fit la dédicace de l'église ; au moins cette dédicace ne paraît marquée dans les calendriers du diocèse, 
-		   que depuis son épiscopat, sous lequel l'année 1335 est la seule où le neuvième juillet ait tombé un dimanche. Mais comme on dédiait les 
-		   églises les jours de férie aussi bien que les dimanches, rien n'empêche absolument de croire que l'église entière n'ait été dédiée, en 1334, 
-		   un samedi neuvième juillet [Malgré le silence des chroniqueurs sur les grands travaux de la construction de la cathédrale, après sa fondation 
-		   par Guillaume de Seignelay, l'oeuvre n'en avait pas moins avancé pendant les temps pacifiques du XIIIè siècle et du commencement du XIVè, 
-		   grâce aux sacrifices des évêques et du Chapitre, et aux aumônes abondantes des peuples. On avait élevé successivement le choeur tout entier, ce 
-		   chef d'oeuvre de l'art ogival, les parties basses du grand portail et surtout la porte de droite avec les piliers de l'entrée de la grande nef, 
-		   les transsepts intérieurs et probablement le portail sud, et enfin le soubassement des murs d'enceinte d'une grande partie des nefs 
-		   collatérales. Les traces de la cérémonie de dédicace se voient encore sur les deux piliers d'entrée de la nef et sur les quatre piliers des 
-		   transsepts. (Perriquet, éditeur, 1848)].
+		   ... Le commencement de son ï¿½piscopat ne fournit aucun acte important, il n'y paraï¿½t de remarquable que la consï¿½cration du grand autel de la 
+		   cathï¿½drale, en 1334 ; encore ne l'apprend-on que par l'apostille d'un catalogue manuscrit des ï¿½vï¿½ques d'Auxerre. Il consacra aussi, en 1338, 
+		   l'autel appelï¿½ <I>de la Comtesse</I>, au fond du sanctuaire. D'oï¿½ il resulterait que, jusqu'ï¿½ son temps, la chaire de pierre, placï¿½e 
+		   depuis au cï¿½tï¿½ droit du sanctuaire, aurait ï¿½tï¿½ dans ce fond conformï¿½ment ï¿½ la bonne antiquitï¿½, et qu'on la dï¿½plaï¿½a alors pour construire 
+		   ce nouvel autel ; mais on est sï¿½r, d'ailleurs, qu'il existait au XIIIï¿½ siï¿½cle un autel de <I>la Comtesse</I>. On a aussi lieu d'infï¿½rer 
+		   que vers le temps de son arrivï¿½e, il fit la dï¿½dicace de l'ï¿½glise ; au moins cette dï¿½dicace ne paraï¿½t marquï¿½e dans les calendriers du diocï¿½se, 
+		   que depuis son ï¿½piscopat, sous lequel l'annï¿½e 1335 est la seule oï¿½ le neuviï¿½me juillet ait tombï¿½ un dimanche. Mais comme on dï¿½diait les 
+		   ï¿½glises les jours de fï¿½rie aussi bien que les dimanches, rien n'empï¿½che absolument de croire que l'ï¿½glise entiï¿½re n'ait ï¿½tï¿½ dï¿½diï¿½e, en 1334, 
+		   un samedi neuviï¿½me juillet [Malgrï¿½ le silence des chroniqueurs sur les grands travaux de la construction de la cathï¿½drale, aprï¿½s sa fondation 
+		   par Guillaume de Seignelay, l'oeuvre n'en avait pas moins avancï¿½ pendant les temps pacifiques du XIIIï¿½ siï¿½cle et du commencement du XIVï¿½, 
+		   grï¿½ce aux sacrifices des ï¿½vï¿½ques et du Chapitre, et aux aumï¿½nes abondantes des peuples. On avait ï¿½levï¿½ successivement le choeur tout entier, ce 
+		   chef d'oeuvre de l'art ogival, les parties basses du grand portail et surtout la porte de droite avec les piliers de l'entrï¿½e de la grande nef, 
+		   les transsepts intï¿½rieurs et probablement le portail sud, et enfin le soubassement des murs d'enceinte d'une grande partie des nefs 
+		   collatï¿½rales. Les traces de la cï¿½rï¿½monie de dï¿½dicace se voient encore sur les deux piliers d'entrï¿½e de la nef et sur les quatre piliers des 
+		   transsepts. (Perriquet, ï¿½diteur, 1848)].
 		   <br>
 		   <BR> 
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHILIPPE DES ESSARTS (LXXXVè évêque du 22 février 1410 au 14 octobre 1426)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHILIPPE DES ESSARTS (LXXXVï¿½ ï¿½vï¿½que du 22 fï¿½vrier 1410 au 14 octobre 1426)
 		   <br>
-		   Pendant son épiscopat, l'édifice du portail de l'église cathédrale, du côté de l'évêché, fut commencé en 1415, et ensuite continué par les 
-		   libéralités de Jean de Molins, chantre et chanoine, et celles des fidèles.Quelqes-uns ont cru y apercevoir lescarmoiries de Philippe des Essarts, 
-		   qui sont trois croissants {on voit un écu chargé de trois écussons, mais il est impossible de le déchiffrer aujourd'hui [Perriquet, éditeur]}.
+		   Pendant son ï¿½piscopat, l'ï¿½difice du portail de l'ï¿½glise cathï¿½drale, du cï¿½tï¿½ de l'ï¿½vï¿½chï¿½, fut commencï¿½ en 1415, et ensuite continuï¿½ par les 
+		   libï¿½ralitï¿½s de Jean de Molins, chantre et chanoine, et celles des fidï¿½les.Quelqes-uns ont cru y apercevoir lescarmoiries de Philippe des Essarts, 
+		   qui sont trois croissants {on voit un ï¿½cu chargï¿½ de trois ï¿½cussons, mais il est impossible de le dï¿½chiffrer aujourd'hui [Perriquet, ï¿½diteur]}.
 		   <br>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN BAILLET (LXXXXè évêque du 15 mai 1478 au 10 novembre 1513)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN BAILLET (LXXXXï¿½ ï¿½vï¿½que du 15 mai 1478 au 10 novembre 1513)
 		   <br>
-		   ... il contribua notablement pour achever le portail septentrional de la croisée de l'église, et pour avancer la tour méridionale du grand portail, 
-		   qui est restée imparfaite {les travaux de construction des tours du grand portail avaient commencé en l'an 1500. Le Chapitre s'était imposé du 
-		   sixième de son revenu pour faire avancer l'oeuvre... on lit sur la cage de l'escalier de la tour du nord, à des hauteurs différentes, les dates 
-		   de 1525, 1530 [Perriquet, éditeur].} On voit ses armoiries en l'un et l'autre endroit.
-		   <i>Il fut le premier qui rendit utile à l'église d'Auxerre la nouvelle invention de l'imprimerie ; il fit imprimer le Missel et le Bréviaireà l'usage 
-		   du diocèse.</i>
+		   ... il contribua notablement pour achever le portail septentrional de la croisï¿½e de l'ï¿½glise, et pour avancer la tour mï¿½ridionale du grand portail, 
+		   qui est restï¿½e imparfaite {les travaux de construction des tours du grand portail avaient commencï¿½ en l'an 1500. Le Chapitre s'ï¿½tait imposï¿½ du 
+		   sixiï¿½me de son revenu pour faire avancer l'oeuvre... on lit sur la cage de l'escalier de la tour du nord, ï¿½ des hauteurs diffï¿½rentes, les dates 
+		   de 1525, 1530 [Perriquet, ï¿½diteur].} On voit ses armoiries en l'un et l'autre endroit.
+		   <i>Il fut le premier qui rendit utile ï¿½ l'ï¿½glise d'Auxerre la nouvelle invention de l'imprimerie ; il fit imprimer le Missel et le Brï¿½viaireï¿½ l'usage 
+		   du diocï¿½se.</i>
 		   <br>
 		   <br>
 		   </p>
@@ -323,17 +298,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      <br>
 			  Armoiries de Jean Baillet
 		   </p>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DINTEVILLE, 1er du nom (XCIè évêque du 3 mai 1514 au 29 avril 1530)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DINTEVILLE, 1er du nom (XCIï¿½ ï¿½vï¿½que du 3 mai 1514 au 29 avril 1530)
 		   <br>
-		   ... C'est avec raison qu'on a vanté les ornements que François de Dinteville donna à son église cathédrale. Ils éclataient en or et en pierreries, et 
-		   certainement aucune église de France n'en avait alors de plus beaux [Si ce n'est peut-être la Sainte-Chapelle de Bourges]. Ils furent depuis la proie 
-		   des calvinistes [Les huguenots s'emparèrent du trésor de la cathédrale en 1567...]. Les orgues qu'il fit construire proche la grande porte de 
-		   l'église (mais ceci est une autre histoire contée sur ce site [l'auteur]...
+		   ... C'est avec raison qu'on a vantï¿½ les ornements que Franï¿½ois de Dinteville donna ï¿½ son ï¿½glise cathï¿½drale. Ils ï¿½clataient en or et en pierreries, et 
+		   certainement aucune ï¿½glise de France n'en avait alors de plus beaux [Si ce n'est peut-ï¿½tre la Sainte-Chapelle de Bourges]. Ils furent depuis la proie 
+		   des calvinistes [Les huguenots s'emparï¿½rent du trï¿½sor de la cathï¿½drale en 1567...]. Les orgues qu'il fit construire proche la grande porte de 
+		   l'ï¿½glise (mais ceci est une autre histoire contï¿½e sur ce site [l'auteur]...
 		   <br>
-		   Pour ce qui est du jubé... le goût de la nouvelle structure de ce temps-là ne mérite pas d'être suivi ; outre ce défaut dont on ne pouvait pas 
-		   répondre alors, il pêche essentiellement en ce qu'il traverse tiute la face du choeur {L'abbé Lebeuf apprécie avec le goût d'un vrai archéologue 
-		   la disposition malencontreuse de ce jubé. On ne doit pas être étonné si ses confrères l'ont fait disparaître. - Le bon chanoine,auteur de la vie 
-		   de l'évêque, regardait ce jubé comme le plus beau de France, et ajoutait : "Miro lapidum tabulatû, raro artificio elegantique et..."(N. d. N.)}
+		   Pour ce qui est du jubï¿½... le goï¿½t de la nouvelle structure de ce temps-lï¿½ ne mï¿½rite pas d'ï¿½tre suivi ; outre ce dï¿½faut dont on ne pouvait pas 
+		   rï¿½pondre alors, il pï¿½che essentiellement en ce qu'il traverse tiute la face du choeur {L'abbï¿½ Lebeuf apprï¿½cie avec le goï¿½t d'un vrai archï¿½ologue 
+		   la disposition malencontreuse de ce jubï¿½. On ne doit pas ï¿½tre ï¿½tonnï¿½ si ses confrï¿½res l'ont fait disparaï¿½tre. - Le bon chanoine,auteur de la vie 
+		   de l'ï¿½vï¿½que, regardait ce jubï¿½ comme le plus beau de France, et ajoutait : "Miro lapidum tabulatï¿½, raro artificio elegantique et..."(N. d. N.)}
 		   <br>
 		   <br>
 		   </p>
@@ -342,34 +317,34 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      <br>
 			  Armoiries des Dinteville oncle & neveu
 		   </p>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DINTEVILLE, 2è du nom (XCIIè évêque du 4 mai 1530 au 27 septembre 1554)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DINTEVILLE, 2ï¿½ du nom (XCIIï¿½ ï¿½vï¿½que du 4 mai 1530 au 27 septembre 1554)
 		   <br>
-		   ... Si ce prélat fit décorer les piliers de l'église d'images en relief, comme le Chapitre le lui avait permis en 1543, il en est resté peu de choses, 
-		   peut-être parce que les calvinistes jetèrent à terre  ce qui avait été fait pas ses ordres. Les deux portes collatérales des ailes du choeur étaient 
-		   ornées de figures différentes de celles qu'on y voit aujourd'hui ; à l'une des deux était représentée l'histoire de la visitation de la Sainte-Vierge. 
-		   Ces figures pouvaient venir de lui, aussi bien que celles qui étaient dans la chapelle de Saint-Georges, au-dessous de l'endroit où l'on voit encore 
-		   les armoiries de sa famille... <i>On doit croire qu'il contribua à l'abolissement du jeu de la Pelotte, qui se pratiquait l'après-midi du jour de 
-		   Pâques, dans la nef de la cathédrale</i> [Mercure de France, mai 1726, p. 911 {Le jeu de la pelotte ou de la balle, dégénéré d'un vieil usage grave, 
-		   d'un hommage symbolique rendu au Chapitre par le chanoine nouvellement élu, avait fini par transformer, le jour où il se célébrait, la nef de la 
-		   cathédrale en une sorte de jeu de paume. (N. d. N.)}]
+		   ... Si ce prï¿½lat fit dï¿½corer les piliers de l'ï¿½glise d'images en relief, comme le Chapitre le lui avait permis en 1543, il en est restï¿½ peu de choses, 
+		   peut-ï¿½tre parce que les calvinistes jetï¿½rent ï¿½ terre  ce qui avait ï¿½tï¿½ fait pas ses ordres. Les deux portes collatï¿½rales des ailes du choeur ï¿½taient 
+		   ornï¿½es de figures diffï¿½rentes de celles qu'on y voit aujourd'hui ; ï¿½ l'une des deux ï¿½tait reprï¿½sentï¿½e l'histoire de la visitation de la Sainte-Vierge. 
+		   Ces figures pouvaient venir de lui, aussi bien que celles qui ï¿½taient dans la chapelle de Saint-Georges, au-dessous de l'endroit oï¿½ l'on voit encore 
+		   les armoiries de sa famille... <i>On doit croire qu'il contribua ï¿½ l'abolissement du jeu de la Pelotte, qui se pratiquait l'aprï¿½s-midi du jour de 
+		   Pï¿½ques, dans la nef de la cathï¿½drale</i> [Mercure de France, mai 1726, p. 911 {Le jeu de la pelotte ou de la balle, dï¿½gï¿½nï¿½rï¿½ d'un vieil usage grave, 
+		   d'un hommage symbolique rendu au Chapitre par le chanoine nouvellement ï¿½lu, avait fini par transformer, le jour oï¿½ il se cï¿½lï¿½brait, la nef de la 
+		   cathï¿½drale en une sorte de jeu de paume. (N. d. N.)}]
 		   <br>
-		   Son portrait est tiré dans des tableaux d'églises, dont la lapidation de saint Etienne, conservé sur l'autel de la chapelle de Saint-Alexandre 
-		   au fond de l'église cathédrale (<i>époque Lebeuf</i>, à côté de la sacristie, dans le déambulatoire, <i>époque actuelle</i>)
+		   Son portrait est tirï¿½ dans des tableaux d'ï¿½glises, dont la lapidation de saint Etienne, conservï¿½ sur l'autel de la chapelle de Saint-Alexandre 
+		   au fond de l'ï¿½glise cathï¿½drale (<i>ï¿½poque Lebeuf</i>, ï¿½ cï¿½tï¿½ de la sacristie, dans le dï¿½ambulatoire, <i>ï¿½poque actuelle</i>)
 		   <br>
-		   - C'est sous l'épiscopat des évêques du nom de Dinteville que furent reconstruites un grand nombre d'églises des paroisses du diocèse. Les grands 
-		   travaux de la cathédrale avaient amené dans la pays des <i>maîtres-des-oeuvres</i>, des sculpteurs, des maçons, qui répandirent leurs 
-		   oeuvres de tous côtés. On remarque surtout au sud-ouest d'Auxerre une suite d'églises  qui semblent coulées dans le même moule, à la richesse près. 
-		   C'est le style ogival flamboyant complet. Les dais, les clochetons, les feuillages contournés, les moulures prismatiques annoncent la première moitié 
-		   du XVIè siècle, en même temps que la décadence et la fin de ce style d'architecture qui devait fleurir avec le moyen-âge et mourir avec...
+		   - C'est sous l'ï¿½piscopat des ï¿½vï¿½ques du nom de Dinteville que furent reconstruites un grand nombre d'ï¿½glises des paroisses du diocï¿½se. Les grands 
+		   travaux de la cathï¿½drale avaient amenï¿½ dans la pays des <i>maï¿½tres-des-oeuvres</i>, des sculpteurs, des maï¿½ons, qui rï¿½pandirent leurs 
+		   oeuvres de tous cï¿½tï¿½s. On remarque surtout au sud-ouest d'Auxerre une suite d'ï¿½glises  qui semblent coulï¿½es dans le mï¿½me moule, ï¿½ la richesse prï¿½s. 
+		   C'est le style ogival flamboyant complet. Les dais, les clochetons, les feuillages contournï¿½s, les moulures prismatiques annoncent la premiï¿½re moitiï¿½ 
+		   du XVIï¿½ siï¿½cle, en mï¿½me temps que la dï¿½cadence et la fin de ce style d'architecture qui devait fleurir avec le moyen-ï¿½ge et mourir avec...
 		   <br>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROBERT DE LENONCOURT (XCIIIè évêque du 4 mars 1556 au 29 mars 1558, auquel on comptait à Rome 1559)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROBERT DE LENONCOURT (XCIIIï¿½ ï¿½vï¿½que du 4 mars 1556 au 29 mars 1558, auquel on comptait ï¿½ Rome 1559)
 		   <br>
-		   Le Chapitre lui députa à Régennes, le onzième jour d'août {1557}, trois dignités pour le remercier de lui avoir procuré la permission d'une 
-		   coupe de deux cents arpents de bois dans la forêt de Merry [Cette coupe servit aux travaux de la tour de la cathédrale {Le Chapitre publia en 1556 
-		   une pancarte contenant l'énumération de toutes les indulgences accordées par les papes et par les évêques d'Auxerre, pour l'achèvement de la 
-		   cathédrale. Il la fit suivre de l'approbation de Mgr de Lenoncourt ; c'était le moyen usité alors pour la construction de ces vastes et admirables 
-		   basiliques. (Perriquet, éditeur)}]
+		   Le Chapitre lui dï¿½puta ï¿½ Rï¿½gennes, le onziï¿½me jour d'aoï¿½t {1557}, trois dignitï¿½s pour le remercier de lui avoir procurï¿½ la permission d'une 
+		   coupe de deux cents arpents de bois dans la forï¿½t de Merry [Cette coupe servit aux travaux de la tour de la cathï¿½drale {Le Chapitre publia en 1556 
+		   une pancarte contenant l'ï¿½numï¿½ration de toutes les indulgences accordï¿½es par les papes et par les ï¿½vï¿½ques d'Auxerre, pour l'achï¿½vement de la 
+		   cathï¿½drale. Il la fit suivre de l'approbation de Mgr de Lenoncourt ; c'ï¿½tait le moyen usitï¿½ alors pour la construction de ces vastes et admirables 
+		   basiliques. (Perriquet, ï¿½diteur)}]
 		   <br>
 		   <br>
 		   </p>
@@ -378,16 +353,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      <br>
 			  Armoiries des Lenoncourt
 		   </p>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHILIPPE DE LENONCOURT (XCIVè évêque du 22 octobre 1558 à l'automne 1562)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHILIPPE DE LENONCOURT (XCIVï¿½ ï¿½vï¿½que du 22 octobre 1558 ï¿½ l'automne 1562)
 		   <br>
-		   ... (Réception de l'évêque) Le Chapitre en chapes reçut le pontife à la grande porte de l'église qui était fermée, et le doyen l'ayant harangué, 
-		   lui fit prêter le serment accoutumé ; après quoi le délégué de l'archidiacre le fit entrer, disant <i>Ingredere igitur benedicte Dei</i>, et on chanta 
-		   le <i>Veni Creator</i>. Etant arrivé au choeur, il lui présenta une des cordes du petit clocher, avec une formule aussi nouvelle que la présentation 
-		   de cette corde [Selon les anciens procès-verbaux, c'était une corde de sonnette que l'évêque tirait à la grande porte de l'église pour la faire 
-		   ouvrir. Il faut observer ici que les cordes du petit clocher de la cathédrale d'Auxerre aboutissent à l'aigle du choeur, comme dans la cathédrale de Chartres].
+		   ... (Rï¿½ception de l'ï¿½vï¿½que) Le Chapitre en chapes reï¿½ut le pontife ï¿½ la grande porte de l'ï¿½glise qui ï¿½tait fermï¿½e, et le doyen l'ayant haranguï¿½, 
+		   lui fit prï¿½ter le serment accoutumï¿½ ; aprï¿½s quoi le dï¿½lï¿½guï¿½ de l'archidiacre le fit entrer, disant <i>Ingredere igitur benedicte Dei</i>, et on chanta 
+		   le <i>Veni Creator</i>. Etant arrivï¿½ au choeur, il lui prï¿½senta une des cordes du petit clocher, avec une formule aussi nouvelle que la prï¿½sentation 
+		   de cette corde [Selon les anciens procï¿½s-verbaux, c'ï¿½tait une corde de sonnette que l'ï¿½vï¿½que tirait ï¿½ la grande porte de l'ï¿½glise pour la faire 
+		   ouvrir. Il faut observer ici que les cordes du petit clocher de la cathï¿½drale d'Auxerre aboutissent ï¿½ l'aigle du choeur, comme dans la cathï¿½drale de Chartres].
 		   <br>
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JACQUES AMYOT (XCVIè évêque de mars 1571 au 6 février 1593)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JACQUES AMYOT (XCVIï¿½ ï¿½vï¿½que de mars 1571 au 6 fï¿½vrier 1593)
 		   <br>
 		   <br>
 		   </p>
@@ -396,30 +371,30 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      <br>
 			  Armoiries de Jacques Amyot
 		   </p>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DONADIEU (XCVIIè évêque du 18 avril 1599 à 1625)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DONADIEU (XCVIIï¿½ ï¿½vï¿½que du 18 avril 1599 ï¿½ 1625)
 		   <br>
-		   ... En 1606, il paya la fonte de la seconde cloche de la tour, et huit ans après, celle de la grosse cloche.
+		   ... En 1606, il paya la fonte de la seconde cloche de la tour, et huit ans aprï¿½s, celle de la grosse cloche.
 		   <br>
-		   [Voici l'inscription de la plus grosse de ces deux cloches, qui est rapportée dans un registre capitulaire de 1786. 
+		   [Voici l'inscription de la plus grosse de ces deux cloches, qui est rapportï¿½e dans un registre capitulaire de 1786. 
 		   <br>
 		   <font face="Georgia, Times New Roman, Times, serif">Haec me sacra domus fecit, praesulque refecit,
 		   <br>Numen et ambo meo perferam astra sono.
 		   <br>Franciscus de Donadieu episc. Autiss. hoc tympanum
 		   <br>Pondo X. M., impensis capituli primo constatum, confractum
 		   <br>Suis expensis dono refici curavit. an 1614.</font>
-		   <br>La seconde, dont le poids n'est pas connu, portait les armes de M. de Donadieu et la date de 1606.](Perriquet, éditeur)
+		   <br>La seconde, dont le poids n'est pas connu, portait les armes de M. de Donadieu et la date de 1606.](Perriquet, ï¿½diteur)
 		   <br>
 		   <br>
 		   </p>
 		   <p align="center">
 		      <img src="Armoiries Eveques Auxerre I/Donadieu1.jpg" alt="Armoiries de Donadieu">
 		      <br>
-			  Armoiries de François de Donadieu
+			  Armoiries de Franï¿½ois de Donadieu
 		   </p>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PIERRE DE BROC {connu sous le nom d'abbé de Saint-Mars}(Cè évêque de janvier 1639 au 7 juillet 1671)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PIERRE DE BROC {connu sous le nom d'abbï¿½ de Saint-Mars}(Cï¿½ ï¿½vï¿½que de janvier 1639 au 7 juillet 1671)
 		   <br>
-		   ... Il donna aussi alors une bonne partie de ce qui fut nécessaire pour refaire à neuf le pavé du choeur, dont les tombes épiscopales avaient été défigurées 
-		   et brisées dans les guerres de la religion.
+		   ... Il donna aussi alors une bonne partie de ce qui fut nï¿½cessaire pour refaire ï¿½ neuf le pavï¿½ du choeur, dont les tombes ï¿½piscopales avaient ï¿½tï¿½ dï¿½figurï¿½es 
+		   et brisï¿½es dans les guerres de la religion.
 		   <br>
 		   <br>
 		   </p>
@@ -428,7 +403,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      <br>
 			  Armoiries de Pierre de Broc
 		   </p>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NICOLAS COLBERT (CIè évêque du 27 janvier 1671 au 5 septembre 1676)
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NICOLAS COLBERT (CIï¿½ ï¿½vï¿½que du 27 janvier 1671 au 5 septembre 1676)
 		   <br>
 		   
 		   
@@ -442,101 +417,101 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <br>
 		   <br>
 		   <p align = "justify">
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN-BAPTISTE-MARIE CHAMPION de CICE (Evêque du 14 des calendes de mars 1760 au 16 novembre 1805 
-		   "dans l'émigration", à Halbertadt, en Prusse, dans le couvent des Franciscains où il fut enterré).
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN-BAPTISTE-MARIE CHAMPION de CICE (Evï¿½que du 14 des calendes de mars 1760 au 16 novembre 1805 
+		   "dans l'ï¿½migration", ï¿½ Halbertadt, en Prusse, dans le couvent des Franciscains oï¿½ il fut enterrï¿½).
 		   <br>
-		   Pendant les premières années de l'épiscopat de M. de Cicé, le Chapitre cathédral occupa l'activité de ses principaux membres à des choses plus utiles et plus 
-		   durables que les misérables querelles qui l'agitaient sous M. de Condorcet...
+		   Pendant les premiï¿½res annï¿½es de l'ï¿½piscopat de M. de Cicï¿½, le Chapitre cathï¿½dral occupa l'activitï¿½ de ses principaux membres ï¿½ des choses plus utiles et plus 
+		   durables que les misï¿½rables querelles qui l'agitaient sous M. de Condorcet...
 		   <br>
-		   Dès 1744, frappé des difformités considérables que les constructions parasites causaient dans son église, le Chapitre avait fait abattre le grand jubé qui 
-		   coupait la vue du choeur, et l'avait remplacé par deux petits ambons placés de chaque côté des piliers d'angle. Le projet de décorer le sanctuaire de la 
-		   cathédrale dans le goût moderne, était depuis longtemps dans l'esprit des chanoines. M. de Cicé, consulté, y avait donné son approbation. Après de mûres 
-		   délibérations, on adopta un plan général de décorations fait par M. Ledoux, architecte. Tout en détruisant plusieurs monuments d'antiquité regrettables 
-		   [On vendit en 1776 les magnifiques tapisseries données par l'évêque Baillet, et que Louis XIV avait admirées. Elles ne servaient plus depuis les nouvelles 
-		   dispositions du choeur. Elles furent achetées par l'Hôtel-Dieu qui les possède encore], et notamment plusieurs tombeaux, nous devons louer le Chapitre de 
-		   la sobriété et de la simplicité qui présida aux travaux exécutés de 1767 à 1772. On éleva alors les belles grilles du choeur et des bas-côtés, le maître-autel 
-		   et l'autel des fériés qui est derrière. Les anges qui portent les candélabres du maître-autel furent l'objet de longs et vifs débats...
+		   Dï¿½s 1744, frappï¿½ des difformitï¿½s considï¿½rables que les constructions parasites causaient dans son ï¿½glise, le Chapitre avait fait abattre le grand jubï¿½ qui 
+		   coupait la vue du choeur, et l'avait remplacï¿½ par deux petits ambons placï¿½s de chaque cï¿½tï¿½ des piliers d'angle. Le projet de dï¿½corer le sanctuaire de la 
+		   cathï¿½drale dans le goï¿½t moderne, ï¿½tait depuis longtemps dans l'esprit des chanoines. M. de Cicï¿½, consultï¿½, y avait donnï¿½ son approbation. Aprï¿½s de mï¿½res 
+		   dï¿½libï¿½rations, on adopta un plan gï¿½nï¿½ral de dï¿½corations fait par M. Ledoux, architecte. Tout en dï¿½truisant plusieurs monuments d'antiquitï¿½ regrettables 
+		   [On vendit en 1776 les magnifiques tapisseries donnï¿½es par l'ï¿½vï¿½que Baillet, et que Louis XIV avait admirï¿½es. Elles ne servaient plus depuis les nouvelles 
+		   dispositions du choeur. Elles furent achetï¿½es par l'Hï¿½tel-Dieu qui les possï¿½de encore], et notamment plusieurs tombeaux, nous devons louer le Chapitre de 
+		   la sobriï¿½tï¿½ et de la simplicitï¿½ qui prï¿½sida aux travaux exï¿½cutï¿½s de 1767 ï¿½ 1772. On ï¿½leva alors les belles grilles du choeur et des bas-cï¿½tï¿½s, le maï¿½tre-autel 
+		   et l'autel des fï¿½riï¿½s qui est derriï¿½re. Les anges qui portent les candï¿½labres du maï¿½tre-autel furent l'objet de longs et vifs dï¿½bats...
 		   <br>
-		   Les chapelles des transepts furent également restaurées...
+		   Les chapelles des transepts furent ï¿½galement restaurï¿½es...
 		   <br>
-		   Le Chapitre avait fait démolir aussi, en 1768, l'énorme statue de St Christophe qui s'élevait à l'entrée de la nef {voir par ailleurs}.
+		   Le Chapitre avait fait dï¿½molir aussi, en 1768, l'ï¿½norme statue de St Christophe qui s'ï¿½levait ï¿½ l'entrï¿½e de la nef {voir par ailleurs}.
 		   <br>
-		   Tandis que le Chapitre faisait ainsi travailler dans sa cathédrale, l'église de Saint-Germain tombait en ruines !
+		   Tandis que le Chapitre faisait ainsi travailler dans sa cathï¿½drale, l'ï¿½glise de Saint-Germain tombait en ruines !
  		   <br>
 		   <br>
 		   </p>
 		   <p align="center">
-		      <img src="Armoiries Eveques Auxerre I/Cicé1.jpg" alt="Armoiries de Champion de Cicé">
+		      <img src="Armoiries Eveques Auxerre I/Cicï¿½1.jpg" alt="Armoiries de Champion de Cicï¿½">
 		      <br>
-			  Armoiries de Champion de Cicé
+			  Armoiries de Champion de Cicï¿½
 		   </p>
 		   <p align = "justify"> 
-		   Voici à peu près l'ordre de construction de l'édifice :
+		   Voici ï¿½ peu prï¿½s l'ordre de construction de l'ï¿½difice :
 		   <br>
-		   &#151;  le ch&#156;ur fut achevé à la fin du XIIIème siècle ; on jeta à cette époque les bases de la tour sud.
+		   &#151;  le ch&#156;ur fut achevï¿½ ï¿½ la fin du XIIIï¿½me siï¿½cle ; on jeta ï¿½ cette ï¿½poque les bases de la tour sud.
 		   <br>
-		   Le croisillon méridional du transept ainsi que la nef, sans les voûtes sont l'&#156;uvre du XIVème siècle ;
+		   Le croisillon mï¿½ridional du transept ainsi que la nef, sans les voï¿½tes sont l'&#156;uvre du XIVï¿½me siï¿½cle ;
 		   <br>
-		   &#151; les bas-côtés ont été achevés vers 1350 ;
+		   &#151; les bas-cï¿½tï¿½s ont ï¿½tï¿½ achevï¿½s vers 1350 ;
 		   <br>
-		   &#151; le croisillon septentrional du transept, la façade et les voûtes de la nef au-dessus du portail sont du XVème siècle ;
+		   &#151; le croisillon septentrional du transept, la faï¿½ade et les voï¿½tes de la nef au-dessus du portail sont du XVï¿½me siï¿½cle ;
 		   <br>
-		   &#151; la tour nord ne vit son achèvement qu'en 1547 ;
+		   &#151; la tour nord ne vit son achï¿½vement qu'en 1547 ;
 		   <br>
-		   &#151; la tour sud ne fut jamais achevée, faute de ressources ;
+		   &#151; la tour sud ne fut jamais achevï¿½e, faute de ressources ;
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'entrée des protestants dans la ville 
-		   (27 septembre 1567) vint tout arrêter. Les protestants multiplièrent les dépradations dans la cathédrale 
-		   à peine achevée.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'entrï¿½e des protestants dans la ville 
+		   (27 septembre 1567) vint tout arrï¿½ter. Les protestants multipliï¿½rent les dï¿½pradations dans la cathï¿½drale 
+		   ï¿½ peine achevï¿½e.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'épiscopat d'AMYOT se passe à relever les 
-		   ruines, et le XVIIème siècle porta ailleurs ses préoccupations.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'ï¿½piscopat d'AMYOT se passe ï¿½ relever les 
+		   ruines, et le XVIIï¿½me siï¿½cle porta ailleurs ses prï¿½occupations.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hélas, la révolution allait marquer 
-		   douloureusement son passage dans la cathédrale. En 1794, la cathédrale devient le Temple de la Raison. On
-		   y célébrera des cérémonies sacrilèges. La tombe de Jacques AMYOT fut profanée. Les vitraux du XIIIème siècle
-		   et le bas relief de St ETIENNE mourant échappèrent de justesse à la destruction.
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hï¿½las, la rï¿½volution allait marquer 
+		   douloureusement son passage dans la cathï¿½drale. En 1794, la cathï¿½drale devient le Temple de la Raison. On
+		   y cï¿½lï¿½brera des cï¿½rï¿½monies sacrilï¿½ges. La tombe de Jacques AMYOT fut profanï¿½e. Les vitraux du XIIIï¿½me siï¿½cle
+		   et le bas relief de St ETIENNE mourant ï¿½chappï¿½rent de justesse ï¿½ la destruction.
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1795, les catholiques reprirent leur église. 
-		   Mais l'accalmie n'était que de surface et, en 1797, la persécution reprit plus violente que jamais. La
-		   cathédrale devint le Temple de la Fraternité (Fructidor, an VI).
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1795, les catholiques reprirent leur ï¿½glise. 
+		   Mais l'accalmie n'ï¿½tait que de surface et, en 1797, la persï¿½cution reprit plus violente que jamais. La
+		   cathï¿½drale devint le Temple de la Fraternitï¿½ (Fructidor, an VI).
 		   <br>
-		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Au XIVème siècle, la cathédrale subit diverses 
-		   transformations. On fit disparaître les peintures du siècle précédent. VIOLLET-LE-DUC restaura le déambulatoire 
-		   et la crypte. En 1927, les vitraux furent restaurés et remis autant que possible dans leur ordre chronologique. 
-		   Ils ont été mis à l'abrit au cours de la dernière guerre. Leur pose a été considérablement ralentie le
-		   4 août 1947 par une grêle très violente qui a endommagé ceux qui étaient déjà remis en place. A la réfection
-		   de ces dégâts les verriers ont travaillé plus d'une année (1948).
+		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Au XIVï¿½me siï¿½cle, la cathï¿½drale subit diverses 
+		   transformations. On fit disparaï¿½tre les peintures du siï¿½cle prï¿½cï¿½dent. VIOLLET-LE-DUC restaura le dï¿½ambulatoire 
+		   et la crypte. En 1927, les vitraux furent restaurï¿½s et remis autant que possible dans leur ordre chronologique. 
+		   Ils ont ï¿½tï¿½ mis ï¿½ l'abrit au cours de la derniï¿½re guerre. Leur pose a ï¿½tï¿½ considï¿½rablement ralentie le
+		   4 aoï¿½t 1947 par une grï¿½le trï¿½s violente qui a endommagï¿½ ceux qui ï¿½taient dï¿½jï¿½ remis en place. A la rï¿½fection
+		   de ces dï¿½gï¿½ts les verriers ont travaillï¿½ plus d'une annï¿½e (1948).
 		   <br>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le propos de ce site n'est pas l'histoire de la 
-		   cathédrale et il a fallu la limiter à l'essentiel. L'édifice est important et des ouvrages fort complets ont 
-		   été publiés. La cathédrale d'Auxerre est à la fois le monument le plus vénérable et le plus remarquable de
-		   l'Auxerrois ; son histoire est l'Histoire même de l'Art Français, dont les différents styles, du XIème au
-		   XVIème siècle, se superposent sans se heurter.
+		   cathï¿½drale et il a fallu la limiter ï¿½ l'essentiel. L'ï¿½difice est important et des ouvrages fort complets ont 
+		   ï¿½tï¿½ publiï¿½s. La cathï¿½drale d'Auxerre est ï¿½ la fois le monument le plus vï¿½nï¿½rable et le plus remarquable de
+		   l'Auxerrois ; son histoire est l'Histoire mï¿½me de l'Art Franï¿½ais, dont les diffï¿½rents styles, du XIï¿½me au
+		   XVIï¿½me siï¿½cle, se superposent sans se heurter.
 		   <br>
 		   <br>
 		   <br>
 	    </p>
 		<p align="center">
-		   Les voûtes ont une hauteur de 34,65 m au transept,
+		   Les voï¿½tes ont une hauteur de 34,65 m au transept,
 		   <br>
-		   33m au choeur et à la grande nef dont la largeur
+		   33m au choeur et ï¿½ la grande nef dont la largeur
 		   <br>
-		   est de 13 m ; les bas-côtés ont 6 m chacun, ce qui
+		   est de 13 m ; les bas-cï¿½tï¿½s ont 6 m chacun, ce qui
 		   <br>
-		   fait 25 m pour la largeur totale de l'église sans
+		   fait 25 m pour la largeur totale de l'ï¿½glise sans
 		   <br>
-		   compter les chapelles. La longueur de la cathé-
+		   compter les chapelles. La longueur de la cathï¿½-
 		   <br>
-		   drale à l'intérieur est de 100 m.
+		   drale ï¿½ l'intï¿½rieur est de 100 m.
 		   <br>
 		   <br>
 		   <br>
-		   La presque totalité des faits historiques ci-dessus est tirée de l'Abbé LEBEUF dans ses 
+		   La presque totalitï¿½ des faits historiques ci-dessus est tirï¿½e de l'Abbï¿½ LEBEUF dans ses 
 		   <br>
-		   MEMOIRES concernant l'Histoire civile et ecclésiastique d'AUXERRE	 et de son ANCIEN DIOCESE
+		   MEMOIRES concernant l'Histoire civile et ecclï¿½siastique d'AUXERRE	 et de son ANCIEN DIOCESE
 		   <br>
-		   dans une réimpression de l'édition d'Auxerre-Paris -1848-1855-, de 1978.
+		   dans une rï¿½impression de l'ï¿½dition d'Auxerre-Paris -1848-1855-, de 1978.
 		</p>   
 	  </TD>
       <td width="10%">

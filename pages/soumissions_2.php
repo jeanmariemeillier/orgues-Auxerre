@@ -3,8 +3,7 @@
 <head>
 <title>De 1900 aux soumissions de l'orgue actuel I</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<SCRIPT language = JavaScript>
-<!--
+<!-- <SCRIPT language = JavaScript>
 function dblclick()
    {
       window.scrollTo(0,0)
@@ -19,7 +18,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</SCRIPT>
+<!-- </SCRIPT> -->
 </head>
 
 <body bgcolor="#00AA00" text="#FFFFFF">
@@ -31,10 +30,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD WIDTH="100%">
 		    <CENTER>
                <BR>			
-			   <H2>Troisième partie</H2>
+			   <H2>Troisiï¿½me partie</H2>
 			   <FONT BORDER = "1">
 			   <img src="Vignettes3/Gothique_3.jpg" width="789" height="128">
-			   <H2>Chapitre deuxième</H2>
+			   <H2>Chapitre deuxiï¿½me</H2>
 			   </FONT>
 			</CENTER>
 		</TD>
@@ -119,11 +118,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="60%">
 		    <P ALIGN="center">
 			<FONT size=5 color=#FFFFFF>
-			   <I>Séance du</I>
+			   <I>Sï¿½ance du</I>
 			</FONT>
 			<FONT size=4 color=#FFFFFF>
 			   <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &nbsp;&nbsp;Août&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+			   &nbsp;&nbsp;Aoï¿½t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
 			</FONT>
 			<FONT size=5 color=#FFFFFF>
 			   <I>190</I>
@@ -157,34 +156,34 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="60%">
 		    <p align="justify">
 			<FONT size=5 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<TT>L'an mil neuf cent neuf, le vendredi 20 août à 8 heures I/2 du soir, le Conseil 
-			   municipal de la Ville d'Auxerre s'est réuni à l'Hôtel de Ville sous la présidence de M. Surugue, Maire.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<TT>L'an mil neuf cent neuf, le vendredi 20 aoï¿½t ï¿½ 8 heures I/2 du soir, le Conseil 
+			   municipal de la Ville d'Auxerre s'est rï¿½uni ï¿½ l'Hï¿½tel de Ville sous la prï¿½sidence de M. Surugue, Maire.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etaient présents : MM. Bénard, Bertrand, Berthier, Milliaux, Leblond, Ahü, Martin, 
-			   Hérard, Boivin, Guignier, Viellard, Rojot, Cuffaut Louis, Parrot, Creuset, Pescheux, Lacroix, Rousseau, Perreau, 
-			   Sérard, Picarat, Mion, Babin.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etaient prï¿½sents : MM. Bï¿½nard, Bertrand, Berthier, Milliaux, Leblond, Ahï¿½, Martin, 
+			   Hï¿½rard, Boivin, Guignier, Viellard, Rojot, Cuffaut Louis, Parrot, Creuset, Pescheux, Lacroix, Rousseau, Perreau, 
+			   Sï¿½rard, Picarat, Mion, Babin.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Absents et excusés : MM.Ribain,Thévenin,Cuffaut Paul
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Absents et excusï¿½s : MM.Ribain,Thï¿½venin,Cuffaut Paul
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. le Maire communique une lettre du 11 août courant par laquelle M. le Préfet de l'Yonne 
-			   fait connaître que suivant avis émis par la Commission des monuments historiques, M. le Sous-Secrétaire d'Etat des 
-			   Beaux-Arts a donné son approbation à l'exécution du devis concernant les travaux à exécuter <U>au petit orgue</U> du 
-			   choeur de la Cathédrale détérioré par un incendie, devis s'élevant à 423<SUP>fr</SUP>50 et le prie de saisir le Conseil 
-			   municipal de la question en l'invitant à faire connaître le concours financier qu'il est disposé à accorder à l'Etat 
-			   pour l'exécution de cette entreprise ; il ajoute qu'il est informé que le curé de cette église est disposé à affecter à 
-			   cette dépense une somme de 300 francs.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. le Maire communique une lettre du 11 aoï¿½t courant par laquelle M. le Prï¿½fet de l'Yonne 
+			   fait connaï¿½tre que suivant avis ï¿½mis par la Commission des monuments historiques, M. le Sous-Secrï¿½taire d'Etat des 
+			   Beaux-Arts a donnï¿½ son approbation ï¿½ l'exï¿½cution du devis concernant les travaux ï¿½ exï¿½cuter <U>au petit orgue</U> du 
+			   choeur de la Cathï¿½drale dï¿½tï¿½riorï¿½ par un incendie, devis s'ï¿½levant ï¿½ 423<SUP>fr</SUP>50 et le prie de saisir le Conseil 
+			   municipal de la question en l'invitant ï¿½ faire connaï¿½tre le concours financier qu'il est disposï¿½ ï¿½ accorder ï¿½ l'Etat 
+			   pour l'exï¿½cution de cette entreprise ; il ajoute qu'il est informï¿½ que le curï¿½ de cette ï¿½glise est disposï¿½ ï¿½ affecter ï¿½ 
+			   cette dï¿½pense une somme de 300 francs.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. le Maire indique qu'il est exact, en effet, que M. Pinçon, archiprêtre de la 
-			   Cathédrale, s'engage à contribuer pour une somme de 300<SUP>fr</SUP> à la réparation de l'orgue dont il s'agit et que 
-			   cet engagement est confirmé par lettre du 17 août annexée au devis.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. le Maire indique qu'il est exact, en effet, que M. Pinï¿½on, archiprï¿½tre de la 
+			   Cathï¿½drale, s'engage ï¿½ contribuer pour une somme de 300<SUP>fr</SUP> ï¿½ la rï¿½paration de l'orgue dont il s'agit et que 
+			   cet engagement est confirmï¿½ par lettre du 17 aoï¿½t annexï¿½e au devis.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'Assemblée, appelée à délibérer sur la question décide, après échange d'observations, de 
-			   participer pour un tiers dans la dépense de I23<SUP>fr</SUP>50 restant à couvrir et d'imputer la somme de 42<SUP>fr</SUP> 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'Assemblï¿½e, appelï¿½e ï¿½ dï¿½libï¿½rer sur la question dï¿½cide, aprï¿½s ï¿½change d'observations, de 
+			   participer pour un tiers dans la dï¿½pense de I23<SUP>fr</SUP>50 restant ï¿½ couvrir et d'imputer la somme de 42<SUP>fr</SUP> 
 			   sur l'article 2I du budget primitif de I909.
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et délibéré les jour, mois et an que dessus.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et dï¿½libï¿½rï¿½ les jour, mois et an que dessus.
 			   <BR>
 			   </TT>
 			</FONT>
@@ -219,10 +218,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   La signature de Ch. Surugue est précédée du cachet de la Ville d'Auxerre
+			   La signature de Ch. Surugue est prï¿½cï¿½dï¿½e du cachet de la Ville d'Auxerre
                <BR>
                <BR>
-			   Une mention manuscrite est portée dans la marge en travers à 45° : "<I>renvoyer le dossier au S. S. des Beaux Arts 
+			   Une mention manuscrite est portï¿½e dans la marge en travers ï¿½ 45ï¿½ : "<I>renvoyer le dossier au S. S. des Beaux Arts 
 			   en &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l'attribution d'une somme de 81<SUP>f.</SUP>50 
 			   sur les fonds de l'Etat</I>
 			</FONT>
@@ -277,7 +276,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <P ALIGN="center">
 			<FONT size=4 color=#FFFFFF>
-			   Monsieur le Préfet,
+			   Monsieur le Prï¿½fet,
 			   <BR>
                <BR>
             </FONT>
@@ -296,39 +295,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'ai l'honneur de vous accuser réception de votre communication en date du 1 mars 1910.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'ai l'honneur de vous accuser rï¿½ception de votre communication en date du 1 mars 1910.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est vrai que je m'étais engagé à concourir aux travaux de réparation de l'orgue de 
-			   choeur de la Cathédrale pour la somme de 300 francs, mais à la condition expresse que cette réparation aurait lieu le 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est vrai que je m'ï¿½tais engagï¿½ ï¿½ concourir aux travaux de rï¿½paration de l'orgue de 
+			   choeur de la Cathï¿½drale pour la somme de 300 francs, mais ï¿½ la condition expresse que cette rï¿½paration aurait lieu le 
 			   plus promptement possible.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il était urgent en effet qu'elle fut faite très rapidement l'instrument en question nous 
-			   étant nécessaire tous les dimanches et même plusieurs fois par semaine.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il ï¿½tait urgent en effet qu'elle fut faite trï¿½s rapidement l'instrument en question nous 
+			   ï¿½tant nï¿½cessaire tous les dimanches et mï¿½me plusieurs fois par semaine.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette condition n'ayant pas été exécutée et d'autre part craignant par expérience un 
-			   retard encore plus prolongé, puisque nous avons au grand orgue des travaux commencés il y a près de 10 ans et dont 
-			   l'achèvement est encore attendu, j'ai cru pouvoir faire procéder d'après le devis approuvé à ce travail très urgent 
-			   qui n'avait aucun caractère artistique et j'ai payé directement le facteur qui l'a exécuté.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette condition n'ayant pas ï¿½tï¿½ exï¿½cutï¿½e et d'autre part craignant par expï¿½rience un 
+			   retard encore plus prolongï¿½, puisque nous avons au grand orgue des travaux commencï¿½s il y a prï¿½s de 10 ans et dont 
+			   l'achï¿½vement est encore attendu, j'ai cru pouvoir faire procï¿½der d'aprï¿½s le devis approuvï¿½ ï¿½ ce travail trï¿½s urgent 
+			   qui n'avait aucun caractï¿½re artistique et j'ai payï¿½ directement le facteur qui l'a exï¿½cutï¿½.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous prie de transmettre ces explications à M. le Ministre des Beaux-Arts et j'ai 
-			   l'honneur M. le Préfet de vous offrir mes respectueux hommages.
-			   <BR>
-               <BR>
-            </FONT>
-			</P>
-         </TD>
-		 <TD WIDTH="10%">&nbsp;
-		 
-		 </TD>
-      </TR>
-	  <TR>
-         <TD WIDTH="10%">&nbsp;
-		    
-		 </TD>
-		 <TD WIDTH="80%">
-		    <P ALIGN="right">
-			<FONT size=4 color=#FFFFFF>
-			   Signé : Pinçon
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous prie de transmettre ces explications ï¿½ M. le Ministre des Beaux-Arts et j'ai 
+			   l'honneur M. le Prï¿½fet de vous offrir mes respectueux hommages.
 			   <BR>
                <BR>
             </FONT>
@@ -345,7 +327,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <P ALIGN="right">
 			<FONT size=4 color=#FFFFFF>
-			   Archiprêtre de la Cathédrale
+			   Signï¿½ : Pinï¿½on
+			   <BR>
+               <BR>
+            </FONT>
+			</P>
+         </TD>
+		 <TD WIDTH="10%">&nbsp;
+		 
+		 </TD>
+      </TR>
+	  <TR>
+         <TD WIDTH="10%">&nbsp;
+		    
+		 </TD>
+		 <TD WIDTH="80%">
+		    <P ALIGN="right">
+			<FONT size=4 color=#FFFFFF>
+			   Archiprï¿½tre de la Cathï¿½drale
 			   <BR>
 			   Ch. H.
                <BR>
@@ -382,7 +381,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                <BR>
 			   ---===+===---
                <BR>
-			   <I>Sous-Secrétariat d'Etat
+			   <I>Sous-Secrï¿½tariat d'Etat
 			   <BR>
 			   des
 			   <BR>
@@ -396,7 +395,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   Services d'Architecture
 			   <BR>
-			   Liquidation des dépenses
+			   Liquidation des dï¿½penses
 			   <BR>
 			   et Contentieux</I>
 			   <BR>
@@ -423,9 +422,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Le Sous-Secrétaire d'Etat des Beaux Arts
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Le Sous-Secrï¿½taire d'Etat des Beaux Arts
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;à Monsieur</I> <TT>le Préfet de l'Yonne,</TT>
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½ Monsieur</I> <TT>le Prï¿½fet de l'Yonne,</TT>
 			   <BR>
 			   <BR>
 			</FONT>
@@ -457,12 +456,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<TT>Par une lettre en date du 18 de ce mois, Mr. le Ministre des Finances m'informe 
-			   que Mr. Pinçon, Archiprêtre de l'ancienne cathédrale d'Auxerre refuse de verser la somme de 300 francs qu'il s'était 
-			   engagé à fournir pour les travaux de réparations au petit orgue du choeur de cet édifice.
+			   que Mr. Pinï¿½on, Archiprï¿½tre de l'ancienne cathï¿½drale d'Auxerre refuse de verser la somme de 300 francs qu'il s'ï¿½tait 
+			   engagï¿½ ï¿½ fournir pour les travaux de rï¿½parations au petit orgue du choeur de cet ï¿½difice.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Pinçon ayant versé directement la somme en question à l'ouvrier qui a exécuté le 
-			   travail, je vous serais obligé de lui demander et de me faire parvenir le mémoire ou le compte dûment acquitté, afin 
-			   que je puisse prendre les mesures nécessaires pour faire annuler le titre de perception émis le 26 février dernier.</TT>
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Pinï¿½on ayant versï¿½ directement la somme en question ï¿½ l'ouvrier qui a exï¿½cutï¿½ le 
+			   travail, je vous serais obligï¿½ de lui demander et de me faire parvenir le mï¿½moire ou le compte dï¿½ment acquittï¿½, afin 
+			   que je puisse prendre les mesures nï¿½cessaires pour faire annuler le titre de perception ï¿½mis le 26 fï¿½vrier dernier.</TT>
 			   <BR>
 			</FONT>
 			</P>
@@ -470,7 +469,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   <BR>
 			   <BR>
-			   Signé illisible
+			   Signï¿½ illisible
 			</FONT>
 			</P>
          </TD>
@@ -498,76 +497,76 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          <TD Width="80%">
 		    <P ALIGN="center">
 			<FONT size=6 color=#FFFFFF>
-			   <B>Transformations opérées dans l'église de Toucy</B>
+			   <B>Transformations opï¿½rï¿½es dans l'ï¿½glise de Toucy</B>
 			   <BR>
-			   depuis l'année 1860 jusqu'à nos jours (1927)
+			   depuis l'annï¿½e 1860 jusqu'ï¿½ nos jours (1927)
 			   <BR>
 			</FONT>
 			<FONT size=5 color=#FFFFFF>
-			   (d'après des notes laissées par M. le Dr L. ROCHE)
+			   (d'aprï¿½s des notes laissï¿½es par M. le Dr L. ROCHE)
 			   <BR>
-			   par M. P. GAILLARD, Curé Doyen de Toucy
+			   par M. P. GAILLARD, Curï¿½ Doyen de Toucy
 			   <BR>
 			   <B>...</B>
 			</FONT>
 			<FONT size=4 color=#FFFFFF>
 			   <BR>
-			   Embellissement de l'intérieur de l'église
+			   Embellissement de l'intï¿½rieur de l'ï¿½glise
 			</FONT>
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Un autre embellissement fut l'installation des anciennes orgues de la cathédrale 
-			   d'Auxerre, dont M. Dondenne s'était rendu acquéreur.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Un autre embellissement fut l'installation des anciennes orgues de la cathï¿½drale 
+			   d'Auxerre, dont M. Dondenne s'ï¿½tait rendu acquï¿½reur.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voici leur extrait de naissance : "Jacques Amyot, évêque d'Auxerre, après la prise de la 
-			   ville par les Huguenots (1567) fit construire de nouvelles orgues. Il appela, à Auxerre, le Fr Hilaire, religieux de 
-			   Notre-Dame en l'Isle, près de Troyes, facteur célèbre de l'époque, pour fondre les tuyaux."
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voici leur extrait de naissance : "Jacques Amyot, ï¿½vï¿½que d'Auxerre, aprï¿½s la prise de la 
+			   ville par les Huguenots (1567) fit construire de nouvelles orgues. Il appela, ï¿½ Auxerre, le Fr Hilaire, religieux de 
+			   Notre-Dame en l'Isle, prï¿½s de Troyes, facteur cï¿½lï¿½bre de l'ï¿½poque, pour fondre les tuyaux."
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En achetant ce vieil instrument, mon prédécesseur aurait été tenté par la beauté et la 
-			   richesse artistique de ses deux buffets, mais il ne songea pas, sans doute, qu'il devait être bien malade, peut-être 
-			   irréparable, puisque l'architecte des Beaux-Arts en autorisait la vente.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En achetant ce vieil instrument, mon prï¿½dï¿½cesseur aurait ï¿½tï¿½ tentï¿½ par la beautï¿½ et la 
+			   richesse artistique de ses deux buffets, mais il ne songea pas, sans doute, qu'il devait ï¿½tre bien malade, peut-ï¿½tre 
+			   irrï¿½parable, puisque l'architecte des Beaux-Arts en autorisait la vente.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On le plaça, au fond de l'église, sur une tribune où il fit grand effet. Confiant dans ses 
-			   multiples talents, M. Dondenne, aidé seulement de quelques ouvriers de la maison <I>Anneessens</I>, dirigea lui-même 
-			   l'installation des sommiers et des jeux. Quand tout fut terminé, il s'aperçut, mais trop tard, qu'il eut été préférable de 
-			   confier son <I>vieux malade</I> à un homme du métier. Un habile facteur aurait pu, peut-être, le prolonger et même le faire 
-			   chanter encore pendant quelques années. Il méditait une restauration plus heureuse quand il mourut le 6 avril 1912, 
-			   avant d'avoir pu réaliser son projet. Cette satisfaction devait être réservée à son successeur, M. l'abbé Gaillard, curé de 
-			   Ravières.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On le plaï¿½a, au fond de l'ï¿½glise, sur une tribune oï¿½ il fit grand effet. Confiant dans ses 
+			   multiples talents, M. Dondenne, aidï¿½ seulement de quelques ouvriers de la maison <I>Anneessens</I>, dirigea lui-mï¿½me 
+			   l'installation des sommiers et des jeux. Quand tout fut terminï¿½, il s'aperï¿½ut, mais trop tard, qu'il eut ï¿½tï¿½ prï¿½fï¿½rable de 
+			   confier son <I>vieux malade</I> ï¿½ un homme du mï¿½tier. Un habile facteur aurait pu, peut-ï¿½tre, le prolonger et mï¿½me le faire 
+			   chanter encore pendant quelques annï¿½es. Il mï¿½ditait une restauration plus heureuse quand il mourut le 6 avril 1912, 
+			   avant d'avoir pu rï¿½aliser son projet. Cette satisfaction devait ï¿½tre rï¿½servï¿½e ï¿½ son successeur, M. l'abbï¿½ Gaillard, curï¿½ de 
+			   Raviï¿½res.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En effet, à peine installé à Toucy, je fus heureux de retrouver le splendide buffet que 
-			   j'avais admiré à Auxerre ; mais péniblement affecté de le voir chacher un instrument sans voix, dont on ne pouvait plus 
-			   se servir, j'eus immédiatement la pensée et le désir de le faire restaurer.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En effet, ï¿½ peine installï¿½ ï¿½ Toucy, je fus heureux de retrouver le splendide buffet que 
+			   j'avais admirï¿½ ï¿½ Auxerre ; mais pï¿½niblement affectï¿½ de le voir chacher un instrument sans voix, dont on ne pouvait plus 
+			   se servir, j'eus immï¿½diatement la pensï¿½e et le dï¿½sir de le faire restaurer.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A cette intention, de concert avec les membres du Conseil paroissial, j'invitai plusieurs facteurs 
-			   à venir l'éxaminer. Après un examen minutieux, ils déclarèrent unanimement se refuser à toute restauration : "<I>C'est 
-			   un bel instrument à refaire</I>, disent-ils, <I>mais non à réparer</I>."
+			   ï¿½ venir l'ï¿½xaminer. Aprï¿½s un examen minutieux, ils dï¿½clarï¿½rent unanimement se refuser ï¿½ toute restauration : "<I>C'est 
+			   un bel instrument ï¿½ refaire</I>, disent-ils, <I>mais non ï¿½ rï¿½parer</I>."
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Devant ce refus justifié, je me résignai à leur demander un devis pour transformation 
-			   complète et l'établissement d'un orgue neuf de dix à douze jeux seulement.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Devant ce refus justifiï¿½, je me rï¿½signai ï¿½ leur demander un devis pour transformation 
+			   complï¿½te et l'ï¿½tablissement d'un orgue neuf de dix ï¿½ douze jeux seulement.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le devis de la maison <I>Cavaillé-Coll</I> (14 jeux et 14 000 francs de dépenses) fut 
-			   écarté par la Conseil paroissial qui retint le projet présenté par M. Regaert, facteur d'orgues à Auxerre, et dont voici les 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le devis de la maison <I>Cavaillï¿½-Coll</I> (14 jeux et 14 000 francs de dï¿½penses) fut 
+			   ï¿½cartï¿½ par la Conseil paroissial qui retint le projet prï¿½sentï¿½ par M. Regaert, facteur d'orgues ï¿½ Auxerre, et dont voici les 
 			   principaux articles :
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" les deux buffets, avec leurs tuyaux , seront conservés ;
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" les deux buffets, avec leurs tuyaux , seront conservï¿½s ;
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" le facteur pourra utiliser le matériel de l'ancien orgue pour la construction du nouveau qui 
-			   aura 11 jeux, deux claviers manuels et ses pédaliers ;
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" le facteur pourra utiliser le matï¿½riel de l'ancien orgue pour la construction du nouveau qui 
+			   aura 11 jeux, deux claviers manuels et ses pï¿½daliers ;
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" la soufflerie sera placée au-dessus des sommiers et à l'intérieur de l'église ;
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" la soufflerie sera placï¿½e au-dessus des sommiers et ï¿½ l'intï¿½rieur de l'ï¿½glise ;
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" tout ce qui ne servira pas appartiendra au facteur. Prix :
 			   <BR>
 			   7 000 francs. Garantie : 10 ans."
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour couvrir les frais de cette transformation, une souscription fut ouverte et joyeusement 
-			   accueillie par mes paroissiens. Le 28 septembre 1913, l'orgue était construit à neuf et pouvait être béni solennellement 
-			   par Mgr Barillon, protonotaire apostolique, en présence d'un nombreux concours de prêtres et de fidèles. La cérémonie 
-			   fut l'occasion d'un vrai régal pour les amateurs de belle musique. Après un harmonieux discours de Mgr Barillon, M. Gouard, 
-			   lauréat du conservatoire, et Mlle Sauvage, organiste, surent mettre en valeur les richesses du nouvel instrument. Au banquet, 
-			   M. le docteur Roché narra l'histoire du ressuscité, dans une poésie pleine d'humour et d'esprit. 
+			   accueillie par mes paroissiens. Le 28 septembre 1913, l'orgue ï¿½tait construit ï¿½ neuf et pouvait ï¿½tre bï¿½ni solennellement 
+			   par Mgr Barillon, protonotaire apostolique, en prï¿½sence d'un nombreux concours de prï¿½tres et de fidï¿½les. La cï¿½rï¿½monie 
+			   fut l'occasion d'un vrai rï¿½gal pour les amateurs de belle musique. Aprï¿½s un harmonieux discours de Mgr Barillon, M. Gouard, 
+			   laurï¿½at du conservatoire, et Mlle Sauvage, organiste, surent mettre en valeur les richesses du nouvel instrument. Au banquet, 
+			   M. le docteur Rochï¿½ narra l'histoire du ressuscitï¿½, dans une poï¿½sie pleine d'humour et d'esprit. 
 			</FONT>
 			</P>
 			<P ALIGN="center">
@@ -575,14 +574,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   P.-S. : Depuis la rédaction du mémoire précédent, de nouvelles générosités se sont manifestées en faveur de notre église.
+			   P.-S. : Depuis la rï¿½daction du mï¿½moire prï¿½cï¿½dent, de nouvelles gï¿½nï¿½rositï¿½s se sont manifestï¿½es en faveur de notre ï¿½glise.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 12 août 1928, une nouvelle cloche...
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 12 aoï¿½t 1928, une nouvelle cloche...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce même jour a eu lieu l'inauguration de la sonnerie électrique des cloches et de la 
-			   soufflerie mécanique du grand orgue.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce mï¿½me jour a eu lieu l'inauguration de la sonnerie ï¿½lectrique des cloches et de la 
+			   soufflerie mï¿½canique du grand orgue.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Merci à nos généreux bienfaiteurs.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Merci ï¿½ nos gï¿½nï¿½reux bienfaiteurs.
 			</FONT>
 			</P>
 		 </TD>
@@ -618,17 +617,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   1930
 			   <BR>
-			   Janvier-février
+			   Janvier-fï¿½vrier
 			</FONT>
 			<FONT size=4 color=#FFFFFF>
 			   <BR>
-			   <I>Les Amis de la Cathédrale d'Auxerre</I>
+			   <I>Les Amis de la Cathï¿½drale d'Auxerre</I>
 			</FONT>
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Cette société... a éclairé la crypte, restauré plusieurs fois l'orgue envahi par les 
-			   eaux, habillé l'autel du transept, et, aménagé le trésor... donné la porte dite des souffleurs, etc...
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Cette sociï¿½tï¿½... a ï¿½clairï¿½ la crypte, restaurï¿½ plusieurs fois l'orgue envahi par les 
+			   eaux, habillï¿½ l'autel du transept, et, amï¿½nagï¿½ le trï¿½sor... donnï¿½ la porte dite des souffleurs, etc...
 			</FONT>
 			</P>
 		 </TD>
@@ -665,15 +664,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Comme chaque année la ville d'Auxerre a célébré en grande solennité la fête de son 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Comme chaque annï¿½e la ville d'Auxerre a cï¿½lï¿½brï¿½ en grande solennitï¿½ la fï¿½te de son 
 			   grand Patron, Saint Germain...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le vendredi 31 juillet, jour de clôture de la neuvaine, fut une véritable apothéose pour 
-			   St Germain ; apothéose de <U>fleurs</U>, de <U>chants</U>, de <U>louanges</U>...
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le vendredi 31 juillet, jour de clï¿½ture de la neuvaine, fut une vï¿½ritable apothï¿½ose pour 
+			   St Germain ; apothï¿½ose de <U>fleurs</U>, de <U>chants</U>, de <U>louanges</U>...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Apothéose de <U><I>chants</I></U> et de <U><I>musique</I></U> !... La Schola 
-			   Saint-Etienne, avec ses incomparables Maîtres à sa tête ou <B>au clavier du grand-orgue</B>, aurait pu assurer à elle seule 
-			   l'exécution d'un programme capable de nous enchanter...
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Apothï¿½ose de <U><I>chants</I></U> et de <U><I>musique</I></U> !... La Schola 
+			   Saint-Etienne, avec ses incomparables Maï¿½tres ï¿½ sa tï¿½te ou <B>au clavier du grand-orgue</B>, aurait pu assurer ï¿½ elle seule 
+			   l'exï¿½cution d'un programme capable de nous enchanter...
 			</FONT>
 			</P>
 		 </TD>
@@ -698,30 +697,30 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          <TD Width="80%">
 		    <P ALIGN="center">
 			<FONT size=4 color=#FFFFFF>
-			   <B>Le département de l'Yonne
+			   <B>Le dï¿½partement de l'Yonne
 			   <BR>
-			   comme Diocèse</B>
+			   comme Diocï¿½se</B>
 			   <BR>
 			   Alype-Jean NOIROT
 			   <BR>
 			   Tome 4
 			   <BR>
-			   Ils danseront les os broyés... (1911-<B>1914-1918</B>-1931)
+			   Ils danseront les os broyï¿½s... (1911-<B>1914-1918</B>-1931)
 			</FONT>
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un regain d'intérêt est né pour les grands monuments religieux de l'Yonne. Certes, la <I>
-			   Société des Amis de la Cathédrale d'Auxerre</I> s'était fondée le 24 mai 1919 et sa première réunion, le mardi de 
-			   Pentecôte, dans la salle Soufflot, sous la présidence de l'archiviste Porée, avait rassemblé bien des personnes plus 
-			   attentives à l'art monumental qu'à la vie et à l'utilisation cultuelle du monument<SUP><FONT size=2 color=#FFFFFF>(1)
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un regain d'intï¿½rï¿½t est nï¿½ pour les grands monuments religieux de l'Yonne. Certes, la <I>
+			   Sociï¿½tï¿½ des Amis de la Cathï¿½drale d'Auxerre</I> s'ï¿½tait fondï¿½e le 24 mai 1919 et sa premiï¿½re rï¿½union, le mardi de 
+			   Pentecï¿½te, dans la salle Soufflot, sous la prï¿½sidence de l'archiviste Porï¿½e, avait rassemblï¿½ bien des personnes plus 
+			   attentives ï¿½ l'art monumental qu'ï¿½ la vie et ï¿½ l'utilisation cultuelle du monument<SUP><FONT size=2 color=#FFFFFF>(1)
 			   </FONT></SUP>. L'architecte Rousseau 
-			   avait ensuite emmené tout le monde en une visite guidée de l'édifice que venait illustrer la conférence de Porée sur la 
-			   construction de la bâtisse. La journée s'est terminée à 20 heures par un sermon de l'abbé Vignot -sa durée fut d'une 
-			   heure et demi- et d'un concert avec la chorale de Paul Berthier, Marcel Dupré touchant le grand orgue. L'essentiel de ma 
+			   avait ensuite emmenï¿½ tout le monde en une visite guidï¿½e de l'ï¿½difice que venait illustrer la confï¿½rence de Porï¿½e sur la 
+			   construction de la bï¿½tisse. La journï¿½e s'est terminï¿½e ï¿½ 20 heures par un sermon de l'abbï¿½ Vignot -sa durï¿½e fut d'une 
+			   heure et demi- et d'un concert avec la chorale de Paul Berthier, Marcel Duprï¿½ touchant le grand orgue. L'essentiel de ma 
 			   rpise en charge de l'entretien de Saint Etienne vint partie des Monuments historiques, partie de l'oeuvre de la 
-			   Sauvegarde, les Amis de la Cathédrale versant plus que les deux autres réunis lorsqu'il fut question de sauver la 
-			   verrière du portail Nord, par exemple<SUP><FONT size=2 color=#FFFFFF>(2)</FONT></SUP>.
+			   Sauvegarde, les Amis de la Cathï¿½drale versant plus que les deux autres rï¿½unis lorsqu'il fut question de sauver la 
+			   verriï¿½re du portail Nord, par exemple<SUP><FONT size=2 color=#FFFFFF>(2)</FONT></SUP>.
 			   <BR>
 			   <BR>
 			   <BR>
@@ -736,7 +735,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			      (2)
 			   </FONT></SUP>
 			   <FONT size=3 color=#FFFFFF>
-			      Id.1929. La Sauvegarde participe pour 5000 frs ; les Amis de la Cathédrale pour 10000 frs, tandis que le Conseil 
+			      Id.1929. La Sauvegarde participe pour 5000 frs ; les Amis de la Cathï¿½drale pour 10000 frs, tandis que le Conseil 
 				  municipal n'offrait que 3500 frs.
 			   </FONT>
 			</FONT>
@@ -774,38 +773,38 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   1933
 			   <BR>
-			   Janvier-février
+			   Janvier-fï¿½vrier
 			</FONT>
 			<FONT size=4 color=#FFFFFF>
 			   <BR>
-			   <I>Entrée solennelle de Mgr FERLTIN à Auxerre
+			   <I>Entrï¿½e solennelle de Mgr FERLTIN ï¿½ Auxerre
 			   <BR>
 			   (6 novembre 1932)</I>
 			</FONT>
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   ... A la cathédrale.
+			   ... A la cathï¿½drale.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Un respectueux silence permet de goûter plainement le jeu de M Henri Gouard qui, 
-			   en l'absence de M Paul Berthier, organiste habituel, retenu ailleurs à son grand regret, traduit avec son talent 
-			   très apprécié de 1<SUP><FONT size=2 color=#FFFFFF>er</FONT></SUP> prix de Conservatoire de Paris, les sentiments de 
-			   toutes les âmes.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Un respectueux silence permet de goï¿½ter plainement le jeu de M Henri Gouard qui, 
+			   en l'absence de M Paul Berthier, organiste habituel, retenu ailleurs ï¿½ son grand regret, traduit avec son talent 
+			   trï¿½s apprï¿½ciï¿½ de 1<SUP><FONT size=2 color=#FFFFFF>er</FONT></SUP> prix de Conservatoire de Paris, les sentiments de 
+			   toutes les ï¿½mes.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Les chants sont assurés par les trois Chorales de la ville qui réunissent une 
-			   centaine d'exécutants... avec M Girard <B>à l'orgue d'accompagnement</B>. La messe de Dumont reprise par toute la foule 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Les chants sont assurï¿½s par les trois Chorales de la ville qui rï¿½unissent une 
+			   centaine d'exï¿½cutants... avec M Girard <B>ï¿½ l'orgue d'accompagnement</B>. La messe de Dumont reprise par toute la foule 
 			   laisse une impression profonde.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... La messe se poursuit et se termine au milieu des chants merveilleusement exécutés. 
-			   Signalons la puissance tantôt contenue, tantôt impressionnante de l'<I>Adoro te</I> à 4 voix de J-S Bach ; ce choeur, 
-			   comme la plupart de ses semblables, composé pour les grandes chorales, semble avoir aujourd'hui avec plus de cent 
-			   chanteurs atteint so idéal. Entre temps <B>les grandes orgues se font entendre</B>. M Gouard avec la gentillesse 
-			   discrète, la simplicité qui est la marque des hommes de vrai talent, a su tirer du <B>Roi des instruments</B> des sons 
-			   d'une débordante allégresse, agrémentés parfois d'une exquise douceur, comme s'il avait voulu incarner au milieu du 
-			   tumulte de la fête l'âme pauvre qui, ignorée dans son coin de pilier, s'élevait jusqu'à Dieu et l'invoquait simplement 
-			   pour son Evêque.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... La messe se poursuit et se termine au milieu des chants merveilleusement exï¿½cutï¿½s. 
+			   Signalons la puissance tantï¿½t contenue, tantï¿½t impressionnante de l'<I>Adoro te</I> ï¿½ 4 voix de J-S Bach ; ce choeur, 
+			   comme la plupart de ses semblables, composï¿½ pour les grandes chorales, semble avoir aujourd'hui avec plus de cent 
+			   chanteurs atteint so idï¿½al. Entre temps <B>les grandes orgues se font entendre</B>. M Gouard avec la gentillesse 
+			   discrï¿½te, la simplicitï¿½ qui est la marque des hommes de vrai talent, a su tirer du <B>Roi des instruments</B> des sons 
+			   d'une dï¿½bordante allï¿½gresse, agrï¿½mentï¿½s parfois d'une exquise douceur, comme s'il avait voulu incarner au milieu du 
+			   tumulte de la fï¿½te l'ï¿½me pauvre qui, ignorï¿½e dans son coin de pilier, s'ï¿½levait jusqu'ï¿½ Dieu et l'invoquait simplement 
+			   pour son Evï¿½que.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette cérémonie si belle s'achève aux accents retentissants du <I>Te Deum</I>.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette cï¿½rï¿½monie si belle s'achï¿½ve aux accents retentissants du <I>Te Deum</I>.
 			</FONT>
 			</P>
 		 </TD>
@@ -836,19 +835,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</FONT>
 			<FONT size=4 color=#FFFFFF>
 			   <BR>
-			   <I>Les Amis de la Cathédrale</I>
+			   <I>Les Amis de la Cathï¿½drale</I>
 			</FONT>
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Sous la grande rosace viennent d'être replacées les verrières de St Jean-Baptiste 
-			   et celle de St Claude... Celle de St Claude fut donnée au XVI<SUP><FONT size=2 color=#FFFFFF>ème</FONT></SUP> siècle 
-			   par le chanoine Claude de Bussy. Avec celle de St Christophe, dont le nom évoque Vincent d'Indy, et celle qu'on verra 
-			   bientôt de Charlemagne, introducteur de la musique grégorienne, on aura bientôt un ensemble musical qui accompagnera 
-			   à merveille le "Concert céleste" de la rose.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Sous la grande rosace viennent d'ï¿½tre replacï¿½es les verriï¿½res de St Jean-Baptiste 
+			   et celle de St Claude... Celle de St Claude fut donnï¿½e au XVI<SUP><FONT size=2 color=#FFFFFF>ï¿½me</FONT></SUP> siï¿½cle 
+			   par le chanoine Claude de Bussy. Avec celle de St Christophe, dont le nom ï¿½voque Vincent d'Indy, et celle qu'on verra 
+			   bientï¿½t de Charlemagne, introducteur de la musique grï¿½gorienne, on aura bientï¿½t un ensemble musical qui accompagnera 
+			   ï¿½ merveille le "Concert cï¿½leste" de la rose.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beaucoup d'églises ont à cette place <B>un grand orgue</B>. Nous, nous avons un fond 
-			   d'église tout rempli de musique.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beaucoup d'ï¿½glises ont ï¿½ cette place <B>un grand orgue</B>. Nous, nous avons un fond 
+			   d'ï¿½glise tout rempli de musique.
 			</FONT>
 			</P>
 		 </TD>
@@ -873,7 +872,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="20%">
 		    <P ALIGN="left">
 			<FONT size=4 color=#FFFFFF>
-			   4<SUP><FONT size=2 color=#FFFFFF>ème</FONT></SUP> année n° 22
+			   4<SUP><FONT size=2 color=#FFFFFF>ï¿½me</FONT></SUP> annï¿½e nï¿½ 22
 			</FONT>
 			</P>
 		 </TD>
@@ -888,7 +887,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="20%">
 		    <P ALIGN="right">
 			<FONT size=4 color=#FFFFFF>
-			   Juillet-août 1933
+			   Juillet-aoï¿½t 1933
 			</FONT>
 			</P>
          </TD>
@@ -911,7 +910,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <FONT size=4 color=#FFFFFF>
 			   de la croisade eucharistique
 			   <BR>
-			   Le jeudi 23 juin 1933 à Auxerre
+			   Le jeudi 23 juin 1933 ï¿½ Auxerre
 			   <BR>
 			   <B>...</B>
 			   <BR>
@@ -922,9 +921,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La messe est chantée par M. l'abbé Viéaux, le premier organisateur de la Croisade dans le 
-			   diocèse. Les petits orphelins revêtus de leurs aubes blanches, accompagnés à l'orgue par M. Paul Berthier et dirigés 
-			   par leur maître, M. Mogenet, exécutent à ravir le propre du Saint Sacrement et la Messe des Anges, donnant ainsi à tous 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La messe est chantï¿½e par M. l'abbï¿½ Viï¿½aux, le premier organisateur de la Croisade dans le 
+			   diocï¿½se. Les petits orphelins revï¿½tus de leurs aubes blanches, accompagnï¿½s ï¿½ l'orgue par M. Paul Berthier et dirigï¿½s 
+			   par leur maï¿½tre, M. Mogenet, exï¿½cutent ï¿½ ravir le propre du Saint Sacrement et la Messe des Anges, donnant ainsi ï¿½ tous 
 			   les autres enfants un exemple d'office liturgique vraiment remarquable.
 			</FONT>
 			</P>
@@ -960,15 +959,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</P>
 			<p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   Les Voûtes du Choeur
+			   Les Voï¿½tes du Choeur
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A la suite de demandes multiples et grace à de hautes et puissantes interventions 
-			   auxquelles nous devons adresser ici l'expression de notre vive reconnaissance, les ouvriers ont commencé le lundi 11 
-			   février la dépose de l'échafaudage du Sanctuaire, et ils le réédifient en ce moment plus bas, depuis le Sanctuaire 
-			   jusqu'à la hauteur des orgues du choeur.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A la suite de demandes multiples et grace ï¿½ de hautes et puissantes interventions 
+			   auxquelles nous devons adresser ici l'expression de notre vive reconnaissance, les ouvriers ont commencï¿½ le lundi 11 
+			   fï¿½vrier la dï¿½pose de l'ï¿½chafaudage du Sanctuaire, et ils le rï¿½ï¿½difient en ce moment plus bas, depuis le Sanctuaire 
+			   jusqu'ï¿½ la hauteur des orgues du choeur.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ces orgues ont été enfermées dans une sorte de cabanon qui les protège solidement et les 
-			   stalles ont été, elles aussi, recouvertes d'une enveloppe de madriers...
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ces orgues ont ï¿½tï¿½ enfermï¿½es dans une sorte de cabanon qui les protï¿½ge solidement et les 
+			   stalles ont ï¿½tï¿½, elles aussi, recouvertes d'une enveloppe de madriers...
 			</FONT>
 			</P>
 		 </TD>
@@ -1004,15 +1003,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   Audition d'orgue
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 11 mai au soir, nos grandes orgues ont été touchées par l'éminent professeur de Paris 
-			   et organiste de St Ambroise, M. Silva-Hérard, qui a bien voulu donner une audition au profit de la cathédrale. L'
-			   assistance très nombreuse a pu entendre au cours d'un programme très varié et brillant (Bach, Franck, Saint-Saëns, 
-			   Guilmant, Gigout, Pierné, Widor y figurant) les multiples et délicates sonorités de cet instrument aux cent voix. Mais 
-			   elle fut surtout émerveillée du talent de compositeur et d'improvisateur de M. Silva-Hérard ; bien quel'orgue ait eu un 
-			   caprice, comme il en a parfois au cours de son poétique et touchant "Glas Marnais", il s'est par contre bien prêté à six 
-			   improvisations qui ont été éblouissantes. Les six thèmes furent protés au Maître un instant avant de jouer : il les 
-			   déchiffrait en les traitant : thèmes inconnus de lui, puisqu'ils étaient de Marie Noël, Paul Berthier, etc... La valeur, 
-			   la forme, le style de chacune de ces six pièces furent aussi admirables que la virtuosité de leur exécution, que la 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 11 mai au soir, nos grandes orgues ont ï¿½tï¿½ touchï¿½es par l'ï¿½minent professeur de Paris 
+			   et organiste de St Ambroise, M. Silva-Hï¿½rard, qui a bien voulu donner une audition au profit de la cathï¿½drale. L'
+			   assistance trï¿½s nombreuse a pu entendre au cours d'un programme trï¿½s variï¿½ et brillant (Bach, Franck, Saint-Saï¿½ns, 
+			   Guilmant, Gigout, Piernï¿½, Widor y figurant) les multiples et dï¿½licates sonoritï¿½s de cet instrument aux cent voix. Mais 
+			   elle fut surtout ï¿½merveillï¿½e du talent de compositeur et d'improvisateur de M. Silva-Hï¿½rard ; bien quel'orgue ait eu un 
+			   caprice, comme il en a parfois au cours de son poï¿½tique et touchant "Glas Marnais", il s'est par contre bien prï¿½tï¿½ ï¿½ six 
+			   improvisations qui ont ï¿½tï¿½ ï¿½blouissantes. Les six thï¿½mes furent protï¿½s au Maï¿½tre un instant avant de jouer : il les 
+			   dï¿½chiffrait en les traitant : thï¿½mes inconnus de lui, puisqu'ils ï¿½taient de Marie Noï¿½l, Paul Berthier, etc... La valeur, 
+			   la forme, le style de chacune de ces six piï¿½ces furent aussi admirables que la virtuositï¿½ de leur exï¿½cution, que la 
 			   richesse de leur registration...
 			   <BR>
 			   <BR>
@@ -1051,18 +1050,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   Jacques GARDIEN
 			   <BR>
-			   Licencié en droit,
+			   Licenciï¿½ en droit,
 			   <BR>
-			   diplôme d'études supérieures
+			   diplï¿½me d'ï¿½tudes supï¿½rieures
 			   <BR>
-			   Docteur es-lettres de l'Université de Paris
+			   Docteur es-lettres de l'Universitï¿½ de Paris
 			   <BR>
-			   Membre du Comité des Amis de l'Orgue
+			   Membre du Comitï¿½ des Amis de l'Orgue
 			   <BR>
 			</FONT>
 			<FONT size=4 color=#FFFFFF>
-			   <B>L'orgue et les organistes en Bourgogne et en Franche-Comté au XVIII<SUP><FONT size=2 color=#FFFFFF>ème</FONT></SUP>
-			   siècle</B>
+			   <B>L'orgue et les organistes en Bourgogne et en Franche-Comtï¿½ au XVIII<SUP><FONT size=2 color=#FFFFFF>ï¿½me</FONT></SUP>
+			   siï¿½cle</B>
 			</FONT>
 			<BR>
 			<FONT size=4 color=#FFFFFF>
@@ -1070,7 +1069,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   Librairie E. DROZ
 			   <BR>
-			   26, rue de Tournon (VI<SUP><FONT size=2 color=#FFFFFF>ème</FONT></SUP>)
+			   26, rue de Tournon (VI<SUP><FONT size=2 color=#FFFFFF>ï¿½me</FONT></SUP>)
 			   <BR>
 			   1943
 			   <BR>
@@ -1080,7 +1079,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   YONNE...
 			   <BR>
-			   4° SAINT-ETIENNE
+			   4ï¿½ SAINT-ETIENNE
 			   <BR>
 			   <CENTER>Composition de l'orgue en 1940
 			   <BR>
@@ -1101,19 +1100,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Bourdon &nbsp;&nbsp;8
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Flûte &nbsp;&nbsp;&nbsp;&nbsp;4
+			   Flï¿½te &nbsp;&nbsp;&nbsp;&nbsp;4
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Montre &nbsp;&nbsp;&nbsp;&nbsp;8
 			   <BR>
 			   <BR>
-			   Récit : R 60 t.
+			   Rï¿½cit : R 60 t.
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Flûte harmonique 8
+			   Flï¿½te harmonique 8
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Voix céleste 8
+			   Voix cï¿½leste 8
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Trompette 8
 			   <BR>
@@ -1125,7 +1124,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Hautbois &nbsp;&nbsp;8
 			   <BR>
 			   <BR>
-			   Pédalier : R 26 t.
+			   Pï¿½dalier : R 26 t.
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1177,9 +1176,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</font>
 			<br>
 			<FONT size=4 color=#FFFFFF>
-			147, rue Léon-Maurice Nordmann, 147
+			147, rue Lï¿½on-Maurice Nordmann, 147
 			<BR>
-			PARIS-XIII°
+			PARIS-XIIIï¿½
 			</font>
 			<br>
 			</P>
@@ -1227,7 +1226,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="86%">
 		    <FONT size=4 color=#FFFFFF>
 			<P ALIGN="center">
-			   <TT>à
+			   <TT>ï¿½
 			   <BR>
 			   MONSIEUR PAUL BERTHIER
 			   <BR>
@@ -1239,54 +1238,54 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   MONSIEUR BERTHIER
             </tt></P><TT>
             <p align="justify">
-               Nous avons l'honneur de porter à votre connaissance que nous avons étudié très attentivement les possibilités de 
-			   mutations de jeux aux différents claviers de votre instrument , qui d'une part permettraient l'éxécution de la 
-			   littérature musicale moderne , en allégeant l'ensemble sonore et en donnant plus de ressources en combinaisons des 
-			   jeux .D'autre part pourraient ètre éxécutées sans augmentation du prix du DEVIS relevage .
+               Nous avons l'honneur de porter ï¿½ votre connaissance que nous avons ï¿½tudiï¿½ trï¿½s attentivement les possibilitï¿½s de 
+			   mutations de jeux aux diffï¿½rents claviers de votre instrument , qui d'une part permettraient l'ï¿½xï¿½cution de la 
+			   littï¿½rature musicale moderne , en allï¿½geant l'ensemble sonore et en donnant plus de ressources en combinaisons des 
+			   jeux .D'autre part pourraient ï¿½tre ï¿½xï¿½cutï¿½es sans augmentation du prix du DEVIS relevage .
 			   <BR>
 			   <CENTER>.  MUTATION AU RECIT  .</CENTER>
-			   Actuellement le clavier de RECIT possède QUATRE FONDS DE HUIT PIEDS . Ce qui est trop . On aurait avantage à muter 
-			   le DIAPASON pour une QUINTE 2 P 2/3 Comme on possède une tierce dans le Carillon , ceci donnerait a ce clavier la 
-			   gamme complète en piètage . 16 . 8 . 4 . 2 2/3 . 2 . I . Composition type .
+			   Actuellement le clavier de RECIT possï¿½de QUATRE FONDS DE HUIT PIEDS . Ce qui est trop . On aurait avantage ï¿½ muter 
+			   le DIAPASON pour une QUINTE 2 P 2/3 Comme on possï¿½de une tierce dans le Carillon , ceci donnerait a ce clavier la 
+			   gamme complï¿½te en piï¿½tage . 16 . 8 . 4 . 2 2/3 . 2 . I . Composition type .
 			   <BR>
 			   <CENTER>. MUTATIONS AU POSITIF .</CENTER>
-			   Ce clavier possède actuellement QUATRE HUIT PIEDS pour NEUF JEUX encore que dans cette énumération nous ne comptions pas 
+			   Ce clavier possï¿½de actuellement QUATRE HUIT PIEDS pour NEUF JEUX encore que dans cette ï¿½numï¿½ration nous ne comptions pas 
 			   l'UNDA MARIS de huit (vu qu'il ne s'emploie pas dans le Grand Jeu ).
 			   <BR>
 			   Nous proposons donc ce qui suit . Mutation du DIAPASON ,pour une TIERCE . Du SALICIONAL , pour un NAZARD . de l'UNDA 
 			   MARIS pour une DOUBLETTE . Ce clavier aurait ainsi presque le type ancien (il y manquerait toute fois une fourniture , 
-			   mais les possibilités financières s'y opposent )
+			   mais les possibilitï¿½s financiï¿½res s'y opposent )
 			   <BR>
-			   De mème les anches libres de la CLARINETTE seraient remplacées par de vraies anches a larmes . et ainsi ce jeu tiendrait 
+			   De mï¿½me les anches libres de la CLARINETTE seraient remplacï¿½es par de vraies anches a larmes . et ainsi ce jeu tiendrait 
 			   l'accord .
 			   <CENTER>. MODIFICATIONS AU CLAVIER DE GRAND ORGUE .</CENTER>
 			   La FOURNITURE de ce clavier ne saille pas du tout dans le grand jeu . Elle est trop grave ,en rapport a la composition en 
 			   ANCHES Quatre jeux . Ceci vient de ce qu'elle comprend trop de reprises qui la font se terminer en SEIZE PIEDS au lieu de 
-			   QUATRE PIEDS . Cette fourniture serait donc complètement remaniée .
+			   QUATRE PIEDS . Cette fourniture serait donc complï¿½tement remaniï¿½e .
 			   <BR>
-			   d'autre part vu la présence des quatre jeux d'anches ,a fortes dimensions , Il serait souhaitable de transformer la 
+			   d'autre part vu la prï¿½sence des quatre jeux d'anches ,a fortes dimensions , Il serait souhaitable de transformer la 
 			   bombarde actuelle en acoustique . Nous devons tenir compte de ce que les anches vont gagner en rondeur et brillant par le 
-			   changement des languettes qui seront a leur épaisseur normale et non garnies de peau comme cela est actuellement . Le 
-			   fond de I6 éxistera toujours bein ,mais n'écrasera plus comme cela serait si les pavillons énormes ,que l'on ne pourrait 
-			   réduire sans frais étaient remis en place . La récupération de ce métal permettrait les autres modifications sans frais .
+			   changement des languettes qui seront a leur ï¿½paisseur normale et non garnies de peau comme cela est actuellement . Le 
+			   fond de I6 ï¿½xistera toujours bein ,mais n'ï¿½crasera plus comme cela serait si les pavillons ï¿½normes ,que l'on ne pourrait 
+			   rï¿½duire sans frais ï¿½taient remis en place . La rï¿½cupï¿½ration de ce mï¿½tal permettrait les autres modifications sans frais .
 			   <BR>
 			   <CENTER>. MUTATION A LA PEDALE .</CENTER>
-			   Cette pédale magnifique comme tailles de tuyaux va se trouver corsée par le rétablissement du 32 . Vu ce rétablissement , 
-			   et pour éclaircir le jeu de ce clavier ,il serait souhaitable d'utiliser les tuyaux retirés de la fourniture du Grand 
+			   Cette pï¿½dale magnifique comme tailles de tuyaux va se trouver corsï¿½e par le rï¿½tablissement du 32 . Vu ce rï¿½tablissement , 
+			   et pour ï¿½claircir le jeu de ce clavier ,il serait souhaitable d'utiliser les tuyaux retirï¿½s de la fourniture du Grand 
 			   Orgue , pour la doter d'une FOURNITURE trois rangs . qui remplacerait le VIOLONCELLE et donnerait de grandes 
-			   ressources pour la musique moderne . De plus elle ferait de votre instrument un des rares possèdant ce jeu à ce clavier ,
+			   ressources pour la musique moderne . De plus elle ferait de votre instrument un des rares possï¿½dant ce jeu ï¿½ ce clavier ,
 			   en FRANCE ; Il n'y en a pas Trente .
 			   <BR>
-			   Nous joignons a cette proposition un état détaillé des récupérations et des fournitures issues de ces transformations .
+			   Nous joignons a cette proposition un ï¿½tat dï¿½taillï¿½ des rï¿½cupï¿½rations et des fournitures issues de ces transformations .
 			   <BR>
-			   Avec l'espoir que nos propositions recevront votre assentiment , Nous vous prions Monsieur BERTHIER d'agréer nos très 
+			   Avec l'espoir que nos propositions recevront votre assentiment , Nous vous prions Monsieur BERTHIER d'agrï¿½er nos trï¿½s 
 			   respectueuses salutations .
 			   <BR>
-			   Les Gérants de la S.A.R.L.
+			   Les Gï¿½rants de la S.A.R.L.
 			   <BR>
 			   <BR>
 			   <BR>
-			   En cas d'acceptation , il suffira de parapher le double de la proposition présente ,qui est en notre possession.
+			   En cas d'acceptation , il suffira de parapher le double de la proposition prï¿½sente ,qui est en notre possession.
 			</P>
 			</tt>
 			</FONT>
@@ -1366,7 +1365,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			CARILLON &nbsp;2 et 3 R
 			<BR>
-			CORNET OU FOURNITURE dont on supprime la résultante de I6
+			CORNET OU FOURNITURE dont on supprime la rï¿½sultante de I6
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;
 			9 000 Fr
@@ -1433,7 +1432,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			BOURDON &nbsp;&nbsp;&nbsp;8
 			<BR>
-			CLARINETTE qui est dotée d'anches appropriées
+			CLARINETTE qui est dotï¿½e d'anches appropriï¿½es
 			&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;</U>&nbsp;
@@ -1560,40 +1559,40 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <br>
 			   <br>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que se cache t'il,au fond,dans cette tribune de l'orgue,de laquelle,depuis six mois,on 
-			   entend sortir quelques sons inhumains au milieu de coups de marteaux,de bruits de rabots,de ferrailles entrechoquées ? 
-			   que font,depuis si longtemps ces artisans d'art envoyés par la Sté Gutschenritter ? Pourquoi ce travail dure t'il si 
+			   entend sortir quelques sons inhumains au milieu de coups de marteaux,de bruits de rabots,de ferrailles entrechoquï¿½es ? 
+			   que font,depuis si longtemps ces artisans d'art envoyï¿½s par la Stï¿½ Gutschenritter ? Pourquoi ce travail dure t'il si 
 			   longtemps ?
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voila des questions que doivent souvent se poser les paroissiens de la Cathédrale.Elles 
-			   méritent une explication,car,enfin,ce sont bien les paroissiens,qui,pour une grosse part,paient la note :
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voila des questions que doivent souvent se poser les paroissiens de la Cathï¿½drale.Elles 
+			   mï¿½ritent une explication,car,enfin,ce sont bien les paroissiens,qui,pour une grosse part,paient la note :
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'Orgue,tout le monde le sait,est un grand orchestre avec tous ses pupitres : Violons,
-			   violoncelles,contrebasses,flûtes,clarinettes,hautbois,trompettes etc.Ces "jeux"(ici il y en a 49)sont actionnés par 
-			   l'organiste et répartis sur trois claviers manuels et un clavier de pédalier.Derrière l'organiste,il y a deux mille 
-			   huit cent soixante tuyaux en métal ou en bois,de différentes formes,pour différencier les timbres,allant,comme dimensions,
-			   de un centimètre à cinq mètres de long(de 3 m/m à 40 c/m de diamètre).Ces tuyaux sont en relation avec les doigts de 
-			   l'organiste grâce à des tubes de plomb (environs deux Km).Tout cet ensemble sonore est alimenté par une soufflerie 
-			   double,levée par un aéroventilateur électrique de trois chevaux fournissant trente cinq m3 d'air à la minute.
+			   violoncelles,contrebasses,flï¿½tes,clarinettes,hautbois,trompettes etc.Ces "jeux"(ici il y en a 49)sont actionnï¿½s par 
+			   l'organiste et rï¿½partis sur trois claviers manuels et un clavier de pï¿½dalier.Derriï¿½re l'organiste,il y a deux mille 
+			   huit cent soixante tuyaux en mï¿½tal ou en bois,de diffï¿½rentes formes,pour diffï¿½rencier les timbres,allant,comme dimensions,
+			   de un centimï¿½tre ï¿½ cinq mï¿½tres de long(de 3 m/m ï¿½ 40 c/m de diamï¿½tre).Ces tuyaux sont en relation avec les doigts de 
+			   l'organiste grï¿½ce ï¿½ des tubes de plomb (environs deux Km).Tout cet ensemble sonore est alimentï¿½ par une soufflerie 
+			   double,levï¿½e par un aï¿½roventilateur ï¿½lectrique de trois chevaux fournissant trente cinq m3 d'air ï¿½ la minute.
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cet instrument atteint actuellement une valeur de plus de quatorze millions de francs !
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or,notre orgue a 50 ans,il a souffert d'une inondation en 1928,de la poussière lors des 
-			   travaux de réfection de la voûte du choeur.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Or,notre orgue a 50 ans,il a souffert d'une inondation en 1928,de la poussiï¿½re lors des 
+			   travaux de rï¿½fection de la voï¿½te du choeur.
 			   <BR>
-			   Depuis 50 ans,il sert de cimetière aux chauves souris,(on en a retrouvé jusqu'à sept dans un même tuyau),la basane des 
-			   soufflets était craquelée,les sommiers sur lesquels reposent les tuyaux,fendus,les conduite d'air en métal,oxydées.Il 
-			   a fallu tout démonter,tout réviser pièce par pièce et changer les matériaux inutilisables et tout remonter pour 
-			   redonner à la Cathédrale une instrument digne d'elle.
+			   Depuis 50 ans,il sert de cimetiï¿½re aux chauves souris,(on en a retrouvï¿½ jusqu'ï¿½ sept dans un mï¿½me tuyau),la basane des 
+			   soufflets ï¿½tait craquelï¿½e,les sommiers sur lesquels reposent les tuyaux,fendus,les conduite d'air en mï¿½tal,oxydï¿½es.Il 
+			   a fallu tout dï¿½monter,tout rï¿½viser piï¿½ce par piï¿½ce et changer les matï¿½riaux inutilisables et tout remonter pour 
+			   redonner ï¿½ la Cathï¿½drale une instrument digne d'elle.
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce travail considérable touche à sa fin.Déjà,l'orgue refait entendre des sons éclaircis 
-			   et plus purs,on a retenu la date du 18 Mai pour l'inauguration et Monsieur André FLEURY,l'éminent organiste de la 
-			   Cathédrale de Dijon viendra tenir l'orgue à cette occasion.Monseigneur LAMY nous fera l'honneur de présider cette 
-			   cérémonie.L'entrée sera gratuite,mais les auditeurs qui voudront s'assurer des places assises auront la possibilité de 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce travail considï¿½rable touche ï¿½ sa fin.Dï¿½jï¿½,l'orgue refait entendre des sons ï¿½claircis 
+			   et plus purs,on a retenu la date du 18 Mai pour l'inauguration et Monsieur Andrï¿½ FLEURY,l'ï¿½minent organiste de la 
+			   Cathï¿½drale de Dijon viendra tenir l'orgue ï¿½ cette occasion.Monseigneur LAMY nous fera l'honneur de prï¿½sider cette 
+			   cï¿½rï¿½monie.L'entrï¿½e sera gratuite,mais les auditeurs qui voudront s'assurer des places assises auront la possibilitï¿½ de 
 			   le faire.On reparlera de tout cela...
 			   </TT>
 		 </font></TD>
@@ -1650,16 +1649,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   Chanoine Jean POULIN
 			   <BR>
-			   Archiprêtre
+			   Archiprï¿½tre
 			   <BR>
-			   de la cathédrale d'Auxerre
+			   de la cathï¿½drale d'Auxerre
 			</FONT>
 			</P>
          </TD>
 		 <TD WIDTH="50%">
 		    <P ALIGN="right">
 			<FONT size=4 color=#FFFFFF>
-			   Auxerre, le 24 février 1953
+			   Auxerre, le 24 fï¿½vrier 1953
 	           <BR>
 			   <BR>
 			   <BR>
@@ -1693,28 +1692,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous avez bien voulu me recevoir à la Mairie le dimanche 28 septembre et je vous avais 
-			   entretenu de la réfection complète des grandes orgues de la Cathédrale après 51 ans de service, puisque ces orgues 
-			   ont été inaugurées le 31 juillet 1901.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous avez bien voulu me recevoir ï¿½ la Mairie le dimanche 28 septembre et je vous avais 
+			   entretenu de la rï¿½fection complï¿½te des grandes orgues de la Cathï¿½drale aprï¿½s 51 ans de service, puisque ces orgues 
+			   ont ï¿½tï¿½ inaugurï¿½es le 31 juillet 1901.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les frais comprennent : le montant du devis atteignant neuf cent quatre vingt dix mille 
-			   francs et l'entretien des organiers durant les travaux, dépense non encore chiffrée.
+			   francs et l'entretien des organiers durant les travaux, dï¿½pense non encore chiffrï¿½e.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La valeur actuelle de l'instrument estimée 14 millions par les experts justifie ces 
-			   dépenses qui le sauvent d'une ruine irrémédiable.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La valeur actuelle de l'instrument estimï¿½e 14 millions par les experts justifie ces 
+			   dï¿½penses qui le sauvent d'une ruine irrï¿½mï¿½diable.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous m'aviez fait espérer qu'une participation de la ville de l'ordre de cent mille francs 
-			   pouvait être envisagée, ces orgues étant propriété communale. La paroisse de la Cathédrale et la Société des Amis de la 
-			   Cathédrale assurent la plus grande partie des frais.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous m'aviez fait espï¿½rer qu'une participation de la ville de l'ordre de cent mille francs 
+			   pouvait ï¿½tre envisagï¿½e, ces orgues ï¿½tant propriï¿½tï¿½ communale. La paroisse de la Cathï¿½drale et la Sociï¿½tï¿½ des Amis de la 
+			   Cathï¿½drale assurent la plus grande partie des frais.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La réfection touche à sa fin et sera terminée, je l'espère, pour Pâques. Le dernier tiers 
-			   du devis, soit 330 000 francs, doit être réglé à la fin du travail aux Etablissements Gutschenritter, de Paris.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La rï¿½fection touche ï¿½ sa fin et sera terminï¿½e, je l'espï¿½re, pour Pï¿½ques. Le dernier tiers 
+			   du devis, soit 330 000 francs, doit ï¿½tre rï¿½glï¿½ ï¿½ la fin du travail aux Etablissements Gutschenritter, de Paris.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je désirerais, vous le comprendrez, savoir si je puis compter sur l'aide dinancière de la 
-			   Ville, échelonnée au besoin en plusieurs échéances.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je dï¿½sirerais, vous le comprendrez, savoir si je puis compter sur l'aide dinanciï¿½re de la 
+			   Ville, ï¿½chelonnï¿½e au besoin en plusieurs ï¿½chï¿½ances.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez, je vous prie, Monsieur le Maire, agréer, l'expression de mes sentiments 
-			   dévoués.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez, je vous prie, Monsieur le Maire, agrï¿½er, l'expression de mes sentiments 
+			   dï¿½vouï¿½s.
 			   <BR>
 			   <BR>
 			   <BR>
@@ -1750,9 +1749,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       En travers dans la marge, deux remarques :
 		    </FONT>
 		    <FONT size=3 color=#FFFFFF>
-		       <I>Vérification à faire
+		       <I>Vï¿½rification ï¿½ faire
 			   <BR>
-			   La Ville est-elle réellement propriétaire ?
+			   La Ville est-elle rï¿½ellement propriï¿½taire ?
 		       <BR>
 			   <BR>
 			   OUI
@@ -1767,7 +1766,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="80%">
 		    <P ALIGN="right">
 			<FONT size=4 color=#FFFFFF>
-			   28 février 1953
+			   28 fï¿½vrier 1953
 			   <BR>
 			   <BR>
 			   <BR>
@@ -1779,21 +1778,21 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Monsieur l'Archiprêtre,
+			   Monsieur l'Archiprï¿½tre,
 			   <BR>
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par votre lettre du 24 février, vous m'avez rappelé la conversation que nous avons eue 
-			   ensemble le dimanche 28 septembre à la Mairie.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par votre lettre du 24 fï¿½vrier, vous m'avez rappelï¿½ la conversation que nous avons eue 
+			   ensemble le dimanche 28 septembre ï¿½ la Mairie.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous m'aviez en effet parlé de la réfection complète des grandes orgues de la Cathédrale.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous m'aviez en effet parlï¿½ de la rï¿½fection complï¿½te des grandes orgues de la Cathï¿½drale.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je serais à Auxerre lundi matin, et au cours de mon rapport de municipalité, j'entretiendrai 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je serais ï¿½ Auxerre lundi matin, et au cours de mon rapport de municipalitï¿½, j'entretiendrai 
 			   mes adjoints de cette question avant de la porter devant le Conseil Municipal.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comptez, Monsieur l'Archiprêtre sur tout mon appui auprès de l'Assemblée communale, et 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comptez, Monsieur l'Archiprï¿½tre sur tout mon appui auprï¿½s de l'Assemblï¿½e communale, et 
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous prie d'agréer, l'expression de mes sentiments distingués et dévoués.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous prie d'agrï¿½er, l'expression de mes sentiments distinguï¿½s et dï¿½vouï¿½s.
 			   <BR>
 			   <BR>
 			   <BR>
@@ -1810,13 +1809,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Député - Maire d'Auxerre
+			   Dï¿½putï¿½ - Maire d'Auxerre
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Président du Conseil Général de l'Yonne
+			   Prï¿½sident du Conseil Gï¿½nï¿½ral de l'Yonne
 			   <BR>
 			   <BR>
 			   <BR>
@@ -1835,9 +1834,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   Monsieur le Chanoine Jean POULIN
 			   <BR>
-			   Archiprêtre de la
+			   Archiprï¿½tre de la
 			   <BR>
-			   Cathédrale
+			   Cathï¿½drale
 			   <BR>
 			   <BR>
 			   AUXERRE -(Yonne)
@@ -1865,65 +1864,55 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="80%">
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			Suit un "extrait du registre des délibérations de Conseil Municipal" dont je ne reproduis pas la mise en forme mais uniquement 
+			Suit un "extrait du registre des dï¿½libï¿½rations de Conseil Municipal" dont je ne reproduis pas la mise en forme mais uniquement 
 			le contenu :
 			<BR>
-			En-tête
+			En-tï¿½te
 			<BR>
-			Département de l'Yonne
+			Dï¿½partement de l'Yonne
 			<BR>
 			Ville d'Auxerre
 			<BR>
-			n° 14
+			nï¿½ 14
 			<BR>
-			Demande de contribution communale à la réfection des orgues de la Cathédrale Saint-Etienne
+			Demande de contribution communale ï¿½ la rï¿½fection des orgues de la Cathï¿½drale Saint-Etienne
 			<BR>
 			<BR>
 			Corps du document :
 			<BR>
 			SEANCE DU 10 AVRIL 1953
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'an mil neuf cent cinquante trois, le 10 avril, à 20 heures 45, le Conseil Municipal de la 
-			Ville d'Auxerre s'est réuni à l'Hotêl de Ville, Grande salle du 1er étage, sous la présidence de M. Jean Moreau, Maire, 
-			Commandeur de la Légion d'Honneur, Croix de Guerre.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'an mil neuf cent cinquante trois, le 10 avril, ï¿½ 20 heures 45, le Conseil Municipal de la 
+			Ville d'Auxerre s'est rï¿½uni ï¿½ l'Hotï¿½l de Ville, Grande salle du 1er ï¿½tage, sous la prï¿½sidence de M. Jean Moreau, Maire, 
+			Commandeur de la Lï¿½gion d'Honneur, Croix de Guerre.
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etaient présents : M. Jean Moreau, Maire, MM. Cuillier, Berthier, Boivin, Melle Hérold, 
-			Adjoints ; MM. Aubin, Bazin, Mme Carré, MM. Thourigny, Augy, Motheré, Chaumier, Flanneau, Darde, Cuffaut, Robin, Souday, 
-			Desleau, Ségard, Perreau, Terrain, Lecland, Conseillers Municipaux.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etaient prï¿½sents : M. Jean Moreau, Maire, MM. Cuillier, Berthier, Boivin, Melle Hï¿½rold, 
+			Adjoints ; MM. Aubin, Bazin, Mme Carrï¿½, MM. Thourigny, Augy, Motherï¿½, Chaumier, Flanneau, Darde, Cuffaut, Robin, Souday, 
+			Desleau, Sï¿½gard, Perreau, Terrain, Lecland, Conseillers Municipaux.
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etaient absents excusés : M. Fourré, Mme Valtat, MM. Mazoyer, Jussot, Mme Simon, Conseillers 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Etaient absents excusï¿½s : M. Fourrï¿½, Mme Valtat, MM. Mazoyer, Jussot, Mme Simon, Conseillers 
 			Municipaux.
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Jussot avait donné pouvoir à un collègue de son groupe de voter en son nom.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Jussot avait donnï¿½ pouvoir ï¿½ un collï¿½gue de son groupe de voter en son nom.
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>M. Cuillier, Président de la Commission des Finances, donne connaissance au Conseil d'une 
-			lettre par laquelle M. le Chanoine Poulin, Archiprêtre de la Cathédrale, expose que la paroisse Saint-Etienne a entrepris 
-			la réfection complète des orgues de la Cathédrale.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>M. Cuillier, Prï¿½sident de la Commission des Finances, donne connaissance au Conseil d'une 
+			lettre par laquelle M. le Chanoine Poulin, Archiprï¿½tre de la Cathï¿½drale, expose que la paroisse Saint-Etienne a entrepris 
+			la rï¿½fection complï¿½te des orgues de la Cathï¿½drale.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les dépenses comprennent : le montant du devis - 990.000 francs - et l'entretien des organiers 
-			pendant la durée des travaux.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les dï¿½penses comprennent : le montant du devis - 990.000 francs - et l'entretien des organiers 
+			pendant la durï¿½e des travaux.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La valeur actuelle de l'instrument - estimée à 14 millions de francs par les experts - justifie 
-			ces dépenses qui le sauvent d'une ruine irrémédiable.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La valeur actuelle de l'instrument - estimï¿½e ï¿½ 14 millions de francs par les experts - justifie 
+			ces dï¿½penses qui le sauvent d'une ruine irrï¿½mï¿½diable.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La paroisse et les fidèles assument la plus grande partie des frais.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La paroisse et les fidï¿½les assument la plus grande partie des frais.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les grandes orgues de la Cathédrale, inaugurées le 31 juillet 1901, sont propriété communale 
-			et M. le Chanoine Poulin demande que la Ville participe à leur réfection pour une somme de 100.000 francs.
-			<BR>
-			<center>o
-			<BR>
-			o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o
-			<BR>
-			o
-			<BR>
-			</center>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Commission, après examen de cette question, a estimé que la contribution demandée devait 
-			être accordée et elle propose au Conseil d'en décider ainsi.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les grandes orgues de la Cathï¿½drale, inaugurï¿½es le 31 juillet 1901, sont propriï¿½tï¿½ communale 
+			et M. le Chanoine Poulin demande que la Ville participe ï¿½ leur rï¿½fection pour une somme de 100.000 francs.
 			<BR>
 			<center>o
 			<BR>
@@ -1932,10 +1921,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			o
 			<BR>
 			</center>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les conclusions du rapport sont adoptées.
-			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dépense sera imputée sur le crédit figurant au Budget Primitif de l'exercice 1953 - 
-			Chapitre XIX - article 2 - pour "Entretien des propriétés communales".
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Commission, aprï¿½s examen de cette question, a estimï¿½ que la contribution demandï¿½e devait 
+			ï¿½tre accordï¿½e et elle propose au Conseil d'en dï¿½cider ainsi.
 			<BR>
 			<center>o
 			<BR>
@@ -1944,11 +1931,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			o
 			<BR>
 			</center>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Souday, estimant que l'usage des orgues n'intéresse pas la généralité des habitants, a 
-			voté contre.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les conclusions du rapport sont adoptï¿½es.
+			<BR>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dï¿½pense sera imputï¿½e sur le crï¿½dit figurant au Budget Primitif de l'exercice 1953 - 
+			Chapitre XIX - article 2 - pour "Entretien des propriï¿½tï¿½s communales".
+			<BR>
+			<center>o
+			<BR>
+			o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o
+			<BR>
+			o
+			<BR>
+			</center>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Souday, estimant que l'usage des orgues n'intï¿½resse pas la gï¿½nï¿½ralitï¿½ des habitants, a 
+			votï¿½ contre.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Fait et délibéré les jour, mois et an que dessus.
+			Fait et dï¿½libï¿½rï¿½ les jour, mois et an que dessus.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1977,7 +1976,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			Tampon de la Ville et signature de J Cuillier
 			<BR>
 			<BR>
-			Approuvé dans la marge, par le Préfet de l'Yonne, le 6 mai 1953
+			Approuvï¿½ dans la marge, par le Prï¿½fet de l'Yonne, le 6 mai 1953
 			</FONT>
 			</P>
 		</TD>
@@ -2004,9 +2003,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   Chanoine Jean POULIN
 			   <BR>
-			   Archiprêtre
+			   Archiprï¿½tre
 			   <BR>
-			   de la Cathédrale d'Auxerre
+			   de la Cathï¿½drale d'Auxerre
 			</FONT>
 			</P>
          </TD>
@@ -2048,13 +2047,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'ai l'honneur de vous inviter à l'inauguration des grandes orgues restaurées de la 
-			   Cathédrale qui aura lieu le mardi 18 mai à 21 heures. Un récital sera donné par le maître organiste Fleury, de Dijon.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'ai l'honneur de vous inviter ï¿½ l'inauguration des grandes orgues restaurï¿½es de la 
+			   Cathï¿½drale qui aura lieu le mardi 18 mai ï¿½ 21 heures. Un rï¿½cital sera donnï¿½ par le maï¿½tre organiste Fleury, de Dijon.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous serais reconnaissant de bien vouloir transmettre cette invitation à Messieurs 
-			   les Conseillers municipaux et de me faire savoir le nombre de places réservées que je devrai adresser à chacun
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous serais reconnaissant de bien vouloir transmettre cette invitation ï¿½ Messieurs 
+			   les Conseillers municipaux et de me faire savoir le nombre de places rï¿½servï¿½es que je devrai adresser ï¿½ chacun
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez agréer, Monsieur le Maire, l'assurance de mes sentiments dévoués.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez agrï¿½er, Monsieur le Maire, l'assurance de mes sentiments dï¿½vouï¿½s.
 			   <BR>
 			   <BR>
 			   <BR>
@@ -2098,12 +2097,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			<P ALIGN="left">
 			<FONT size=4 color=#FFFFFF>
-			   Le Député-Maire d'Auxerre
+			   Le Dï¿½putï¿½-Maire d'Auxerre
 			   <BR>
 			   <BR>
-			   à Monsieur le Chanoine POULIN
+			   ï¿½ Monsieur le Chanoine POULIN
 			   <BR>
-			   Archiprêtre de la Cathédrale
+			   Archiprï¿½tre de la Cathï¿½drale
 			</FONT>
 			</P>
 		 </TD>  
@@ -2130,21 +2129,21 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<FONT size=4 color=#FFFFFF>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Monsieur l'Archiprêtre
+			   Monsieur l'Archiprï¿½tre
 			   <BR>
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'ai l'honneur d'accuser réception de votre lettre du 30 écoulé, par laquelle vous avez 
-			   bien voulu inviter les membres du Conseil Municipal d'Auxerre à l'inauguration des grandes orgues restaurées de la 
-			   Cathédrale.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'ai l'honneur d'accuser rï¿½ception de votre lettre du 30 ï¿½coulï¿½, par laquelle vous avez 
+			   bien voulu inviter les membres du Conseil Municipal d'Auxerre ï¿½ l'inauguration des grandes orgues restaurï¿½es de la 
+			   Cathï¿½drale.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par même courrier, j'ai transmis votre aimable invitation à mes collègues de l'Assemblée 
-			   communale en les priant de vous adresser directement leur réponse.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par mï¿½me courrier, j'ai transmis votre aimable invitation ï¿½ mes collï¿½gues de l'Assemblï¿½e 
+			   communale en les priant de vous adresser directement leur rï¿½ponse.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous serais obligé de bien vouloir réserver cinq places pour la Municipalité, qui 
-			   sera certainement représentée à cette manifestation.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous serais obligï¿½ de bien vouloir rï¿½server cinq places pour la Municipalitï¿½, qui 
+			   sera certainement reprï¿½sentï¿½e ï¿½ cette manifestation.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez agréer, Monsieur l'Archiprêtre, l'assurance de mes sentiments très distingués.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez agrï¿½er, Monsieur l'Archiprï¿½tre, l'assurance de mes sentiments trï¿½s distinguï¿½s.
 			   <BR>
 			   <BR>
 			   <BR>
@@ -2182,16 +2181,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   </TD>
 		   <TD WIDTH="40%">
 		      <CENTER>
-		         <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Fleury1_1.jpg','GrandeImage60','width=700,height=700')">
-				 <img src="Cathedrale/Fleury1.jpg" width="329" height="500" border="0"></a>
+		         <!-- <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Fleury1_1.jpg','GrandeImage60','width=700,height=700')">
+				 <img src="Cathedrale/Fleury1.jpg" width="329" height="500" border="0"></a> -->
 				 <BR>
 				 Programme
 			  </CENTER>
 		   </TD>
 		   <TD WIDTH="40%">
 		      <CENTER>
-		         <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Fleury2_1.jpg','GrandeImage61','width=700,height=700')">
-				 <img src="Cathedrale/Fleury2.jpg" width="329" height="500" border="0"></a>
+		         <!-- <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Fleury2_1.jpg','GrandeImage61','width=700,height=700')">
+				 <img src="Cathedrale/Fleury2.jpg" width="329" height="500" border="0"></a> -->
 				 <BR>
 				 d'inauguration 
 			  </CENTER>
@@ -2219,9 +2218,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="80%">
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   Cet instrument de 3 claviers manuels de 56 notes et un Pédalier de 30 notes, entièrement pneumatique à transmission 
-			   tubulaire y compris les systèmes de doubles registrations et de tirages des jeux à la console, comportait alors 46 
-			   registres répartis comme suit :
+			   Cet instrument de 3 claviers manuels de 56 notes et un Pï¿½dalier de 30 notes, entiï¿½rement pneumatique ï¿½ transmission 
+			   tubulaire y compris les systï¿½mes de doubles registrations et de tirages des jeux ï¿½ la console, comportait alors 46 
+			   registres rï¿½partis comme suit :
 			</FONT>
 			</P>
 		</TD>
@@ -2437,22 +2436,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Combinaison préparée fixe I
+			   Combinaison prï¿½parï¿½e fixe I
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Appel de TUTTI
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Combinaison préparée fixe II
+			   Combinaison prï¿½parï¿½e fixe II
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Appel de Tremolo Recit
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Combinaison préparée fixe III
+			   Combinaison prï¿½parï¿½e fixe III
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Combinaison préparée fixe IV  
+			   Combinaison prï¿½parï¿½e fixe IV  
 			</FONT>
 			</P>
 		</TD>
@@ -2476,22 +2475,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="80%">
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   Cet instrument remplit son office sans inconvénients majeurs pour l'époque convenablement entretenu et régulièrement 
-			   révisé, l'entretien ayant été confié après la guerre 39-45 au facteur G. GUTSCHENRITTER qui excellait de par la 
+			   Cet instrument remplit son office sans inconvï¿½nients majeurs pour l'ï¿½poque convenablement entretenu et rï¿½guliï¿½rement 
+			   rï¿½visï¿½, l'entretien ayant ï¿½tï¿½ confiï¿½ aprï¿½s la guerre 39-45 au facteur G. GUTSCHENRITTER qui excellait de par la 
 			   qualification de son personnel dans ce type de fabrication pneumatique.
 			   <BR>
 			   <BR>
-			   LE 13 Septembre 1952, La Maison G. DUTSCHENRITTER DE PARIS, propose une transformation de l'instrument, adaptée à 
-			   l'évolution sonore de l'orgue à cette époque. Le projet est adopté et exécuté par leurs soins. Il s'agit là de 
-			   transformations de jeux et de modifications pour éclaircir l'orgue. (Il est probable qu'il s'est agi également de 
-			   réparations de membranes dont les peaux devenaient défaillantes). Voici la nouvelle composition après travaux :
+			   LE 13 Septembre 1952, La Maison G. DUTSCHENRITTER DE PARIS, propose une transformation de l'instrument, adaptï¿½e ï¿½ 
+			   l'ï¿½volution sonore de l'orgue ï¿½ cette ï¿½poque. Le projet est adoptï¿½ et exï¿½cutï¿½ par leurs soins. Il s'agit lï¿½ de 
+			   transformations de jeux et de modifications pour ï¿½claircir l'orgue. (Il est probable qu'il s'est agi ï¿½galement de 
+			   rï¿½parations de membranes dont les peaux devenaient dï¿½faillantes). Voici la nouvelle composition aprï¿½s travaux :
 			   <BR>
 			   <BR>
 			   <BR>
 			   <U>NOUVELLE COMPOSITION DE L'ORGUE APRES TRAVAUX EN 1952</U>
 			   <BR>
 			   <BR>
-			   (Voir note dactylographiée concernant l'orgue quelques jours avant l'Inauguration par André FLEURY).
+			   (Voir note dactylographiï¿½e concernant l'orgue quelques jours avant l'Inauguration par Andrï¿½ FLEURY).
 			</FONT>
 			</P>
 		</TD>
@@ -2679,7 +2678,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="80%">
 		    <p align="justify">
 			<FONT size=4 color=#FFFFFF>
-			   Mêmes combinaisons que sur la composition initiale
+			   Mï¿½mes combinaisons que sur la composition initiale
 			   <BR>
 			   <BR>
 			   <NR>
@@ -2708,7 +2707,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <TD WIDTH="40%">
 		      <CENTER>
 		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Grunenwald1_1.jpg','GrandeImage62','width=700,height=700')">//-->
-				 <img src="Cathedrale/Grunenwald1.jpg" width="240" height="500" border="0"></a>
+				 <!-- <img src="Cathedrale/Grunenwald1.jpg" width="240" height="500" border="0"></a> -->
 				 <BR>
 				 Quelques
 			  </CENTER>
@@ -2716,7 +2715,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <TD WIDTH="40%">
 		      <CENTER>
 		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Grunenwald2_1.jpg','GrandeImage63','width=700,height=700')">//-->
-				 <img src="Cathedrale/Grunenwald2.jpg" width="324" height="500" border="0"></a>
+				 <!-- <img src="Cathedrale/Grunenwald2.jpg" width="324" height="500" border="0"></a> -->
 				 <BR>
 				 archives 
 			  </CENTER>
@@ -2733,7 +2732,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <TD WIDTH="40%">
 		      <CENTER>
 		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Durufl&#233;1_1.jpg','GrandeImage64','width=700,height=700')">//-->
-				 <img src="Cathedrale/Duruflé1.jpg" width="350" height="265" border="0"></a>
+				 <!-- <img src="Cathedrale/Duruflï¿½1.jpg" width="350" height="265" border="0"></a> -->
 				 <BR>
 				 ...
 			  </CENTER>
@@ -2741,7 +2740,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <TD WIDTH="40%">
 		      <CENTER>
 		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Durufl&#233;2_1.jpg','GrandeImage65','width=700,height=700')">//-->
-				 <img src="Cathedrale/Duruflé2.jpg" width="375" height="265" border="0"></a>
+				 <!-- <img src="Cathedrale/Duruflï¿½2.jpg" width="375" height="265" border="0"></a> -->
 				 <BR>
 				 ... 
 			  </CENTER>
@@ -2771,11 +2770,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   La Composition de l'orgue.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'orgue comprend trois claviers manuels et un pédalier.Les claviers manuels comprennent 
-			   chacun 56 notes,c'est à dire 4 octaves et 1/2 allant de l'ut grâve au sol aigu.Le pédalier comprend 30 notes 
-			   <S>allant</S>c'est à dire <S>deux</S>2 octaves et 1/2 allant de l'ut grâve au <S>sol.</S> fa.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'orgue comprend trois claviers manuels et un pï¿½dalier.Les claviers manuels comprennent 
+			   chacun 56 notes,c'est ï¿½ dire 4 octaves et 1/2 allant de l'ut grï¿½ve au sol aigu.Le pï¿½dalier comprend 30 notes 
+			   <S>allant</S>c'est ï¿½ dire <S>deux</S>2 octaves et 1/2 allant de l'ut grï¿½ve au <S>sol.</S> fa.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le premier clavier commande les jeux du récit,seuls jeux expressifs de cet instrument.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le premier clavier commande les jeux du rï¿½cit,seuls jeux expressifs de cet instrument.
 			   Voici la composition de ce clavier:
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2788,7 +2787,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Flute octaviante 4
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Carillon 1 à 4 rgs
+			   Carillon 1 ï¿½ 4 rgs
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Fournitures 3 rgs
@@ -2803,7 +2802,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Gambe 8
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Voix céleste 8
+			   Voix cï¿½leste 8
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Quintaton 16
@@ -2821,7 +2820,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Trompette harmonique 8
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le deuxième clavier commande les jeux du grand orgue dont voici la composition:
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le deuxiï¿½me clavier commande les jeux du grand orgue dont voici la composition:
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Doublette 2
@@ -2866,7 +2865,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Clairon 4
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le troisième clavier commande les jeux du positif dont voici la composition.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le troisiï¿½me clavier commande les jeux du positif dont voici la composition.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Tierce 1 3/5
@@ -2881,7 +2880,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Flute ocarina 4
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Flute traversière 8
+			   Flute traversiï¿½re 8
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Bourdon 8
@@ -2896,7 +2895,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Trompette douce 8
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Voici la composition des jeux réels du pédalier:
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Voici la composition des jeux rï¿½els du pï¿½dalier:
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Flute 4
@@ -2929,41 +2928,41 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Bombardon 32
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les registres sont doublés de façon à pouvoir préparer un changement de combinaison 
-			   dont l'appel se fait par un domino groupé avec ceux des tirasses.A ce propos notons qu'un des inconvénients majeurs 
-			   de cet instrument c'est que tous les appels de combinaisons et tirasses sont au manuel.Ils sont commandés par dominos 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les registres sont doublï¿½s de faï¿½on ï¿½ pouvoir prï¿½parer un changement de combinaison 
+			   dont l'appel se fait par un domino groupï¿½ avec ceux des tirasses.A ce propos notons qu'un des inconvï¿½nients majeurs 
+			   de cet instrument c'est que tous les appels de combinaisons et tirasses sont au manuel.Ils sont commandï¿½s par dominos 
 			   dont voici la liste.
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Tirasse 1er Clavier pédalier
+			   Tirasse 1er Clavier pï¿½dalier
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Tirasse ème clavier pédalier
+			   Tirasse ï¿½me clavier pï¿½dalier
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Tirasse 3ème clavier pédalier
+			   Tirasse 3ï¿½me clavier pï¿½dalier
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Accouplement positif grand orgue
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Accouplement <S>positif</S> récit grand orgue
+			   Accouplement <S>positif</S> rï¿½cit grand orgue
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Accouplement récit positif
+			   Accouplement rï¿½cit positif
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Accouplement octave aigu grand orgue
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Accouplement octave aigu récit
+			   Accouplement octave aigu rï¿½cit
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Accouplement <S>grave récit</S> octave grave récit
+			   Accouplement <S>grave rï¿½cit</S> octave grave rï¿½cit
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Accouplement octave grave récit au grand orgue
+			   Accouplement octave grave rï¿½cit au grand orgue
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Appel des anches au positif
@@ -2972,10 +2971,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Appel des anches au grand orgue
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Appel des anches au récit
+			   Appel des anches au rï¿½cit
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Appel des anches à la pédale
+			   Appel des anches ï¿½ la pï¿½dale
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Composition positif
@@ -2984,40 +2983,40 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   Composition Grand orgue
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Composition récit
+			   Composition rï¿½cit
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Composition pédale
+			   Composition pï¿½dale
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Appel de forte général(tous les jeux)
+			   Appel de forte gï¿½nï¿½ral(tous les jeux)
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Trémolo récit
+			   Trï¿½molo rï¿½cit
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La transmission est pneumatique d'où attaque des notes délicate car très sensible.Ce 
-			   système ne récolte pas la faveur des solistes ni des facteurs d'orgue.Il est difficile à régler et même bien réglé 
-			   il expose les organistes concertistes aux plus hasardeuses aventures.De plus,même si l'on devait concerver ce genre 
-			   de transmission une restauration complète serait nécessaire,son état d'usure étant à toute extrémité.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La transmission est pneumatique d'oï¿½ attaque des notes dï¿½licate car trï¿½s sensible.Ce 
+			   systï¿½me ne rï¿½colte pas la faveur des solistes ni des facteurs d'orgue.Il est difficile ï¿½ rï¿½gler et mï¿½me bien rï¿½glï¿½ 
+			   il expose les organistes concertistes aux plus hasardeuses aventures.De plus,mï¿½me si l'on devait concerver ce genre 
+			   de transmission une restauration complï¿½te serait nï¿½cessaire,son ï¿½tat d'usure ï¿½tant ï¿½ toute extrï¿½mitï¿½.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nous souhaiterions quelques compléments dans les mixtures et quelques ajouts de jeux 
-			   anciens.Par contre nous ne pensons <I>pas</I> que des suppressions de jeux soient nécessaires.Le répertoire romantique 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nous souhaiterions quelques complï¿½ments dans les mixtures et quelques ajouts de jeux 
+			   anciens.Par contre nous ne pensons <I>pas</I> que des suppressions de jeux soient nï¿½cessaires.Le rï¿½pertoire romantique 
 			   et contemporain exige le minimum existant.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par contre si aucune suppression n'est souhaitable l'harmonisation de tout 
-			   l'ensemble est nécessaire.
+			   l'ensemble est nï¿½cessaire.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant au mode de transmission il n'existe que deux solution possibles;l'électrification ou 
-			   la mécanisation.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant au mode de transmission il n'existe que deux solution possibles;l'ï¿½lectrification ou 
+			   la mï¿½canisation.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'électrification offre l'avantage de nécessiter aucun changement dans la disposition 
-			   intérieure de l'orgue actuel mais offre également l'inconvénient d'une durée limité et d'une vulnérabilité importante 
-			   aux intempéries (et même aux animaux rongeurs.).
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'ï¿½lectrification offre l'avantage de nï¿½cessiter aucun changement dans la disposition 
+			   intï¿½rieure de l'orgue actuel mais offre ï¿½galement l'inconvï¿½nient d'une durï¿½e limitï¿½ et d'une vulnï¿½rabilitï¿½ importante 
+			   aux intempï¿½ries (et mï¿½me aux animaux rongeurs.).
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La transmission mécanique ayant fait ses preuves aux cours des siècles,et l'adoption de de 
-			   système <S>par</S> pour la restauration d'orgues précédemments électrifiés nous pensons que la sagesse réside dans le 
-			   choix de cette éventualité.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La transmission mï¿½canique ayant fait ses preuves aux cours des siï¿½cles,et l'adoption de de 
+			   systï¿½me <S>par</S> pour la restauration d'orgues prï¿½cï¿½demments ï¿½lectrifiï¿½s nous pensons que la sagesse rï¿½side dans le 
+			   choix de cette ï¿½ventualitï¿½.
 			   </TT>
 			   <BR>
 			   <BR>
@@ -3041,10 +3040,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <TR>
 	     <TD WIDTH="100%">
 		    <CENTER>
-			   <H1>Fin de la Troisième Partie</H1>
+			   <H1>Fin de la Troisiï¿½me Partie</H1>
 			   <HR WIDTH="80%">
-			   <H2>Supplément aux Corrections & Additions
-			   <BR>de la Deuxième Partie</H2>
+			   <H2>Supplï¿½ment aux Corrections & Additions
+			   <BR>de la Deuxiï¿½me Partie</H2>
 			   <BR>
                <BR>
                <BR>
@@ -3054,7 +3053,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                <BR>
                <BR>
 			   <HR WIDTH="80%">
-			   <H2>Corrections & Additions de la Troisième Partie</H2>
+			   <H2>Corrections & Additions de la Troisiï¿½me Partie</H2>
 			   <BR>
 			   <BR>
 			   <BR>

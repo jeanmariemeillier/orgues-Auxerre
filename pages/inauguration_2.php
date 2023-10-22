@@ -1,11 +1,11 @@
 <html>
 <head>
-<title>Des soumissions à l'inauguration II</title>
+<title>Des soumissions ï¿½ l'inauguration II</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="content-Language" content="fr">
-<meta name="description" content="Histoire des Orgues de la Cathédrale d'Auxerre en France">
+<meta name="description" content="Histoire des Orgues de la Cathï¿½drale d'Auxerre en France">
 <meta name="Auteur" content="Jean-Marie MEILLIER">
-<SCRIPT language = JavaScript>
+<!-- <SCRIPT language = JavaScript>
 <!--
 function dblclick()
    {
@@ -21,7 +21,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</SCRIPT>
+</SCRIPT> -->
 </head>
 
 <body bgcolor="#008AAE" text="#FFFFFF">
@@ -33,7 +33,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD WIDTH="100%">
 		    <CENTER>
 			   <H1><I>LES ORGUES</I></H1>
-			   <H1><I>de la Cathédrale</I></H1>
+			   <H1><I>de la Cathï¿½drale</I></H1>
 			   <H1><I>d'Auxerre</I></H1>
 			</CENTER>
          </TD>
@@ -45,9 +45,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD>
 		    <CENTER>
                <BR>			
-			   <H2>Quatrième partie</H2>
+			   <H2>Quatriï¿½me partie</H2>
 			   <img src="Vignettes3/Gothique_4.jpg" width="789" height="128">
-			   <H2>Chapitre deuxième</H2>
+			   <H2>Chapitre deuxiï¿½me</H2>
 			</CENTER>
 		</TD>
       </TR>
@@ -62,7 +62,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="80%">
 		    <FONT size=5 color=#FFFFFF>
 			<P ALIGN="CENTER">
-               <I>A partir de ce chapitre, beaucoup de documents insérés sont des coupures de presse.
+               <I>A partir de ce chapitre, beaucoup de documents insï¿½rï¿½s sont des coupures de presse.
 			   <BR>
 			   Ce n'est pas toute la presse -je n'en ai pas eu connaissance- mais seulement ce que j'ai pu collecter.</I>
 			</P>
@@ -91,42 +91,42 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <FONT size="7">AUXERRE,</FONT>
 			   <BR>
-			   <FONT size="6">sa cathédrale... ses orgues</FONT>
+			   <FONT size="6">sa cathï¿½drale... ses orgues</FONT>
 			   <BR>
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   <B>Auxerre. - &#8220;</B> Auxerre et sa cathédrale <B>&#8221;</B> 
-			   est une édition due à l'association des Amis des orgues de l'Auxerrois qui a fait sortir de l'imprimerie un texte écrit par 
-			   Henri Forestier	et excellemment illustré par les éditions Lécuyer de Lyon.
+			   <B>Auxerre. - &#8220;</B> Auxerre et sa cathï¿½drale <B>&#8221;</B> 
+			   est une ï¿½dition due ï¿½ l'association des Amis des orgues de l'Auxerrois qui a fait sortir de l'imprimerie un texte ï¿½crit par 
+			   Henri Forestier	et excellemment illustrï¿½ par les ï¿½ditions Lï¿½cuyer de Lyon.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   C'est en présence des membres du bureau de l'association, du facteur d'orgues Oberthur de Saintes et du maire d'Auxerre 
-			   que l'abbé Boisseau devait faire la présentation officielle de l'ouvrage, qui sera vendu au profit de la restauration du 
-			   grand orgue de la cathédrale Saint-Etienne d'Auxerre.
+			   C'est en prï¿½sence des membres du bureau de l'association, du facteur d'orgues Oberthur de Saintes et du maire d'Auxerre 
+			   que l'abbï¿½ Boisseau devait faire la prï¿½sentation officielle de l'ouvrage, qui sera vendu au profit de la restauration du 
+			   grand orgue de la cathï¿½drale Saint-Etienne d'Auxerre.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Il la faisait en ces termes :
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo;J'ai relevé, dans <I>L'Echo d'Auxerre</I> de la l'année 1967, quelques phrases écrites par J-P. Rocher qui diait d'
-			   Henri Forestier qu'il était plus un silencieux qu'un taciturne méditant dans l'hôtel des Archives de la rue Cochois <I> les 
-			   mains dans le dos</I>. Personnellement, je le revois déambulant dans la même attitude à la messe de 10 heures, le dimanche 
-			   matin, dans la cathédrale ou à la librairie Staub, pratiquement tous les jours de la semaine. Il disait d'ailleurs qu'Henri 
-			   Forestier excellait à fournir des articles où se mêlaient, dans les plus judicieuses proportions, la rigueur scientifique, la 
-			   vulgarisation du meilleur aloi, la finesse de l'homme d'esprit et d'humour de notre basse Bourgogne. Le détail pittoresque, 
-			   la notation apparemment la plus anodine, issus de notre terroir dont il était lui-même originaire et tant imprégné, avaient 
-			   valeur de témoignage sur la vie du passé. Cet homme, avec sa modestie naturelle, nous laisse un témoignage du passé parce 
-			   qu'il était en même temps un historien de haute valeur et le meilleur connaisseur du passé de notre région. Merci à M. Claude 
-			   Hohl qui nous a transmis ce manuscrit inachevé et à Mme Forestier qui nous a généreusement encouragés.&raquo;
+			   &laquo;J'ai relevï¿½, dans <I>L'Echo d'Auxerre</I> de la l'annï¿½e 1967, quelques phrases ï¿½crites par J-P. Rocher qui diait d'
+			   Henri Forestier qu'il ï¿½tait plus un silencieux qu'un taciturne mï¿½ditant dans l'hï¿½tel des Archives de la rue Cochois <I> les 
+			   mains dans le dos</I>. Personnellement, je le revois dï¿½ambulant dans la mï¿½me attitude ï¿½ la messe de 10 heures, le dimanche 
+			   matin, dans la cathï¿½drale ou ï¿½ la librairie Staub, pratiquement tous les jours de la semaine. Il disait d'ailleurs qu'Henri 
+			   Forestier excellait ï¿½ fournir des articles oï¿½ se mï¿½laient, dans les plus judicieuses proportions, la rigueur scientifique, la 
+			   vulgarisation du meilleur aloi, la finesse de l'homme d'esprit et d'humour de notre basse Bourgogne. Le dï¿½tail pittoresque, 
+			   la notation apparemment la plus anodine, issus de notre terroir dont il ï¿½tait lui-mï¿½me originaire et tant imprï¿½gnï¿½, avaient 
+			   valeur de tï¿½moignage sur la vie du passï¿½. Cet homme, avec sa modestie naturelle, nous laisse un tï¿½moignage du passï¿½ parce 
+			   qu'il ï¿½tait en mï¿½me temps un historien de haute valeur et le meilleur connaisseur du passï¿½ de notre rï¿½gion. Merci ï¿½ M. Claude 
+			   Hohl qui nous a transmis ce manuscrit inachevï¿½ et ï¿½ Mme Forestier qui nous a gï¿½nï¿½reusement encouragï¿½s.&raquo;
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   M. Soisson devait se féliciter doublement de voir et la sortie de ce livre sur Auxerre et sa cathédrale et enfin le départ de la 
-			   restaurations du grand orgue de la cathédrale qui sera l'instrument que les organistes attendent et au profit duquel la 
-			   plaquette a été éditée.
+			   M. Soisson devait se fï¿½liciter doublement de voir et la sortie de ce livre sur Auxerre et sa cathï¿½drale et enfin le dï¿½part de la 
+			   restaurations du grand orgue de la cathï¿½drale qui sera l'instrument que les organistes attendent et au profit duquel la 
+			   plaquette a ï¿½tï¿½ ï¿½ditï¿½e.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   On le trouve aux principaux points de vente habituels, en librairie, ou en écrivant aux Amis des orgues de l'Auxerrois, 1, rue 
-			   Joubert, à Auxerre. <B>- M.-A. PIAT.</B>
+			   On le trouve aux principaux points de vente habituels, en librairie, ou en ï¿½crivant aux Amis des orgues de l'Auxerrois, 1, rue 
+			   Joubert, ï¿½ Auxerre. <B>- M.-A. PIAT.</B>
             </P>
 			</FONT>
 		 </TD>
@@ -145,19 +145,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   Nous empruntons aux &laquo;Annales de l'Yonne&raquo;, parues en octobre 1966, un &laquo;in memoriam&raquo; à Henri 
-			   Forestier, qui rejoint dans l'unanimité ceux faits à l'époque par Léon Noël, Paul Richard, J.-P. Rocher.
+			   Nous empruntons aux &laquo;Annales de l'Yonne&raquo;, parues en octobre 1966, un &laquo;in memoriam&raquo; ï¿½ Henri 
+			   Forestier, qui rejoint dans l'unanimitï¿½ ceux faits ï¿½ l'ï¿½poque par Lï¿½on Noï¿½l, Paul Richard, J.-P. Rocher.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo; Il était pour nous l'homme d'un pays et d'un département. Fils d'un médecin de Seignelay, où il était né le 23 
-			   novembre 1904, il était entré à l'école des Chartes en 1922.
+			   &laquo; Il ï¿½tait pour nous l'homme d'un pays et d'un dï¿½partement. Fils d'un mï¿½decin de Seignelay, oï¿½ il ï¿½tait nï¿½ le 23 
+			   novembre 1904, il ï¿½tait entrï¿½ ï¿½ l'ï¿½cole des Chartes en 1922.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo; En 1926, la thèse qu'il soutenait était consacrée aux seigneurs de Seignelay : deux  Bourguignons au service du 
+			   &laquo; En 1926, la thï¿½se qu'il soutenait ï¿½tait consacrï¿½e aux seigneurs de Seignelay : deux  Bourguignons au service du 
 			   Roi de France et la vie politique de Philippe et de Charles de Savoisy.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo; Sa carrière d'archiviste, sauf quatre années passées à Albi, allait tout entière se dérouler à
+			   &laquo; Sa carriï¿½re d'archiviste, sauf quatre annï¿½es passï¿½es ï¿½ Albi, allait tout entiï¿½re se dï¿½rouler ï¿½
 			</P>
 			</FONT>
 		 </TD>
@@ -167,27 +167,27 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD width="26%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			    Auxerre où il 
-			   était nommé en 1932, dans ce cadre un peu vieillot mais si agréable de l'Hôtel de la rue Cochois.
+			    Auxerre oï¿½ il 
+			   ï¿½tait nommï¿½ en 1932, dans ce cadre un peu vieillot mais si agrï¿½able de l'Hï¿½tel de la rue Cochois.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo; De 1932 à 1966, Henri Forestier a marqué profondément son passage à la tête du dépôt auxerrois. Son nom rejoint 
-			   celui des grands prédécesseurs, les Quantin et les Porée.
+			   &laquo; De 1932 ï¿½ 1966, Henri Forestier a marquï¿½ profondï¿½ment son passage ï¿½ la tï¿½te du dï¿½pï¿½t auxerrois. Son nom rejoint 
+			   celui des grands prï¿½dï¿½cesseurs, les Quantin et les Porï¿½e.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo; Il possédait au plus haut degré un tempérament d'historien. Historien de l'Auxerrois, historien de l'Yonne : sa 
-			   modestie ne lui aurait pas permis de traiter des sujets dépassant les limites où il estimait devoir s'enfermer.
+			   &laquo; Il possï¿½dait au plus haut degrï¿½ un tempï¿½rament d'historien. Historien de l'Auxerrois, historien de l'Yonne : sa 
+			   modestie ne lui aurait pas permis de traiter des sujets dï¿½passant les limites oï¿½ il estimait devoir s'enfermer.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   &laquo; Membre de la Société des sciences dès 1933, il en devint le président en 1956, succédant à un autre grand disparu, 
+			   &laquo; Membre de la Sociï¿½tï¿½ des sciences dï¿½s 1933, il en devint le prï¿½sident en 1956, succï¿½dant ï¿½ un autre grand disparu, 
 			   Paul Berthier. &raquo;
 			</P>
 			</FONT>
 		 </TD>
 		 <TD width="27%">
 		    <CENTER>
-		       <a href="javascript:;" onClick="MM_openBrWindow('Documents/H_Forestier_1.jpg','GrandeImage80','width=700,height=700')">
-			   <Img src="Documents/H_Forestier.jpg" border="0"></a>
+		       <!-- <a href="javascript:;" onClick="MM_openBrWindow('Documents/H_Forestier_1.jpg','GrandeImage80','width=700,height=700')">
+			   <Img src="Documents/H_Forestier.jpg" border="0"></a> -->
 			   <BR>
 			   <BR>
 			   <BR>
@@ -215,7 +215,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   VENDREDI 4 JUIN 1982
 			   <BR>
 			   <BR>
-			   <FONT size="6">Amener &laquo;l'orgue à hauteur de vue&raquo;</FONT>
+			   <FONT size="6">Amener &laquo;l'orgue ï¿½ hauteur de vue&raquo;</FONT>
 			   <BR>
 			   <FONT size="5">C'est un objectif du Centre culturel de l'Yonne</FONT>
 			</P>
@@ -232,14 +232,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          <FONT size=3 color=#FFFFFF>
 		 <p align="justify">	   
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<B>Auxerre. - </B>Le Centre culturel de l'Yonne et son directeur, Claude Smsen, se sont donné cette saison, comme objectif, 
-			de faire découvrir l'orgue aux Icaunais.
+			<B>Auxerre. - </B>Le Centre culturel de l'Yonne et son directeur, Claude Smsen, se sont donnï¿½ cette saison, comme objectif, 
+			de faire dï¿½couvrir l'orgue aux Icaunais.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Ce merveilleux instrument à vent et à clavier qui a joué un rôle considérable dans l'histoire de la musique est, il faut 
-			bien le dire, totalement inconnu  du grand public. On admire son architecture, là-bas, au fond de la maîtresse nef, 
-			suspendu comme un nid d'hirondelle ou posé sur un jubé ou une tribune ; au-dessus du maître-autel. On apprécie ses 
-			débauches d'harmonie
+			Ce merveilleux instrument ï¿½ vent et ï¿½ clavier qui a jouï¿½ un rï¿½le considï¿½rable dans l'histoire de la musique est, il faut 
+			bien le dire, totalement inconnu  du grand public. On admire son architecture, lï¿½-bas, au fond de la maï¿½tresse nef, 
+			suspendu comme un nid d'hirondelle ou posï¿½ sur un jubï¿½ ou une tribune ; au-dessus du maï¿½tre-autel. On apprï¿½cie ses 
+			dï¿½bauches d'harmonie
          </P>
 		 </FONT>
       </td>
@@ -248,14 +248,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <p align="justify">
 		    <BR>
 		    <BR>		   
-			les jours de fête, on est ému par ses sons lancinants les jours de deuil. Mais c'est tout.
+			les jours de fï¿½te, on est ï¿½mu par ses sons lancinants les jours de deuil. Mais c'est tout.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Précisément, le Centre culturel de l'Yonne, fidèle à sa vocation, tente, depuis plusieurs mois, de faire découvrir l'
-			instrument à travers une exposition itinérante parmi les écoles. Actuellement, cette exposition est au C.E.S. Denfert-
-			Rochereau d'Auxerre. La semaine prochaine, elle rejoindra le collège Bienvenu-Martin, puis ceux de Saint-Florentin et 
-			Brienon, avant d'être présentée au public en juillet, au siège de la B.P.Y., à Perrigny, puis au centre administratif de 
-			Saint-Florentin, avant de prendre, à la rentrée, la route de Vezelay.
+			Prï¿½cisï¿½ment, le Centre culturel de l'Yonne, fidï¿½le ï¿½ sa vocation, tente, depuis plusieurs mois, de faire dï¿½couvrir l'
+			instrument ï¿½ travers une exposition itinï¿½rante parmi les ï¿½coles. Actuellement, cette exposition est au C.E.S. Denfert-
+			Rochereau d'Auxerre. La semaine prochaine, elle rejoindra le collï¿½ge Bienvenu-Martin, puis ceux de Saint-Florentin et 
+			Brienon, avant d'ï¿½tre prï¿½sentï¿½e au public en juillet, au siï¿½ge de la B.P.Y., ï¿½ Perrigny, puis au centre administratif de 
+			Saint-Florentin, avant de prendre, ï¿½ la rentrï¿½e, la route de Vezelay.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			Des panneaux, un montage audiovisuel permettent de jeter un regard sur le fonctionnement de
@@ -266,29 +266,29 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <td rowspan="2">
 	     <FONT size=3 color=#FFFFFF>
 		 <p align="justify">		   
-		 l'instrument et, en même temps, de découvrir l'inventaire des orgues du département avec des photographies, par leurs 
-		 caractéristiques, leur état qui, il faut le reconnaître, n'est généralement guère rassurant.
+		 l'instrument et, en mï¿½me temps, de dï¿½couvrir l'inventaire des orgues du dï¿½partement avec des photographies, par leurs 
+		 caractï¿½ristiques, leur ï¿½tat qui, il faut le reconnaï¿½tre, n'est gï¿½nï¿½ralement guï¿½re rassurant.
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 En supplément et pour mieux faire apprécier l'instrument, une série de concerts &laquo; orgue et voix &raquo; viendra 
-		 compléter l'exposition. Ces concerts &#8211; Chablis, Vézelay, Sens, Brienon, Saint-Florentin &#8211; proposeront des 
-		 programmes adaptés et rapprocheront l'instrument du public. Ils feront participer les gens de la région puisque, heureuse 
-		 coïncidence, l'Ensemble vocal d'Auxerre, qui vient d'enregistrer un disque des oeuvres du compositeur auxerrois Paul 
-		 Berthier, a justement à son répertoire des pièces avec accompagnement d'orgue.
+		 En supplï¿½ment et pour mieux faire apprï¿½cier l'instrument, une sï¿½rie de concerts &laquo; orgue et voix &raquo; viendra 
+		 complï¿½ter l'exposition. Ces concerts &#8211; Chablis, Vï¿½zelay, Sens, Brienon, Saint-Florentin &#8211; proposeront des 
+		 programmes adaptï¿½s et rapprocheront l'instrument du public. Ils feront participer les gens de la rï¿½gion puisque, heureuse 
+		 coï¿½ncidence, l'Ensemble vocal d'Auxerre, qui vient d'enregistrer un disque des oeuvres du compositeur auxerrois Paul 
+		 Berthier, a justement ï¿½ son rï¿½pertoire des piï¿½ces avec accompagnement d'orgue.
 		 <BR>
 		 </P>   
 		 <P align="CENTER">
-		    <B>Marier les sonorités</B>
+		    <B>Marier les sonoritï¿½s</B>
 		 </P>
 		 <p align="justify">
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			J.-Ph. Mesnier, titulaire du grand orgue de l'église Saint-Nicolas de Maisons-Laffite, professeur à l'école de musique 
-			d'Auxerre, Michèle Leclerc, titulaire des orgues de la cathédrale de Sens, qui accompagne la chorale Philoména de Sens, 
-			également de la fête dans sa bonne ville, se relaieront aux claviers.
+			J.-Ph. Mesnier, titulaire du grand orgue de l'ï¿½glise Saint-Nicolas de Maisons-Laffite, professeur ï¿½ l'ï¿½cole de musique 
+			d'Auxerre, Michï¿½le Leclerc, titulaire des orgues de la cathï¿½drale de Sens, qui accompagne la chorale Philomï¿½na de Sens, 
+			ï¿½galement de la fï¿½te dans sa bonne ville, se relaieront aux claviers.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			En première partie, orgue et choeurs alterneront pour permettre la comparaison des sonorités de l'instrument et des 
-			sonorités vocales, avant de se marier harmonieusement en seconde 
+			En premiï¿½re partie, orgue et choeurs alterneront pour permettre la comparaison des sonoritï¿½s de l'instrument et des 
+			sonoritï¿½s vocales, avant de se marier harmonieusement en seconde 
 			partie avec l'offertoire de la Toussaint, &laquo; Justorum animae &raquo; et surtout &laquo; Missa Peregrina &raquo;,
          </P>
 		 </FONT>
@@ -299,21 +299,21 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    une des oeuvres majeures de Paul Berthier.
             <BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Marie Noël, la poétesse auxerroise, figure également au programme des concerts, avec un agréable &laquo; Cantique de 
-			Pâques &raquo;, aux côtés de Roland de Lassus, Carissimi, &laquo; Le choeur de Jephté &raquo;, le mystérieux 
+			Marie Noï¿½l, la poï¿½tesse auxerroise, figure ï¿½galement au programme des concerts, avec un agrï¿½able &laquo; Cantique de 
+			Pï¿½ques &raquo;, aux cï¿½tï¿½s de Roland de Lassus, Carissimi, &laquo; Le choeur de Jephtï¿½ &raquo;, le mystï¿½rieux 
 			Bortniansky, &laquo; Adoremus &raquo;, et de l'inimitable Mozart et son merveilleux &laquo; Ave Verum &raquo;.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Ce sont donc des concerts de grande qualité que vous propose le Centre culturel de l'Yonne. Les quatre premiers, qui 
-			verront la participation de l'ensemble vocal d'Auxerre, seront dirigés par Raphaël Passaquet, qu'il est inutile de 
-			présenter à nos lecteurs.
+			Ce sont donc des concerts de grande qualitï¿½ que vous propose le Centre culturel de l'Yonne. Les quatre premiers, qui 
+			verront la participation de l'ensemble vocal d'Auxerre, seront dirigï¿½s par Raphaï¿½l Passaquet, qu'il est inutile de 
+			prï¿½senter ï¿½ nos lecteurs.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Pour mieux découvrir l'orgue, un système vidéo permettra aux spectateurs de voir et l'organiste et le jeu de l'
-			instrument en même temps que les choristes.
+			Pour mieux dï¿½couvrir l'orgue, un systï¿½me vidï¿½o permettra aux spectateurs de voir et l'organiste et le jeu de l'
+			instrument en mï¿½me temps que les choristes.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			L'orgue, ainsi rapproché du public &laquo; à hauteur de vue &raquo;, apportera une note originale supplémentaire à 
+			L'orgue, ainsi rapprochï¿½ du public &laquo; ï¿½ hauteur de vue &raquo;, apportera une note originale supplï¿½mentaire ï¿½ 
 			ces manifestations culturelles d'importance.
 			<BR>
 			<BR>
@@ -333,23 +333,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          <FONT size=3 color=#FFFFFF>
 	     <p align="justify">
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>Vendredi 11 juin, 20 h 45, église de Chablis. - </I>J.-Ph. Mesnier et l'Ensemble vocal d'Auxerre.
+			<I>Vendredi 11 juin, 20 h 45, ï¿½glise de Chablis. - </I>J.-Ph. Mesnier et l'Ensemble vocal d'Auxerre.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<I>Samedi 12 juin, 20 h 45, basilique de Vezelay. - </I>J.-Ph. Mesnier et l'Ensemble vocal d'Auxerre.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>Mercredi 23 juin, 20 h 45, cathédrale de Sens. - </I>M. Leclerc, l'Ensemble vocal d'Auxerre et la chorale Philoména 
+			<I>Mercredi 23 juin, 20 h 45, cathï¿½drale de Sens. - </I>M. Leclerc, l'Ensemble vocal d'Auxerre et la chorale Philomï¿½na 
 			de Sens.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>Vendredi 2 juillet, 20 h 45, église de Brienon. - </I>J.-Ph. Mesnier et l'Ensemble vocal d'Auxerre.
+			<I>Vendredi 2 juillet, 20 h 45, ï¿½glise de Brienon. - </I>J.-Ph. Mesnier et l'Ensemble vocal d'Auxerre.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<I>Dimanche 4 juillet, 20 h 45, basilique de Vezelay. - </I>Orgue de barbarie.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>Samedi 17 juillet, 40 h 45, église de Saint-Florentin. - </I>Michel Jolivet à l'orgue.
+			<I>Samedi 17 juillet, 40 h 45, ï¿½glise de Saint-Florentin. - </I>Michel Jolivet ï¿½ l'orgue.
          </P>
 		    <BR>
 			<BR>
@@ -387,18 +387,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	        <FONT size="6">
 		       <I>Nouvelle jeunesse pour les orgues
 			   <BR>
-			   de la cathédrale Saint-Etienne</I>
+			   de la cathï¿½drale Saint-Etienne</I>
             </FONT>
          </P>
       </td>
       <td colspan="2" rowspan="3">
 	     <CENTER>
-            <a href="javascript:;" onClick="MM_openBrWindow('Documents/OrgueAnneessens3_1.jpg','GrandeImage81','width=700,height=700')">
-			<img src="Documents\OrgueAnneessens3.JPG" border="0"></a>
+            <!-- <a href="javascript:;" onClick="MM_openBrWindow('Documents/OrgueAnneessens3_1.jpg','GrandeImage81','width=700,height=700')">
+			<img src="Documents\OrgueAnneessens3.JPG" border="0"></a> -->
 		    <BR>
-			<B>Une fresque qu'on ne peut apprécier que les
+			<B>Une fresque qu'on ne peut apprï¿½cier que les
 			<BR>
-			orgues démontées, ce qui n'arrive pas tous les
+			orgues dï¿½montï¿½es, ce qui n'arrive pas tous les
 			<BR>
 			jours.</B>
          </CENTER>
@@ -410,28 +410,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <p align="justify">		   
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<B>Auxerre. - </B>
-			<I>Depuis de nombreux mois et pendant de longs mois encore, l'organiste titulaire de Saint-Etienne, se trouve réduit, 
-			contraint et forcé, au chômage technique. Mais maintenant, il vit d'espoir, car si les délais sont tenus, les voûtes de 
-			la cathédrale résonneront, dans un peu plus de trois ans, des accords d'un &laquo;nouvel&raquo;instrument restauré.</I>
+			<I>Depuis de nombreux mois et pendant de longs mois encore, l'organiste titulaire de Saint-Etienne, se trouve rï¿½duit, 
+			contraint et forcï¿½, au chï¿½mage technique. Mais maintenant, il vit d'espoir, car si les dï¿½lais sont tenus, les voï¿½tes de 
+			la cathï¿½drale rï¿½sonneront, dans un peu plus de trois ans, des accords d'un &laquo;nouvel&raquo;instrument restaurï¿½.</I>
          </P>
 		 </FONT>
       </td>
       <td rowspan="3">
 	     <FONT size=3 color=#FFFFFF>
 		 <p align="justify">		   
-		    achevé. Il a permis de constater la vétusté (pour ne pas dire plus) du système de commande pneumatique &#8211; ce qu'on savait 
-			&#8211; et l'existance de dégâts aux sommiers, provoqués par des fuites &#8211; ce qu'on ignorait.
+		    achevï¿½. Il a permis de constater la vï¿½tustï¿½ (pour ne pas dire plus) du systï¿½me de commande pneumatique &#8211; ce qu'on savait 
+			&#8211; et l'existance de dï¿½gï¿½ts aux sommiers, provoquï¿½s par des fuites &#8211; ce qu'on ignorait.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Satisfaction, en revanche, du côté des tuyaux qui, à de rares exceptions près, pourront être réutilisés : tuyaux bois, tuyaux 
-			en alliage étain-plomb ont été soigneusement emballés pour être transportés dans les ateliers Oberthur, à Saintes, comme cette 
-			&laquo; flûte &raquo; de 16 pieds, haute de 6 mètres lourde de 400 kilos !
+			Satisfaction, en revanche, du cï¿½tï¿½ des tuyaux qui, ï¿½ de rares exceptions prï¿½s, pourront ï¿½tre rï¿½utilisï¿½s : tuyaux bois, tuyaux 
+			en alliage ï¿½tain-plomb ont ï¿½tï¿½ soigneusement emballï¿½s pour ï¿½tre transportï¿½s dans les ateliers Oberthur, ï¿½ Saintes, comme cette 
+			&laquo; flï¿½te &raquo; de 16 pieds, haute de 6 mï¿½tres lourde de 400 kilos !
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			La plus grande grande partie du travail de restauration sera réalisée dans les Charentes, jusqu'au montage de l'orgue (il 
-			sera totalement démonté après les vacances d'été). L'instrument sera alors démonté, pièce par pièce, transporté à Auxerre, 
-			puis remonté définitivement dans la cathédrale, ce qui cachera à nouveau une fresque peu connue du XVI&egrave;n siècle, 
-			dégagée par le démontage : les sibylles retourneront dans l'ombre !
+			La plus grande grande partie du travail de restauration sera rï¿½alisï¿½e dans les Charentes, jusqu'au montage de l'orgue (il 
+			sera totalement dï¿½montï¿½ aprï¿½s les vacances d'ï¿½tï¿½). L'instrument sera alors dï¿½montï¿½, piï¿½ce par piï¿½ce, transportï¿½ ï¿½ Auxerre, 
+			puis remontï¿½ dï¿½finitivement dans la cathï¿½drale, ce qui cachera ï¿½ nouveau une fresque peu connue du XVI&egrave;n siï¿½cle, 
+			dï¿½gagï¿½e par le dï¿½montage : les sibylles retourneront dans l'ombre !
 			<BR>
          </P>
 		 </FONT>
@@ -442,14 +442,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <FONT size=3 color=#FFFFFF>
 		 <p align="justify">	   
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Il y a plus de douze ans que Jean-Jacques Laubry et Gabriel Boisseau (trop connus pour qu'on les présente ! ) tentent de 
-			convaincre tous azimuts de l'impérieuse nécessité de restaurer les orgues de Saint-Etienne. Douze années difficiles, 
-			passées en grande partie à se battre &laquo; face à la machine administrative &raquo; pour reprendre une formule du 
-			premier cité.
+			Il y a plus de douze ans que Jean-Jacques Laubry et Gabriel Boisseau (trop connus pour qu'on les prï¿½sente ! ) tentent de 
+			convaincre tous azimuts de l'impï¿½rieuse nï¿½cessitï¿½ de restaurer les orgues de Saint-Etienne. Douze annï¿½es difficiles, 
+			passï¿½es en grande partie ï¿½ se battre &laquo; face ï¿½ la machine administrative &raquo; pour reprendre une formule du 
+			premier citï¿½.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Une association, l'Association des Amis des Orgues de l'Auxerrois, a pris le relais, rassemblant toutes les bonnes volontés 
-			selon ce principa éternel : &laquo; L'union fait la force &raquo;.
+			Une association, l'Association des Amis des Orgues de l'Auxerrois, a pris le relais, rassemblant toutes les bonnes volontï¿½s 
+			selon ce principa ï¿½ternel : &laquo; L'union fait la force &raquo;.
          </P>
 		 </FONT>
       </td>
@@ -457,14 +457,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <FONT size=3 color=#FFFFFF>
 		 <p align="justify">		   
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			De la force, de la constance, de la patience, il en faut ! Pourtant, petit-à-petit, les pièces du puzzle se sont mises en place, 
-			les appuis se sont fait moins discrets, les premières subventions ont été votées.
+			De la force, de la constance, de la patience, il en faut ! Pourtant, petit-ï¿½-petit, les piï¿½ces du puzzle se sont mises en place, 
+			les appuis se sont fait moins discrets, les premiï¿½res subventions ont ï¿½tï¿½ votï¿½es.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>Les collectivités locales, région, département et ville d'Auxerre nous ont aidé</I> précise Jean-Jacques Laubry.
+			<I>Les collectivitï¿½s locales, rï¿½gion, dï¿½partement et ville d'Auxerre nous ont aidï¿½</I> prï¿½cise Jean-Jacques Laubry.
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Le principe de restaurationacquis, l'entreprise choisie, les travaux pouvaient commencer. Depuis la semaine dernière, le 
-			démontage total des tuyaux est
+			Le principe de restaurationacquis, l'entreprise choisie, les travaux pouvaient commencer. Depuis la semaine derniï¿½re, le 
+			dï¿½montage total des tuyaux est
          </P>
 		 </FONT>
       </td>
@@ -472,8 +472,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <tr> 
       <td colspan="2">
 	     <CENTER>
-		    <a href="javascript:;" onClick="MM_openBrWindow('Documents/OrgueAnneessens2_1.jpg','GrandeImage82','width=700,height=700')">
-			<Img src="Documents\OrgueAnneessens2.JPG" border="0"></a>
+		    <!-- <a href="javascript:;" onClick="MM_openBrWindow('Documents/OrgueAnneessens2_1.jpg','GrandeImage82','width=700,height=700')">
+			<Img src="Documents\OrgueAnneessens2.JPG" border="0"></a> -->
 			<BR>
 			<B>Un buffet sans ses tuyaux.
 			</B>
@@ -486,11 +486,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <B>150 millions de centimes</B>
 			</CENTER>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		       <I>Nous avons cherché à allier les qualités techniques anciennes et modernes afin de profiter des avantages des deux sans 
-			   en subir les inconvénients</I>, commente Jean-Jacques Laubry, intarissable sur ce qui intéresse l'orgue, de près ou de 
+		       <I>Nous avons cherchï¿½ ï¿½ allier les qualitï¿½s techniques anciennes et modernes afin de profiter des avantages des deux sans 
+			   en subir les inconvï¿½nients</I>, commente Jean-Jacques Laubry, intarissable sur ce qui intï¿½resse l'orgue, de prï¿½s ou de 
 			   loin.
 			   <BR>
-			   De 40 jeux au départ, l'orgue pourra être par la suite complétée <I>(!)</I> en fonction des finances !
+			   De 40 jeux au dï¿½part, l'orgue pourra ï¿½tre par la suite complï¿½tï¿½e <I>(!)</I> en fonction des finances !
          </P>
 		 </FONT>
       </td>
@@ -498,12 +498,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <FONT size=3 color=#FFFFFF>
 		 <p align="justify">
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>Car une restauration coûte cher et l'estimation qui prévaut actuellement s'élève à quelque 150 millions de centimes. 
-			Malgré les subventions, la charge financière reste lourde.</I>
+			<I>Car une restauration coï¿½te cher et l'estimation qui prï¿½vaut actuellement s'ï¿½lï¿½ve ï¿½ quelque 150 millions de centimes. 
+			Malgrï¿½ les subventions, la charge financiï¿½re reste lourde.</I>
 			<BR>	   
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Cependant, l'heure est à l'espoir chez tous les défenseurs de l'orgue de Saint-Etienne, dans l'attente d'un concert 
-			inaugural qui méritera d'être vécu. On peut du moins l'imaginer ! &#8211; <I><B>P. D.</B></I>
+			Cependant, l'heure est ï¿½ l'espoir chez tous les dï¿½fenseurs de l'orgue de Saint-Etienne, dans l'attente d'un concert 
+			inaugural qui mï¿½ritera d'ï¿½tre vï¿½cu. On peut du moins l'imaginer ! &#8211; <I><B>P. D.</B></I>
          </P>
 		 </FONT>
       </td>
@@ -553,13 +553,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
          </FONT>
 		 <FONT size=3 color=#FFFFFF>
-		    nos réf. :
+		    nos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 			DR/DO/89000 I
 		 </FONT></FONT>
 			<BR>
 		 <FONT size=3 color=#FFFFFF>
-		    vos réf. :
+		    vos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 		    Additif au devis
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -567,7 +567,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <FONT size=3 color=#FFFFFF>
 			Saintes, le 
 		 <FONT size=4 color=#FFFFFF>
-			1° Juillet 1982      
+			1ï¿½ Juillet 1982      
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			du 15 Mars 1981
@@ -597,12 +597,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			:
 			&nbsp;&nbsp;	 
-			Approvisionnement, en bois ce chêne
+			Approvisionnement, en bois ce chï¿½ne
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Approvisionnement en matériaux divers
+			Approvisionnement en matï¿½riaux divers
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -617,7 +617,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Démontage de l'ancien instrument
+			Dï¿½montage de l'ancien instrument
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -637,12 +637,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Commande et traçage de toute la tuyauterie
+			Commande et traï¿½age de toute la tuyauterie
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Plans de détails sommiers etc...
+			Plans de dï¿½tails sommiers etc...
 			<BR>
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -687,7 +687,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Demontage de l'instrument terminé
+			Demontage de l'instrument terminï¿½
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -702,7 +702,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Remontage sur place à Auxerre
+			Remontage sur place ï¿½ Auxerre
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -728,11 +728,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </FONT>
 		 <FONT size=2 color=#FFFFFF>
 		    <CENTER> 	    
-			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tél. (46) 93 47 16
+			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tï¿½l. (46) 93 47 16
 			   <BR>
 		    <FONT size=1 color=#FFFFFF> 
-		       S.A.R.L. à capital variable - siège social : 16 ter, rue St Palais - R.C. Saintes 81 B 32 - Crédit Lyonnais Saintes 
-		       N° 71383 V   
+		       S.A.R.L. ï¿½ capital variable - siï¿½ge social : 16 ter, rue St Palais - R.C. Saintes 81 B 32 - Crï¿½dit Lyonnais Saintes 
+		       Nï¿½ 71383 V   
 			</font></CENTER>
          </FONT>   
       </TD>
@@ -774,19 +774,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			à
+			ï¿½
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Monsieur Gérard AMIOT
+			Monsieur Gï¿½rard AMIOT
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Trésorier del'Association
+			Trï¿½sorier del'Association
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -811,24 +811,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Monsieur le Trésorier
+			Monsieur le Trï¿½sorier
 			<BR>
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Suite à la conversation téléphonique du 8 juillet que vous avez eue avec Daniel MASSICARD, Secrétaire Général adjoint de la 
-			Ville d'Auxerre, j'ai l'honneur de vous informer que la Ville a engagé 200 000 F au titre de l'année 1982 pour la réfection 
-			des orgues de la cathédrale et que d'ici la fin de l'année, elle versera à nouveau 100 000 F à l'entreprise Oberthür.
+			Suite ï¿½ la conversation tï¿½lï¿½phonique du 8 juillet que vous avez eue avec Daniel MASSICARD, Secrï¿½taire Gï¿½nï¿½ral adjoint de la 
+			Ville d'Auxerre, j'ai l'honneur de vous informer que la Ville a engagï¿½ 200 000 F au titre de l'annï¿½e 1982 pour la rï¿½fection 
+			des orgues de la cathï¿½drale et que d'ici la fin de l'annï¿½e, elle versera ï¿½ nouveau 100 000 F ï¿½ l'entreprise Oberthï¿½r.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			C'est donc une somme globale de 300 000 F que la ville aura dépensé au titre de 1982. Aussi, je vous serais obligé de bien 
-			vouloir verser 300 000 F à la ville, dans la première quinzaine de janvier 1983, qui est une date limite pour la clôture 
+			C'est donc une somme globale de 300 000 F que la ville aura dï¿½pensï¿½ au titre de 1982. Aussi, je vous serais obligï¿½ de bien 
+			vouloir verser 300 000 F ï¿½ la ville, dans la premiï¿½re quinzaine de janvier 1983, qui est une date limite pour la clï¿½ture 
 			de l'exercice 1982.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			En vous remerciant,
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Je vous prie de croire, Monsieur le Trésorier, en l'assurance de mes sentiments les meilleurs.
+			Je vous prie de croire, Monsieur le Trï¿½sorier, en l'assurance de mes sentiments les meilleurs.
 			<BR>
 			<BR>
 			<BR>
@@ -892,7 +892,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			à
+			ï¿½
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -927,19 +927,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			J'ai bien reçu vos différents courriers concernant votre proposition de maîtrise d'oeuvre pour suivre les travaux de 
-			reconstruction de l'orgue de la cathédrale et je vous en remercie.
+			J'ai bien reï¿½u vos diffï¿½rents courriers concernant votre proposition de maï¿½trise d'oeuvre pour suivre les travaux de 
+			reconstruction de l'orgue de la cathï¿½drale et je vous en remercie.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Actuellement, l'association des amis des orgues auxerrois suit avec compétence le début des opérations et le recours à un 
-			maître d'oeuvre extérieur ne semble pas nécessaire. Seule une aide technique ponctuelle pourrait être justifiée et je vous 
+			Actuellement, l'association des amis des orgues auxerrois suit avec compï¿½tence le dï¿½but des opï¿½rations et le recours ï¿½ un 
+			maï¿½tre d'oeuvre extï¿½rieur ne semble pas nï¿½cessaire. Seule une aide technique ponctuelle pourrait ï¿½tre justifiï¿½e et je vous 
 			remercie du concours que vous avez bien voulu nous apporter.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Vous recevrez, par courrier séparé, et sous un délaide 40 jours, le montant de vos honoraires.
+			Vous recevrez, par courrier sï¿½parï¿½, et sous un dï¿½laide 40 jours, le montant de vos honoraires.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Je vous prie d'agréer,Monsieur, l'assurance de ma considération distinguée.
+			Je vous prie d'agrï¿½er,Monsieur, l'assurance de ma considï¿½ration distinguï¿½e.
 			<BR>
 			<BR>
 			<BR>
@@ -991,7 +991,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <td>
 	     <font size=6 color=#FFFFFF> 
          <p align="CENTER">
-		    &laquo;Orgues à hauteur de vue&raquo; : 
+		    &laquo;Orgues ï¿½ hauteur de vue&raquo; : 
 			<br>
          <font size=5 color=#FFFFFF>
             <i><b>quand le plaisir devient culture</b></i>
@@ -1003,8 +1003,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <tr> 
       <td>
 	     <center>
-            <a href="javascript:;" onClick="MM_openBrWindow('Documents/O_a_H_Vue_1.jpg','GrandeImage85','width=700,height=700')">
-			<img src="Documents/O_a_H8 Vue.JPG" border="0"></a>
+            <!-- <a href="javascript:;" onClick="MM_openBrWindow('Documents/O_a_H_Vue_1.jpg','GrandeImage85','width=700,height=700')">
+			<img src="Documents/O_a_H8 Vue.JPG" border="0"></a> -->
 		 </center>
       </td>
    </tr>
@@ -1015,12 +1015,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <font size=4 color=#FFFFFF> 
          <p align="justify">
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Le renouveau de l'orgue et de la musique dans notre département : une grande idée qui a pu se concrétiser grâce à la Banque 
+			Le renouveau de l'orgue et de la musique dans notre dï¿½partement : une grande idï¿½e qui a pu se concrï¿½tiser grï¿½ce ï¿½ la Banque 
 			Populaire de l'Yonne qui accueille une exposition dans ses locaux de Perrigny, route de Saint-Georges.
 			<br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Jusqu'au jeudi 15 juillet, le thème &laquo; orgues à hauteur de vue &raquo;, réalisé par le Centre Culturel de l'Yonne, sera 
-			présenté au public. Jusqu'&agrave; pr&eacute;sent, personne n'avait d'id&eacute;es pr&eacute;cises sur les richesse de ce 
+			Jusqu'au jeudi 15 juillet, le thï¿½me &laquo; orgues ï¿½ hauteur de vue &raquo;, rï¿½alisï¿½ par le Centre Culturel de l'Yonne, sera 
+			prï¿½sentï¿½ au public. Jusqu'&agrave; pr&eacute;sent, personne n'avait d'id&eacute;es pr&eacute;cises sur les richesse de ce 
 			domaine, si ce n'est l'abb&eacute; Callemand <I>(!)</I> qui a r&eacute;alis&eacute; une &eacute;tude il y a quelques temps, 
 			point de d&eacute;part de l'exposition. Puis, M. Mesnier, organiste, et M. Puesch, photographe, ont uni leurs efforts pour 
 			mettre sur pied un montage audiovisuel sur le fonctionnement de l'orgue.
@@ -1033,9 +1033,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <font size=4 color=#FFFFFF> 
          <p align="justify">
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			On ne peut qu'être impressionné par la présentation de ces beaux buffets arborant fièrement tourelles et plates faces plates. 
-			Hélas ! tous ces instruments sont inutilisables, sauf si l'orgue de Saint-Florentin qui a été restauré en 1969 et sur lequel 
-			sera présenté un récital le 17 juillet dans le cadre de cette animation. 
+			On ne peut qu'ï¿½tre impressionnï¿½ par la prï¿½sentation de ces beaux buffets arborant fiï¿½rement tourelles et plates faces plates. 
+			Hï¿½las ! tous ces instruments sont inutilisables, sauf si l'orgue de Saint-Florentin qui a ï¿½tï¿½ restaurï¿½ en 1969 et sur lequel 
+			sera prï¿½sentï¿½ un rï¿½cital le 17 juillet dans le cadre de cette animation. 
             <BR>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			Hier, &agrave; Brienon, un concert a &eacute;galement eu lieu o&ugrave; orgues et l'ensemble vocal d'Auxerre ont &eacute;
@@ -1046,8 +1046,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&laquo; M&eacute;dia 2 &raquo;, il est possible de voir le jeu de l'organiste depuis la nef.
 			<BR>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			L'association &laquo; Les amis des orgues de l'Auxerrois &raquo; vient d'autre part d'éditer un livre très intéressant 
-            sur Auxerre et sa cathédrale, au profit de la reconstruction de son orgue. 
+			L'association &laquo; Les amis des orgues de l'Auxerrois &raquo; vient d'autre part d'ï¿½diter un livre trï¿½s intï¿½ressant 
+            sur Auxerre et sa cathï¿½drale, au profit de la reconstruction de son orgue. 
             <BR>
             <BR>
          </P>
@@ -1057,14 +1057,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <font size=4 color=#FFFFFF> 
          <p align="justify">
 	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		    Pour compléter, la Banque Populaire et notre journal organisent un concours intitulé &laquo; Palme de l'animation culturelle 
-			&raquo; ouvert aux associations de l'Yonne, doté de nombreux prix et dont les modalités pourront être lu sur un panneau au 
+		    Pour complï¿½ter, la Banque Populaire et notre journal organisent un concours intitulï¿½ &laquo; Palme de l'animation culturelle 
+			&raquo; ouvert aux associations de l'Yonne, dotï¿½ de nombreux prix et dont les modalitï¿½s pourront ï¿½tre lu sur un panneau au 
 			sein de l'exposition. 
             <BR>
 		    <BR>
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Une présentation par elle-même modeste, dans ses dimensions, mais qui a le grand mérite de rassembler, ne serait-ce qu'en 
-			image, tous les orgues de l'Yonne et qui est harmonieusement complétée par des concerts concrétisant le but culturel à 
+			Une prï¿½sentation par elle-mï¿½me modeste, dans ses dimensions, mais qui a le grand mï¿½rite de rassembler, ne serait-ce qu'en 
+			image, tous les orgues de l'Yonne et qui est harmonieusement complï¿½tï¿½e par des concerts concrï¿½tisant le but culturel ï¿½ 
 			atteindre et permettant de sensibiliser un public plus vaste. &#8211; <b>L. G.</b>
          </p>
          </font>
@@ -1092,12 +1092,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    </TD>
 	    <TD WIDTH="20%">
 	       <P ALIGN="center">
-                <a href="Inauguration_III.htm"><FONT COLOR = #99FFFF>Chapitre troisième</FONT></a>
+                <a href="Inauguration_III.htm"><FONT COLOR = #99FFFF>Chapitre troisiï¿½me</FONT></a>
 		 </P>
 	    </TD>
           <TD WIDTH="20%">
 	       <P ALIGN="center">
-                <a href="Inauguration_IV.htm"><FONT COLOR = #99FFFF>Chapitre quatrième</FONT></a>
+                <a href="Inauguration_IV.htm"><FONT COLOR = #99FFFF>Chapitre quatriï¿½me</FONT></a>
 		 </P>
 	    </TD>
 	    <TD WIDTH="10%">&nbsp;

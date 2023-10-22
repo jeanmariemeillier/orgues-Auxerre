@@ -1,11 +1,10 @@
 <html>
 <head>
-<title>Des soumissions à l'inauguration III</title>
+<title>Des soumissions ï¿½ l'inauguration III</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Histoire des Orgues de la Cathédrale d'Auxerre en France">
+<meta name="description" content="Histoire des Orgues de la Cathï¿½drale d'Auxerre en France">
 <meta name="Auteur" content="Jean-Marie MEILLIER">
-<SCRIPT language = JavaScript>
-<!--
+<!-- <SCRIPT language = JavaScript>
 function dblclick()
    {
       window.scrollTo(0,0)
@@ -20,7 +19,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</SCRIPT>
+<!-- </SCRIPT> -->
 </head>
 
 <body bgcolor="#008AAE" text="#FFFFFF">
@@ -32,7 +31,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD WIDTH="100%">
 		    <CENTER>
 			   <H1><I>LES ORGUES</I></H1>
-			   <H1><I>de la Cathédrale</I></H1>
+			   <H1><I>de la Cathï¿½drale</I></H1>
 			   <H1><I>d'Auxerre</I></H1>
 			</CENTER>
          </TD>
@@ -44,9 +43,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD>
 		    <CENTER>
                <BR>			
-			   <H2>Quatrième partie</H2>
+			   <H2>Quatriï¿½me partie</H2>
 			   <img src="Vignettes3/Gothique_4.jpg" width="789" height="128">
-			   <H2>Chapitre troisième</H2>
+			   <H2>Chapitre troisiï¿½me</H2>
 			   <BR>
 			   <BR>
 			   <BR>
@@ -100,15 +99,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
          </FONT>
 		 <FONT size=3 color=#FFFFFF>
-		    nos réf. :
+		    nos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 			DR/DO/89000 I
 		 </FONT></FONT>
 			<BR>
 		 <FONT size=3 color=#FFFFFF>
-		    vos réf. :
+		    vos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
-		    Marché du 16/11/81
+		    Marchï¿½ du 16/11/81
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 <FONT size=3 color=#FFFFFF>
@@ -117,7 +116,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			21 Decembre 1982      
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			N° 2559
+			Nï¿½ 2559
 		 </FONT></FONT></FONT></FONT>
 			<BR>
 			<BR>
@@ -140,7 +139,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Travaux effectués à ce jour :
+			Travaux effectuï¿½s ï¿½ ce jour :
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -156,7 +155,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			- Dessin et plan de la façade de l'orgue
+			- Dessin et plan de la faï¿½ade de l'orgue
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -168,15 +167,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			- Classement de la tuyauterie récupérable
+			- Classement de la tuyauterie rï¿½cupï¿½rable
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			- Restauration complète des jeux d'anches
+			- Restauration complï¿½te des jeux d'anches
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			- Plans de détail et règles de sommiers
+			- Plans de dï¿½tail et rï¿½gles de sommiers
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -184,18 +183,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			- Achat de toute la quincaillerie spécialisée.
+			- Achat de toute la quincaillerie spï¿½cialisï¿½e.
 			<BR>
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Net facturé à ce jour .................... 400 000,00 Fs.
+			Net facturï¿½ ï¿½ ce jour .................... 400 000,00 Fs.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Net encaissé à ce jour 300 000,00 Fs.
+			Net encaissï¿½ ï¿½ ce jour 300 000,00 Fs.
 			<BR>
 			<BR>
 			<BR>
@@ -204,13 +203,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </FONT>
 		 <FONT size=2 color=#FFFFFF>
 		    <CENTER> 	    
-			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tél. (46) 93 47 16
+			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tï¿½l. (46) 93 47 16
 			</CENTER>
 	    </FONT>
 		   <FONT size=1 color=#FFFFFF>
 		      <CENTER>
-		       S.A.R.L. à capital variable - siège social : 16 ter, rue St Pallais - R.C. Saintes 81 B 32 - Crédit Lyonnais Saintes 
-		       N° 71383 V   
+		       S.A.R.L. ï¿½ capital variable - siï¿½ge social : 16 ter, rue St Pallais - R.C. Saintes 81 B 32 - Crï¿½dit Lyonnais Saintes 
+		       Nï¿½ 71383 V   
 			  </CENTER>
            </FONT>
       </TD>
@@ -255,12 +254,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <td>
 	     <font size=6 color=#FFFFFF> 
          <p align="CENTER">
-		    Le livre &laquo;La cathédrale d'Auxerre&raquo; 
+		    Le livre &laquo;La cathï¿½drale d'Auxerre&raquo; 
 			<br>
-			et le disque &laquo;Hommage à Paul Berthier&raquo; :
+			et le disque &laquo;Hommage ï¿½ Paul Berthier&raquo; :
 			<BR>
          <font size=6 color=#FFFFFF>
-            <i>deux pièces intéressantes à ajouter
+            <i>deux piï¿½ces intï¿½ressantes ï¿½ ajouter
 			<BR>
 			au patrimoine spirituel et culturel
 			<BR>
@@ -273,8 +272,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <tr> 
       <td>
 	     <center>
-           <a href="javascript:;" onClick="MM_openBrWindow('Documents/Homm_a_P_B1_1.jpg','GrandeImage86','width=700,height=700')">
-		   <img src="Documents/Homm_a_P_B1.JPG" border="0"></a>         
+           <!-- <a href="javascript:;" onClick="MM_openBrWindow('Documents/Homm_a_P_B1_1.jpg','GrandeImage86','width=700,height=700')">
+		   <img src="Documents/Homm_a_P_B1.JPG" border="0"></a>          -->
 		 </center>
       </td>
    </tr>
@@ -291,62 +290,62 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <p align="justify">
          <FONT size="4">
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		    <B>Auxerre.</B> &#8212; Les &laquo; Ecuries du Pont Paul Bert &raquo; servaient, vendredi soir, de cadre à une fort sympathique 
-			manifestation : la présentation du livre &laquo; Auxerre et sa cathédrale &raquo; de l'ancien archiviste Henri Forestier, et le 
-			disque &laquo; Hommage à Paul Berthier &raquo;, enregistré par l'Ensemble vocal d'Auxerre, l'un et l'autre vendus au bénéfice de 
-			la restauration des orgues de la cathédrale.
+		    <B>Auxerre.</B> &#8212; Les &laquo; Ecuries du Pont Paul Bert &raquo; servaient, vendredi soir, de cadre ï¿½ une fort sympathique 
+			manifestation : la prï¿½sentation du livre &laquo; Auxerre et sa cathï¿½drale &raquo; de l'ancien archiviste Henri Forestier, et le 
+			disque &laquo; Hommage ï¿½ Paul Berthier &raquo;, enregistrï¿½ par l'Ensemble vocal d'Auxerre, l'un et l'autre vendus au bï¿½nï¿½fice de 
+			la restauration des orgues de la cathï¿½drale.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			De son vivant, H. Forestier avait envie de publier le texte présenté dans son livre. Tout porte à croire qu'il avait l'intention 
-			de le remanier mais il n'eut pas le temps de le faire. Et les responsables de l'édition ont préféré conserver le manuscrit 
-			intégral malgré les imperfections et les inexactitudes qui auraient pu se glisser. On y trouve également le style et la verve 
-			parfois assez verte, l'humeur particulière de ce Bourguignon d'Auxerre auquel l'histoire des cathédrales successives permet de 
-			donner un cadre dans lequel il est à l'aise pour donner vie à un peuple attachant qui mérite toute sa tendresse : les habitants 
+			De son vivant, H. Forestier avait envie de publier le texte prï¿½sentï¿½ dans son livre. Tout porte ï¿½ croire qu'il avait l'intention 
+			de le remanier mais il n'eut pas le temps de le faire. Et les responsables de l'ï¿½dition ont prï¿½fï¿½rï¿½ conserver le manuscrit 
+			intï¿½gral malgrï¿½ les imperfections et les inexactitudes qui auraient pu se glisser. On y trouve ï¿½galement le style et la verve 
+			parfois assez verte, l'humeur particuliï¿½re de ce Bourguignon d'Auxerre auquel l'histoire des cathï¿½drales successives permet de 
+			donner un cadre dans lequel il est ï¿½ l'aise pour donner vie ï¿½ un peuple attachant qui mï¿½rite toute sa tendresse : les habitants 
 			d'Auxerre.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Avec l'opuscule de M. Hohl sur la cathédrale actuelle, cet ouvrage forme un ensemble remarquable qu'un invité qualifiait d'ancien 
+			Avec l'opuscule de M. Hohl sur la cathï¿½drale actuelle, cet ouvrage forme un ensemble remarquable qu'un invitï¿½ qualifiait d'ancien 
 			et nouveau testament du monument.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Paul Berthier, maître de chapelle de la cathédrale de 1919 à 1953, a contribué puissamment à la vie musicale de la ville et 
-			de l'ensemble du pays par son rayonnement d'homme, sa riche personnalité d'organiste, de chef de choeur et de compositeur. 
-			Le disque l'avait jusqu'ici ignoré. Avec cet enregistrement, l'Ensemble vocal d'Auxerre poursuit un double objectif : combler 
-			cette lacune discographique, en faisant mieux connaître un des meilleurs compositeurs de musique sacrée de la première moitié 
-			du siècle à travers une sélection d'oeuvres marquantes pour choeur et orgues et contribuer par sa diffusion à l'oeuvre urgente 
-			de restauration des orgues de la cathédrale.
+			Paul Berthier, maï¿½tre de chapelle de la cathï¿½drale de 1919 ï¿½ 1953, a contribuï¿½ puissamment ï¿½ la vie musicale de la ville et 
+			de l'ensemble du pays par son rayonnement d'homme, sa riche personnalitï¿½ d'organiste, de chef de choeur et de compositeur. 
+			Le disque l'avait jusqu'ici ignorï¿½. Avec cet enregistrement, l'Ensemble vocal d'Auxerre poursuit un double objectif : combler 
+			cette lacune discographique, en faisant mieux connaï¿½tre un des meilleurs compositeurs de musique sacrï¿½e de la premiï¿½re moitiï¿½ 
+			du siï¿½cle ï¿½ travers une sï¿½lection d'oeuvres marquantes pour choeur et orgues et contribuer par sa diffusion ï¿½ l'oeuvre urgente 
+			de restauration des orgues de la cathï¿½drale.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Le président des &laquo; Amis des orgues de l'Auxerrois &raquo;, le docteur Laubry, avait le plaisir d'accueillir un certain 
-			nombre de personnalités : M. J.-P. Soisson, député-maire de la ville ; Mgr Ernoult, archevêque de Sens, évêque d'Auxerre, l'un 
-			et l'autre président d'honneur de l'association ; M. Morvan, maire de la ville jumelle de Roscoff, de passage en la ville ; 
-			Mme Jeanson, adjointe à la culture ; l'abbé Lechien, archiprêtre ; Mme Gérard-Varet et M. Rocher, responsables respectifs de &laquo; 
-			l'Université pour tous &raquo; d'Auxerre et de la Société des sciences de l'Yonne ; MM. Passaquet et Carré, directeur et président 
-			de l'Ensemble vocal d'Auxerre, entouré d'un certain nombre de choristes qu'accompagnait  l'organiste du disque, J.-P. Mesnier. Mme 
-			Lable, la fille de Paul Berthier, et un de ses fils, assistaient également à cette manifestation, de même que l'abbé Boisseau, 
-			ordonnateur de cette soirée.
+			Le prï¿½sident des &laquo; Amis des orgues de l'Auxerrois &raquo;, le docteur Laubry, avait le plaisir d'accueillir un certain 
+			nombre de personnalitï¿½s : M. J.-P. Soisson, dï¿½putï¿½-maire de la ville ; Mgr Ernoult, archevï¿½que de Sens, ï¿½vï¿½que d'Auxerre, l'un 
+			et l'autre prï¿½sident d'honneur de l'association ; M. Morvan, maire de la ville jumelle de Roscoff, de passage en la ville ; 
+			Mme Jeanson, adjointe ï¿½ la culture ; l'abbï¿½ Lechien, archiprï¿½tre ; Mme Gï¿½rard-Varet et M. Rocher, responsables respectifs de &laquo; 
+			l'Universitï¿½ pour tous &raquo; d'Auxerre et de la Sociï¿½tï¿½ des sciences de l'Yonne ; MM. Passaquet et Carrï¿½, directeur et prï¿½sident 
+			de l'Ensemble vocal d'Auxerre, entourï¿½ d'un certain nombre de choristes qu'accompagnait  l'organiste du disque, J.-P. Mesnier. Mme 
+			Lable, la fille de Paul Berthier, et un de ses fils, assistaient ï¿½galement ï¿½ cette manifestation, de mï¿½me que l'abbï¿½ Boisseau, 
+			ordonnateur de cette soirï¿½e.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Le docteur Laubry devait dire son plaisir quant aux contenus du livre et du disque et se féliciter de l'élan qui avait motivé 
-			les responsables de leurs réalisations, formulant l'espoir de voir &laquo; dans les délais honorables &raquo; l'orgue de la 
-			cathédrale résonner à nouveau sous ses voûtes. Il ne manqua pas de remercier les responsables de la restauration et tous 
-			ceux  qui y contribuent &laquo; de près et de loin et à tous les niveaux &raquo;. Il expliqua également que les phases suivantes 
-			seraient consacrées à la remise en état d'autres instruments dans les églises voisines de celles du chef-lieu.
+			Le docteur Laubry devait dire son plaisir quant aux contenus du livre et du disque et se fï¿½liciter de l'ï¿½lan qui avait motivï¿½ 
+			les responsables de leurs rï¿½alisations, formulant l'espoir de voir &laquo; dans les dï¿½lais honorables &raquo; l'orgue de la 
+			cathï¿½drale rï¿½sonner ï¿½ nouveau sous ses voï¿½tes. Il ne manqua pas de remercier les responsables de la restauration et tous 
+			ceux  qui y contribuent &laquo; de prï¿½s et de loin et ï¿½ tous les niveaux &raquo;. Il expliqua ï¿½galement que les phases suivantes 
+			seraient consacrï¿½es ï¿½ la remise en ï¿½tat d'autres instruments dans les ï¿½glises voisines de celles du chef-lieu.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Raphaël Passaquet rappela son admiration de l'oeuvre de Paul Berthier, des motivations et la genèse de l'enregistrement du disque 
-			que &laquo; l'ensemble vocal d'Auxerre a eu le privilège et la joie d'enregistrer &raquo; tandis que l'évêque de la ville rappelait 
-			que  &laquo; le livre est une contribution intéressante pour rassembler et accentuer l'élan spirituel du peuple auxerrois. 
-			Le disque soulignait les qualités musicales et religieuses de l'oeuvre de M. Berthier s'inscrit comme un complément 
+			Raphaï¿½l Passaquet rappela son admiration de l'oeuvre de Paul Berthier, des motivations et la genï¿½se de l'enregistrement du disque 
+			que &laquo; l'ensemble vocal d'Auxerre a eu le privilï¿½ge et la joie d'enregistrer &raquo; tandis que l'ï¿½vï¿½que de la ville rappelait 
+			que  &laquo; le livre est une contribution intï¿½ressante pour rassembler et accentuer l'ï¿½lan spirituel du peuple auxerrois. 
+			Le disque soulignait les qualitï¿½s musicales et religieuses de l'oeuvre de M. Berthier s'inscrit comme un complï¿½ment 
 			remarquable &raquo;.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Le maire d'Auxerre ne pouvait manquer d'exprimer et sa fierté et son émotion devant la présentation de &laquo; deux oeuvres 
-			d'Auxerrois, évoquant l'esprit d'Auxerre, mis en valeur par des Auxerrois au profit de l'orgue de la cathédrale d'Auxerre &raquo;.
-			Il associe ses remerciements à ceux déjà exprimés en insistant sur l'intérêt que la municipalité apportait à la cathédrale.
+			Le maire d'Auxerre ne pouvait manquer d'exprimer et sa fiertï¿½ et son ï¿½motion devant la prï¿½sentation de &laquo; deux oeuvres 
+			d'Auxerrois, ï¿½voquant l'esprit d'Auxerre, mis en valeur par des Auxerrois au profit de l'orgue de la cathï¿½drale d'Auxerre &raquo;.
+			Il associe ses remerciements ï¿½ ceux dï¿½jï¿½ exprimï¿½s en insistant sur l'intï¿½rï¿½t que la municipalitï¿½ apportait ï¿½ la cathï¿½drale.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			Le kivre et le disque sont à la disposition du public aux librairies Staub et Dufloux ainsi que dans les musées de la ville.
+			Le kivre et le disque sont ï¿½ la disposition du public aux librairies Staub et Dufloux ainsi que dans les musï¿½es de la ville.
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -396,7 +395,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   </FONT>
 		   <FONT SIZE="4">
 		      &nbsp;&nbsp;&nbsp;
-		      26 décembre I983
+		      26 dï¿½cembre I983
 		   <BR>
 		   <BR>
 		   <BR>
@@ -417,7 +416,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      à
+		      ï¿½
 		   <BR>
 		   </FONT>
 		   <FONT SIZE="2">
@@ -428,7 +427,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      Technique
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      Direction Générale
+		      Direction Gï¿½nï¿½rale
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		      MANUFACTURE DES GRANDES ORGUES
@@ -439,7 +438,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   O B E R T H U R
 		   <BR>
-		      Nos réf. NC/AQ/83 <I>/ 428</I>
+		      Nos rï¿½f. NC/AQ/83 <I>/ 428</I>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		      B.P. 22I
@@ -449,15 +448,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      17 101 SAINTES Cédex
+		      17 101 SAINTES Cï¿½dex
 		   <BR>
-		      <u>Objet</u> : Cathédrale St-Etienne
+		      <u>Objet</u> : Cathï¿½drale St-Etienne
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		      Restauration des Orgues
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Marché du I6 décembre I98I
+		   Marchï¿½ du I6 dï¿½cembre I98I
 		   <BR>
 		   <BR>
 		   <BR>
@@ -469,24 +468,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      Monsieur,
 		   <BR>
 		   <BR>
-		      Vous venez de me présenter pour paiement un dixième acompte relatif aux travaux ci-dessus en objet.
+		      Vous venez de me prï¿½senter pour paiement un dixiï¿½me acompte relatif aux travaux ci-dessus en objet.
 		   <BR>
 		   <BR>
-		      Ceci ne correspond pas avec l'état prévisionnel de vos demandes, document que vous m'aviez fait parvenir, à ma demande - au début du mois d'août I983.
+		      Ceci ne correspond pas avec l'ï¿½tat prï¿½visionnel de vos demandes, document que vous m'aviez fait parvenir, ï¿½ ma demande - au dï¿½but du mois d'aoï¿½t I983.
 		   <BR>
 		   <BR>
-		      J'ai pu ainsi constater un décalage régulier d'un mois - en avance - de chaque présentation par rapport à votre calendrier.
+		      J'ai pu ainsi constater un dï¿½calage rï¿½gulier d'un mois - en avance - de chaque prï¿½sentation par rapport ï¿½ votre calendrier.
 		   <BR>
 		   <BR>
-		      En conséquences, et afin de faire le point sur le déroulement de ces travaux, je vous saurai gré de me faire parvenir au plus vite un état précis d'avancement
-		   des travaux en pourcentage d'approvisionnement et de commencement de réalisation, cela par postes considérés.
+		      En consï¿½quences, et afin de faire le point sur le dï¿½roulement de ces travaux, je vous saurai grï¿½ de me faire parvenir au plus vite un ï¿½tat prï¿½cis d'avancement
+		   des travaux en pourcentage d'approvisionnement et de commencement de rï¿½alisation, cela par postes considï¿½rï¿½s.
 		   <BR>
 		   <BR>
-		      Quand commencera le travail de remontage à la Cathédrale ?
+		      Quand commencera le travail de remontage ï¿½ la Cathï¿½drale ?
 		   <BR>
-			  Comment sera-t-il organisé et combien de temps durera-t-il ? (date achèvement).
+			  Comment sera-t-il organisï¿½ et combien de temps durera-t-il ? (date achï¿½vement).
 		   <BR> 
-		      Je désirerai également posséder un état prévisionnel des paiements que vous me présenterez en 1984.
+		      Je dï¿½sirerai ï¿½galement possï¿½der un ï¿½tat prï¿½visionnel des paiements que vous me prï¿½senterez en 1984.
 		   <BR>
 		   <BR>
 		   ../<sup>..</sup>
@@ -498,7 +497,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		</P>   
 		<P ALIGN="center">
 		<FONT SIZE="2">
-		   <I>Toute correspondance est à adresser à : M. le Maire, Hôtel de Ville. B.P. 59 89010 Auxerre Cédex - Tél. : (86) 52.69.45</I>
+		   <I>Toute correspondance est ï¿½ adresser ï¿½ : M. le Maire, Hï¿½tel de Ville. B.P. 59 89010 Auxerre Cï¿½dex - Tï¿½l. : (86) 52.69.45</I>
 		</FONT>
 		</P>
 		<BR>
@@ -506,15 +505,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<p align="justify">
 		<FONT SIZE="4">
 		   <BR>
-		   Vous est-il possible d'apprécier dès maintenant s'il y aura des travaux supplémentaires ?
+		   Vous est-il possible d'apprï¿½cier dï¿½s maintenant s'il y aura des travaux supplï¿½mentaires ?
 		   <BR>
 		   <BR>
-		   Pouvez-vous également estimer la valeur fin de travaux de cette opération ?
+		   Pouvez-vous ï¿½galement estimer la valeur fin de travaux de cette opï¿½ration ?
 		   <BR>
 		   <BR>
-		   Vous remerciant dès à présent de votre diligence,
+		   Vous remerciant dï¿½s ï¿½ prï¿½sent de votre diligence,
 		   <BR>
-		   Je vous prie d'agréer, Monsieur, l'expression des mes sentiments les plus distingués.
+		   Je vous prie d'agrï¿½er, Monsieur, l'expression des mes sentiments les plus distinguï¿½s.
 		   <BR>
 		   <BR>
 		   <BR>
@@ -596,13 +595,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
          </FONT>
 		 <FONT size=3 color=#FFFFFF>
-		    nos réf. :
+		    nos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 			DR/DO/89000 AUXERRE CATH.
 		 </FONT></FONT>
 			<BR>
 		 <FONT size=3 color=#FFFFFF>
-		    vos réf. :
+		    vos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 		    V/lettre du 26/12/83
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -628,35 +627,35 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      Nous vous remercions de votre courrier en référence ci-dessus et avons pris bonne note de son contenu. Nous nous permettons
-			   ci-dessous de répondre point par point à vos demandes 
-			  et espèrons le meilleur accueil à nos explications.
+		      Nous vous remercions de votre courrier en rï¿½fï¿½rence ci-dessus et avons pris bonne note de son contenu. Nous nous permettons
+			   ci-dessous de rï¿½pondre point par point ï¿½ vos demandes 
+			  et espï¿½rons le meilleur accueil ï¿½ nos explications.
 		   <BR>
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      Si nous envoyons nos factures 2 mois à l'avance, la raison en est la len-
+		      Si nous envoyons nos factures 2 mois ï¿½ l'avance, la raison en est la len-
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			  teur administrative de &nbsp;règlement de ces mémoires. &nbsp;Nous ne travaillons que &nbsp;pour vous
+			  teur administrative de &nbsp;rï¿½glement de ces mï¿½moires. &nbsp;Nous ne travaillons que &nbsp;pour vous
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-			  exclusivement et ceci jusqu'à la fin des travaux ce qui nous oblige à assurer nos échéan-
+			  exclusivement et ceci jusqu'ï¿½ la fin des travaux ce qui nous oblige ï¿½ assurer nos ï¿½chï¿½an-
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			  ces qui, elles sont fixes &nbsp;en fin de mois avec vos règlements. Le mémoire N° X ne nous
+			  ces qui, elles sont fixes &nbsp;en fin de mois avec vos rï¿½glements. Le mï¿½moire Nï¿½ X ne nous
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			  sera règlé que courant Janvier 84 alors que la facture est faite en Décembre 83. Le &nbsp;mé-
+			  sera rï¿½glï¿½ que courant Janvier 84 alors que la facture est faite en Dï¿½cembre 83. Le &nbsp;mï¿½-
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			  moire N° XI du 1° Janvier 84 ne nous sera règlé que pour notre échéance de fin Février
+			  moire Nï¿½ XI du 1ï¿½ Janvier 84 ne nous sera rï¿½glï¿½ que pour notre ï¿½chï¿½ance de fin Fï¿½vrier
 		   <BR>
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -668,78 +667,78 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Bois de Chêne : Rendu, Payé, en parti utilisé
+		      - Bois de Chï¿½ne : Rendu, Payï¿½, en parti utilisï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Bois de sapin : Rendu, payé, en parti utilisé
+		      - Bois de sapin : Rendu, payï¿½, en parti utilisï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Fer de charpentes : Rendu payé en parti utilisé
+		      - Fer de charpentes : Rendu payï¿½ en parti utilisï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Aluminium : Rendu, payé.
+		      - Aluminium : Rendu, payï¿½.
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Contre plaqué : Rendu, payé, en parti utilisé
+		      - Contre plaquï¿½ : Rendu, payï¿½, en parti utilisï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Peau : Rendue, Payée, en partie utilisée
+		      - Peau : Rendue, Payï¿½e, en partie utilisï¿½e
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Moteurs de tirages de registres : Rendus, payés
+		      - Moteurs de tirages de registres : Rendus, payï¿½s
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Claviers manuels Rendu, Payé
+		      - Claviers manuels Rendu, Payï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Pedalier : Rendu, Payé
+		      - Pedalier : Rendu, Payï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Elements de fab. du banc règlable : Rendu, payé
+		      - Elements de fab. du banc rï¿½glable : Rendu, payï¿½
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Quincaillerie spécialisée : Annoncée, Acompte 10 %
+		      - Quincaillerie spï¿½cialisï¿½e : Annoncï¿½e, Acompte 10 %
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Tuyauterie neuve : Annoncée, Acompte 10 % versé
+		      - Tuyauterie neuve : Annoncï¿½e, Acompte 10 % versï¿½
            <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      - Tuyaux d'anches : annoncés, payés - 50 000,00 Fs.
+		      - Tuyaux d'anches : annoncï¿½s, payï¿½s - 50 000,00 Fs.
 		   <BR>
 		   <BR>
 		   <BR>
 		</FONT>
 		<FONT size=2 color=#FFFFFF>
          <CENTER> 	    
-            MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tél. (46) 93 47 16
+            MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tï¿½l. (46) 93 47 16
 			<BR>
 		    <FONT size=1 color=#FFFFFF> 
-		    S.A.R.L. à capital variable - siège social : 16 ter, rue St Palais - SIR. B 322.00.75.84.00012 - Banque Populaire 
-			N° 00.721640529 - APE 5405 
+		    S.A.R.L. ï¿½ capital variable - siï¿½ge social : 16 ter, rue St Palais - SIR. B 322.00.75.84.00012 - Banque Populaire 
+			Nï¿½ 00.721640529 - APE 5405 
 		 </font></CENTER>
          <BR>
 			<BR>
@@ -749,7 +748,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		   
-			   En approvisionnement il reste donc à venir :
+			   En approvisionnement il reste donc ï¿½ venir :
 			<BR>
 			<BR>
 			<BR>
@@ -776,7 +775,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Fournitures pour ré-
+			   - Fournitures pour rï¿½-
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -786,7 +785,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Câbles electriques &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;20 000,00 Fs.
+			   - Cï¿½bles electriques &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;20 000,00 Fs.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -819,12 +818,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Plans d'ensemble et de détail de l'Orgue
+			   - Plans d'ensemble et de dï¿½tail de l'Orgue
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Démontage de l'ancien orgue
+			   - Dï¿½montage de l'ancien orgue
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -834,7 +833,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Montage des nouvelles charpentes primaires (livrées)
+			   - Montage des nouvelles charpentes primaires (livrï¿½es)
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -864,7 +863,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Fabrication des boites de régulation à rideau
+			   - Fabrication des boites de rï¿½gulation ï¿½ rideau
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -879,17 +878,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Fabrication de réservoirs à 50 %
+			   - Fabrication de rï¿½servoirs ï¿½ 50 %
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Fabrication de 8 sommiers en cours (réalisés à 30 %)
+			   - Fabrication de 8 sommiers en cours (rï¿½alisï¿½s ï¿½ 30 %)
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Fabrication des charpentes secondaires à 40 %
+			   - Fabrication des charpentes secondaires ï¿½ 40 %
 			<BR>
 			<BR>
 			<BR>
@@ -930,7 +929,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   - Fabrication de Résservoirs
+			   - Fabrication de Rï¿½sservoirs
 		</FONT>
 		</font></P><FONT size=2 color=#FFFFFF>
 			<BR>
@@ -941,23 +940,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A la fin de ces travaux en cours, commencement du montage en atelier 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; des différents éléments &nbsp;fabriqués ou reçu et commencement du montage de la &nbsp;mecani- 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; des diffï¿½rents ï¿½lï¿½ments &nbsp;fabriquï¿½s ou reï¿½u et commencement du montage de la &nbsp;mecani- 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; que et montage electrique tant en puissance que logiciels. 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorsque tout l'orgue sera monté en état de fonctionnement à l'atelier, 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorsque tout l'orgue sera montï¿½ en ï¿½tat de fonctionnement ï¿½ l'atelier, 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; alors, on procèdera au démontage, au transport et à la livraison sur place (remontage 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; alors, on procï¿½dera au dï¿½montage, au transport et ï¿½ la livraison sur place (remontage 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; harmonisation etc..) 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous prévoyons 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous prï¿½voyons 
         le montage dans la Cathedrale fin 84 <BR>
         <BR>
         <BR>
@@ -968,9 +967,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; et la fin des travaux d'harmonisation, égalisation, accord, en fonction des difficultés ac- 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; et la fin des travaux d'harmonisation, ï¿½galisation, accord, en fonction des difficultï¿½s ac- 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; coustiques éventuelles pour la fin du printemps début été 85 Fin de travaux. 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; coustiques ï¿½ventuelles pour la fin du printemps dï¿½but ï¿½tï¿½ 85 Fin de travaux. 
 		<BR>
         <BR>
         <BR>
@@ -987,10 +986,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50 000,00 Fs. 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cela provient de la séparation pour élimination 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cela provient de la sï¿½paration pour ï¿½limination 
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; du zinc doublant les corps des tuyaux en étain 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; du zinc doublant les corps des tuyaux en ï¿½tain 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sur les anciens jeux d'anches (Ets. BOIS COLMAR) 
@@ -1002,23 +1001,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;150 000,00 Fs. 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; du fait 1° des dévaluations du franc 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; du fait 1ï¿½ des dï¿½valuations du franc 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        2° des réévaluations du Mark Allemand 
+        2ï¿½ des rï¿½ï¿½valuations du Mark Allemand 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        3° du 1 % de T.V.A. en sup. 
+        3ï¿½ du 1 % de T.V.A. en sup. 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        4° de la différence entre le poids d'étain 
+        4ï¿½ de la diffï¿½rence entre le poids d'ï¿½tain 
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        théorique sur devis et réel sur facture. 
+        thï¿½orique sur devis et rï¿½el sur facture. 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -1026,26 +1025,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Combinateur ........................................... : 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60 000,00 Fs. 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous &nbsp;avons préféré &nbsp;nous orienter &nbsp;vers un &nbsp;système 
-		&nbsp;logiciel à &nbsp;microprocesseurs plus 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nous &nbsp;avons prï¿½fï¿½rï¿½ &nbsp;nous orienter &nbsp;vers un &nbsp;systï¿½me 
+		&nbsp;logiciel ï¿½ &nbsp;microprocesseurs plus 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fiable que ce qui existait à &nbsp;l'époque du devis. &nbsp;
-		Vu l'humidité constante de la cathedrale 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fiable que ce qui existait ï¿½ &nbsp;l'ï¿½poque du devis. &nbsp;
+		Vu l'humiditï¿½ constante de la cathedrale 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; et les temperatures plutôt basses dans l'édifice. 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; et les temperatures plutï¿½t basses dans l'ï¿½difice. 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Quincaillerie spécialisée dont les systèmes logiciels de tirages de regis- 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Quincaillerie spï¿½cialisï¿½e dont les systï¿½mes logiciels de tirages de regis- 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; tres que &nbsp;
-		nous importons d'Allemagne et qui ont subi des variations de coût du fait des 
+		nous importons d'Allemagne et qui ont subi des variations de coï¿½t du fait des 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluctuations du Mark et du Franc, du 1 % de T.V.A. et des contacteurs nouveaux mo- 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dèles équipés de &nbsp;relais &nbsp;REED sous vide que &nbsp;
-		nous avons préfèrés aux systèmes tradi- 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dï¿½les ï¿½quipï¿½s de &nbsp;relais &nbsp;REED sous vide que &nbsp;
+		nous avons prï¿½fï¿½rï¿½s aux systï¿½mes tradi- 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 		tionnels (raison d'hygrometrie) ............................................. : 
@@ -1070,13 +1069,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <U>ETAT GENERAL DES PAIEMENTS DE 82 à 85</U> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <U>ETAT GENERAL DES PAIEMENTS DE 82 ï¿½ 85</U> 
 		<BR>
         <BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En 1982 et 1983 Facture de I à IX comprise 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; En 1982 et 1983 Facture de I ï¿½ IX comprise 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -1098,54 +1097,54 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ X&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		Echeance fin Janvier.............. : 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         150 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;
 		Echeance fin Fevrier.............. : 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         100 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		Echeance fin Mars................. : 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         250 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XIII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XIII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Avril................. : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         100 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XIV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XIV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Mai.................. : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         60 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Juin.................. : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         90 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XVI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XVI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Juillet............... : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         60 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XVII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XVII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Aout................ : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         60 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XVIII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XVIII&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Septembre....... : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         90 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XIX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XIX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Octobre........... : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         60 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture N° XX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facture Nï¿½ XX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Novembre........ : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         60 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Facture N° XXI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Facture Nï¿½ XXI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Echeance 
         fin Decembre........ : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         90 000,00 Fs. <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -1216,7 +1215,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-		   somme exacte du marché initial ...........................................&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 533 000,00 Fs. 
+		   somme exacte du marchï¿½ initial ...........................................&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 533 000,00 Fs. 
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1246,7 +1245,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Ce dépassement total du à
+		   Ce dï¿½passement total du ï¿½
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -1258,39 +1257,39 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   2) Prévision de l'instrument de 32 à
+		   2) Prï¿½vision de l'instrument de 32 ï¿½
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;
-		   45 jeux comme le précédent instrument 348 000,00 Fs.
+		   45 jeux comme le prï¿½cï¿½dent instrument 348 000,00 Fs.
 		<BR>
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   L'instrument est donc prévu pour 45 registres, seuls restent à mettre sur l'instrument
+		   L'instrument est donc prï¿½vu pour 45 registres, seuls restent ï¿½ mettre sur l'instrument
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   pour le terminer effectivement à 45 registres les tuyaux des 13 registres dont 2 x 
+		   pour le terminer effectivement ï¿½ 45 registres les tuyaux des 13 registres dont 2 x 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   32 pieds (tuyaux de 10 m de hauteur). Pour ces tuyaux et les commodités des 2 x 
+		   32 pieds (tuyaux de 10 m de hauteur). Pour ces tuyaux et les commoditï¿½s des 2 x 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   32 pieds (sommiers), il<s>e</s> faut compter une somme de 389 000,00 Fs. pour avoir
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   l'instrument terminé et non prévu 
-		   à 45 registres.
+		   l'instrument terminï¿½ et non prï¿½vu 
+		   ï¿½ 45 registres.
 		<BR>
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Soit pour terminer l'instrument completement à 45 registres :
+		   Soit pour terminer l'instrument completement ï¿½ 45 registres :
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -1340,18 +1339,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   2) Mise en place des éléments lourds à hauteur de la murette coté bas coté
+		   2) Mise en place des ï¿½lï¿½ments lourds ï¿½ hauteur de la murette cotï¿½ bas cotï¿½
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   (éventualité d'un MANITOU)
+		   (ï¿½ventualitï¿½ d'un MANITOU)
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   3) Prêt éventuel d'échaffaudages pendant 4 mois
+		   3) Prï¿½t ï¿½ventuel d'ï¿½chaffaudages pendant 4 mois
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   4) Prêt de barrieres metalliques pour protection de chantier afin d'éviter les
+		   4) Prï¿½t de barrieres metalliques pour protection de chantier afin d'ï¿½viter les
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   accidents.
@@ -1359,11 +1358,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   2) Apport d'une ligne electrique Triphasée &nbsp;+&nbsp; neutre &nbsp;+&nbsp; Terre avec protection par dif-
+		   2) Apport d'une ligne electrique Triphasï¿½e &nbsp;+&nbsp; neutre &nbsp;+&nbsp; Terre avec protection par dif-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   férentiel pour alimenter :
+		   fï¿½rentiel pour alimenter :
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1371,20 +1370,20 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   1 transformateur de 40 Ampere 380 à 42 V TRI
+		   1 transformateur de 40 Ampere 380 ï¿½ 42 V TRI
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   2 redresseurs 380 alt tri à 12 v Continu 50 A
+		   2 redresseurs 380 alt tri ï¿½ 12 v Continu 50 A
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   3) Installation d'un retour son pour l'organiste de façon à entendre le déroulement des
+		   3) Installation d'un retour son pour l'organiste de faï¿½on ï¿½ entendre le dï¿½roulement des
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   offices puis un retour son pour entendre l'équilibre de son orgue dans la nef
+		   offices puis un retour son pour entendre l'ï¿½quilibre de son orgue dans la nef
 		<BR>
         <BR>
         <center>
@@ -1395,28 +1394,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Car étant placé à l'intérieur de son orgue, il ne peut juger de l'effet produit notem-
+		   Car ï¿½tant placï¿½ ï¿½ l'intï¿½rieur de son orgue, il ne peut juger de l'effet produit notem-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 ment par les chamades que par un retour necessitant une &nbsp;paire de micros, câbles,
+		 ment par les chamades que par un retour necessitant une &nbsp;paire de micros, cï¿½bles,
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   alimentation séparée des micros + Ampli et enceinte de restitution ou casque.
+		   alimentation sï¿½parï¿½e des micros + Ampli et enceinte de restitution ou casque.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   4) Installation d'un système vidéo simple pour que l'organiste suive le déroulement des
+		   4) Installation d'un systï¿½me vidï¿½o simple pour que l'organiste suive le dï¿½roulement des
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   offices ou &nbsp;des concerts &nbsp;avec orchestre de la console à &nbsp;laquelle sera intègrée &nbsp;le ré-
+		   offices ou &nbsp;des concerts &nbsp;avec orchestre de la console ï¿½ &nbsp;laquelle sera intï¿½grï¿½e &nbsp;le rï¿½-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   cepteur ainsi que les systèmes de manipulation à distance de la camera (mouvement
+		   cepteur ainsi que les systï¿½mes de manipulation ï¿½ distance de la camera (mouvement
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1425,19 +1424,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   5) Aménagement des accès à l'orgue : Nettoyage de l'escalier actuel + réfection d'une
+		   5) Amï¿½nagement des accï¿½s ï¿½ l'orgue : Nettoyage de l'escalier actuel + rï¿½fection d'une
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   porte étanche en direction des triphoriums à cause des pigeons, réamenagement des
+		   porte ï¿½tanche en direction des triphoriums ï¿½ cause des pigeons, rï¿½amenagement des
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   serrures de porte en bas de l'escalier &nbsp;et donnant accès à &nbsp;la tribune latérale. Aména-
+		   serrures de porte en bas de l'escalier &nbsp;et donnant accï¿½s ï¿½ &nbsp;la tribune latï¿½rale. Amï¿½na-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   gements divers des planchers refaits par nos soins sur la tribune latérale et au niveau
+		   gements divers des planchers refaits par nos soins sur la tribune latï¿½rale et au niveau
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1462,11 +1461,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Nous esperons par cette &nbsp;lettre avoir réponsu à toutes &nbsp;les ques-
+		   Nous esperons par cette &nbsp;lettre avoir rï¿½ponsu ï¿½ toutes &nbsp;les ques-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   tions que vous &nbsp;nous aviez &nbsp;posé par votre derniere &nbsp;lettre et à &nbsp;tous les points soulevés
+		   tions que vous &nbsp;nous aviez &nbsp;posï¿½ par votre derniere &nbsp;lettre et ï¿½ &nbsp;tous les points soulevï¿½s
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1477,11 +1476,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Veuillez &nbsp;agréer, Monsieur &nbsp;le &nbsp;Maire, l'expression de &nbsp;nos senti-
+		   Veuillez &nbsp;agrï¿½er, Monsieur &nbsp;le &nbsp;Maire, l'expression de &nbsp;nos senti-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   ments distingués et dévoués.
+		   ments distinguï¿½s et dï¿½vouï¿½s.
 		<BR>
 		<BR>
 		<BR>
@@ -1520,28 +1519,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 <BR>
 		 <BR>
-        Indice initial au 1° Janvier 1981 ......................... 165,7 <BR>
+        Indice initial au 1ï¿½ Janvier 1981 ......................... 165,7 <BR>
 		 <BR>
-		    Indice N° 1 au 26/4/82 Date de paiement Banque 192,8
+		    Indice Nï¿½ 1 au 26/4/82 Date de paiement Banque 192,8
 		 <BR>
 		 <BR>
-        Indice N° 2 au 8/10/82 ..................................... 207,8 <BR>
+        Indice Nï¿½ 2 au 8/10/82 ..................................... 207,8 <BR>
 		 <BR>
-        Indice N° 3 au 8/1/83 ....................................... 208,3 <BR>
+        Indice Nï¿½ 3 au 8/1/83 ....................................... 208,3 <BR>
 		 <BR>
-        Indice N° 4 au 17/6/83 ..................................... 223,7 <BR>
+        Indice Nï¿½ 4 au 17/6/83 ..................................... 223,7 <BR>
 		 <BR>
-        Indice N° 5 au 24/8/83 ..................................... 223,7 <BR>
+        Indice Nï¿½ 5 au 24/8/83 ..................................... 223,7 <BR>
 		 <BR>
-        Indice N° 6 au 5/10/83 ..................................... 229,4 <BR>
+        Indice Nï¿½ 6 au 5/10/83 ..................................... 229,4 <BR>
 		 <BR>
-        Indice N° 7 au 2/11/83 ..................................... 229,4 &nbsp;&nbsp;&nbsp;<I>? 
+        Indice Nï¿½ 7 au 2/11/83 ..................................... 229,4 &nbsp;&nbsp;&nbsp;<I>? 
         A revoir</I> <BR>
 		 <BR>
-        Indice N° 8 au 21/11/83 ................................... 229,4 &nbsp;&nbsp;&nbsp;<I>? 
+        Indice Nï¿½ 8 au 21/11/83 ................................... 229,4 &nbsp;&nbsp;&nbsp;<I>? 
         A revoir</I> <BR>
 		 <BR>
-        Indice N° 9 au 16/12/83 ................................... 229,4 &nbsp;&nbsp;&nbsp;<I>? 
+        Indice Nï¿½ 9 au 16/12/83 ................................... 229,4 &nbsp;&nbsp;&nbsp;<I>? 
         A revoir</I>
 		</FONT> </P>
 		 <BR>
@@ -1553,18 +1552,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 <p align="justify">
 		 <FONT size=4 color=#FFFFFF>
-		    Variation en % des indices à fin 83
+		    Variation en % des indices ï¿½ fin 83
 		 </FONT>
 	     </P>
 		 <P ALIGN="center">
 		 <FONT size=4 color=#FFFFFF>
-		    soit de 165,7 à 233,9 = 141 %
+		    soit de 165,7 ï¿½ 233,9 = 141 %
 		 </FONT>
 	     </P>
 		 <BR>
 		 <p align="justify">
 		 <FONT size=4 color=#FFFFFF>
-		 Nous apliquerons ce pourcentage au solde du marché hors les 9 premieres factures ou nous allons faire le calcul exact. 
+		 Nous apliquerons ce pourcentage au solde du marchï¿½ hors les 9 premieres factures ou nous allons faire le calcul exact. 
 		 <BR>
         <BR>
         <BR>
@@ -1574,13 +1573,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I° 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Iï¿½ 
 		<BR>
         <BR>
         I ) Voir plus haut 
 		<BR>
         <BR>
-        I° = 165,7 
+        Iï¿½ = 165,7 
 		<BR>
         <BR>
         N = 0 
@@ -1588,7 +1587,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <BR>
         <BR>
         <BR>
-        <U>Acompte N° 1</U> : 200 000,00 x 0,85 = 170 000,00 
+        <U>Acompte Nï¿½ 1</U> : 200 000,00 x 0,85 = 170 000,00 
 		<BR>
         <BR>
         R = 170 000 x <U> 192,8 </U> - 170 000 = ...................................................................................... 
@@ -1598,7 +1597,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 2 : 100 000,00 x 0,85 = 85 000,00 
+        Acompte Nï¿½ 2 : 100 000,00 x 0,85 = 85 000,00 
 		<BR>
         <BR>
         R = 85 000,00 x <U> 207,8 </U> - 85 000,00 = ................................................................................ 
@@ -1609,7 +1608,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 3 : 100 000,00 x 0,85 = 85 000,00 Fs. 
+        Acompte Nï¿½ 3 : 100 000,00 x 0,85 = 85 000,00 Fs. 
 		<BR>
         <BR>
         R = 85 000,00 x <U> 208,3 </U> - 85 000,00 = .............................................................................. 
@@ -1620,7 +1619,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 4 : 50 000,00 x 0,85 = 42 500,00 Fs. 
+        Acompte Nï¿½ 4 : 50 000,00 x 0,85 = 42 500,00 Fs. 
 		<BR>
         <BR>
         R = 42 500,00 x <U> 223,7 </U> - 42 500,00 = .............................................................................. 
@@ -1631,7 +1630,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 5 : 50 000,00 x 0,85 = 42 500,00 Fs. 
+        Acompte Nï¿½ 5 : 50 000,00 x 0,85 = 42 500,00 Fs. 
 		<BR>
         <BR>
         R = 42 500,00 x <U> 223,7 </U> - 42 500,00 = .............................................................................. 
@@ -1642,7 +1641,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 6 : 125 000,00 x 0,85 = 106 250,00 Fs. 
+        Acompte Nï¿½ 6 : 125 000,00 x 0,85 = 106 250,00 Fs. 
 		<BR>
         <BR>
         R = 106 250,00 x <U> 229,4 </U> - 106 250,00 = ........................................................................... 
@@ -1653,7 +1652,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 7 : 285 000,00 x 0,85 = 242 250,00 
+        Acompte Nï¿½ 7 : 285 000,00 x 0,85 = 242 250,00 
 		<BR>
         <BR>
         R = 242 250,00 x <U> 229,4 </U> - 242 250,00 = ........................................................................... 
@@ -1664,7 +1663,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 8 : 100 000,00 x 0,85 = 85 000,00 
+        Acompte Nï¿½ 8 : 100 000,00 x 0,85 = 85 000,00 
 		<BR>
         <BR>
         R = 85 000,00 x <U> 229,4 </U> - 85 000,00 = .............................................................................. 
@@ -1675,7 +1674,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         165,7 
 		<BR>
         <BR>
-        Acompte N° 9 : 175 000,00 x 0,85 = 148 750,00 
+        Acompte Nï¿½ 9 : 175 000,00 x 0,85 = 148 750,00 
 		<BR>
         <BR>
         R = 148 750,00 x <U> 229,4 </U> - 148 750,00 = ........................................................................... 
@@ -1695,7 +1694,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         324 838,97 Fs. 
 		<BR>
         <BR>
-        Application du taux en % soit 141 % au solde du marché restant à percevoir 
+        Application du taux en % soit 141 % au solde du marchï¿½ restant ï¿½ percevoir 
         <BR>
         <BR>
         508 360 x 141 % - 508 360 = ....................................................................................... 
@@ -1760,7 +1759,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   </FONT>
            <FONT SIZE="4">
 		      &nbsp;&nbsp;&nbsp;
-		      15 Février 1984
+		      15 Fï¿½vrier 1984
 		  </FONT> 
 		</P>
 		   <FONT SIZE="4">
@@ -1780,7 +1779,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      à
+		      ï¿½
 		   <BR>
 		   <U>Service</U>
 		   &nbsp;&nbsp;&nbsp;
@@ -1813,7 +1812,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		      17 100 SAINTES CEDEX
 		   <BR>
 		   <BR>
-		      <u>Objet</u> : Cathédrale St-Etienne -
+		      <u>Objet</u> : Cathï¿½drale St-Etienne -
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		      Restauration des Orgues
@@ -1832,54 +1831,54 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Par la &nbsp;présente, je tiens à vous informer que j'ai &nbsp;pris connaissance de 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Par la &nbsp;prï¿½sente, je tiens ï¿½ vous informer que j'ai &nbsp;pris connaissance de 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; votre lettre avec grande attention. 
         <BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Les dépassements dont vous faites état sont substanciels et selon l'origine 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Les dï¿½passements dont vous faites ï¿½tat sont substanciels et selon l'origine 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; de chacun, ils appellent des remarques 
         : <BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- les réévaluations pour évolution des circonstances économiques sont liées à la 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- les rï¿½ï¿½valuations pour ï¿½volution des circonstances ï¿½conomiques sont liï¿½es ï¿½ la 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		théorie de l'imprévision. Elles seront examinées à l'achèvement de l'opération.
+		thï¿½orie de l'imprï¿½vision. Elles seront examinï¿½es ï¿½ l'achï¿½vement de l'opï¿½ration.
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il sera fait application des textes 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - augmentation de la TVA : la matière est règlementée 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - augmentation de la TVA : la matiï¿½re est rï¿½glementï¿½e 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - révision de prix : la formule figurant au contrat sera appliquée 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - rï¿½vision de prix : la formule figurant au contrat sera appliquï¿½e 
 		<BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - travaux supplémentaires : vous établissez une prévision de dépense pour passage 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - travaux supplï¿½mentaires : vous ï¿½tablissez une prï¿½vision de dï¿½pense pour passage 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-		de l'instrument de 32 jeux à 45 jeux. C'est sans doute là le plus important de ce 
+		de l'instrument de 32 jeux ï¿½ 45 jeux. C'est sans doute lï¿½ le plus important de ce 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dossier. 
         <BR>
         <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Je ne pense pas que la Ville, maître d'ouvrage, ait fait cette demande de 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Je ne pense pas que la Ville, maï¿½tre d'ouvrage, ait fait cette demande de 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; travaux supplémentaires. Est-elle justifiée ? Aussi, et avant de commencer tout 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; travaux supplï¿½mentaires. Est-elle justifiï¿½e ? Aussi, et avant de commencer tout 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-		apporvisionnement et tout réalisation, je vous demande de bien vouloir attendre qu'un 
+		apporvisionnement et tout rï¿½alisation, je vous demande de bien vouloir attendre qu'un 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; accord formel vous soit donné. 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; accord formel vous soit donnï¿½. 
 		<BR>
         <BR>
         <BR>
@@ -1895,7 +1894,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         </P>   
 		<P ALIGN="center">
 		<FONT SIZE="2">
-		   <I>Toute correspondance est à adresser à : M. le Maire, Hôtel de Ville. B.P. 59 89010 Auxerre Cédex - Tél. : (86) 52.69.45</I>
+		   <I>Toute correspondance est ï¿½ adresser ï¿½ : M. le Maire, Hï¿½tel de Ville. B.P. 59 89010 Auxerre Cï¿½dex - Tï¿½l. : (86) 52.69.45</I>
 		</FONT>
 		</P>
 		<p align="justify">
@@ -1905,49 +1904,49 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   En effet, cela engendre un dépassement certain du montant du marché.
+		   En effet, cela engendre un dï¿½passement certain du montant du marchï¿½.
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-		   La passation d'un avenant sera nécessaire et le Conseil 
+		   La passation d'un avenant sera nï¿½cessaire et le Conseil 
 		   Municipal devra obligatoirement
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   se prononcer. Cela n'est aucunement prévu à l'ordre du jour de sa prochaine séance.
+		   se prononcer. Cela n'est aucunement prï¿½vu ï¿½ l'ordre du jour de sa prochaine sï¿½ance.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Il conviendrait aussi, que vous me précisiez ce que représente cette
+		   Il conviendrait aussi, que vous me prï¿½cisiez ce que reprï¿½sente cette
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   modification de l'instrument dans le volume des 
-		   dépassements en approvisionnement.
+		   dï¿½passements en approvisionnement.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Les points 3 et 4 des travaux annexes revenant à la Ville (retour son et
+		   Les points 3 et 4 des travaux annexes revenant ï¿½ la Ville (retour son et
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   installation d'un système vidéo simple) devront 
-		   aussi être partioculièrement examinés
+		   installation d'un systï¿½me vidï¿½o simple) devront 
+		   aussi ï¿½tre partioculiï¿½rement examinï¿½s
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   car ils ne sont pas liés à la restauration même de l'orgue.
+		   car ils ne sont pas liï¿½s ï¿½ la restauration mï¿½me de l'orgue.
 		<BR>
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C'est une opération complexe pour la Ville ; il convient donc que toute 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C'est une opï¿½ration complexe pour la Ville ; il convient donc que toute 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; décision soit prise en pleine connaissance de cause. Aussi ai-je chargé Monsieur 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dï¿½cision soit prise en pleine connaissance de cause. Aussi ai-je chargï¿½ Monsieur 
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Decavèle -expert en la matière- de conseiller la Ville et être un relais entre Elle et Vous.
+		Decavï¿½le -expert en la matiï¿½re- de conseiller la Ville et ï¿½tre un relais entre Elle et Vous.
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des contacts ont sans doute déjà été pris. 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Des contacts ont sans doute dï¿½jï¿½ ï¿½tï¿½ pris. 
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -1956,19 +1955,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   S'agissant de vos demandes d'acomptes en instance, je peux vous assurer
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   que 150 000 F (acompte n° X) vous seront mandatés prochainement.
+		   que 150 000 F (acompte nï¿½ X) vous seront mandatï¿½s prochainement.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Vous remerciant dès à présent de me donner tout renseignement utile,
+		   Vous remerciant dï¿½s ï¿½ prï¿½sent de me donner tout renseignement utile,
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;
-		   Je vous prie d'agréer, Monsieur, l'expression de mes salutations les
+		   Je vous prie d'agrï¿½er, Monsieur, l'expression de mes salutations les
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   meilleures.
@@ -2051,10 +2050,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<BR>
-      </FONT> <FONT size=3 color=#FFFFFF> nos réf. : <FONT size=4 color=#FFFFFF> 
+      </FONT> <FONT size=3 color=#FFFFFF> nos rï¿½f. : <FONT size=4 color=#FFFFFF> 
       DR/DO/89000 AUXERRE CATH</FONT></FONT> <BR>
 		 <FONT size=3 color=#FFFFFF>
-		    vos réf. :
+		    vos rï¿½f. :
 			</FONT>
 		 <FONT size=4 color=#FFFFFF>
 		    S.T. Direction Administra.
@@ -2086,20 +2085,20 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      En réponse à votre lettre du 15/2/84 en référence ci-dessus, et dont
+		      En rï¿½ponse ï¿½ votre lettre du 15/2/84 en rï¿½fï¿½rence ci-dessus, et dont
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			  nous avons pris bonne note, nous pouvons vous 
-			  donner les précisions demandées quant
+			  donner les prï¿½cisions demandï¿½es quant
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			  aux dépassements sur approvisionnement :
+			  aux dï¿½passements sur approvisionnement :
 		   <BR>
 		   <BR>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		      Les dépassements sur approvisionnement sont les suivants : (Voir lettre
+		      Les dï¿½passements sur approvisionnement sont les suivants : (Voir lettre
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 			  du 30/1/84)
@@ -2119,7 +2118,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         60 000,00 F <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Quincaillerie spécialisée 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Quincaillerie spï¿½cialisï¿½e 
         ................................................ 40 000,00 F <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2138,7 +2137,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   cette somme correspondant aux dépassements en approvisionnement pour l'orgue prévu à
+		   cette somme correspondant aux dï¿½passements en approvisionnement pour l'orgue prï¿½vu ï¿½
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 		   45 registres si ce n'est la somme de 
@@ -2160,7 +2159,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---------------------- 
-        = 177 777,60 à soustraire de <BR>
+        = 177 777,60 ï¿½ soustraire de <BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2168,20 +2167,20 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   250 000,00 F = 72 222,40 Fs. Cette somme correspondant à ce que représente la
+		   250 000,00 F = 72 222,40 Fs. Cette somme correspondant ï¿½ ce que reprï¿½sente la
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 		   modification de l'instrument dans le volume 
-		   des dépassements en approvisionnement.
+		   des dï¿½passements en approvisionnement.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Veuillez agréer, Monsieur le Maire, l'expression de nos sentiments
+		   Veuillez agrï¿½er, Monsieur le Maire, l'expression de nos sentiments
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   distingués.
+		   distinguï¿½s.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2190,13 +2189,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	  </P>
 	  <FONT size=2 color=#FFFFFF>
 		    <CENTER> 	    
-			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tél. (46) 93 47 16
+			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tï¿½l. (46) 93 47 16
 			</CENTER>
 	    </FONT>
 		   <FONT size=1 color=#FFFFFF>
 		      <CENTER>
-		       S.A.R.L. à capital variable - siège social : 16 ter, rue St Pallais - R.C. Saintes 81 B 32 - Crédit Lyonnais Saintes 
-		       N° 71383 V   
+		       S.A.R.L. ï¿½ capital variable - siï¿½ge social : 16 ter, rue St Pallais - R.C. Saintes 81 B 32 - Crï¿½dit Lyonnais Saintes 
+		       Nï¿½ 71383 V   
 			  </CENTER>
            </FONT>
     </TD>
@@ -2266,7 +2265,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;
-		      à
+		      ï¿½
 		   <BR>
 		   Service
 		   &nbsp;&nbsp;&nbsp;
@@ -2287,14 +2286,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   &nbsp;&nbsp;&nbsp;
 		   MANUFACTURE DES GRANDS ORGUES
 		   <BR>
-		      Vos réf : V/lettre du 30.I.I984
+		      Vos rï¿½f : V/lettre du 30.I.I984
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;
 		   16 ter, rue St-Pallais
 		   <BR>
 		   <BR>	    
-		   Nos réf : NC/AQ/84/<I>85</I>
+		   Nos rï¿½f : NC/AQ/84/<I>85</I>
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2321,37 +2320,37 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Les travaux de restauration des orgues ont été examinés avec attention
+		   Les travaux de restauration des orgues ont ï¿½tï¿½ examinï¿½s avec attention
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   lors de la Réunion de Municipalité du lundi 16 avril. Vous avez d'ailleurs pu vous en
+		   lors de la Rï¿½union de Municipalitï¿½ du lundi 16 avril. Vous avez d'ailleurs pu vous en
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   entretenir par téléphone avec mes Services.
+		   entretenir par tï¿½lï¿½phone avec mes Services.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Je vous confirme donc les décisions prises relativement aux travaux
+		   Je vous confirme donc les dï¿½cisions prises relativement aux travaux
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   supplémentaires dont vous m'informiez dans votre correspondance ci-dessus référencée.
+		   supplï¿½mentaires dont vous m'informiez dans votre correspondance ci-dessus rï¿½fï¿½rencï¿½e.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Il n'y aura aucun travaux supplémentaires tendant à modifier la structure
+		   Il n'y aura aucun travaux supplï¿½mentaires tendant ï¿½ modifier la structure
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   de l'instrument par rapport à celle prévue au marché.
+		   de l'instrument par rapport ï¿½ celle prï¿½vue au marchï¿½.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Cela implique donc que la dépense ne concernera qu'un instrument de 32
+		   Cela implique donc que la dï¿½pense ne concernera qu'un instrument de 32
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   jeux.
@@ -2360,10 +2359,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Il convient désormais de faire un point financier précis de l'opération
+		   Il convient dï¿½sormais de faire un point financier prï¿½cis de l'opï¿½ration
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   tenant compte des éléments suivants :
+		   tenant compte des ï¿½lï¿½ments suivants :
 		<BR>
 		<BR>
 		<BR>
@@ -2380,7 +2379,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		</P>   
 		<P ALIGN="center">
 		<FONT SIZE="2">
-		   <I>Toute correspondance est à adresser à : M. le Maire, Hôtel de Ville. B.P. 59 89010 Auxerre Cédex - Tél. : (86) 52.69.45</I>
+		   <I>Toute correspondance est ï¿½ adresser ï¿½ : M. le Maire, Hï¿½tel de Ville. B.P. 59 89010 Auxerre Cï¿½dex - Tï¿½l. : (86) 52.69.45</I>
 		</FONT>
 		</P>
 		<p align="justify">
@@ -2390,11 +2389,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - 11 acomptes vous ont été mandatés pour la somme de 1 435 000 F
+		   - 11 acomptes vous ont ï¿½tï¿½ mandatï¿½s pour la somme de 1 435 000 F
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   T.T.C. Cette somme représente plus de 87 % du montant initial du marché.
+		   T.T.C. Cette somme reprï¿½sente plus de 87 % du montant initial du marchï¿½.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2406,23 +2405,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - Aucune révision de prix n'a encore été réglée.
+		   - Aucune rï¿½vision de prix n'a encore ï¿½tï¿½ rï¿½glï¿½e.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - Les travaux supplémentaires par rapport au marché de base doivent
+		   - Les travaux supplï¿½mentaires par rapport au marchï¿½ de base doivent
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   être évalués très précisément.
+		   ï¿½tre ï¿½valuï¿½s trï¿½s prï¿½cisï¿½ment.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   En conséquence, je vous saurai gré de me faire parvenir dès que pos-
+		   En consï¿½quence, je vous saurai grï¿½ de me faire parvenir dï¿½s que pos-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
@@ -2432,77 +2431,77 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - l'état des travaux supplémentaires sur l'instrument à 32 jeux (nature de
+		   - l'ï¿½tat des travaux supplï¿½mentaires sur l'instrument ï¿½ 32 jeux (nature de
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   la dépense et prix),
+		   la dï¿½pense et prix),
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - la date d'achèvement si l'instrument n'avait fait l'objet d'aucun travaux
+		   - la date d'achï¿½vement si l'instrument n'avait fait l'objet d'aucun travaux
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   supplémentaires,
+		   supplï¿½mentaires,
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - l'état prévisionnel de vos paiements jusqu'à l'achèvement de l'opération,
+		   - l'ï¿½tat prï¿½visionnel de vos paiements jusqu'ï¿½ l'achï¿½vement de l'opï¿½ration,
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - une demande d'acomptes sur règlement des variations de prix. La Ville
+		   - une demande d'acomptes sur rï¿½glement des variations de prix. La Ville
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   ne prendra pas en charge les révisions pour retard dû aux travaux supplémentaires.
+		   ne prendra pas en charge les rï¿½visions pour retard dï¿½ aux travaux supplï¿½mentaires.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   - par rapport au marché de base, que représentent les acomptes ef-
+		   - par rapport au marchï¿½ de base, que reprï¿½sentent les acomptes ef-
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   fectués.
+		   fectuï¿½s.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Ces éléments justificatifs me semblent indispensables pour effectuer le
+		   Ces ï¿½lï¿½ments justificatifs me semblent indispensables pour effectuer le
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   prochain paiement à intervenir, je souhaiterais donc les recevoir très rapidement
+		   prochain paiement ï¿½ intervenir, je souhaiterais donc les recevoir trï¿½s rapidement
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Soyez assuré néanmoins que le nécessaire sera fait afin que vous soyez
+		   Soyez assurï¿½ nï¿½anmoins que le nï¿½cessaire sera fait afin que vous soyez
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   rémunéré de tout le travail effectué. J'ai informé Monsieur l'Abbé BOISSEAU de la
+		   rï¿½munï¿½rï¿½ de tout le travail effectuï¿½. J'ai informï¿½ Monsieur l'Abbï¿½ BOISSEAU de la
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   décision prise. Une solution devra être trouvée avec l'Asociation des Amis des Orgues.
+		   dï¿½cision prise. Une solution devra ï¿½tre trouvï¿½e avec l'Asociation des Amis des Orgues.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Joint à la présente, vous trouverez un certificat administratif attestant
+		   Joint ï¿½ la prï¿½sente, vous trouverez un certificat administratif attestant
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2512,11 +2511,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-		   Je vous prie d'agréer, Monsieur, l'expression de mes sentiments les plus
+		   Je vous prie d'agrï¿½er, Monsieur, l'expression de mes sentiments les plus
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   distingués.
+		   distinguï¿½s.
 		<BR>
 		   <BR>
 		   <BR>
@@ -2611,14 +2610,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
          </FONT>
 		 <FONT size=3 color=#FFFFFF>
-		    nos réf. : 
+		    nos rï¿½f. : 
 		 <FONT size=4 color=#FFFFFF> 
             R/DO/89000 AUXERRE CATH
 		 </FONT>
 		 </FONT>
 		 <BR>
 		 <FONT size=3 color=#FFFFFF>
-		    vos réf. :
+		    vos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 		    V/Lettre du 24/4/84
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2654,16 +2653,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   dont &nbsp;nous avons pris &nbsp;bonne note. Nous allons ci-dessous &nbsp;répondre point par point aux
+		   dont &nbsp;nous avons pris &nbsp;bonne note. Nous allons ci-dessous &nbsp;rï¿½pondre point par point aux
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-		   différentes questions que vous nous posez.
+		   diffï¿½rentes questions que vous nous posez.
 		 <BR>
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   1) <U>Evolution précise des travaux suplémentaires concernant l'orgue initial de 32 registres</U>
+		   1) <U>Evolution prï¿½cise des travaux suplï¿½mentaires concernant l'orgue initial de 32 registres</U>
 		 <BR>
 		 <BR>
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2682,7 +2681,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-		   - Quincaillerie spécialisée ..................................................................... 28 444,16 Fs.
+		   - Quincaillerie spï¿½cialisï¿½e ..................................................................... 28 444,16 Fs.
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2704,27 +2703,27 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   2) <U>Date d'achèvement de l'orgue de 32 registres</U>
+		   2) <U>Date d'achï¿½vement de l'orgue de 32 registres</U>
 		 <BR>
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Ordre de service daté du 8 mars 1982
+		   Ordre de service datï¿½ du 8 mars 1982
 		 <BR>
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Délai sur marché : 3 ans
+		   Dï¿½lai sur marchï¿½ : 3 ans
 	     <BR>
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Achèvement prévu pour le 8 mars 1985 pour 32 registres
+		   Achï¿½vement prï¿½vu pour le 8 mars 1985 pour 32 registres
 		 <BR>
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   3) <U>Etat prévisionnels des paiements jusqu'a l'achevement des travaux</U>
+		   3) <U>Etat prï¿½visionnels des paiements jusqu'a l'achevement des travaux</U>
 		 <BR>
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2747,7 +2746,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 - Salaires + charges + fonctionnement de 5/84 à 
+		 - Salaires + charges + fonctionnement de 5/84 ï¿½ 
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2773,11 +2772,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 Marché initial &nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;1 693 360 Fs. T.T.C. (T.V.A. 17,6 %)
+		 Marchï¿½ initial &nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;1 693 360 Fs. T.T.C. (T.V.A. 17,6 %)
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 Acomptes reçus &nbsp;:&nbsp;&nbsp;&nbsp;1 431 000 Fs. T.T.C.
+		 Acomptes reï¿½us &nbsp;:&nbsp;&nbsp;&nbsp;1 431 000 Fs. T.T.C.
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2794,11 +2793,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 Travaux suplé. &nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 227 777,28 Fs.
+		 Travaux suplï¿½. &nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 227 777,28 Fs.
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 Revisions de prix &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;324 838,97 Fs. &nbsp;&nbsp;sur les Factures de I à IX
+		 Revisions de prix &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;324 838,97 Fs. &nbsp;&nbsp;sur les Factures de I ï¿½ IX
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2828,92 +2827,92 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <BR>
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Complément de la facture 
-        N° XII....................................................... 100 000,00 Fs.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Complï¿½ment de la facture 
+        Nï¿½ XII....................................................... 100 000,00 Fs.
 		<BR>
 		<BR>
-		<CENTER>Ces 2 sommes à nous règler à reception S. V. P.</CENTER>
+		<CENTER>Ces 2 sommes ï¿½ nous rï¿½gler ï¿½ reception S. V. P.</CENTER>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de façon à pouvoir honorer nos fournisseurs
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de faï¿½on ï¿½ pouvoir honorer nos fournisseurs
 		<BR>
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- N/Facture N° XIV du 1/4/84.............................................................. 60 000,00 Fs.
+		- N/Facture Nï¿½ XIV du 1/4/84.............................................................. 60 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XV au 1/6/84................................................................... 50 000,00 Fs.
+		- Facture Nï¿½ XV au 1/6/84................................................................... 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XVI au 1/7/84.................................................................. 50 000,00 Fs.
+		- Facture Nï¿½ XVI au 1/7/84.................................................................. 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XVII au 1/8/84................................................................. 50 000,00 Fs.
+		- Facture Nï¿½ XVII au 1/8/84................................................................. 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XVIII au 1/9/84................................................................ 50 000,00 Fs.
+		- Facture Nï¿½ XVIII au 1/9/84................................................................ 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XIV au 1/10/84................................................................ 50 000,00 Fs.
+		- Facture Nï¿½ XIV au 1/10/84................................................................ 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XV au 1/11/84................................................................. 50 000,00 Fs.
+		- Facture Nï¿½ XV au 1/11/84................................................................. 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XVI au 1/12/84................................................................ 50 000,00 Fs.
+		- Facture Nï¿½ XVI au 1/12/84................................................................ 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XVII au 1/1/85................................................................. 50 000,00 Fs.
+		- Facture Nï¿½ XVII au 1/1/85................................................................. 50 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XVIII au 1/2/85................................................................ 15 000,00 Fs.
+		- Facture Nï¿½ XVIII au 1/2/85................................................................ 15 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		- Facture N° XIX au 8/3/85............................................ = Solde des révisions de prix
+		- Facture Nï¿½ XIX au 8/3/85............................................ = Solde des rï¿½visions de prix
 		<BR><BR><BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		4) <U>Demande d'acompte sur règlement des variations de prix</U>
+		4) <U>Demande d'acompte sur rï¿½glement des variations de prix</U>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<p align="justify">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Nous vous renvoyons à notre lettre du 30/1/84 ou les revisions de prix sont
-		calculées pour les factures de I à IX et vous demandons de bien vouloir incorporer les
-		résultats de ces variations à notre compte chez vous de façon à les redistribuer selon plan
-		de financement. au fur et à mesure des règlements de factures, nous continuerons à
+		Nous vous renvoyons ï¿½ notre lettre du 30/1/84 ou les revisions de prix sont
+		calculï¿½es pour les factures de I ï¿½ IX et vous demandons de bien vouloir incorporer les
+		rï¿½sultats de ces variations ï¿½ notre compte chez vous de faï¿½on ï¿½ les redistribuer selon plan
+		de financement. au fur et ï¿½ mesure des rï¿½glements de factures, nous continuerons ï¿½
 		calculer les dites revisions.
 		</P>
 		<BR><BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		5) <U>Les acomptes effectués par rapport au marché de base représentent</U> :
+		5) <U>Les acomptes effectuï¿½s par rapport au marchï¿½ de base reprï¿½sentent</U> :
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Marché : 1 693 360,00 Fs. T.T.C. (17,6)
+		Marchï¿½ : 1 693 360,00 Fs. T.T.C. (17,6)
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2922,15 +2921,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Soit en pourcentage : 87 % du marché non révisé
+		Soit en pourcentage : 87 % du marchï¿½ non rï¿½visï¿½
 		<BR>
 		<p align="justify">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Cela représente en fabrication à ce qui est réalisé actuellement en atelier et les 
-		acomptes envoyés pour des fournitures qui ne sont pas encore rentrées. Il y a une 
-        part de la réalisation en atelier et des fournitures qui correspondent à l'orgue étendu à 45 
-		registres prévus .
+		Cela reprï¿½sente en fabrication ï¿½ ce qui est rï¿½alisï¿½ actuellement en atelier et les 
+		acomptes envoyï¿½s pour des fournitures qui ne sont pas encore rentrï¿½es. Il y a une 
+        part de la rï¿½alisation en atelier et des fournitures qui correspondent ï¿½ l'orgue ï¿½tendu ï¿½ 45 
+		registres prï¿½vus .
 		</P>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2940,19 +2939,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<p align="justify">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Nous sommes très sensibles au fait que la municipalité aussi bien que l'association des
-		Amis des Orgues conjointement m'assurent que la totalité de l'instrument de 45 registres
-		sera payé par une solution venant de cette association. Pour cela, les Amis de l'orgue
+		Nous sommes trï¿½s sensibles au fait que la municipalitï¿½ aussi bien que l'association des
+		Amis des Orgues conjointement m'assurent que la totalitï¿½ de l'instrument de 45 registres
+		sera payï¿½ par une solution venant de cette association. Pour cela, les Amis de l'orgue
 		devront financer :
 		</P>
 		<BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        1) Depassement de 32 à 45 jeux.................................................. 72 222,72 F
+        1) Depassement de 32 ï¿½ 45 jeux.................................................. 72 222,72 F
 	    <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        2) Previsions de l'orgue à 45 jeux............................................... 348 000,00 F
+        2) Previsions de l'orgue ï¿½ 45 jeux............................................... 348 000,00 F
 	    <BR>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -2991,15 +2990,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<p align="justify">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Il serait bon que nous puissions avoir la possibilité de facturer séparément à
-		l'association de façon à compléter les sommes que nous demandons à la ville et ceci
-		notemment pour le mois de Mars 1985 et les mois suivants correspondant à l'harmonisation des jeux suplémentaires.
+		Il serait bon que nous puissions avoir la possibilitï¿½ de facturer sï¿½parï¿½ment ï¿½
+		l'association de faï¿½on ï¿½ complï¿½ter les sommes que nous demandons ï¿½ la ville et ceci
+		notemment pour le mois de Mars 1985 et les mois suivants correspondant ï¿½ l'harmonisation des jeux suplï¿½mentaires.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		Veuillez agréer, Monsieur le Maire, l'xpression de nos sentiments distingués et
-		dévoués.
+		Veuillez agrï¿½er, Monsieur le Maire, l'xpression de nos sentiments distinguï¿½s et
+		dï¿½vouï¿½s.
 		</P>
 		<P align="right">
         <img src="Documents\Oberthur.JPG" width="646" height="86">
@@ -3061,14 +3060,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
          </FONT>
 		 <FONT size=3 color=#FFFFFF>
-		    nos réf. : 
+		    nos rï¿½f. : 
 		 <FONT size=4 color=#FFFFFF> 
             DR/DO/89000 AUXERRE CATH
 		 </FONT>
 		 </FONT>
 		 <BR>
 		 <FONT size=3 color=#FFFFFF>
-		    vos réf. :
+		    vos rï¿½f. :
 		 <FONT size=4 color=#FFFFFF>
 		    S.T. Direction administra.
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3100,24 +3099,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		   Nous avons répondu hier par courrier à votre lettre en référence ci-
-		 dessus. Or aujourd'hui, au courrier de ce matin, nous avons reçu la facture de
+		   Nous avons rï¿½pondu hier par courrier ï¿½ votre lettre en rï¿½fï¿½rence ci-
+		 dessus. Or aujourd'hui, au courrier de ce matin, nous avons reï¿½u la facture de
 		 fourniture de tuyaux de R.F.A. ce qui veut dire qu'ils sont en transit de douane
-		 actuellement. Or cette facture nous ne pouvons l'honorer vu l'état des paiements. Dans
-		 la réponse à votre dernier courrier, nous faisons état au paragraphe 3) de cette
-		 approvisionnement à venir pour une somme de 250 000,00 Fs.
+		 actuellement. Or cette facture nous ne pouvons l'honorer vu l'ï¿½tat des paiements. Dans
+		 la rï¿½ponse ï¿½ votre dernier courrier, nous faisons ï¿½tat au paragraphe 3) de cette
+		 approvisionnement ï¿½ venir pour une somme de 250 000,00 Fs.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 		   Nous vous joignons cette facture et vous demandons si vous pouvez
-		comme nous vous le demandions accèlèrer le mandatement 
-		de la facture N° XII
-		(250 000,00 F) et XIII de façon à pouvoir règler cette facture contre remboursement
-		et pour la facture XIII de continuer à fonctionner et honorer tout autre fourniture qui
-		pourrait subvenir. Il serait très désagréable pour notre fournisseur RFA que les caisses
-		soient refoulées pour non paiement d'autant que nous serions obligé de les faire revenir
+		comme nous vous le demandions accï¿½lï¿½rer le mandatement 
+		de la facture Nï¿½ XII
+		(250 000,00 F) et XIII de faï¿½on ï¿½ pouvoir rï¿½gler cette facture contre remboursement
+		et pour la facture XIII de continuer ï¿½ fonctionner et honorer tout autre fourniture qui
+		pourrait subvenir. Il serait trï¿½s dï¿½sagrï¿½able pour notre fournisseur RFA que les caisses
+		soient refoulï¿½es pour non paiement d'autant que nous serions obligï¿½ de les faire revenir
 		donc double transport.
 		<BR>
 		<BR>
@@ -3125,14 +3124,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 		   Merci de comprendre la situation ou nous nous trouvons et de faire le
-		nécéssaire.
+		nï¿½cï¿½ssaire.
 		<BR>
 		<BR>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-		   Veuillez agréer, Monsieur le Maire, l'expression de nos sentiments
-		distingués.
+		   Veuillez agrï¿½er, Monsieur le Maire, l'expression de nos sentiments
+		distinguï¿½s.
 		</FONT>
 		</P>
 		<P align="right">
@@ -3147,13 +3146,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<BR>
         <FONT size=2 color=#FFFFFF>
 		    <CENTER> 	    
-			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tél. (46) 93 47 16
+			   MANUFACTURE DE GRANDES ORGUES OBERTHUR - B.P. 221 - 17101 SAINTES CEDEX - FRANCE - Tï¿½l. (46) 93 47 16
 			</CENTER>
 	    </FONT>
         <FONT size=1 color=#FFFFFF>
 		    <CENTER>
-		       S.A.R.L. à capital variable - siège social : 16 ter, rue St Pallais - SIR. B 322.0075.84.00012 - Banque Populaire Saintes 
-		       N° 00.721640529 - APE 5405   
+		       S.A.R.L. ï¿½ capital variable - siï¿½ge social : 16 ter, rue St Pallais - SIR. B 322.0075.84.00012 - Banque Populaire Saintes 
+		       Nï¿½ 00.721640529 - APE 5405   
 			</CENTER>
         </FONT>
 	</TD>
@@ -3201,28 +3200,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <BR>
 		 <BR>
 		 <BR>
-		 Entre la paroisse de la Cathédrale Saint Etienne d'AUXERRE représentée par son Curé
+		 Entre la paroisse de la Cathï¿½drale Saint Etienne d'AUXERRE reprï¿½sentï¿½e par son Curï¿½
 		 <BR><BR>
 		 <center>
 		    et
 		 </center>
 		 <BR><BR>
-		 Monsieur Michel JOLLIVET, Organiste demeurant 16 résidence Aristide Briand à CONFLANS SAINTE HONORINE ( Yvelines)
+		 Monsieur Michel JOLLIVET, Organiste demeurant 16 rï¿½sidence Aristide Briand ï¿½ CONFLANS SAINTE HONORINE ( Yvelines)
 		 <BR><BR>
 		 Il est convenu ce qui suit :
 		 <BR><BR>
 		 <U>I - DU TITULARIAT</U>
 		 <BR><BR>
-		 Monsieur Michel JOLLIVET est engagé par la paroisse de la Cathédrale Saint Etienne d'AUXERRE ) dater du 1° Juillet 1984 en 
-		 qualité d'organiste Titulaire du Grand-Orgue.
+		 Monsieur Michel JOLLIVET est engagï¿½ par la paroisse de la Cathï¿½drale Saint Etienne d'AUXERRE ) dater du 1ï¿½ Juillet 1984 en 
+		 qualitï¿½ d'organiste Titulaire du Grand-Orgue.
 		 <BR><BR>
 		 A ce titre :
 		 <BR>
-		 - Il est seul responsable artistique de cette tribune et décide des personnes qui en toutes occasions où l'usage du grand_orgue 
-		 est requis sont habilitées à le faire entendre.
+		 - Il est seul responsable artistique de cette tribune et dï¿½cide des personnes qui en toutes occasions oï¿½ l'usage du grand_orgue 
+		 est requis sont habilitï¿½es ï¿½ le faire entendre.
 		 <BR>
-		 - Il est le gardien de l'instrument et de ce fait accorde ou refuseavec l'assentiment du Curé de la paroisse l'usage du Grand 
-		 Orgue en toutes occasions ou une personne autre que lui-même en ferait la demande :
+		 - Il est le gardien de l'instrument et de ce fait accorde ou refuseavec l'assentiment du Curï¿½ de la paroisse l'usage du Grand 
+		 Orgue en toutes occasions ou une personne autre que lui-mï¿½me en ferait la demande :
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 - Visite de l'orgue
@@ -3237,76 +3236,76 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 - Auditions
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 - séances de travail etc...
+		 - sï¿½ances de travail etc...
 		 <BR>
-		 - Il veille à ce que l'instrument soit correctement entretenu et convoque le Facteur chaque fois qu'il est nécessaire pour ce 
-		 qui relève de l'entretien courant dans les limites du contrat établi entre la Vile d'AUXERRE, propriétaire de l'instrument, et 
+		 - Il veille ï¿½ ce que l'instrument soit correctement entretenu et convoque le Facteur chaque fois qu'il est nï¿½cessaire pour ce 
+		 qui relï¿½ve de l'entretien courant dans les limites du contrat ï¿½tabli entre la Vile d'AUXERRE, propriï¿½taire de l'instrument, et 
 		 le facteur.
 		 <BR>
-		 - Il signale au responsable de la Paroisse toute réparation ou intervention de quelque importance à effectuer sur l'orgue en 
-		 dehors des limites du contrat passé entre la Ville d'AUXERRE et le Facteur.
+		 - Il signale au responsable de la Paroisse toute rï¿½paration ou intervention de quelque importance ï¿½ effectuer sur l'orgue en 
+		 dehors des limites du contrat passï¿½ entre la Ville d'AUXERRE et le Facteur.
 		 <BR>
-		 - Il collabore avec le Clergé pour l'organisation de la liturgie et peut être appelé à donner son avis sur l'ensemble de 
+		 - Il collabore avec le Clergï¿½ pour l'organisation de la liturgie et peut ï¿½tre appelï¿½ ï¿½ donner son avis sur l'ensemble de 
 		 l'organisation musicale des offices
 		 <BR>
-		 - Il assure de droit et par priorité la totalité des offices ou manifestation qui requièrent l'usage du Grand orgue
+		 - Il assure de droit et par prioritï¿½ la totalitï¿½ des offices ou manifestation qui requiï¿½rent l'usage du Grand orgue
 		 <BR>
-		 - Au cas ou il ne peut pas assurer personnellement une de ces prestations, il délègue une autre personne que lui-même et fait 
+		 - Au cas ou il ne peut pas assurer personnellement une de ces prestations, il dï¿½lï¿½gue une autre personne que lui-mï¿½me et fait 
 		 part de ce remplacement au responsable de la paroisse. - EN AUCUN CAS, CETTE PERSONNE NE PEUT ETRE UN ORGANISTE NON 
-		 PROFESSIONNEL - Seul l'organiste Titulaire est habilité à choisir son ou ses remplaçants.
+		 PROFESSIONNEL - Seul l'organiste Titulaire est habilitï¿½ ï¿½ choisir son ou ses remplaï¿½ants.
 		 <BR>
-		 - L'accès et l'usage du Grand-Orgue lui sont permis pour son usage personnel en dehors des offices. Il dispose à cet effet 
-		 d'un jeu de clefs lui permettant l'accès à la tribune du Gran-Orgue même lorsque la Cathédrale est fermée au public.
+		 - L'accï¿½s et l'usage du Grand-Orgue lui sont permis pour son usage personnel en dehors des offices. Il dispose ï¿½ cet effet 
+		 d'un jeu de clefs lui permettant l'accï¿½s ï¿½ la tribune du Gran-Orgue mï¿½me lorsque la Cathï¿½drale est fermï¿½e au public.
 		 <BR>
-		 - Il relève de l'autorité immédiate du Curé de la Paroisse à l'exclusion de tout intermédiaire
+		 - Il relï¿½ve de l'autoritï¿½ immï¿½diate du Curï¿½ de la Paroisse ï¿½ l'exclusion de tout intermï¿½diaire
 		 <BR><BR>
 		 <U>II - DU SERVICE LITURGIQUE</U>
 		 <BR><BR>
-		 - De par sa position dans l'édifice et sa vocation de soliste, le Grand-orgue n'a pas à participer à l'accompagnement du chant
+		 - De par sa position dans l'ï¿½difice et sa vocation de soliste, le Grand-orgue n'a pas ï¿½ participer ï¿½ l'accompagnement du chant
 		 <BR>
 		 - Le Grand-Orgue intervient comme suit pour les offices habituels :
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	     a) Entrée : de durée libre avant l'heure déterminée pour le commencement de l'office
+	     a) Entrï¿½e : de durï¿½e libre avant l'heure dï¿½terminï¿½e pour le commencement de l'office
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 b) Offertoire : d'une durée appropriée à l'action du célébrant
+		 b) Offertoire : d'une durï¿½e appropriï¿½e ï¿½ l'action du cï¿½lï¿½brant
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 c) Consécration : de la fin du Sanctus à l'Anamnèse, de la fin de l'Anamnèse au " Par lui avec lui..."
+		 c) Consï¿½cration : de la fin du Sanctus ï¿½ l'Anamnï¿½se, de la fin de l'Anamnï¿½se au " Par lui avec lui..."
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 d) Communion : dès le début de la communion des fidèles
+		 d) Communion : dï¿½s le dï¿½but de la communion des fidï¿½les
 		 <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 e) Sortie : immédiatement après la bénédiction
+		 e) Sortie : immï¿½diatement aprï¿½s la bï¿½nï¿½diction
 		 <BR>
-		 - L'organiste reste libre de son répertoire
+		 - L'organiste reste libre de son rï¿½pertoire
 		 <BR>
-		 - En raison de l'absence de chauffage dans la Cathédrale, le Grand orgue ne participe aux offices Habituels que de la fête des 
-		 Rameaux au dernier Dimanche de l'année Liturgique
+		 - En raison de l'absence de chauffage dans la Cathï¿½drale, le Grand orgue ne participe aux offices Habituels que de la fï¿½te des 
+		 Rameaux au dernier Dimanche de l'annï¿½e Liturgique
 		 <BR><BR>
 		 <U>III - REMUNERATION</U>
 		 <BR><BR>
-		 Pour les offices dits habituels du Dimanche, fêtes d'obligation, fêtes Patriotiques, le titulaire ne perçoit pas de rémunération.
+		 Pour les offices dits habituels du Dimanche, fï¿½tes d'obligation, fï¿½tes Patriotiques, le titulaire ne perï¿½oit pas de rï¿½munï¿½ration.
 		 <BR>
-		 - La Paroisse prend en charge le montant de ses frais de logement, ce montant est fixé à ce jour à 1600,00 Fs. MILLE SIX CENT 
-		 FRANCS revalorisable selon l'indice du coût de la construction
+		 - La Paroisse prend en charge le montant de ses frais de logement, ce montant est fixï¿½ ï¿½ ce jour ï¿½ 1600,00 Fs. MILLE SIX CENT 
+		 FRANCS revalorisable selon l'indice du coï¿½t de la construction
 		 <BR>
-		 - La participation aux offices dits "Casuels" : cérémonie de mariage ou enterrement... etc... est traitée à part.
+		 - La participation aux offices dits "Casuels" : cï¿½rï¿½monie de mariage ou enterrement... etc... est traitï¿½e ï¿½ part.
 		 <BR>
-		 - Au cas ou le titulaire se ferait remplacer, il traiterait directement avec son suppléant.
+		 - Au cas ou le titulaire se ferait remplacer, il traiterait directement avec son supplï¿½ant.
 		 <BR><BR>
 		 <U>IV - RESIDENCE</U>
 		 <BR><BR>
-		 - Le titulaire du Grand-orgue est libre du choix de sa résidence
+		 - Le titulaire du Grand-orgue est libre du choix de sa rï¿½sidence
 		 <BR><BR><BR>
 		 <center>
 		 <hr width="20%">
 		 </center>
 		 <BR><BR><BR><BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 Le Présent contrat fait à AUXERRE le 31 JUIN 1984 <I>(!)</I>, sous seing privé, en présence de Messieurs : Abbé Gabriel BOISSEAU
+		 Le Prï¿½sent contrat fait ï¿½ AUXERRE le 31 JUIN 1984 <I>(!)</I>, sous seing privï¿½, en prï¿½sence de Messieurs : Abbï¿½ Gabriel BOISSEAU
          <BR>
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 Dominique OBERTHUR
@@ -3322,15 +3321,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <TR>
       <TD>
 	     <FONT size=4 color=#FFFFFF>
-		 Abbé Robert LECHIEN
+		 Abbï¿½ Robert LECHIEN
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 Michel JOLLIVET
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		 Abbé Gabriel BOISSEAU
+		 Abbï¿½ Gabriel BOISSEAU
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 D. OBERTHUR
 		 <BR>
-		 Curé de la Cathédrale
+		 Curï¿½ de la Cathï¿½drale
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		 Organiste titulaire
@@ -3373,12 +3372,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    </TD>
 	    <TD WIDTH="20%">
 	       <P ALIGN="center">
-                <a href="Inauguration_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxième</FONT></a>
+                <a href="Inauguration_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxiï¿½me</FONT></a>
 		 </P>
 	    </TD>
           <TD WIDTH="20%">
 	       <P ALIGN="center">
-                <a href="Inauguration_IV.htm"><FONT COLOR = #99FFFF>Chapitre quatrième</FONT></a>
+                <a href="Inauguration_IV.htm"><FONT COLOR = #99FFFF>Chapitre quatriï¿½me</FONT></a>
 		 </P>
 	    </TD>
 	    <TD WIDTH="10%">&nbsp;

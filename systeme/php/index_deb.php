@@ -8,7 +8,7 @@
 
 	 	DERNIERE MODIFS 
 
-	 	Nouvelle version 4.20.1 du 08/10/2023: 
+	 	Nouvelle version 4.20 du 08/10/2023: 
 			La varaible $fich_blog  contennant le nom de la page active pour l'option blog auto *!
 			Elle ne doit pas etre modifiée  constante! 
 			

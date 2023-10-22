@@ -1,24 +1,24 @@
 <html>
 <head>
-<title>Des origines à la Révolution Française II</title>
+<title>Des origines ï¿½ la Rï¿½volution Franï¿½aise II</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <SCRIPT language = JavaScript>
-<!--
-function dblclick()
-   {
-      window.scrollTo(0,0)
-   }
-   if (document.layers)
-      {
-	     document.captureEvents(Event.ONDBLCLICK);
-	  }
-   document.ondblclick = dblclick;
+// <!--
+// function dblclick()
+//    {
+//       window.scrollTo(0,0)
+//    }
+//    if (document.layers)
+//       {
+// 	     document.captureEvents(Event.ONDBLCLICK);
+// 	  }
+//    document.ondblclick = dblclick;
 
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
-</SCRIPT>
+// function MM_openBrWindow(theURL,winName,features) { //v2.0
+//   window.open(theURL,winName,features);
+// }
+// //-->
+// </SCRIPT>
 </head>
 
 <body bgcolor="#0000AA" text="#FFFFFF">
@@ -26,9 +26,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <TR>
 	     <TD WIDTH="100%">
 		    <CENTER>
-			   <H2>Première partie</H2>
+			   <H2>Premiï¿½re partie</H2>
 			   <img src="Vignettes3/Gothique.jpg" width="789" height="128">
-			   <H2>Chapitre deuxième</H2>
+			   <H2>Chapitre deuxiï¿½me</H2>
 			</CENTER>
 		</TD>
       </TR>
@@ -41,63 +41,63 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	        <FONT size=4 color=#FFFFFF>
 			LIMINAIRE
 			<BR>
-			Vous pouvez trouver sur cette <a href="Monnaie.htm"><FONT size=4 color=#FFFFFF>page</font></a> quelques explications sur la monnaie de l'époque Louis XIII - Louis XIV.
+			Vous pouvez trouver sur cette <a href="Monnaie.htm"><FONT size=4 color=#FFFFFF>page</font></a> quelques explications sur la monnaie de l'ï¿½poque Louis XIII - Louis XIV.
 			<br>
-			<P ALIGN="CENTER"><FONT SIZE=4><B>L'Evêque d'Auxerre et le Chapitre cathédral.</B></FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=4><B>L'Evï¿½que d'Auxerre et le Chapitre cathï¿½dral.</B></FONT></P>
             <p align="justify">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I><U>L'Organiste</U></I>. - De tous les instruments dont les effets s'harmonisent 
-			le mieux avec la musique religieuse, l'orgue occupe assurément le premier rang. Aucun autre ne saurait lui disputer
-			la prééminence. Réunion de presque tous les instruments, qui composent un orchestre, l'orgue séduit l'oreille 
-			par la richesse de ses accords, la variété de ses modulations, qui se déroulent sous les voütes immenses des 
-			vastes édifices pour lesquels il semble avoir été spécialement créé. S'il accompagne le chant, les services qu'il 
+			le mieux avec la musique religieuse, l'orgue occupe assurï¿½ment le premier rang. Aucun autre ne saurait lui disputer
+			la prï¿½ï¿½minence. Rï¿½union de presque tous les instruments, qui composent un orchestre, l'orgue sï¿½duit l'oreille 
+			par la richesse de ses accords, la variï¿½tï¿½ de ses modulations, qui se dï¿½roulent sous les voï¿½tes immenses des 
+			vastes ï¿½difices pour lesquels il semble avoir ï¿½tï¿½ spï¿½cialement crï¿½ï¿½. S'il accompagne le chant, les services qu'il 
 			rend ne sont pas moins grands. Il se marie si bien avec la voix du chanteur et lui apporte un concours si puissant 
-			que l'artiste, se sentant bien soutenu, peut développer tous ses moyens et donner pleinement la mesure de son talent.
+			que l'artiste, se sentant bien soutenu, peut dï¿½velopper tous ses moyens et donner pleinement la mesure de son talent.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'origine fort ancienne il n'apparaît pas cependant que la cathédrale en ait 
-			possédé un avant le XVIème siècle ; du moins les titres n'en font pas mention à cette époque.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'origine fort ancienne il n'apparaï¿½t pas cependant que la cathï¿½drale en ait 
+			possï¿½dï¿½ un avant le XVIï¿½me siï¿½cle ; du moins les titres n'en font pas mention ï¿½ cette ï¿½poque.
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 31 mai 1529 est établi un procès-verbal de réquisition par Mr l'évêque d'Auxerre 
-			au Chapitre pour la pose d'un orgue qu'il a fait faire et qu'il veut placer contre le pilier où est l'image de 
-			St Sébastien. Le chapitre refusa.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le 31 mai 1529 est ï¿½tabli un procï¿½s-verbal de rï¿½quisition par Mr l'ï¿½vï¿½que d'Auxerre 
+			au Chapitre pour la pose d'un orgue qu'il a fait faire et qu'il veut placer contre le pilier oï¿½ est l'image de 
+			St Sï¿½bastien. Le chapitre refusa.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans cette chronologie historique il faut faire état d'un personnage qui n'a rien à 
-			voir avec les orgues, mais dont la tombe en précise l'emplacement :
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans cette chronologie historique il faut faire ï¿½tat d'un personnage qui n'a rien ï¿½ 
+			voir avec les orgues, mais dont la tombe en prï¿½cise l'emplacement :
 			<BR>
-			<I>"Louis BRIDE prit possession le 19 avril 1538 (de la cure de Mézilles (Yonne)), en vertu de permutation avec le 
-			précédent (curé), et mourut en 1539 au mois de décembre. Il fut inhumé sous le Portail de la Visitation qu'il avait 
-			fait faire : c'est celui où est aujourd'hui représenté la Résurrection proche les orgues."</I>
+			<I>"Louis BRIDE prit possession le 19 avril 1538 (de la cure de Mï¿½zilles (Yonne)), en vertu de permutation avec le 
+			prï¿½cï¿½dent (curï¿½), et mourut en 1539 au mois de dï¿½cembre. Il fut inhumï¿½ sous le Portail de la Visitation qu'il avait 
+			fait faire : c'est celui oï¿½ est aujourd'hui reprï¿½sentï¿½ la Rï¿½surrection proche les orgues."</I>
 			<BR>
 			<CENTER><B>...</B></CENTER>
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'orgue contenait 14 jeux, et le buffet était travaillé avec une exquise délicatesse. 
-			Lors de la prise de la ville, les Huguenots s'emparèrent des tuyaux, mais n'endommagèrent pas le buffet, qui aurait 
-			pu recevoir de nouveaux jeux et servir comme par le passé.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'orgue contenait 14 jeux, et le buffet ï¿½tait travaillï¿½ avec une exquise dï¿½licatesse. 
+			Lors de la prise de la ville, les Huguenots s'emparï¿½rent des tuyaux, mais n'endommagï¿½rent pas le buffet, qui aurait 
+			pu recevoir de nouveaux jeux et servir comme par le passï¿½.
 			</P>
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il n'en fut pas ainsi.
 			<BR>
 			<BR>
-			<P ALIGN="CENTER"><FONT SIZE=5><B>AUXERRE ET SA CATHEDRALE AU XVIème SIECLE</B></FONT></P>
+			<P ALIGN="CENTER"><FONT SIZE=5><B>AUXERRE ET SA CATHEDRALE AU XVIï¿½me SIECLE</B></FONT></P>
 			<BR>
 			<p align="justify">
-			... Le jour de Pâques, après midi, la cathédrale contenait à grand-peine la foule accourue. Tout le clergé de la ville, 
+			... Le jour de Pï¿½ques, aprï¿½s midi, la cathï¿½drale contenait ï¿½ grand-peine la foule accourue. Tout le clergï¿½ de la ville, 
 			le gouverneur, les magistrats se pressaient au premier rang.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A l'heure fixée, les chanoines faisaient leur entrée solennelle et se groupaient 
-			au bas de la nef, tout près du grand portail, à l'endroit où l'on voyait jadis, inscrit dans le dallage, un 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A l'heure fixï¿½e, les chanoines faisaient leur entrï¿½e solennelle et se groupaient 
+			au bas de la nef, tout prï¿½s du grand portail, ï¿½ l'endroit oï¿½ l'on voyait jadis, inscrit dans le dallage, un 
 			labyrinthe circulaire.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Là, l'un d'eux, le dernier nommé, se présentait porteur d'une grosse balle que les 
-			anciens documents appellent "pila" ou "pilota" et la remettait au doyen ou, à son défaut, au membre le plus 
-			digne de la compagnie. Celui-ci mettait alors sur sa tête la poche de son aumusse, appuyait avec son bras 
-			gauche la pelote contre sa poitrine, tendait la main à droite à l'un de ses collègues, et bientôt le Chapitre 
-			entier formait cercle autour du labyrinthe et commençait la plus curieuse des danses. On chantait le Victimae 
-			Paschali laudes et <U>l'orgue</U>, <U>installé</U> à cette époque <U>dans la première travée du bas-côté nord</U>, 
-			accompagnait l'extraordinaire ronde, marquait le mouvement, entraînait tous les chanoines, les vieux aussi bien 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lï¿½, l'un d'eux, le dernier nommï¿½, se prï¿½sentait porteur d'une grosse balle que les 
+			anciens documents appellent "pila" ou "pilota" et la remettait au doyen ou, ï¿½ son dï¿½faut, au membre le plus 
+			digne de la compagnie. Celui-ci mettait alors sur sa tï¿½te la poche de son aumusse, appuyait avec son bras 
+			gauche la pelote contre sa poitrine, tendait la main ï¿½ droite ï¿½ l'un de ses collï¿½gues, et bientï¿½t le Chapitre 
+			entier formait cercle autour du labyrinthe et commenï¿½ait la plus curieuse des danses. On chantait le Victimae 
+			Paschali laudes et <U>l'orgue</U>, <U>installï¿½</U> ï¿½ cette ï¿½poque <U>dans la premiï¿½re travï¿½e du bas-cï¿½tï¿½ nord</U>, 
+			accompagnait l'extraordinaire ronde, marquait le mouvement, entraï¿½nait tous les chanoines, les vieux aussi bien 
 			que les jeunes, dans un branle incontestablement pittoresque... le Chapitre continuait autour du doyen sa ronde 
-			innocente, entraîné qu'il était par les accents étourdissants de l'orgue tout proche et par la voix infatigable des 
+			innocente, entraï¿½nï¿½ qu'il ï¿½tait par les accents ï¿½tourdissants de l'orgue tout proche et par la voix infatigable des 
 			chantres et des enfants d'aube.
 			</P>
 			<BR>
@@ -110,7 +110,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<P ALIGN="CENTER"><FONT SIZE=5><B>LA PRISE D'AUXERRE (1567)</B></FONT></P>
 			<P ALIGN="CENTER"><FONT SIZE=5><B>AMYOT, LA LIGUE</B></FONT></P>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... L'orgue qui comprenait 7000 tuyaux... devient la proie des soldats, qui détruisent 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... L'orgue qui comprenait 7000 tuyaux... devient la proie des soldats, qui dï¿½truisent 
 			ce qu'ils ne peuvent emporter.
 			</P>
 			<BR>
@@ -120,76 +120,76 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extrait d'une lettre de M. le procureur général à M. l'évêque d'Auxerre, François de
-			Dinteville II du nom, au sujet de la cérémonie de la Pelote.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extrait d'une lettre de M. le procureur gï¿½nï¿½ral ï¿½ M. l'ï¿½vï¿½que d'Auxerre, Franï¿½ois de
+			Dinteville II du nom, au sujet de la cï¿½rï¿½monie de la Pelote.
 			</P>
 			<BR>
 			<TABLE CELLPADDING="5" CELLSPACING="10">
 			   <TR>
 			      <TD WIDTH="50%">
 				     <p align="justify">
-					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monseigneur, quand je vous trouvai à Saint-Saphorin, je n'eus le loisir de vous tenir le propos que le roy, 
-					 étant à Lyon, pendant son diner, avoit tenu de la cérémonie qui se fait en votre église le jour de Pâques 
-					 qu'on appelle la Pelote d'Aucerre, et ce en la présence de messieurs les cardinaux de Lorraine et du Bellay, 
-					 M. de Soissons et autres. C'est qu'aprez avoir entendu en quoi consistoit ladite cérémonie, il dit qu'elle 
-					 étoit bonne et louable, et qu'on ne la devait oster, ni abolir sans grande cause, mais s'il y avoit de 
+					 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monseigneur, quand je vous trouvai ï¿½ Saint-Saphorin, je n'eus le loisir de vous tenir le propos que le roy, 
+					 ï¿½tant ï¿½ Lyon, pendant son diner, avoit tenu de la cï¿½rï¿½monie qui se fait en votre ï¿½glise le jour de Pï¿½ques 
+					 qu'on appelle la Pelote d'Aucerre, et ce en la prï¿½sence de messieurs les cardinaux de Lorraine et du Bellay, 
+					 M. de Soissons et autres. C'est qu'aprez avoir entendu en quoi consistoit ladite cï¿½rï¿½monie, il dit qu'elle 
+					 ï¿½toit bonne et louable, et qu'on ne la devait oster, ni abolir sans grande cause, mais s'il y avoit de 
 					 l'abus ou 
 					 </P>
 				  </TD>
 				  <TD WIDTH="50%">
 				     <p align="justify">
-					 difformité, que l'on devoit oster ladite difformité, et observer ce que jusques-là avoit été honnêtement fait. Et autant 
-					 en dit le roy des Festages d'Angers. Ce que j'ai récité à M. le premier président, et à M. Disques, 
-					 rapporteur du procez, qui sera cause... que sans grand cause et considération on ne abolira ladite 
-					 Pelote, mais plutot d'entériner requête qui fut faite d'envoyer ledit seigneur Disques et un commissaire 
-					 de ladite cour voir ce qui en fera lorsqu'on fera ladite cérémonie, pour en faire procez-verbal et rapport 
-					 à ladite cour.
+					 difformitï¿½, que l'on devoit oster ladite difformitï¿½, et observer ce que jusques-lï¿½ avoit ï¿½tï¿½ honnï¿½tement fait. Et autant 
+					 en dit le roy des Festages d'Angers. Ce que j'ai rï¿½citï¿½ ï¿½ M. le premier prï¿½sident, et ï¿½ M. Disques, 
+					 rapporteur du procez, qui sera cause... que sans grand cause et considï¿½ration on ne abolira ladite 
+					 Pelote, mais plutot d'entï¿½riner requï¿½te qui fut faite d'envoyer ledit seigneur Disques et un commissaire 
+					 de ladite cour voir ce qui en fera lorsqu'on fera ladite cï¿½rï¿½monie, pour en faire procez-verbal et rapport 
+					 ï¿½ ladite cour.
 					 </P>
 				  </TD>
 	            </TR>
 			</TABLE>
 			<BR>
 			<BR>
-			<P ALIGN="CENTER">Signé : Thibaud, procureur général</P>
+			<P ALIGN="CENTER">Signï¿½ : Thibaud, procureur gï¿½nï¿½ral</P>
 			<P ALIGN="CENTER">De Paris, le 5 may</P>
-			<P ALIGN="CENTER">(Tiré de l'original.)</P>
+			<P ALIGN="CENTER">(Tirï¿½ de l'original.)</P>
 			<BR>
 			<CENTER><B>...</B></CENTER>				  	 
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... On s'étonne..., que la colossale statue de Saint Christophe, qui se dressait jadis 
-			dans la cathédrale, à l'entrée de la nef, ait été épargnée...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... On s'ï¿½tonne..., que la colossale statue de Saint Christophe, qui se dressait jadis 
+			dans la cathï¿½drale, ï¿½ l'entrï¿½e de la nef, ait ï¿½tï¿½ ï¿½pargnï¿½e...
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le saint -véritablement monstrueux- mesurait près de dix mètres. Il avait pour 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le saint -vï¿½ritablement monstrueux- mesurait prï¿½s de dix mï¿½tres. Il avait pour 
 			baton un tronc d'arbre, "garni de noeuds, de la grosseur d'une feuillette et d'une longueur de 32 pieds". 
-			Commencée en 1540 par le chanoine Jehan OLIVIER, curé de Champlemy, la statue fut continuée par les soins de son neveu, 
-			Jacques de BALLEUR, et achevée au temps de François II de DINTEVILLE dix ans plus tard.
+			Commencï¿½e en 1540 par le chanoine Jehan OLIVIER, curï¿½ de Champlemy, la statue fut continuï¿½e par les soins de son neveu, 
+			Jacques de BALLEUR, et achevï¿½e au temps de Franï¿½ois II de DINTEVILLE dix ans plus tard.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette statue vénérée des auxerrois, qui ne manquaient pas en outre de se prévaloir 
-			de ses proportions étonnantes, était célèbre dans toute la région et fit pendant plus de deux siècles l'admiration 
-			des nouveaux venus et des étrangers : "<I>Il y a dans la cathédrale</I>, écrit RETIF de La BRETONNE, <I> un 
-			Saint Christophe qui a pour bâton un chêne qui a bien cinquante pieds de haut et qui ne lui vient qu'au menton !...</I>"
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette statue vï¿½nï¿½rï¿½e des auxerrois, qui ne manquaient pas en outre de se prï¿½valoir 
+			de ses proportions ï¿½tonnantes, ï¿½tait cï¿½lï¿½bre dans toute la rï¿½gion et fit pendant plus de deux siï¿½cles l'admiration 
+			des nouveaux venus et des ï¿½trangers : "<I>Il y a dans la cathï¿½drale</I>, ï¿½crit RETIF de La BRETONNE, <I> un 
+			Saint Christophe qui a pour bï¿½ton un chï¿½ne qui a bien cinquante pieds de haut et qui ne lui vient qu'au menton !...</I>"
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mais certains s'indignaient de ces mêmes proportions, comme d'une offense à 
-			l'esthétique et au bon goût ; le culte superticieux, dont la statue était l'objet, inquiétait en outre quelques 
-			chanoines scrupuleux. Le comte de CAYLUS, neveu de l'évêque, avait voué au géant une haine mortelle : "<I>Il faut</I>, 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mais certains s'indignaient de ces mï¿½mes proportions, comme d'une offense ï¿½ 
+			l'esthï¿½tique et au bon goï¿½t ; le culte superticieux, dont la statue ï¿½tait l'objet, inquiï¿½tait en outre quelques 
+			chanoines scrupuleux. Le comte de CAYLUS, neveu de l'ï¿½vï¿½que, avait vouï¿½ au gï¿½ant une haine mortelle : "<I>Il faut</I>, 
 			disait-il, <I>que j'aime la paix autant que je l'aime pour n'avoir pas fait entrer la nuit ou de grand matin 
-			des ouvriers dans l'église pour abattre cette statue monstrueuse !</I> ". Saint Christophe, toutefois, survécut de 
-			quelques années à son détracteur.
+			des ouvriers dans l'ï¿½glise pour abattre cette statue monstrueuse !</I> ". Saint Christophe, toutefois, survï¿½cut de 
+			quelques annï¿½es ï¿½ son dï¿½tracteur.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mais, en 1768, il était condamné sans appel et malgré les protestations des habitants 
-			et de certains ecclésiastiques, des équipes d'ouvriers s'attelaient au colosse et parvenaient à le renverser. C'était
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mais, en 1768, il ï¿½tait condamnï¿½ sans appel et malgrï¿½ les protestations des habitants 
+			et de certains ecclï¿½siastiques, des ï¿½quipes d'ouvriers s'attelaient au colosse et parvenaient ï¿½ le renverser. C'ï¿½tait
 			le 28 avril.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOSTRADAMUS, dit-on, avait prédit l'événement. On trouve en tout cas, dans les 
-			<B>Centuries</B>, cet étrange quatrain :
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOSTRADAMUS, dit-on, avait prï¿½dit l'ï¿½vï¿½nement. On trouve en tout cas, dans les 
+			<B>Centuries</B>, cet ï¿½trange quatrain :
 			</P>
 			<BR>
 			<CENTER><B>84.</B></CENTER>
-			<CENTER><B>Vn grand d'Auxerre mourra bien misérable</B></CENTER>		 
-			<CENTER><B>Chassé de ceux qui sous luy ont esté ;</B></CENTER>
-			<CENTER><B>Serré de chaines après d'un rude cable,</B></CENTER>
-			<CENTER><B>En l'an que Mars, Venus et Sol mis en esté.</B></CENTER>
+			<CENTER><B>Vn grand d'Auxerre mourra bien misï¿½rable</B></CENTER>		 
+			<CENTER><B>Chassï¿½ de ceux qui sous luy ont estï¿½ ;</B></CENTER>
+			<CENTER><B>Serrï¿½ de chaines aprï¿½s d'un rude cable,</B></CENTER>
+			<CENTER><B>En l'an que Mars, Venus et Sol mis en estï¿½.</B></CENTER>
 			<BR>
 			<BR>
 			<BR>
@@ -197,7 +197,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <TR>
 			      <TD WIDTH="50%">
 				     <P ALIGN="LEFT">
-					 <B>3ème ANNEE</B>
+					 <B>3ï¿½me ANNEE</B>
 					 </P>
 				  </TD>
 				  <TD WIDTH="50%">
@@ -210,61 +210,61 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<P ALIGN="CENTER"><FONT SIZE=5><B>LA CATHEDRALE</B></FONT></P>
 			<CENTER><B>Bulletin Paroissial de Saint Etienne d'Auxerre</B></CENTER>
 			<CENTER><B>paraissant tous les deux mois</B></CENTER>			  	 	 
-			<CENTER><I>Abonnement ordinaire</I> : SIX francs<p align="right">ADY PER 118/1 pp 19 à 22</p></CENTER>
+			<CENTER><I>Abonnement ordinaire</I> : SIX francs<p align="right">ADY PER 118/1 pp 19 ï¿½ 22</p></CENTER>
 			<CENTER><B>Nostradamus, Saint Christophe</B></CENTER>
-			<CENTER><B>et les chanoines de la Cathédrale</B></CENTER>
+			<CENTER><B>et les chanoines de la Cathï¿½drale</B></CENTER>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ainsi parla Nostradamus :
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT SIZE=3>Un grand d'Auxerre mourra bien misérable,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT SIZE=3>Un grand d'Auxerre mourra bien misï¿½rable,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chassé de ceux qui sous lui ont été,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chassï¿½ de ceux qui sous lui ont ï¿½tï¿½,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serré de chaînes, après d'un rude cable,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serrï¿½ de chaï¿½nes, aprï¿½s d'un rude cable,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En l'an que Mars, Vénus et Sol ont été
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En l'an que Mars, Vï¿½nus et Sol ont ï¿½tï¿½
 			<SUP><font color="#ff0000">1</FONT></SUP></FONT>
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voilà, n'est-il pas vrai, une prophétie singulière, et qui me fait amèrement 
-			regretter mon ignorance en matière d'astronomie. Je vous indiquerai, en effet, sur le champ, lecteurs amis, 
-			l'année qui vit la conjonction de Mars, de Vénus et du soleil, et, l'histoire en mains, je chercherais avec 
-			vous quel grand d'Auxerre eut l'infortune d'être repoussé, martyrisé par les siens à cette date fatale...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voilï¿½, n'est-il pas vrai, une prophï¿½tie singuliï¿½re, et qui me fait amï¿½rement 
+			regretter mon ignorance en matiï¿½re d'astronomie. Je vous indiquerai, en effet, sur le champ, lecteurs amis, 
+			l'annï¿½e qui vit la conjonction de Mars, de Vï¿½nus et du soleil, et, l'histoire en mains, je chercherais avec 
+			vous quel grand d'Auxerre eut l'infortune d'ï¿½tre repoussï¿½, martyrisï¿½ par les siens ï¿½ cette date fatale...
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A dire vrai, pourtant, je ne crois guère aux prophéties de Nostradamus... Il 
-			m'importe donc assez peu que ce devin fameux ait vu juste ou se soit trompé dans le cas qui nous occupe... 
-			Et, de confiance, il me plaît d'admettre que l'année fixée pour la réalisation de la prédiction soit 1768... 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A dire vrai, pourtant, je ne crois guï¿½re aux prophï¿½ties de Nostradamus... Il 
+			m'importe donc assez peu que ce devin fameux ait vu juste ou se soit trompï¿½ dans le cas qui nous occupe... 
+			Et, de confiance, il me plaï¿½t d'admettre que l'annï¿½e fixï¿½e pour la rï¿½alisation de la prï¿½diction soit 1768... 
 			Cela m'arrange fort bien, car 1768 vit la chute lamentable (<I>C'est son point de vue</I>. NdA) d'un "grand 
-			d'Auxerre"... J'ignore s'il fut "serré de chaînes, après d'un rude cable", mais je sais qu'il fut vraiment 
-			"chassé de ceux qui sous lui ont été"... Ce "grand d'Auxerre" n'était autre que le gigantesque Saint Christophe 
-			qui se dressait autrefois à l'intérieur de la Cathédrale, près de la porte d'entrée, et qu'une décision du 
-			chapitre condamna à mort... Lorsque je dis de ce Saint Christophe qu'il était un "grand d'Auxerre", je n'exagère 
-			pas. Essayez d'imaginer quelles étaient les invraisemblables proportions de sa statue.
+			d'Auxerre"... J'ignore s'il fut "serrï¿½ de chaï¿½nes, aprï¿½s d'un rude cable", mais je sais qu'il fut vraiment 
+			"chassï¿½ de ceux qui sous lui ont ï¿½tï¿½"... Ce "grand d'Auxerre" n'ï¿½tait autre que le gigantesque Saint Christophe 
+			qui se dressait autrefois ï¿½ l'intï¿½rieur de la Cathï¿½drale, prï¿½s de la porte d'entrï¿½e, et qu'une dï¿½cision du 
+			chapitre condamna ï¿½ mort... Lorsque je dis de ce Saint Christophe qu'il ï¿½tait un "grand d'Auxerre", je n'exagï¿½re 
+			pas. Essayez d'imaginer quelles ï¿½taient les invraisemblables proportions de sa statue.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>"Elle avoit</I>, dit un mémoire historique daté du 1er juillet 1768, <I>29 
-			pieds de haut depuis la tête jusqu'aux pieds, quoiqu'elle fut penchée en devant, suivant l'attitude d'un homme 
-			qui porte un fardeau très pesant. La largeur du corps d'une épaule à l'autre étoit de 16 pieds. Chaque oeil 
-			avoit un pied de fente, d'un coin à l'autre, et neuf pouces d'ouverture du haut en bas. La bouche avoit 15 pouces 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>"Elle avoit</I>, dit un mï¿½moire historique datï¿½ du 1er juillet 1768, <I>29 
+			pieds de haut depuis la tï¿½te jusqu'aux pieds, quoiqu'elle fut penchï¿½e en devant, suivant l'attitude d'un homme 
+			qui porte un fardeau trï¿½s pesant. La largeur du corps d'une ï¿½paule ï¿½ l'autre ï¿½toit de 16 pieds. Chaque oeil 
+			avoit un pied de fente, d'un coin ï¿½ l'autre, et neuf pouces d'ouverture du haut en bas. La bouche avoit 15 pouces 
 			et demi ; chaque bras 6 pieds 2 pouces, chaque main 3 pieds 2 pouces. Les jambes avoient 6 pieds de long ; la 
-			grosseur du mollet 6 pieds 2 pouces de circonférence. L'enfant Jésus étoit sur ses épaules, de façon que les 
-			jambes étoient passées autour du cou et les pieds portoient sur la poitrine ; c'est ce qu'on appelle vulgairement 
-			à califourchon. Il tenoit d'une main une boule, qui représentoit le monde. De la tête aux reins il avoit 10 pieds 
-			et demi. Chaque pied avoit 2 pieds 8 pouces de long et un pied de large. Le bâton que Saint Christophe portoit 
-			de la main droite étoit un tronc d'arbre garni de noeuds qui avoit environ 32 pieds de hauteur. Dessous les pieds 
-			et aux environs étoient sculptées des ondes remplies d'animaux aquatiques. Le piedestal, sur lequel le tout 
-			étoit posé, avoit 11 pieds de haut. L'intérieur étoit massif et garni de grosses pierres de taille. L'extérieur 
-			étoit aussi de pierres sculptées, excepté le bâton qui étoit de bois recouvert de plâtre. A côté de Saint 
-			Christophe étoit la figure d'un ermite prosterné ou à peu près. Au-dessous du colosse étoit représenté en bas-relief 
-			le martyre de Saint Christophe. On y voyait le Saint attaché à un poteau et des soldats qui lui lançoient des 
-			flèches"</I>.
+			grosseur du mollet 6 pieds 2 pouces de circonfï¿½rence. L'enfant Jï¿½sus ï¿½toit sur ses ï¿½paules, de faï¿½on que les 
+			jambes ï¿½toient passï¿½es autour du cou et les pieds portoient sur la poitrine ; c'est ce qu'on appelle vulgairement 
+			ï¿½ califourchon. Il tenoit d'une main une boule, qui reprï¿½sentoit le monde. De la tï¿½te aux reins il avoit 10 pieds 
+			et demi. Chaque pied avoit 2 pieds 8 pouces de long et un pied de large. Le bï¿½ton que Saint Christophe portoit 
+			de la main droite ï¿½toit un tronc d'arbre garni de noeuds qui avoit environ 32 pieds de hauteur. Dessous les pieds 
+			et aux environs ï¿½toient sculptï¿½es des ondes remplies d'animaux aquatiques. Le piedestal, sur lequel le tout 
+			ï¿½toit posï¿½, avoit 11 pieds de haut. L'intï¿½rieur ï¿½toit massif et garni de grosses pierres de taille. L'extï¿½rieur 
+			ï¿½toit aussi de pierres sculptï¿½es, exceptï¿½ le bï¿½ton qui ï¿½toit de bois recouvert de plï¿½tre. A cï¿½tï¿½ de Saint 
+			Christophe ï¿½toit la figure d'un ermite prosternï¿½ ou ï¿½ peu prï¿½s. Au-dessous du colosse ï¿½toit reprï¿½sentï¿½ en bas-relief 
+			le martyre de Saint Christophe. On y voyait le Saint attachï¿½ ï¿½ un poteau et des soldats qui lui lanï¿½oient des 
+			flï¿½ches"</I>.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si une semblable statue ne réalisait pas toutes les conditions requises pour 
-			constituer une oeuvre d'art, on conviendra du moins qu'elle n'était pas banale, et qu'elle ne pouvait manquer 
-			d'attirer les regards des fidèles à leur entrée dans la cathédrale...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si une semblable statue ne rï¿½alisait pas toutes les conditions requises pour 
+			constituer une oeuvre d'art, on conviendra du moins qu'elle n'ï¿½tait pas banale, et qu'elle ne pouvait manquer 
+			d'attirer les regards des fidï¿½les ï¿½ leur entrï¿½e dans la cathï¿½drale...
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attirer les regards, c'était le rôle essentiel de ce colosse. On connait en effet 
-			la dévotion fameuse à Saint Christophe et la conviction aujourd'hui encore assez répandue - Attention à la 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attirer les regards, c'ï¿½tait le rï¿½le essentiel de ce colosse. On connait en effet 
+			la dï¿½votion fameuse ï¿½ Saint Christophe et la conviction aujourd'hui encore assez rï¿½pandue - Attention ï¿½ la 
 			superstition ! notai-je en passant - que, si l'on regarde, le matin, l'image du glorieux Porte-Christ, on ne 
-			mourra point dans la journée.
+			mourra point dans la journï¿½e.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Glorieux Saint Christophe, le matin te voyant,
 			<BR>
@@ -272,108 +272,108 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quand du grand Saint Christophe on a vu le portrait,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vois d'abord Saint Christophe et marche en sûreté !
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vois d'abord Saint Christophe et marche en sï¿½retï¿½ !
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De la mort, ce jour-là, on ne craint point le trait.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De la mort, ce jour-lï¿½, on ne craint point le trait.
 			</B><BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Autrefois Notre-Dame de Paris, avait une énorme statue du bon géant, et à 
-			Strasbourg on admirait un colosse d'une hauteur de 36 pieds ; lorsqu'on voulut l'enlever de la Cathédrale pour 
-			le transporter à l'hôpital de la ville, on dut, pour la sortie, lui couper les pieds et les mains. La même 
-			Cathédrale garde encore, dans une verrière du transept sud, une image étonnante du Saint. Celui-ci n'a pas 
-			moins de huit mètres de haut. C'est la plus grande figure sur vitrail que l'on connaisse.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Autrefois Notre-Dame de Paris, avait une ï¿½norme statue du bon gï¿½ant, et ï¿½ 
+			Strasbourg on admirait un colosse d'une hauteur de 36 pieds ; lorsqu'on voulut l'enlever de la Cathï¿½drale pour 
+			le transporter ï¿½ l'hï¿½pital de la ville, on dut, pour la sortie, lui couper les pieds et les mains. La mï¿½me 
+			Cathï¿½drale garde encore, dans une verriï¿½re du transept sud, une image ï¿½tonnante du Saint. Celui-ci n'a pas 
+			moins de huit mï¿½tres de haut. C'est la plus grande figure sur vitrail que l'on connaisse.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Cathédrale d'Auxerre fut dotée de son Saint Christophe au XVIème siècle par un 
-			chanoine, le curé de Champlemi, nommé Jean Olivier. Ce digne homme ne vit d'ailleurs pas lui-même l'oeuvre 
-			achevée. Il mourut, laissant à son neveu Jacques le Bazilleur le soin d'achever sa pieuse entreprise.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Cathï¿½drale d'Auxerre fut dotï¿½e de son Saint Christophe au XVIï¿½me siï¿½cle par un 
+			chanoine, le curï¿½ de Champlemi, nommï¿½ Jean Olivier. Ce digne homme ne vit d'ailleurs pas lui-mï¿½me l'oeuvre 
+			achevï¿½e. Il mourut, laissant ï¿½ son neveu Jacques le Bazilleur le soin d'achever sa pieuse entreprise.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je relève l'inscription qui fut gravée sur le socle de la statue :
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je relï¿½ve l'inscription qui fut gravï¿½e sur le socle de la statue :
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Maître Jean Olivier, natif de Bar-sur-Seine,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Maï¿½tre Jean Olivier, natif de Bar-sur-Seine,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curé de Champlemi et de céans chanoine,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curï¿½ de Champlemi et de cï¿½ans chanoine,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'an 1540, pour rendre à Dieu hommage,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'an 1540, pour rendre ï¿½ Dieu hommage,
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Du martyr Saint Christophe fit faire cette image ;
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ung an après mourut, cy gist en sépulture.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ung an aprï¿½s mourut, cy gist en sï¿½pulture.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous qui par cy passez, voyant sa pourtraicture,
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Priez Dieu pour son âme et pour vous on priera,
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Priez Dieu pour son ï¿½me et pour vous on priera,
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Car comme vous ferez, pour vous certes on fera</i>.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si j'en crois le mémoire historique où je trouve ces détails, les chanoines 
-			n'étaient guère ravis du travail des sculpteurs. <I>"On trouve dans les registres du chapitre que cet ouvrage 
-			n'estoit pas entièrement fini le 28 avril 1551 ; que le chapitre étoit fort mécontent de la grossièreté de la 
-			sculpture et vouloit qu'on employât des sculpteurs plus habiles"</I>.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si j'en crois le mï¿½moire historique oï¿½ je trouve ces dï¿½tails, les chanoines 
+			n'ï¿½taient guï¿½re ravis du travail des sculpteurs. <I>"On trouve dans les registres du chapitre que cet ouvrage 
+			n'estoit pas entiï¿½rement fini le 28 avril 1551 ; que le chapitre ï¿½toit fort mï¿½content de la grossiï¿½retï¿½ de la 
+			sculpture et vouloit qu'on employï¿½t des sculpteurs plus habiles"</I>.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lebeuf, de son côté note ceci dans la "Prise d'Auxerre par les Huguenots" :
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lebeuf, de son cï¿½tï¿½ note ceci dans la "Prise d'Auxerre par les Huguenots" :
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>La statue de ce Saint taillée dans le temps que les prétendus Réformez 
-			commençaient à crier contre le culte des images. Il auroit été à souhaiter, dans des temps si délicats, que 
-			l'idée de Jean Olivier chanoine qui fit commencer l'ouvrage eut été plus régulière ou au moins qu'il n'eut pas eu 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>La statue de ce Saint taillï¿½e dans le temps que les prï¿½tendus Rï¿½formez 
+			commenï¿½aient ï¿½ crier contre le culte des images. Il auroit ï¿½tï¿½ ï¿½ souhaiter, dans des temps si dï¿½licats, que 
+			l'idï¿½e de Jean Olivier chanoine qui fit commencer l'ouvrage eut ï¿½tï¿½ plus rï¿½guliï¿½re ou au moins qu'il n'eut pas eu 
 			le dessein de la faire paroitre deux fois plus gros que celui de Notre-Dame de Paris. Edme Baleure, chanoine la fit 
-			achever après la mort de M. Olivier en conséquence des menaces que le chapitre lui fit de le détruire s'il le 
-			laissoit si longtemps imparfait ! Cet ouvrage, exposé à la vue de tous ceux qui entrent, n'a encore pu être 
-			goûté d'aucunes personnes éclairées. Au reste, il est bon qu'on sache que le chapitre empêcha soigneusement 
+			achever aprï¿½s la mort de M. Olivier en consï¿½quence des menaces que le chapitre lui fit de le dï¿½truire s'il le 
+			laissoit si longtemps imparfait ! Cet ouvrage, exposï¿½ ï¿½ la vue de tous ceux qui entrent, n'a encore pu ï¿½tre 
+			goï¿½tï¿½ d'aucunes personnes ï¿½clairï¿½es. Au reste, il est bon qu'on sache que le chapitre empï¿½cha soigneusement 
 			qu'on ne toucha au pilier"</I>.<SUP><font color="#ff0000" SIZE=2>2</FONT></SUP>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chose singulière, cette extraordinaire statue, qui, semble-t-il, eût dû plus 
-			qu'aucune autre exciter la fureur des Huguenots, lors des ravages de 1567, échappa au massacre général.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chose singuliï¿½re, cette extraordinaire statue, qui, semble-t-il, eï¿½t dï¿½ plus 
+			qu'aucune autre exciter la fureur des Huguenots, lors des ravages de 1567, ï¿½chappa au massacre gï¿½nï¿½ral.
 			<BR>
-			<I>"Le dégât qui paroit fait à l'image de Notre Seigneur, représenté sur les épaules de Saint Christophe, est 
+			<I>"Le dï¿½gï¿½t qui paroit fait ï¿½ l'image de Notre Seigneur, reprï¿½sentï¿½ sur les ï¿½paules de Saint Christophe, est 
 			selon les apparences un effet du tonnerre et non de la main des Huguenots"</I>, a soin de nous faire remarquer 
-			l'abbé Lebeuf.<SUP><font color="#ff0000" SIZE=2>2</FONT></SUP>
+			l'abbï¿½ Lebeuf.<SUP><font color="#ff0000" SIZE=2>2</FONT></SUP>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saint Christophe cependant ne devait pas durer de longs siècles. De divers côtés 
-			on le critiquait. On trouvait qu'il nuisait à la beauté de la Cathédrale. L'auteur du mémoire déjà cité écrit :
-			<I>"Pinganial de la Force dans son Etat de la France, le grand dictionnaire géographique de la Martinière et 
-			autres, qui se sont copiés, disent à l'article d'Auxerre que l'église Cathédrale n'a rien d'extraordinaire, mais 
-			que le palais épiscopal est un des plus beaux qu'il y ait en France. C'est dans le fait tout le contraire. Le 
-			célèbre Cervandoni regardait cette église comme la plus belle et la plus régulière qu'il eut vue après Saint 
-			Pierre de Rome. M. le comte de Caylus, si connu pour la supériorité de ses talents, par son goût exquis pour les 
-			beaux arts, ce grand connoisseur disoit de même que cette église est l'une des plus belles du royaume par la 
-			délicatesse et la régularité de son architecture. Elle a 50 toises de long sur 30 de large, elle est bien 
-			proportionnée, bien éclairée et bien pavée.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saint Christophe cependant ne devait pas durer de longs siï¿½cles. De divers cï¿½tï¿½s 
+			on le critiquait. On trouvait qu'il nuisait ï¿½ la beautï¿½ de la Cathï¿½drale. L'auteur du mï¿½moire dï¿½jï¿½ citï¿½ ï¿½crit :
+			<I>"Pinganial de la Force dans son Etat de la France, le grand dictionnaire gï¿½ographique de la Martiniï¿½re et 
+			autres, qui se sont copiï¿½s, disent ï¿½ l'article d'Auxerre que l'ï¿½glise Cathï¿½drale n'a rien d'extraordinaire, mais 
+			que le palais ï¿½piscopal est un des plus beaux qu'il y ait en France. C'est dans le fait tout le contraire. Le 
+			cï¿½lï¿½bre Cervandoni regardait cette ï¿½glise comme la plus belle et la plus rï¿½guliï¿½re qu'il eut vue aprï¿½s Saint 
+			Pierre de Rome. M. le comte de Caylus, si connu pour la supï¿½rioritï¿½ de ses talents, par son goï¿½t exquis pour les 
+			beaux arts, ce grand connoisseur disoit de mï¿½me que cette ï¿½glise est l'une des plus belles du royaume par la 
+			dï¿½licatesse et la rï¿½gularitï¿½ de son architecture. Elle a 50 toises de long sur 30 de large, elle est bien 
+			proportionnï¿½e, bien ï¿½clairï¿½e et bien pavï¿½e.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feu M. de Caylus, notre responsable prélât pensoit comme son neveu, mais plus il 
-			admiroit la beauté de son église, plus il étoit peiné de voir un colosse qui en défiguroit l'entrée. Ceux qui 
-			ont vécu avec lui se souviennent lui avoir entendu dire plus d'une fois : <U>Il faut que j'aime la paix autant 
-			que je l'aime pour n'avoir pas fait entrer ou la nuit ou de grand matin, des ouvriers dans l'église pour 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feu M. de Caylus, notre responsable prï¿½lï¿½t pensoit comme son neveu, mais plus il 
+			admiroit la beautï¿½ de son ï¿½glise, plus il ï¿½toit peinï¿½ de voir un colosse qui en dï¿½figuroit l'entrï¿½e. Ceux qui 
+			ont vï¿½cu avec lui se souviennent lui avoir entendu dire plus d'une fois : <U>Il faut que j'aime la paix autant 
+			que je l'aime pour n'avoir pas fait entrer ou la nuit ou de grand matin, des ouvriers dans l'ï¿½glise pour 
 			l'abattre</U>"</I>.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce que l'évêque n'osait pas faire, les chanoines de la cathédrale le firent le 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce que l'ï¿½vï¿½que n'osait pas faire, les chanoines de la cathï¿½drale le firent le 
 			28 avril 1768.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Depuis 30 ans</I>, continue l'auteur du mémoire, <I>les chanoines de la cathédrale 
-			ont employé plus de cent mille livres aux décorations de leur église. Au mois d'avril dernier, ils faisoient 
-			démolir les murs qui masquoient le sanctuaire, et les deux portes collatérales, chargées de statues et bas 
-			reliefs en pierre, ouvrages postiches et sur-ajoutés à la noble simplicité de l'église, qui seront remplacées 
-			par de belles grilles de fer. Ces démolitions étoient presque achevées, les chanoines ont cru devoir profiter de 
-			l'occasion pour débarrasser l'église d'un colosse monstrueux, difforme et mutilé, qui la déshonoroit ; d'autant 
-			plus qu'il ne servoit qu'à amuser le peuple, qu'une vaine curiosité y attiroit, sans aucun sentiment de piété 
-			et de religion. C'est ainsi que la démolition du colosse fut conclue dans un chapitre assemblé, à la presque 
-			unanimité, sans aucune réclamation. On y employa sur-le-champ les ouvriers qui étoient dans l'église avec 
-			leurs échelles et leurs outils"</I>.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Depuis 30 ans</I>, continue l'auteur du mï¿½moire, <I>les chanoines de la cathï¿½drale 
+			ont employï¿½ plus de cent mille livres aux dï¿½corations de leur ï¿½glise. Au mois d'avril dernier, ils faisoient 
+			dï¿½molir les murs qui masquoient le sanctuaire, et les deux portes collatï¿½rales, chargï¿½es de statues et bas 
+			reliefs en pierre, ouvrages postiches et sur-ajoutï¿½s ï¿½ la noble simplicitï¿½ de l'ï¿½glise, qui seront remplacï¿½es 
+			par de belles grilles de fer. Ces dï¿½molitions ï¿½toient presque achevï¿½es, les chanoines ont cru devoir profiter de 
+			l'occasion pour dï¿½barrasser l'ï¿½glise d'un colosse monstrueux, difforme et mutilï¿½, qui la dï¿½shonoroit ; d'autant 
+			plus qu'il ne servoit qu'ï¿½ amuser le peuple, qu'une vaine curiositï¿½ y attiroit, sans aucun sentiment de piï¿½tï¿½ 
+			et de religion. C'est ainsi que la dï¿½molition du colosse fut conclue dans un chapitre assemblï¿½, ï¿½ la presque 
+			unanimitï¿½, sans aucune rï¿½clamation. On y employa sur-le-champ les ouvriers qui ï¿½toient dans l'ï¿½glise avec 
+			leurs ï¿½chelles et leurs outils"</I>.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Triste fin en vérité !...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Triste fin en vï¿½ritï¿½ !...
 			<BR>
 			<CENTER>
-			   <I><U>Un grand d'Auxerre mourra bien misérable</U></I>
+			   <I><U>Un grand d'Auxerre mourra bien misï¿½rable</U></I>
 			</CENTER>
 			avait dit Nostradamus...
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je noterai, en terminant, que malgré les terribles chanoines du XVIIIème siècle, Saint 
-			Christophe a trouvé le moyen de demeurer auxerrois.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je noterai, en terminant, que malgrï¿½ les terribles chanoines du XVIIIï¿½me siï¿½cle, Saint 
+			Christophe a trouvï¿½ le moyen de demeurer auxerrois.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nous le reconnaissons dans l'un des huit compartiments de la claire-voie placée 
-			sous le concert céleste de la grande rosace.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nous le reconnaissons dans l'un des huit compartiments de la claire-voie placï¿½e 
+			sous le concert cï¿½leste de la grande rosace.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mieux que cela ! Par une singulière ironie du sort, il se trouve que toute la 
-			série des statues qui peuplaient jadis les innombrables niches de la façade et de la tour une seule a échappé à la 
-			tourmente des siècles, c'est, au-dessus du portail de Notre-Dame, celle de notre glorieux Porte-Christ. 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mieux que cela ! Par une singuliï¿½re ironie du sort, il se trouve que toute la 
+			sï¿½rie des statues qui peuplaient jadis les innombrables niches de la faï¿½ade et de la tour une seule a ï¿½chappï¿½ ï¿½ la 
+			tourmente des siï¿½cles, c'est, au-dessus du portail de Notre-Dame, celle de notre glorieux Porte-Christ. 
 			</P>
 			<P ALIGN="right">
 			   R. F.
@@ -399,8 +399,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	  <TR>
 	     <TD>
             <CENTER>
-              <a href="javascript:;" onClick="MM_openBrWindow('Images/Jacques%20AMYOT_1.jpg','GrandeImage7','width=700,height=700')">
-			  <img src="Images\Jacques AMYOT.JPG" border="0"></a>
+            //   <a href="javascript:;" onClick="MM_openBrWindow('Images/Jacques%20AMYOT_1.jpg','GrandeImage7','width=700,height=700')">
+			//   <img src="Images\Jacques AMYOT.JPG" border="0"></a>
             </CENTER>
 		 </TD>
 	  </TR>
@@ -412,9 +412,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <FONT SIZE=5>
 			   <BR>
 			   <BR>
-			   Réplique de l'évêque Amyot contre le chapitre d'Auxerre, énumérative des travaux et
+			   Rï¿½plique de l'ï¿½vï¿½que Amyot contre le chapitre d'Auxerre, ï¿½numï¿½rative des travaux et
 			   <BR>
-			   embellissements qu'il a faits dans la cathédrale, et de la fondation du collège d'Auxerre.
+			   embellissements qu'il a faits dans la cathï¿½drale, et de la fondation du collï¿½ge d'Auxerre.
 			   <BR>
 			   (Vers l'an 1589)
 			   </FONT>
@@ -432,94 +432,94 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <FONT SIZE=3>
 				      "Messire Jacques Amyot, evesque d'Aucerre, grand aulmosnier de France, deffendeur contre les 
 					  chanoines et chapistre de l'esglise d'Aucerre, demandeurs selon le contenu en leur exploitz de F. 
-					  Armant, sergent royal du bailliage d'Auxerre, du 25è juillet 1588, Dict pour deffenses qu'il a fait 
-					  luy seul pour la décoration et réparation de l'esglise plus que n'ont fait troys ou quattre évesques 
+					  Armant, sergent royal du bailliage d'Auxerre, du 25ï¿½ juillet 1588, Dict pour deffenses qu'il a fait 
+					  luy seul pour la dï¿½coration et rï¿½paration de l'esglise plus que n'ont fait troys ou quattre ï¿½vesques 
 					  avant luy, et plus que n'ont fait tous ceulx de chappistre quattre foys : et pour le monstrer dict 
-					  en premier lieu que n'ayant trouvé que les murailles toutes nues il a fait refaire tout à neuf toutes 
-					  les chaires du choeur, tant haultes que basses, qui sont en nombre plus de six-vingtz, d'ung cousté 
-					  et d'aultre dudit choeur, qui sont les plus belles qui soyent en esglise cathédrale de ce royaulme
+					  en premier lieu que n'ayant trouvï¿½ que les murailles toutes nues il a fait refaire tout ï¿½ neuf toutes 
+					  les chaires du choeur, tant haultes que basses, qui sont en nombre plus de six-vingtz, d'ung coustï¿½ 
+					  et d'aultre dudit choeur, qui sont les plus belles qui soyent en esglise cathï¿½drale de ce royaulme
 					  <BR>
 					  <BR>
-					  "Dict oultre qu'il a faict refaire la chaire cathédrale et épiscopalle, historier tout à l'entour 
-					  des histoires qui appartiennent à l'office de l'évesque ; et davantage le banc qui à cousté droict 
+					  "Dict oultre qu'il a faict refaire la chaire cathï¿½drale et ï¿½piscopalle, historier tout ï¿½ l'entour 
+					  des histoires qui appartiennent ï¿½ l'office de l'ï¿½vesque ; et davantage le banc qui ï¿½ coustï¿½ droict 
 					  de l'aultel pour seoir le prebtre et le diacre et soudiacre pendant que la grande messe se dit : qui 
-					  luy revient à plus de sept mil livres t ;
+					  luy revient ï¿½ plus de sept mil livres t ;
 					  <BR>
 					  <BR>
-					  "Dict qu'il a fait refaire l'autel, ayant faict venir des reliquaires exprès de Rome pour ce faire, et 
-					  en ayant apporté d'autres de son abbaye de Saint Corneille de Compienne ; faict pollir et accoustrer 
-					  à grandz fraiz la table d'autel qui est dessus de longueur de huict piedz et quattre poulces, et quattre 
-					  piedz piedz de large, toute d'une pièce de marbre noir, les deux marches de devant l'autel l'une de 
+					  "Dict qu'il a fait refaire l'autel, ayant faict venir des reliquaires exprï¿½s de Rome pour ce faire, et 
+					  en ayant apportï¿½ d'autres de son abbaye de Saint Corneille de Compienne ; faict pollir et accoustrer 
+					  ï¿½ grandz fraiz la table d'autel qui est dessus de longueur de huict piedz et quattre poulces, et quattre 
+					  piedz piedz de large, toute d'une piï¿½ce de marbre noir, les deux marches de devant l'autel l'une de 
 					  pierre et l'aultre de boys ;
 					  <BR>
 					  <BR>
 					  "Dict plus qu'il a faict faire les sept pilliers de bronze qui sont allentour dudict aultel, de belle 
-					  et élégante façon, à scavoir troys de dchascun costé de l'aultel et le septiesme derrier l'aultel en 
-					  façon de crosse, où repose le corps de Nostre-Seigneur, et la croix de dessus ; qui luy revient à 
+					  et ï¿½lï¿½gante faï¿½on, ï¿½ scavoir troys de dchascun costï¿½ de l'aultel et le septiesme derrier l'aultel en 
+					  faï¿½on de crosse, oï¿½ repose le corps de Nostre-Seigneur, et la croix de dessus ; qui luy revient ï¿½ 
 					  deux mil cinq cens livres pour le moingtz ;
 					  <BR>
 					  <BR>
-					  "Dict davantage qu'<U>il a fait faire tout de neuf les orgues qui sont à costé gauche du choeur avec 
-					  les venteaulx qui les ferment, peintz dedans et dehors</U> ; qui luy reviennent à mil escus et plus ;
+					  "Dict davantage qu'<U>il a fait faire tout de neuf les orgues qui sont ï¿½ costï¿½ gauche du choeur avec 
+					  les venteaulx qui les ferment, peintz dedans et dehors</U> ; qui luy reviennent ï¿½ mil escus et plus ;
 					  <BR>
 					  <BR>
-					  "Dict oultre qu'il a donné deux psaultiers, l'ung du cousté gauche, l'aultre du costé droit, en grosses 
-					  lettres et grosses nottes de l'impression de Plantin, en à bien reliez et couvers avec lesà et fermans 
+					  "Dict oultre qu'il a donnï¿½ deux psaultiers, l'ung du coustï¿½ gauche, l'aultre du costï¿½ droit, en grosses 
+					  lettres et grosses nottes de l'impression de Plantin, en ï¿½ bien reliez et couvers avec lesï¿½ et fermans 
 					  comme sont ordinairement es livres d'esglises ;
 					  <BR>
 					  <BR>
-					  "Qu'il a donné une chapelle de toile d'or, consistant en troys grandes chappes, l'une pour le chantre et 
+					  "Qu'il a donnï¿½ une chapelle de toile d'or, consistant en troys grandes chappes, l'une pour le chantre et 
 					  les deux aultres pour les deux escroistes, la chasuble pour le prestre officiant et les deux tunicques 
 					  pour le diacre et soudiacre, paremens d'autel hault et bas avec l'hystoire du martire de sainct Estienne 
 					  en broderie, le tout avec orfrais ; dont on fait l'office aux jours et festes solemnelles ;
 					  <BR>
 					  <BR>
-					  "Oultre a donné une aultre chapelle de damas blanc, consistant en troys grandes chappes, chasuble et deux 
-					  tuniques avec orfrai de velourz cramoisy figuré, et davantage le parement de l'aultel hault et bas et les 
+					  "Oultre a donnï¿½ une aultre chapelle de damas blanc, consistant en troys grandes chappes, chasuble et deux 
+					  tuniques avec orfrai de velourz cramoisy figurï¿½, et davantage le parement de l'aultel hault et bas et les 
 					  rideaux quattre en
 					  <BR>
 					  <BR>
-					  "Qu'il a donné deux chandeliers d'argent, haultz et de belle façon, pour servir à l'aultel aux festes ;
+					  "Qu'il a donnï¿½ deux chandeliers d'argent, haultz et de belle faï¿½on, pour servir ï¿½ l'aultel aux festes ;
 					  <BR>
 					  <BR>
-					  "Qu'il a donné deux encensoirs d'argent avec la nevette d'argent massif et de belle façon ;
+					  "Qu'il a donnï¿½ deux encensoirs d'argent avec la nevette d'argent massif et de belle faï¿½on ;
 					  <BR>
 					  <BR>
-					  "Qu'il a donné le benoistier avec son aspergès d'argent ;
+					  "Qu'il a donnï¿½ le benoistier avec son aspergï¿½s d'argent ;
 					  <BR>
 					  <BR>
-					  "Qu'il a donné le pavillon de taffetas changeant pour apporter les sainctes huiles avec les vaisseaux 
+					  "Qu'il a donnï¿½ le pavillon de taffetas changeant pour apporter les sainctes huiles avec les vaisseaux 
 					  pour les mettre au jour du Jeudi-Saint.
 					  <BR>
 					  <BR>
-					  "Dict oultre qu'il a faict réimprimer les bréviaires à l'usage d'Auxerre, reduictz à la forme de celluy 
-					  de Romme, ainsi qu'il est ordonné par le concille de Trente ; qu'il luy revient à plus de deux mil 
+					  "Dict oultre qu'il a faict rï¿½imprimer les brï¿½viaires ï¿½ l'usage d'Auxerre, reduictz ï¿½ la forme de celluy 
+					  de Romme, ainsi qu'il est ordonnï¿½ par le concille de Trente ; qu'il luy revient ï¿½ plus de deux mil 
 					  livres ;
 					  <BR>
 					  <BR>
-					  "Dict plus qu'il a faict réparer les chapelle épiscopalle qui est dedans l'esglise, laquelle avoit est, 
-					  toute déchirée par les Huguenotz, l'autel desmoly, les moulures de peirre de tailes toutes cassées, et 
-					  les paintures toutes diffamées et le carreau emporté.
+					  "Dict plus qu'il a faict rï¿½parer les chapelle ï¿½piscopalle qui est dedans l'esglise, laquelle avoit est, 
+					  toute dï¿½chirï¿½e par les Huguenotz, l'autel desmoly, les moulures de peirre de tailes toutes cassï¿½es, et 
+					  les paintures toutes diffamï¿½es et le carreau emportï¿½.
 					  <BR>
 					  <BR>
-					  "Oultre et par-dessus tout le précédent qui appartient à la décoration de l'esglise pathérialle, et pour 
-					  leur donner quelque institution tant en bonnes lettres qu'en philosophie et théologie, il a fait bastir 
-					  ung collàge pour y loger des Jésuites, ainsy qu'il luy a esté accordé par leur général, où il y a ung 
-					  corps de logis de vingt cinq toises de long et 32 pieds de haulteur à troysestages, celliers, glasses 
-					  viz à viz, de mesme longueur : lequel collège, tant en achapt de la place qu'en bastiments tout de neuf et 
+					  "Oultre et par-dessus tout le prï¿½cï¿½dent qui appartient ï¿½ la dï¿½coration de l'esglise pathï¿½rialle, et pour 
+					  leur donner quelque institution tant en bonnes lettres qu'en philosophie et thï¿½ologie, il a fait bastir 
+					  ung collï¿½ge pour y loger des Jï¿½suites, ainsy qu'il luy a estï¿½ accordï¿½ par leur gï¿½nï¿½ral, oï¿½ il y a ung 
+					  corps de logis de vingt cinq toises de long et 32 pieds de haulteur ï¿½ troysestages, celliers, glasses 
+					  viz ï¿½ viz, de mesme longueur : lequel collï¿½ge, tant en achapt de la place qu'en bastiments tout de neuf et 
 					  depuis le fondement, comme aussy en achapt de la maison continue et en rentes qu'il a acquises du roy sur 
-					  le scel pour lesà, luy revient à jusques aujourd'huy ... 60,000 l. et plus. Et toutes lesquelles réparations, 
-					  décorations et enrichissements ledit deffendeur en croit toute la ville d'Auxerre depuis le premier de la 
-					  justice jusques au plus petit artisan ; et n'est point par jactance qu'il en ayt faict ce particulier récit 
+					  le scel pour lesï¿½, luy revient ï¿½ jusques aujourd'huy ... 60,000 l. et plus. Et toutes lesquelles rï¿½parations, 
+					  dï¿½corations et enrichissements ledit deffendeur en croit toute la ville d'Auxerre depuis le premier de la 
+					  justice jusques au plus petit artisan ; et n'est point par jactance qu'il en ayt faict ce particulier rï¿½cit 
 					  ny par reproche, mays pour vous monstrer et fairre paroistre qu'il n'y a de justice. Au moyen de quoi il 
-					  requerre d'en estre renvoyé absoubz avec despens.
+					  requerre d'en estre renvoyï¿½ absoubz avec despens.
 					  <BR>
 					  <BR>
 					  <CENTER>
 					     <FONT SIZE=4>
-						    Pièce non signée, écrite au commencement du 17ème siècle
+						    Piï¿½ce non signï¿½e, ï¿½crite au commencement du 17ï¿½me siï¿½cle
 							<BR>
-							Archives de la ville d'Auxerre, Case 4 R., paquet n° 139.
+							Archives de la ville d'Auxerre, Case 4 R., paquet nï¿½ 139.
 						 </FONT>
 					  </CENTER>	 	
 				   </FONT>	  
@@ -536,11 +536,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <FONT SIZE=5>
 			   <BR>
 			   <BR>
-			   Mémoire pour dresser des répliques en l'instance pendante à
+			   Mï¿½moire pour dresser des rï¿½pliques en l'instance pendante ï¿½
 			   <BR>
-			   Paris, pardevant messieurs des Requêtes du Palais, aux défenses
+			   Paris, pardevant messieurs des Requï¿½tes du Palais, aux dï¿½fenses
 			   <BR>
-			   de messire Jacques Amyot, évêque d'Auxerre
+			   de messire Jacques Amyot, ï¿½vï¿½que d'Auxerre
 			   </FONT>
 			</CENTER>
 	      </TD>
@@ -554,7 +554,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <TD WIDTH="80%">
 		      <p align="justify">
 			       <FONT SIZE=4>
-				      Ce mémoire contient plusieurs faits relatifs à l'histoire.
+				      Ce mï¿½moire contient plusieurs faits relatifs ï¿½ l'histoire.
 					  <BR>
 					  (Ann. 1593)
 					  <BR>
@@ -562,23 +562,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 					  <BR>
 				   </FONT>
 				   <FONT SIZE=3>
-				      Au 7ème article où il dit qu'il a fait faire des <U>orgues qui lui reviennent à 1000 écus</U> : à celà 
-					  peuvent répliquer lesdits demandeurs que ça été un bon religieux de N.Dame de l'Isle, de Troyes en 
-					  Champagne, qui les a fait, et que lui n'en a fourni sinon le plomb et étain des tuyaux et le fust desdits 
+				      Au 7ï¿½me article oï¿½ il dit qu'il a fait faire des <U>orgues qui lui reviennent ï¿½ 1000 ï¿½cus</U> : ï¿½ celï¿½ 
+					  peuvent rï¿½pliquer lesdits demandeurs que ï¿½a ï¿½tï¿½ un bon religieux de N.Dame de l'Isle, de Troyes en 
+					  Champagne, qui les a fait, et que lui n'en a fourni sinon le plomb et ï¿½tain des tuyaux et le fust desdits 
 					  orgues qui sont petites, et qu'en partie pour la peine dudit religieux, les-dits demandeurs l'ont reconnu 
-					  tant en général qu'en particulier, et que le tout ne revient pas à plus de deux ou trois cent écus qui 
-					  sont les mêmes deniers que ceux desdites chaires provenant de la susdite régale. <B>...</B>	  
+					  tant en gï¿½nï¿½ral qu'en particulier, et que le tout ne revient pas ï¿½ plus de deux ou trois cent ï¿½cus qui 
+					  sont les mï¿½mes deniers que ceux desdites chaires provenant de la susdite rï¿½gale. <B>...</B>	  
 					  <SUP><font color="#ff0000" SIZE=2>1</FONT></SUP></FONT>
 				      <BR>
 					  <BR>
 					  <CENTER>
 					     <FONT SIZE=4>
-						    (Tiré d'une ancienne copie)
+						    (Tirï¿½ d'une ancienne copie)
 						 </FONT>
 					  </CENTER>
 					  <BR>
 					  <FONT SIZE=4>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'arrêt de 1607, sur le collège d'Auxerre, se trouve imprimé dans les 
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'arrï¿½t de 1607, sur le collï¿½ge d'Auxerre, se trouve imprimï¿½ dans les 
 					  lois de la France par Jacques Corbin, 1613.
 				  </FONT>	  
 		      </P>   
@@ -594,9 +594,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <FONT SIZE=5>
 			   <BR>
 			   <BR>
-			   Apologie de Me Jacques Amyot, évêque d'Auxerre contre ses ennemis demeurants en
+			   Apologie de Me Jacques Amyot, ï¿½vï¿½que d'Auxerre contre ses ennemis demeurants en
 			   <BR>
-			   ladite ville, écrite de sa propre main, et tirée de l'original
+			   ladite ville, ï¿½crite de sa propre main, et tirï¿½e de l'original
 			   <BR>
 			   (Ann. 1589)
 			   <BR>
@@ -617,14 +617,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=3>
 				      <BR>
-					  Quant à ce qu'il dit que l'évêque avoit en horreur messieurs de Guyse et du Maine, c'est une 
+					  Quant ï¿½ ce qu'il dit que l'ï¿½vï¿½que avoit en horreur messieurs de Guyse et du Maine, c'est une 
 					  diabolique supposition, car il est certain au veu et au sceu de toute la ville que lorsque feu 
-					  monsieur de Guyse fut en la ville d'Aucerre, durant la grande armée des Reistres, l'évêque fut tous 
-					  les jours soir et matin au logis dudit seigneur, le fit recevoir en son église à haute messe, les 
-					  grosses cloches sonnans et <U>les orgues jouants</U>, comme si c'eut été le jour d'une fête 
-					  solonnelle, luy fit présent d'un muid de vin qu'il trouva le meilleur qu'il eut beu en toute la 
-					  ville, luy fit cet honneur de visiter son collège, et alla par toutes les chambres hautes et basses, 
-					  disant qu'il était plus beau que le sien de la ville d'Eu. <B>...</B> 
+					  monsieur de Guyse fut en la ville d'Aucerre, durant la grande armï¿½e des Reistres, l'ï¿½vï¿½que fut tous 
+					  les jours soir et matin au logis dudit seigneur, le fit recevoir en son ï¿½glise ï¿½ haute messe, les 
+					  grosses cloches sonnans et <U>les orgues jouants</U>, comme si c'eut ï¿½tï¿½ le jour d'une fï¿½te 
+					  solonnelle, luy fit prï¿½sent d'un muid de vin qu'il trouva le meilleur qu'il eut beu en toute la 
+					  ville, luy fit cet honneur de visiter son collï¿½ge, et alla par toutes les chambres hautes et basses, 
+					  disant qu'il ï¿½tait plus beau que le sien de la ville d'Eu. <B>...</B> 
 				  </FONT>	  
 		      </P>   
 		   </TD>
@@ -642,7 +642,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
               &nbsp;&nbsp;&nbsp;
               <SUP><font color="#ff0000" SIZE=2>1</FONT></SUP>
               <FONT SIZE=4>
-                 La régale est l'administration spirituelle et temporelle du diocèse pendant la vacance du siège.
+                 La rï¿½gale est l'administration spirituelle et temporelle du diocï¿½se pendant la vacance du siï¿½ge.
               </FONT>
               <BR>
               <BR>
@@ -659,7 +659,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   TRAVAUX DE DECORATION
 			   <BR>
-			   EXECUTES DANS LA CATHEDRALE D'AUXERRE PENDANT LE XVIIIè SIECLE
+			   EXECUTES DANS LA CATHEDRALE D'AUXERRE PENDANT LE XVIIIï¿½ SIECLE
 			   <BR>
 			   1639
 			   <BR>
@@ -678,25 +678,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=4>
 				      <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En face de la statue de Saint Christophe, et suspendu à la première 
-					  arcade du côté gauche de la nef se voyait encore le buffet de l'orgue que François 1er de 
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En face de la statue de Saint Christophe, et suspendu ï¿½ la premiï¿½re 
+					  arcade du cï¿½tï¿½ gauche de la nef se voyait encore le buffet de l'orgue que Franï¿½ois 1er de 
 					  DINTEVILLE y avait fait construire, du consentement du Chapitre, en 1529.
 					  <BR>
 					  <BR>
 					  <CENTER>
-					    <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Plan2_1.jpg','GrandeImage7','width=700,height=700')">
-						<IMG SRC="Cathedrale/Plan2.JPG" border="0"></a>
+					    // <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Plan2_1.jpg','GrandeImage7','width=700,height=700')">
+						// <IMG SRC="Cathedrale/Plan2.JPG" border="0"></a>
 					  </CENTER>
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les tuyaux en avaient été enlevés par les protestants, et il ne 
-					  restait plus que ce buffet, oeuvre de menuiserie très délicate, mais tombant de vétusté. Les nouvelles 
-					  orgues avaient été établies par Jacques AMYOT, sous la première arcade de gauche en entrant dans le 
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les tuyaux en avaient ï¿½tï¿½ enlevï¿½s par les protestants, et il ne 
+					  restait plus que ce buffet, oeuvre de menuiserie trï¿½s dï¿½licate, mais tombant de vï¿½tustï¿½. Les nouvelles 
+					  orgues avaient ï¿½tï¿½ ï¿½tablies par Jacques AMYOT, sous la premiï¿½re arcade de gauche en entrant dans le 
 					  choeur.
 					  <BR>
 					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enfin, au milieu de l'arcature de la chapelle de Saint Georges, en regard 
-					  sur le transept se voyait encore le cadran d'une ancienne horloge dont le mouvement avait été gravement 
-					  endommagé par les protestants. Aucune réparation n'y ayant été faite depuis, cette horloge était devenue 
-					  hors d'usage, et sa vue n'évoquait plus que de pénibles souvenirs et d'inutiles regrets.
+					  sur le transept se voyait encore le cadran d'une ancienne horloge dont le mouvement avait ï¿½tï¿½ gravement 
+					  endommagï¿½ par les protestants. Aucune rï¿½paration n'y ayant ï¿½tï¿½ faite depuis, cette horloge ï¿½tait devenue 
+					  hors d'usage, et sa vue n'ï¿½voquait plus que de pï¿½nibles souvenirs et d'inutiles regrets.
 					  <BR>
 					  <BR>
 			    </FONT>	  
@@ -733,32 +733,32 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=4>
 				      <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un Lyonnais dont l'oeuvre était admirée de RAMEAU qui le tenait pour 
-					  incomparable dans le maniement de la fugue, et de BACH qui lui fit même quelques emprunts, après 
-					  avoir sacrifié au goût du temps, quitte résolument les sentiers battus et tend vers l'écriture en 
-					  trio, où il acquiert une réelle maîtrise. Il sait penser et écrire avec du métier et même de la 
-					  grandeur et du panache. Parmi ses élèves, il faut citer :
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un Lyonnais dont l'oeuvre ï¿½tait admirï¿½e de RAMEAU qui le tenait pour 
+					  incomparable dans le maniement de la fugue, et de BACH qui lui fit mï¿½me quelques emprunts, aprï¿½s 
+					  avoir sacrifiï¿½ au goï¿½t du temps, quitte rï¿½solument les sentiers battus et tend vers l'ï¿½criture en 
+					  trio, oï¿½ il acquiert une rï¿½elle maï¿½trise. Il sait penser et ï¿½crire avec du mï¿½tier et mï¿½me de la 
+					  grandeur et du panache. Parmi ses ï¿½lï¿½ves, il faut citer :
 					  <CENTER>
 					  <BR>
 					     Gaspar CORETTE
 					  <BR>
 					  </CENTER>
-					  auteur d'une Messe du VIIIème ton aux motifs très riches ;
+					  auteur d'une Messe du VIIIï¿½me ton aux motifs trï¿½s riches ;
 					  <CENTER>
 					  <BR>
 					     GUILAIN
 					  <BR>
 					  </CENTER>
-					  à qui l'on doit des Suites (1706), où l'on retrouve par endroits des thèmes de MARCHAND, et surtout
+					  ï¿½ qui l'on doit des Suites (1706), oï¿½ l'on retrouve par endroits des thï¿½mes de MARCHAND, et surtout
 					  <CENTER>
 					  <BR>
 					     Pierre du MAGE
 					  <BR>
 					  </CENTER>
-					  organiste à St Quentin...
+					  organiste ï¿½ St Quentin...
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avec ces organistes s'achève la carrière de l'orgue religieux. Avec les 
-					  suivants débute celle, <B><I><U>incomparablement moins noble</U></I></B> et <B><I><U>moins glorieuse
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avec ces organistes s'achï¿½ve la carriï¿½re de l'orgue religieux. Avec les 
+					  suivants dï¿½bute celle, <B><I><U>incomparablement moins noble</U></I></B> et <B><I><U>moins glorieuse
 					  </U></I></B>, de l'orgue de concert.
 					  <BR>
 				    </FONT>	  
@@ -792,22 +792,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=4>
 				      <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simplement parce qu'une polémique existe entre le fait que MARCHAND soit 
-					  venu (pendant une année !), à Auxerre ; ou pas du tout... (son emploi du temps à Paris, à la même époque 
-					  venant contredire la première affirmation).
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simplement parce qu'une polï¿½mique existe entre le fait que MARCHAND soit 
+					  venu (pendant une annï¿½e !), ï¿½ Auxerre ; ou pas du tout... (son emploi du temps ï¿½ Paris, ï¿½ la mï¿½me ï¿½poque 
+					  venant contredire la premiï¿½re affirmation).
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une correspondance adressée à l'auteur d'un ouvrage contemporain, par 
-					  l'intermédiaire de sa société d'édition, et qui affirmait la venue de MARCHAND à Auxerre, est restée 
-					  sans réponse. J'en extrais ceci :
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une correspondance adressï¿½e ï¿½ l'auteur d'un ouvrage contemporain, par 
+					  l'intermï¿½diaire de sa sociï¿½tï¿½ d'ï¿½dition, et qui affirmait la venue de MARCHAND ï¿½ Auxerre, est restï¿½e 
+					  sans rï¿½ponse. J'en extrais ceci :
 					  <BR>
 					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I><B>...</B> Personnellement, mes recherches aux Archives 
-					  départementales ne m'ont pas convaincu qu'il soit réellement venu (son emploi du temps à Paris 
-					  chevauchant les dates supposées de son activité auxerroise)<B>...</B></I>
+					  dï¿½partementales ne m'ont pas convaincu qu'il soit rï¿½ellement venu (son emploi du temps ï¿½ Paris 
+					  chevauchant les dates supposï¿½es de son activitï¿½ auxerroise)<B>...</B></I>
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je suppose que cet auteur a pris ses informations dans une encyclopédie 
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je suppose que cet auteur a pris ses informations dans une encyclopï¿½die 
 					  de la musique. Aucune des histoires de la musique, aucune biographie de musicien, aucune bibliographie, 
-					  ni registres ou liasses de documents des Archives départementales ou de la Bibliothèque municipale que 
-					  j'ai pu consulter n'apportent d'éléments de réponse !
+					  ni registres ou liasses de documents des Archives dï¿½partementales ou de la Bibliothï¿½que municipale que 
+					  j'ai pu consulter n'apportent d'ï¿½lï¿½ments de rï¿½ponse !
 				    </FONT>	  
 		      </P>
 		   </TD>
@@ -842,8 +842,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=4>
 				      <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le s(d)ixième jour du juin dudit an ledit Damy a donné un escu sol à 
-					  Michel Denesvre organiste pour avoir touché les orgues...
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le s(d)ixiï¿½me jour du juin dudit an ledit Damy a donnï¿½ un escu sol ï¿½ 
+					  Michel Denesvre organiste pour avoir touchï¿½ les orgues...
 					  <BR>
 					  <BR>
 					  <CENTER>
@@ -867,14 +867,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   <BR>
-			   Bulletin de la Société des Sciences Historiques et Naturelles
+			   Bulletin de la Sociï¿½tï¿½ des Sciences Historiques et Naturelles
 			   <BR>
-			   de l'Yonne. Année 1947 à 1952. 95ème volume.
+			   de l'Yonne. Annï¿½e 1947 ï¿½ 1952. 95ï¿½me volume.
 			   <BR>
 			   <BR>
-			   Procès-verbal de la séance du 6 juillet 1947 tenue sous la
+			   Procï¿½s-verbal de la sï¿½ance du 6 juillet 1947 tenue sous la
 			   <BR>
-			   présidence de M. Léon Noël, président.
+			   prï¿½sidence de M. Lï¿½on Noï¿½l, prï¿½sident.
 			   </FONT>
 			</CENTER>
 	      </TD>
@@ -892,13 +892,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				      <B>...</B>
 					  <BR>
 					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) L'orgue d'Auxerre. Dans les minutes notariales de Me GUIMARD (dossier 
-					  235, pièce 124) se trouve un contrat passé en 1697 entre MM du Chapitre cathédrale d'Auxerre et 
-					  Pierre LEFEBURE, facteur d'orgues, à Paris, rue Aubry-le-Boucher, pour la restauration de l'orgue de 
-					  la cathédrale qui contenait 2 claviers de chacun 8 jeux. Il s'agit d'un relevage avec réparation de la 
-					  mécanique, pose d'une Voix Humaine neuve, de deux rangs de plus au Cornet et au Plein-Jeu, de deux 
-					  tremblants et, surtout, adjonction de dix notes à chaque jeu, les claviers de 38 notes devant être de 
-					  48. Le buffet pourra être fait "à tourelles". En plus des 700 livres d'honoraires, le facteur touchera 
-					  2 "fillettes" de vin "des dixmes". Cet orgue était alors au choeur, à gauche.
+					  235, piï¿½ce 124) se trouve un contrat passï¿½ en 1697 entre MM du Chapitre cathï¿½drale d'Auxerre et 
+					  Pierre LEFEBURE, facteur d'orgues, ï¿½ Paris, rue Aubry-le-Boucher, pour la restauration de l'orgue de 
+					  la cathï¿½drale qui contenait 2 claviers de chacun 8 jeux. Il s'agit d'un relevage avec rï¿½paration de la 
+					  mï¿½canique, pose d'une Voix Humaine neuve, de deux rangs de plus au Cornet et au Plein-Jeu, de deux 
+					  tremblants et, surtout, adjonction de dix notes ï¿½ chaque jeu, les claviers de 38 notes devant ï¿½tre de 
+					  48. Le buffet pourra ï¿½tre fait "ï¿½ tourelles". En plus des 700 livres d'honoraires, le facteur touchera 
+					  2 "fillettes" de vin "des dixmes". Cet orgue ï¿½tait alors au choeur, ï¿½ gauche.
 					  <BR>
 					</FONT>
 			  </P>
@@ -934,9 +934,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=4>
 				      <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ledit jour (?) donné par commandement &nbsp;&nbsp;&nbsp;&nbsp;deux 
-					  (escus) à Me Mathieu Floret... chanoine semiprébandé en ladite église pour ses peines d'avoir 
-					  accommodé les orgues de ladite église d'Auxerre... par...
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ledit jour (?) donnï¿½ par commandement &nbsp;&nbsp;&nbsp;&nbsp;deux 
+					  (escus) ï¿½ Me Mathieu Floret... chanoine semiprï¿½bandï¿½ en ladite ï¿½glise pour ses peines d'avoir 
+					  accommodï¿½ les orgues de ladite ï¿½glise d'Auxerre... par...
 				   </FONT>
 			  </P>
 		   </TD>
@@ -969,37 +969,37 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			       <BR>
 				   <FONT SIZE=4>
 				      <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B>Il était passé le temps où le Chapitre pouvait, à son gré 
-					  et selon ses caprices, faire dans l'édifice des travaux quelle qu'en fut l'importance. Cet arrêté la 
-					  compagnie l'obtint le 23 août 1763, et le 24 septembre suivant, le Grand Maîtres des eaux et forêts 
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B>Il ï¿½tait passï¿½ le temps oï¿½ le Chapitre pouvait, ï¿½ son grï¿½ 
+					  et selon ses caprices, faire dans l'ï¿½difice des travaux quelle qu'en fut l'importance. Cet arrï¿½tï¿½ la 
+					  compagnie l'obtint le 23 aoï¿½t 1763, et le 24 septembre suivant, le Grand Maï¿½tres des eaux et forï¿½ts 
 					  de France rendit une ordonnance
 					  <BR>
-					  <I>"à l'effet de procéder par Claude Charles LEDOUX, architecte
+					  <I>"ï¿½ l'effet de procï¿½der par Claude Charles LEDOUX, architecte
 					  <BR>
-					  "à Paris, à la visite, reconnaissance, devis estimatif et dessins
+					  "ï¿½ Paris, ï¿½ la visite, reconnaissance, devis estimatif et dessins
 					  <BR>
-					  "des ouvrages à faire pour la construction de deux chapelles
+					  "des ouvrages ï¿½ faire pour la construction de deux chapelles
 					  <BR>
-					  "latérales dans la croisée de l'église cathédrale ; la pose de
+					  "latï¿½rales dans la croisï¿½e de l'ï¿½glise cathï¿½drale ; la pose de
 					  <BR>
-					  "deux grilles des bas-côtés ; la construction d'un nouveau maître
+					  "deux grilles des bas-cï¿½tï¿½s ; la construction d'un nouveau maï¿½tre
 					  <BR>
 					  "autel en marbre, avec son marchepied, gradin et tabernacle ;
 					  <BR>
-					  "celui des Féries par derrière, aussi de marbre, ainsi que la
+					  "celui des Fï¿½ries par derriï¿½re, aussi de marbre, ainsi que la
 					  <BR>
-					  "figure de St Etienne ; le pavé du sanctuaire ; les grilles au
+					  "figure de St Etienne ; le pavï¿½ du sanctuaire ; les grilles au
 					  <BR>
-					  "pourtour ; le banc des célébrants, et <U>la restauration de l'or-
+					  "pourtour ; le banc des cï¿½lï¿½brants, et <U>la restauration de l'or-
 					  <BR>
 					  </U>"<U>gue</U>".</I>
 					  <BR>
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Quant à l'orgue, dont la tribune était placée sous la première 
-					  arcade de la partie gauche du choeur, on se bornerait à y faire des réparations importantes jusqu'à 
-					  concurrence d'une somme de 3.000 livres ; différant à une époque ultérieure la construction d'une 
-					  nouvelle tribune, qui recevrait un jeu d'orgue plus complet. Tous ces travaux étaient estimés s'élever... 
-					  à la somme de... 3.000 livres pour l'orgue.
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Quant ï¿½ l'orgue, dont la tribune ï¿½tait placï¿½e sous la premiï¿½re 
+					  arcade de la partie gauche du choeur, on se bornerait ï¿½ y faire des rï¿½parations importantes jusqu'ï¿½ 
+					  concurrence d'une somme de 3.000 livres ; diffï¿½rant ï¿½ une ï¿½poque ultï¿½rieure la construction d'une 
+					  nouvelle tribune, qui recevrait un jeu d'orgue plus complet. Tous ces travaux ï¿½taient estimï¿½s s'ï¿½lever... 
+					  ï¿½ la somme de... 3.000 livres pour l'orgue.
 					  <BR>
 					  </font></P>
 				   
@@ -1020,28 +1020,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 					  </CENTER>
 					  <BR>
 					  <p align="justify">
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Le lendemain autre Chapitre où l'on approuve la traité passé par 
-					  M. MIGNOT chanoine, avec un facteur pour la réparation de l'orgue, moyennant 3.200 livres. Ces 
-					  réparations étaient très avancées quand le facteur fit observer à la Compagnie que par suite de l'adjonction 
-					  de nouveaux jeux le son de l'instrument deviendrait beaucoup plus fort et incommoderait peut-être le 
-					  choeur, et qu'il fallait se résoudre à le déplacer. Après avoir minutieusement cherché dans l'église 
-					  une place propre à le recevoir, les chanoines finirent par conclure
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Le lendemain autre Chapitre oï¿½ l'on approuve la traitï¿½ passï¿½ par 
+					  M. MIGNOT chanoine, avec un facteur pour la rï¿½paration de l'orgue, moyennant 3.200 livres. Ces 
+					  rï¿½parations ï¿½taient trï¿½s avancï¿½es quand le facteur fit observer ï¿½ la Compagnie que par suite de l'adjonction 
+					  de nouveaux jeux le son de l'instrument deviendrait beaucoup plus fort et incommoderait peut-ï¿½tre le 
+					  choeur, et qu'il fallait se rï¿½soudre ï¿½ le dï¿½placer. Aprï¿½s avoir minutieusement cherchï¿½ dans l'ï¿½glise 
+					  une place propre ï¿½ le recevoir, les chanoines finirent par conclure
 					  <BR>
 					  <I>"que vu le manque de fonds qui ne permet pas de placer l'or-
 					  <BR>
-					  "gue à sa véritable place au-dessus de la porte principale de leur
+					  "gue ï¿½ sa vï¿½ritable place au-dessus de la porte principale de leur
 					  <BR>
-					  "église, il sera dès à présent placé dans la croisée (transept) du
+					  "ï¿½glise, il sera dï¿½s ï¿½ prï¿½sent placï¿½ dans la croisï¿½e (transept) du
 					  <BR>
-					  "côté du midi, au-dessus de la chapelle St Georges, à l'endroit où		 
+					  "cï¿½tï¿½ du midi, au-dessus de la chapelle St Georges, ï¿½ l'endroit oï¿½		 
 					  <BR>
-					  "est actuellement un ancien horloge"</I> (Concl. du 21 décembre 1767).
+					  "est actuellement un ancien horloge"</I> (Concl. du 21 dï¿½cembre 1767).
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce déplacement était évalué représenter une dépense de 4 à 500 l. 
-					  La translation fut rapidement exécutée. Mais ce dont on aurait pu se douter, c'est que du fait de son 
-					  éloignement les sons de l'orgue devaient perdre de leur ampleur, ce qui força d'augmenter certains 
-					  jeux (concl. du 5 février 1768). Quand tout fut terminé, il fut arrêté, par conclusion du 15 février 
-					  que le buffet serait mis en couleur à la détrempe avec un vernis par-dessus.
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce dï¿½placement ï¿½tait ï¿½valuï¿½ reprï¿½senter une dï¿½pense de 4 ï¿½ 500 l. 
+					  La translation fut rapidement exï¿½cutï¿½e. Mais ce dont on aurait pu se douter, c'est que du fait de son 
+					  ï¿½loignement les sons de l'orgue devaient perdre de leur ampleur, ce qui forï¿½a d'augmenter certains 
+					  jeux (concl. du 5 fï¿½vrier 1768). Quand tout fut terminï¿½, il fut arrï¿½tï¿½, par conclusion du 15 fï¿½vrier 
+					  que le buffet serait mis en couleur ï¿½ la dï¿½trempe avec un vernis par-dessus.
 					  </P>
 				   
 			  </TD>
@@ -1065,26 +1065,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   </TD>
 		   <TD WIDTH="27%">
 		      <CENTER>
-		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_1_1.jpg','GrandeImage8','width=700,height=700')">//-->
-				 <img src="Cathedrale/Calinet_1.jpg" width="170" height="234" border="0"></a>
+		    //    <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_1_1.jpg','GrandeImage8','width=700,height=700')">
+			// 	<img src="Cathedrale/Calinet_1.jpg" width="170" height="234" border="0"></a>
 				 <BR>
-				 François CALINET Père
+				 Franï¿½ois CALINET Pï¿½re
 			  </CENTER>
 		   </TD>
 		   <TD WIDTH="26%">
 		      <CENTER>
-		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_2_1.jpg','GrandeImage9','width=700,height=700')">//-->
-				 <img src="Cathedrale/Calinet_2.jpg" width="170" height="234" border="0"></a>
+		        //  <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_2_1.jpg','GrandeImage9','width=700,height=700')">//-->
+				//  <img src="Cathedrale/Calinet_2.jpg" width="170" height="234" border="0"></a>
 				 <BR>
 				 donne 
 			  </CENTER>
 		   </TD>
 		   <TD WIDTH="27%">
 		      <CENTER>
-		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_3_1.jpg','GrandeImage10','width=700,height=700')">//-->
-				 <img src="Cathedrale/Calinet_3.jpg" width="170" height="234" border="0"></a>
+		        //  <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_3_1.jpg','GrandeImage10','width=700,height=700')">//-->
+				//  <img src="Cathedrale/Calinet_3.jpg" width="170" height="234" border="0"></a>
 				 <BR>
-				 François CALINET Fils
+				 Franï¿½ois CALINET Fils
 			  </CENTER>
 		   </TD>
 		<TD WIDTH="10%">&nbsp;
@@ -1107,24 +1107,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   </TD>
 		   <TD WIDTH="27%">
 		      <CENTER>
-		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_4_1.jpg','GrandeImage11','width=700,height=700')">//-->
-				 <img src="Cathedrale/Calinet_4.jpg" width="170" height="234" border="0"></a>
+		        //  <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_4_1.jpg','GrandeImage11','width=700,height=700')">//-->
+				//  <img src="Cathedrale/Calinet_4.jpg" width="170" height="234" border="0"></a>
 				 <BR>
 				 en apprentissage 
 			  </CENTER>
 		   </TD>
 		   <TD WIDTH="26%">
 		      <CENTER>
-		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_5_1.jpg','GrandeImage12','width=700,height=700')">//-->
-				 <img src="Cathedrale/Calinet_5.jpg" width="170" height="234" border="0"></a>
+		        //  <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_5_1.jpg','GrandeImage12','width=700,height=700')">//-->
+				//  <img src="Cathedrale/Calinet_5.jpg" width="170" height="234" border="0"></a>
 				 <BR>
-				 à
+				 ï¿½
 			  </CENTER>
 		   </TD>
 		   <TD WIDTH="27%">
 		      <CENTER>
-		         <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_6_1.jpg','GrandeImage13','width=700,height=700')">//-->
-				 <img src="Cathedrale/Calinet_6.jpg" width="170" height="234" border="0"></a>
+		        //  <!--<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Calinet_6_1.jpg','GrandeImage13','width=700,height=700')">//-->
+				//  <img src="Cathedrale/Calinet_6.jpg" width="170" height="234" border="0"></a>
 				 <BR>
 				 Adrien Picard LEPINE
 			  </CENTER>
@@ -1165,30 +1165,30 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				   <FONT SIZE=4>
 				      <BR>
 					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'an 1774, le 31 octobre, en vertu de l'ordonnance de Messire LOUIS, 
-					  François DUVAUCEL, chevalier conseiller du Roy, Grand Maître général des eaux et forests du 
-					  département de Paris et Isle de France, en date du 18 août dernier, par laquelle il est dit :
+					  Franï¿½ois DUVAUCEL, chevalier conseiller du Roy, Grand Maï¿½tre gï¿½nï¿½ral des eaux et forests du 
+					  dï¿½partement de Paris et Isle de France, en date du 18 aoï¿½t dernier, par laquelle il est dit :
 					  <BR>
 					  <BR>
-					  <I>"que par François BURON, architecte à Paris, il sera, parties
+					  <I>"que par Franï¿½ois BURON, architecte ï¿½ Paris, il sera, parties
 					  <BR>
-					  "présentes, ou elles bien et duement appelées, procédé à la recon-
+					  "prï¿½sentes, ou elles bien et duement appelï¿½es, procï¿½dï¿½ ï¿½ la recon-
 					  <BR>
-					  "naissance et réception des ouvrages faits à la charge du Chapitre
+					  "naissance et rï¿½ception des ouvrages faits ï¿½ la charge du Chapitre
 					  <BR>
-					  "d'Auxerre, pour son procès-verbal déposé au greffe de la Maîtrise
+					  "d'Auxerre, pour son procï¿½s-verbal dï¿½posï¿½ au greffe de la Maï¿½trise
 					  <BR>
-					  "des eaux et forests d'Auxerre, être, sur l'expédition, qui en se-
+					  "des eaux et forests d'Auxerre, ï¿½tre, sur l'expï¿½dition, qui en se-
 					  <BR>
-					  "ra rapportée, et vu ensemble des conclusions du procureur du Roy
+					  "ra rapportï¿½e, et vu ensemble des conclusions du procureur du Roy
 					  <BR>
-					  "de ladite ordonnance étant en bas de la requête à lui adressée
+					  "de ladite ordonnance ï¿½tant en bas de la requï¿½te ï¿½ lui adressï¿½e
 					  <BR>
-					  "par le sieur DHUMIER, ci-après nommé.
+					  "par le sieur DHUMIER, ci-aprï¿½s nommï¿½.
 					  <BR>
 					  <BR>
-					  "Nous, architecte susdit et soussigné, nous sommes transpor-
+					  "Nous, architecte susdit et soussignï¿½, nous sommes transpor-
 					  <BR>
-					  "tés à l'église cathédrale d'Auxerre, où étant, sont comparus M.
+					  "tï¿½s ï¿½ l'ï¿½glise cathï¿½drale d'Auxerre, oï¿½ ï¿½tant, sont comparus M.
 					  <BR>
 					  "le grand archidiacre, et plusieurs autres chanoines dudit Chapi-
 					  <BR>
@@ -1200,36 +1200,36 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 					  <BR>
 					  "te, le 12 mai 1765, ensemble le cahier des charges de ladite ad-
 					  <BR>
-					  "judication, desquels il résulte que le sieur Pierre DHUMIER, en-
+					  "judication, desquels il rï¿½sulte que le sieur Pierre DHUMIER, en-
 					  <BR>
-					  "trepreneur des bâtiments du Roy, à Paris, s'est rendu adjudica-
+					  "trepreneur des bï¿½timents du Roy, ï¿½ Paris, s'est rendu adjudica-
 					  <BR>
-					  "taire desdits ouvrages par devant Messieurs de la Maîtrise parti-
+					  "taire desdits ouvrages par devant Messieurs de la Maï¿½trise parti-
 					  <BR>
-					  "culière d'Auxerre, le 23 juin 1767, moyennant 66,100 livres. ...
+					  "culiï¿½re d'Auxerre, le 23 juin 1767, moyennant 66,100 livres. ...
 					  <BR>
 					  <BR>
-					  "A été fait le transport du buffet d'orgue, et les rétablis-
+					  "A ï¿½tï¿½ fait le transport du buffet d'orgue, et les rï¿½tablis-
 					  <BR>
-					  "sements nécessaires pour le mettre en état. ...
+					  "sements nï¿½cessaires pour le mettre en ï¿½tat. ...
 					  <BR>
 					  <BR>
 					  "Lesquels susdits ouvrages nous ayant paru bien et solidement
 					  <BR>
-					  "faits, nous en faisons pleine et entière réception, et estimons
+					  "faits, nous en faisons pleine et entiï¿½re rï¿½ception, et estimons
 					  <BR>
-					  "que le susdit adjudicataire doit être payé du prix de son adjudi-
+					  "que le susdit adjudicataire doit ï¿½tre payï¿½ du prix de son adjudi-
 					  <BR>cation et des augmentations.
 					  <BR>
 					  <BR>
-					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Fait et arrêté à Auxerre par nous, architecte juré, expert
+					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Fait et arrï¿½tï¿½ ï¿½ Auxerre par nous, architecte jurï¿½, expert
 					  <BR>
-					  "des bâtiments à Paris, pour servir et valoir ce que de raison"</I>.
+					  "des bï¿½timents ï¿½ Paris, pour servir et valoir ce que de raison"</I>.
 					  <BR>
 					  <BR>
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	   
-                      Signé
+                      Signï¿½
 					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					  <I>Buron</I>.
 					  <BR>
@@ -1257,7 +1257,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		  </TD>
 		  <TD WIDTH="33%">
 		     <P ALIGN="right">
-			    <a href="Origines_III.htm"><FONT COLOR = #99FFFF>Chapitre troisième</FONT></A>
+			    <a href="Origines_III.htm"><FONT COLOR = #99FFFF>Chapitre troisiï¿½me</FONT></A>
 			 </P>
 		  </TD>
       </TR>

@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>De la Révolution Française à 1899 I</title>
+<title>De la Rï¿½volution Franï¿½aise ï¿½ 1899 I</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
    <!--
@@ -10,7 +10,7 @@
 		 }
    -->
 </style>
-<SCRIPT language = JavaScript>
+/* <SCRIPT language = JavaScript>
 <!--
 function dblclick()
    {
@@ -26,7 +26,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</SCRIPT>
+</SCRIPT> */
 </head>
 
 <body bgcolor="#00AA00" text="#FFFFFF">
@@ -39,7 +39,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <CENTER>
 			<font border = "1">
 			   <H1><I>LES ORGUES</I></H1>
-			   <H1><I>de la Cathédrale</I></H1>
+			   <H1><I>de la Cathï¿½drale</I></H1>
 			   <H1><I>d'Auxerre</I></H1>
 			   </FONT>
 			</CENTER>
@@ -52,7 +52,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD WIDTH="100%">
 		    <CENTER>
                <BR>			
-			   <H2>Deuxième partie</H2>
+			   <H2>Deuxiï¿½me partie</H2>
 			   <FONT border = "1">
 			   <img src="Vignettes3/Gothique_2.jpg" width="789" height="128">
 			   <H2>Chapitre premier</H2>
@@ -73,7 +73,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   ...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans la nef et les bas-côtés du choeur
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans la nef et les bas-cï¿½tï¿½s du choeur
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -105,8 +105,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Déclaration que le chapitre de ladite Eglise d'Auxerre fait du mobilier de 
-			   lad.Eglise pardevant MM les Officiers municipaux de la même ville, en exécution des lettres patentes du 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dï¿½claration que le chapitre de ladite Eglise d'Auxerre fait du mobilier de 
+			   lad.Eglise pardevant MM les Officiers municipaux de la mï¿½me ville, en exï¿½cution des lettres patentes du 
 			   Roi en date du 18 9bre 1789 et transcrites le 27 dud.mois au parlement.
 			   </P>
 			   <BR>
@@ -137,38 +137,38 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La révolution trouva l'orgue en parfait état, et s'en accommoda fort bien. 
-			   Les organisateurs des fêtes républicaines qui voulaient rendre ces fêtes aussi pompeuses que possible 
-			   ne manquaient pas de s'en servir. C'est sûrement à "<I>ce service</I>" ou à "<I>ses services</I>" qu'il 
-			   fut de demeurer intact et de reprendre, en 1795, sa destination première.  Cependant lorsque des jours 
-			   moins agités laissaient aux fidèles l'usage de l'antique édifice que leurs pères avaient élevé à la 
-			   gloire de Dieu , l'orgue redisait les chants sacrés d'autrefois, qui s'éteignaient de nouveau, quand 
-			   les Jacobins, reprenant le pouvoir, venaient à leur en interdire l'accès.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La rï¿½volution trouva l'orgue en parfait ï¿½tat, et s'en accommoda fort bien. 
+			   Les organisateurs des fï¿½tes rï¿½publicaines qui voulaient rendre ces fï¿½tes aussi pompeuses que possible 
+			   ne manquaient pas de s'en servir. C'est sï¿½rement ï¿½ "<I>ce service</I>" ou ï¿½ "<I>ses services</I>" qu'il 
+			   fut de demeurer intact et de reprendre, en 1795, sa destination premiï¿½re.  Cependant lorsque des jours 
+			   moins agitï¿½s laissaient aux fidï¿½les l'usage de l'antique ï¿½difice que leurs pï¿½res avaient ï¿½levï¿½ ï¿½ la 
+			   gloire de Dieu , l'orgue redisait les chants sacrï¿½s d'autrefois, qui s'ï¿½teignaient de nouveau, quand 
+			   les Jacobins, reprenant le pouvoir, venaient ï¿½ leur en interdire l'accï¿½s.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'église fut fermée du 1er décembre 1790 au 15 janvier 1791 pour empêcher 
-			   la continuation de l'office canonial. Le culte fut exercé jusqu'en novembre 1793. A partir du 1er janvier 
-			   1794, elle fut affectée à la célébration des fêtes nationales et décadaires. Cette situation dura 
-			   jusqu'au 29 mars 1795, époque à laquelle elle fut violemment reprise par les catholiques qui en restèrent 
-			   maîtres jusqu'au 5 novembre 1798. Les Jacobins se servirent de l'église espérant donner ainsi plus de 
-			   pompe aux fêtes décadaires, et y ramener le peuple qui les abandonnait ; ils la possédèrent jusqu'au 
-			   17 nivôse an VIII (7 janvier 1800), date d'un arrêté de l'Administration municipale, qui mit en jouissance 
-			   partielle de l'église les fidèles de la paroisse.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'ï¿½glise fut fermï¿½e du 1er dï¿½cembre 1790 au 15 janvier 1791 pour empï¿½cher 
+			   la continuation de l'office canonial. Le culte fut exercï¿½ jusqu'en novembre 1793. A partir du 1er janvier 
+			   1794, elle fut affectï¿½e ï¿½ la cï¿½lï¿½bration des fï¿½tes nationales et dï¿½cadaires. Cette situation dura 
+			   jusqu'au 29 mars 1795, ï¿½poque ï¿½ laquelle elle fut violemment reprise par les catholiques qui en restï¿½rent 
+			   maï¿½tres jusqu'au 5 novembre 1798. Les Jacobins se servirent de l'ï¿½glise espï¿½rant donner ainsi plus de 
+			   pompe aux fï¿½tes dï¿½cadaires, et y ramener le peuple qui les abandonnait ; ils la possï¿½dï¿½rent jusqu'au 
+			   17 nivï¿½se an VIII (7 janvier 1800), date d'un arrï¿½tï¿½ de l'Administration municipale, qui mit en jouissance 
+			   partielle de l'ï¿½glise les fidï¿½les de la paroisse.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quel chagrin ce dut être pour le vénéralbe organiste du Chapitre <B>Joseph 
-			   PALAIS</B>, d'être témoin d'une telle profanation. En 1790 il était âgé de 84 ans, et tenait l'orgue depuis 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quel chagrin ce dut ï¿½tre pour le vï¿½nï¿½ralbe organiste du Chapitre <B>Joseph 
+			   PALAIS</B>, d'ï¿½tre tï¿½moin d'une telle profanation. En 1790 il ï¿½tait ï¿½gï¿½ de 84 ans, et tenait l'orgue depuis 
 			   1734 ; ce qui lui faisait 56 ans de service. Il allait prendre sa retraite avec une petite pension que, 
-			   selon l'usage, le Chapitre lui aurait servi. Ce fut l'Etat qui la lui paya. Le Directoire du département 
-			   appelé par la loi à en fixer le montant, se montra généreux, lui sachant gré, porte l'arrêté, <I>"de ce 
-			   qu'il avait eu l'honneur d'enseigner les premiers rudiments de la musique à Jean-Jacques ROUSSEAU"</I>.
-			   <BR>Il l'éleva à 800 livres. C'était beaucoup plus qu'il ne recevait quand il exerçait ses fonctions ; le 
-			   traitement de l'organiste était de 7 livres par semaine, avec droit aux distributions manuelles. La place de 
-			   l'organiste était à la nomination du Chapitre et n'était donnée qu'après concours. Cet usage a été continué 
-			   après la Révolution.
+			   selon l'usage, le Chapitre lui aurait servi. Ce fut l'Etat qui la lui paya. Le Directoire du dï¿½partement 
+			   appelï¿½ par la loi ï¿½ en fixer le montant, se montra gï¿½nï¿½reux, lui sachant grï¿½, porte l'arrï¿½tï¿½, <I>"de ce 
+			   qu'il avait eu l'honneur d'enseigner les premiers rudiments de la musique ï¿½ Jean-Jacques ROUSSEAU"</I>.
+			   <BR>Il l'ï¿½leva ï¿½ 800 livres. C'ï¿½tait beaucoup plus qu'il ne recevait quand il exerï¿½ait ses fonctions ; le 
+			   traitement de l'organiste ï¿½tait de 7 livres par semaine, avec droit aux distributions manuelles. La place de 
+			   l'organiste ï¿½tait ï¿½ la nomination du Chapitre et n'ï¿½tait donnï¿½e qu'aprï¿½s concours. Cet usage a ï¿½tï¿½ continuï¿½ 
+			   aprï¿½s la Rï¿½volution.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après la réorganisation du culte, le premier titulaire fut un nommé <I>
-			   SERGENT</I>, qui quitta la ville en 1813 après 10 ans de fonctions. Pour le remplacer on ouvrit un 
-			   concours, le 2 septembre de cette même année, dont les juges furent choisis parmi les musiciens amateurs 
-			   de la ville. Les membres du Conseil de Fabrique occupaient le banc d'oeuvre. Trois candidats de présentèrent :
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s la rï¿½organisation du culte, le premier titulaire fut un nommï¿½ <I>
+			   SERGENT</I>, qui quitta la ville en 1813 aprï¿½s 10 ans de fonctions. Pour le remplacer on ouvrit un 
+			   concours, le 2 septembre de cette mï¿½me annï¿½e, dont les juges furent choisis parmi les musiciens amateurs 
+			   de la ville. Les membres du Conseil de Fabrique occupaient le banc d'oeuvre. Trois candidats de prï¿½sentï¿½rent :
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -176,36 +176,36 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   -<B> François PREVITY</B> et
+			   -<B> Franï¿½ois PREVITY</B> et
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   -<B> Joseph SUSTIGUE</B>, ces deux derniers, espagnols.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le premier ayant été reconnu supérieur aux deux autres fut reçu aux 
-			   appointements de 120 francs par an, ou 240 en se chargeant des réparations d'entretien de l'orgue. Kolbacher 
-			   quitta la ville le 20 avril 1816 et fut remplacé par Mme <B>BARROIS</B> à laquelle succéda en 1872 Mr 
-			   <B>LYON</B>, professeur de musique distingué, (qui exerçait encore en 1898) et qui s'ingénia à tirer le 
-			   meilleur parti possible de l'instrument très défectueux qui lui est confié.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le premier ayant ï¿½tï¿½ reconnu supï¿½rieur aux deux autres fut reï¿½u aux 
+			   appointements de 120 francs par an, ou 240 en se chargeant des rï¿½parations d'entretien de l'orgue. Kolbacher 
+			   quitta la ville le 20 avril 1816 et fut remplacï¿½ par Mme <B>BARROIS</B> ï¿½ laquelle succï¿½da en 1872 Mr 
+			   <B>LYON</B>, professeur de musique distinguï¿½, (qui exerï¿½ait encore en 1898) et qui s'ingï¿½nia ï¿½ tirer le 
+			   meilleur parti possible de l'instrument trï¿½s dï¿½fectueux qui lui est confiï¿½.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1898, l'étude (ci-dessus) faite par la Société des Sciences de l'Yonne 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1898, l'ï¿½tude (ci-dessus) faite par la Sociï¿½tï¿½ des Sciences de l'Yonne 
 			   poursuit ainsi sur l'orgue, sa pyramide et leur emplacement :
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>"Grâce à Dieu ce monstrueux appendice attaché aux flancs
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>"Grï¿½ce ï¿½ Dieu ce monstrueux appendice attachï¿½ aux flancs
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"du transept est appelé à disparaître dans un avenir très rap-
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"du transept est appelï¿½ ï¿½ disparaï¿½tre dans un avenir trï¿½s rap-
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"proché. Mr l'abbé PIN&#199;ON curé de l'église cathédrale, que la So-
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"prochï¿½. Mr l'abbï¿½ PIN&#199;ON curï¿½ de l'ï¿½glise cathï¿½drale, que la So-
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"ciété est heureuse de compter parmi ses nouveaux membres, a entre-
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"ciï¿½tï¿½ est heureuse de compter parmi ses nouveaux membres, a entre-
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"pris, en faisant appel à la générosité de ses paroissiens, et de
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"pris, en faisant appel ï¿½ la gï¿½nï¿½rositï¿½ de ses paroissiens, et de
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"ceux qui aiment à favoriser l'epansion de l'art, d'établir de
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"ceux qui aiment ï¿½ favoriser l'epansion de l'art, d'ï¿½tablir de
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"nouvelles orgues au-dessus de la porte principale. Puisse un
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"prompt succès couronner ses efforts"</I>.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"prompt succï¿½s couronner ses efforts"</I>.
 			   <BR>
 			   <BR>
 			   <BR>
@@ -216,12 +216,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Maître <B>Paul BERTHIER</B> s'attache à retracer l'histoire de l'orgue et 
-			   Mr l'abbé LALLEMAND Maître de chapelle de la cathédrale de Sens s'est servi des notes manuscrites confiées 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Maï¿½tre <B>Paul BERTHIER</B> s'attache ï¿½ retracer l'histoire de l'orgue et 
+			   Mr l'abbï¿½ LALLEMAND Maï¿½tre de chapelle de la cathï¿½drale de Sens s'est servi des notes manuscrites confiï¿½es 
 			   par le fils de Paul BERTHIER, Mr <B>Jacques BERTHIER</B>.
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I><B>...</B> Le buffet admirable qui était là, se trouve à l'é-
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I><B>...</B> Le buffet admirable qui ï¿½tait lï¿½, se trouve ï¿½ l'ï¿½-
 			   <BR>
 			   glise de Toucy </I>(Yonne). <I>Il est du plus pur style Louis XIV. Ce
 			   <BR>
@@ -229,37 +229,37 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   leurs pas de vanteaux. Ce n'est pas non plus ce qu'on aurait
 			   <BR>
-			   construit en 1767. Il y eu donc à mon avis, une réfection entre
+			   construit en 1767. Il y eu donc ï¿½ mon avis, une rï¿½fection entre
 			   <BR>
 			   temps dont on ne trouve plus trace.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par la suite, l'orgue fut encore augmenté : on voyait
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Par la suite, l'orgue fut encore augmentï¿½ : on voyait
 			   <BR>
-			   de gros tuyaux en dehors du buffet. Dans la chapelle où le nouvel
+			   de gros tuyaux en dehors du buffet. Dans la chapelle oï¿½ le nouvel
 			   <BR>
-			   orgue est maintenant établi, on avait fait un étage, à la hauteur
+			   orgue est maintenant ï¿½tabli, on avait fait un ï¿½tage, ï¿½ la hauteur
 			   <BR>
 			   de la tribune, sur lequel se trouvaient les soufflets et, je crois bien,
 			   <BR>
 			   encore quelques jeux...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1900, l'orgue était dans un état lamentable et Mr
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1900, l'orgue ï¿½tait dans un ï¿½tat lamentable et Mr
 			   <BR>
-			   l'archiprêtre Pinçon décida de le refaire. Des divers projets qui
+			   l'archiprï¿½tre Pinï¿½on dï¿½cida de le refaire. Des divers projets qui
 			   <BR>
-			   lui furent soumis, le comité présidé par mon oncle <B>Georges
+			   lui furent soumis, le comitï¿½ prï¿½sidï¿½ par mon oncle <B>Georges
 			   <BR>
-			   BERTHIER</B> retint celui du belge <B>ANNEESSENS</B>, offrant un orgue très
+			   BERTHIER</B> retint celui du belge <B>ANNEESSENS</B>, offrant un orgue trï¿½s
 			   <BR>
-			   complet et à un prix fort modéré. Anneessens ne gardait rien de
+			   complet et ï¿½ un prix fort modï¿½rï¿½. Anneessens ne gardait rien de
 			   <BR>
-			   l'ancien orgue, faisant place nette, et utilisant le système tu-
+			   l'ancien orgue, faisant place nette, et utilisant le systï¿½me tu-
 			   <BR>
-			   bulaire pneumatique, encore peu répandu. Les travaux furent menés
+			   bulaire pneumatique, encore peu rï¿½pandu. Les travaux furent menï¿½s
 			   <BR>
-			   rapidement par <B>Oscar REGAERT</B>, qui plus tard s'installa à Auxerre,
+			   rapidement par <B>Oscar REGAERT</B>, qui plus tard s'installa ï¿½ Auxerre,
 			   <BR>
-			   rue Bérault, et construisit ou répara les deux orgues de St Eusè-
+			   rue Bï¿½rault, et construisit ou rï¿½para les deux orgues de St Eusï¿½-
 			   <BR>
 			   be, celui de St Martin d'Avallon, de Vezelay et beaucoup d'au-
 			   <BR>
@@ -267,43 +267,43 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Durant ce temps, le vieil orgue caduc, gisait dans le
 			   <BR>
-			   bas-côté derrière la chaire, en attendant d'aller se
+			   bas-cï¿½tï¿½ derriï¿½re la chaire, en attendant d'aller se
 			   <BR>
 			   dresser, magnifique, dans la haute nef de Toucy... Il est cepen-			   
 			   <BR>
-			   dant dommage qu'on n'ait pas gardé cette splendide boiserie en
+			   dant dommage qu'on n'ait pas gardï¿½ cette splendide boiserie en
 			   <BR>
-			   la plaçant autrement et en supprimant ce support de plâtre, ce
+			   la plaï¿½ant autrement et en supprimant ce support de plï¿½tre, ce
 			   <BR>
 			   support insupportable ! Ainsi, nous aurions
 			   <BR>
 			   <B><U>"un orgue historique"</U></B>
 			   <BR>
-			   auquel nous pourrions intéresser les Beaux-Arts.
+			   auquel nous pourrions intï¿½resser les Beaux-Arts.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il garde à Toucy sa balustrade qui paraît plus ancienne
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il garde ï¿½ Toucy sa balustrade qui paraï¿½t plus ancienne
 			   <BR>
 			   que le buffet avec son positif ; elle pourrait dater encore de
 			   <BR>
-			   Jacques AMYOT ; peut-être... mais les armoiries martelées ne peu-
+			   Jacques AMYOT ; peut-ï¿½tre... mais les armoiries martelï¿½es ne peu-
 			   <BR>
 			   vent nous renseigner"</I>.
 			   <BR>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ici s'arrêtent les très précieuses "<B>notes</B>" de Paul BERTHIER qui, 
-			   par ailleurs, retrace la carrière des organistes d'Auxerre.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ici s'arrï¿½tent les trï¿½s prï¿½cieuses "<B>notes</B>" de Paul BERTHIER qui, 
+			   par ailleurs, retrace la carriï¿½re des organistes d'Auxerre.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que nous apprennent ces notes ?
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reconnaissons d'abord que le buffet est de deux époques différentes : le 
-			   Positif et la balustrade sont sûrement les vestiges de l'orgue de Jacques AMYOT placé en 1591 au 
-			   <I>"coin du choeur"</I> à la cathédrale d'Auxerre. Le grand buffet est postérieur : pleinement Louis 
-			   XIV -fin XVIIème début XVIIIème siècle.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reconnaissons d'abord que le buffet est de deux ï¿½poques diffï¿½rentes : le 
+			   Positif et la balustrade sont sï¿½rement les vestiges de l'orgue de Jacques AMYOT placï¿½ en 1591 au 
+			   <I>"coin du choeur"</I> ï¿½ la cathï¿½drale d'Auxerre. Le grand buffet est postï¿½rieur : pleinement Louis 
+			   XIV -fin XVIIï¿½me dï¿½but XVIIIï¿½me siï¿½cle.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le buffet Louis XIV a été profondément modifié : en regardant la photo : 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le buffet Louis XIV a ï¿½tï¿½ profondï¿½ment modifiï¿½ : en regardant la photo : 
 			   <BR>
-			   l'esthétique du grand buffet semble avoir souffert d'un certain abaissement... on voit un vide le long de la 
-			   grande tourelle et en regardant de plus près, la partie femelle d'une mortaise béante, située 30 cm au-dessus 
+			   l'esthï¿½tique du grand buffet semble avoir souffert d'un certain abaissement... on voit un vide le long de la 
+			   grande tourelle et en regardant de plus prï¿½s, la partie femelle d'une mortaise bï¿½ante, situï¿½e 30 cm au-dessus 
 			   de la mortaise actuelle.
 			   </P>
 			   <BR>
@@ -311,8 +311,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <TR>
 			      <TD WIDTH="50%">
 				     <CENTER>
-					    <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Pyramide_renversee_1.jpg','GrandeImage30','width=700,height=700')">
-						<img src="Vignettes3/Pyramide_renversee.jpg" width="343" height="500" border="0"></a>
+					    /* <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Pyramide_renversee_1.jpg','GrandeImage30','width=700,height=700')">
+						<img src="Vignettes3/Pyramide_renversee.jpg" width="343" height="500" border="0"></a> */
 						<BR>
 			               Auxerre 1900
 			            <BR>
@@ -320,8 +320,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  </TD>
 				  <TD WIDTH="50%">
 				     <CENTER>
-					    <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Toucy_1.jpg','GrandeImage31','width=700,height=700')">
-						<img src="Vignettes3/Toucy.jpg" width="319" height="500" border="0"></a>
+					    /* <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Toucy_1.jpg','GrandeImage31','width=700,height=700')">
+						<img src="Vignettes3/Toucy.jpg" width="319" height="500" border="0"></a> */
 						<BR>
 						   Toucy 2000
 						<BR>   
@@ -331,14 +331,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   </TABLE>
 			   <p align="justify">
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette transformation est signée : ... en effet on peut relever sur l'écusson 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cette transformation est signï¿½e : ... en effet on peut relever sur l'ï¿½cusson 
 			   du plus gros tuyau de la tourelle centrale l'inscription suivante :
 			   </P>
 			   <BR>
 			   <CENTER>
 			      <I>"Cette montre a
 			      <BR>
-			      été faite par
+			      ï¿½tï¿½ faite par
 			      <BR>
 			      LEPINE Mtre facteur
 			      <BR>
@@ -346,25 +346,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			      <BR>
 			      Paris
 			      <BR>
-			      en l'année 1768
+			      en l'annï¿½e 1768
 			      <BR>
 			      et du temps du Sr Palay
 			      <BR>
-			      organiste en cette église"</I>.
+			      organiste en cette ï¿½glise"</I>.
 			   </CENTER>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1768 -à une année près- c'est la date du déplacement de l'orgue.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1768 -ï¿½ une annï¿½e prï¿½s- c'est la date du dï¿½placement de l'orgue.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'après le facteur <B>Ph. HARTMANN</B> qui entretient l'orgue, au vu de cette 
-			   ancienne mortaise et des habitudes de l'époque, il est fort possible que cette façade ait possédé deux 
-			   petites montres superposées. Ces deux petites montres, si elles ont existé, dateraient du buffet postérieur 
-			   à l'orgue de Jacques AMYOT, lors d'une transformation dont la date est inconnue.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D'aprï¿½s le facteur <B>Ph. HARTMANN</B> qui entretient l'orgue, au vu de cette 
+			   ancienne mortaise et des habitudes de l'ï¿½poque, il est fort possible que cette faï¿½ade ait possï¿½dï¿½ deux 
+			   petites montres superposï¿½es. Ces deux petites montres, si elles ont existï¿½, dateraient du buffet postï¿½rieur 
+			   ï¿½ l'orgue de Jacques AMYOT, lors d'une transformation dont la date est inconnue.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1768, l'orgue d'Auxerre (actuellement à Toucy) a donc l'aspect extérieur 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En 1768, l'orgue d'Auxerre (actuellement ï¿½ Toucy) a donc l'aspect extï¿½rieur 
 			   actuel, du moins pour l'ensemble...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une inscription a été relevée sur le premier tuyau de droite de la grande 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une inscription a ï¿½tï¿½ relevï¿½e sur le premier tuyau de droite de la grande 
 			   tourelle :
 			   </P>
 			   <BR>
@@ -377,16 +377,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			      <BR>
 			      de la Bretonnerie
 			      <BR>
-			      N° 45 à Paris
+			      Nï¿½ 45 ï¿½ Paris
 			      <BR>
-			      A Réparé Cette Orgue
+			      A Rï¿½parï¿½ Cette Orgue
 			      <BR>
 			      En 1829"</I>.
 			   </CENTER>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;(NdA) Il n'est pas fait mention d'une inscription injurieuse placée au-dessus de la 
-			   précédente :
+			   &nbsp;&nbsp;&nbsp;&nbsp;(NdA) Il n'est pas fait mention d'une inscription injurieuse placï¿½e au-dessus de la 
+			   prï¿½cï¿½dente :
 			   </P>
 			   <BR>
 			   <CENTER>
@@ -398,114 +398,114 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   </CENTER>
 			   <BR>
 			   <p align="justify">
-			   et qui apparaît sur la photographie.
+			   et qui apparaï¿½t sur la photographie.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Reste cette foule de gros tuyaux que nous apercevons sur la photo auxerroise : ces 
-			   tuyaux subsistent toujours à Toucy mais sont disposés autrement. Ils sont tous en sapin, ce qui laisse à penser 
-			   à une origine franchement postérieure, placés là lors d'une réparation effectuée en 1840 par <B>LETE</B> 
-			   comme en fait foi une autre inscription tracée à la pointe sèche sur le tuyau de gauche de la grande 
+			   tuyaux subsistent toujours ï¿½ Toucy mais sont disposï¿½s autrement. Ils sont tous en sapin, ce qui laisse ï¿½ penser 
+			   ï¿½ une origine franchement postï¿½rieure, placï¿½s lï¿½ lors d'une rï¿½paration effectuï¿½e en 1840 par <B>LETE</B> 
+			   comme en fait foi une autre inscription tracï¿½e ï¿½ la pointe sï¿½che sur le tuyau de gauche de la grande 
 			   tourelle :
 			   </P>
 			   <BR>   
-			   &nbsp;&nbsp;&nbsp;&nbsp;<I>"Ceste orgue a tet réparée en 1840 par LNA LETE facteur
+			   &nbsp;&nbsp;&nbsp;&nbsp;<I>"Ceste orgue a tet rï¿½parï¿½e en 1840 par LNA LETE facteur
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;d'orgues à Mirecourt (vosges) et son compagnon Antoine
+			   &nbsp;&nbsp;&nbsp;&nbsp;d'orgues ï¿½ Mirecourt (vosges) et son compagnon Antoine
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;FILIPOWICZ officier polonais réfugié en France en
+			   &nbsp;&nbsp;&nbsp;&nbsp;FILIPOWICZ officier polonais rï¿½fugiï¿½ en France en
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;1832"</I>.
 			   <BR>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;(En 1846, FORTIN l'archiprêtre signalera au préfet la dégradation des orgues ; il 
-			   est tombé traversant les voûtes, plus de 10 hectolitres d'eau sur le buffet, le plancher, les souffleries 
+			   &nbsp;&nbsp;&nbsp;&nbsp;(En 1846, FORTIN l'archiprï¿½tre signalera au prï¿½fet la dï¿½gradation des orgues ; il 
+			   est tombï¿½ traversant les voï¿½tes, plus de 10 hectolitres d'eau sur le buffet, le plancher, les souffleries 
 			   de l'instrument)
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;A moins que la paternité ne puisse en être revendiquée par le facteur <B>DUCROQUET</B> 
-			   comme on peut le lire sur le tuyau à l'extrême gauche toujours de la grande tourelle :
+			   &nbsp;&nbsp;&nbsp;&nbsp;A moins que la paternitï¿½ ne puisse en ï¿½tre revendiquï¿½e par le facteur <B>DUCROQUET</B> 
+			   comme on peut le lire sur le tuyau ï¿½ l'extrï¿½me gauche toujours de la grande tourelle :
 			   </P>
 			   <BR>
 			   <CENTER>
 			      <I>"L'Entretien de
 			      <BR>
-			      cet a été à Mr
+			      cet a ï¿½tï¿½ ï¿½ Mr
 			      <BR>
 			      Ducroquet en
 			      <BR>
-			      l'année 1852
+			      l'annï¿½e 1852
 			      <BR>
-			      Eug. Corté</I> (ou Corti NdA)
+			      Eug. Cortï¿½</I> (ou Corti NdA)
 			      <BR>
 			      <I>facteur d'orgues"</I>.
 			   </CENTER>
 			   <BR>
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;Cette hypothèse est plausible, car le pédalier actuel et certaines porcelaines situées 
-			   au-dessus de celui-ci semblent être plutôt attribuables à ce dernier facteur.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Cette hypothï¿½se est plausible, car le pï¿½dalier actuel et certaines porcelaines situï¿½es 
+			   au-dessus de celui-ci semblent ï¿½tre plutï¿½t attribuables ï¿½ ce dernier facteur.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Le sommier en tout cas a disparu.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Reste également pendante la question des trois jeux ajoutés, (peut-être) par LEPINE...
+			   &nbsp;&nbsp;&nbsp;&nbsp;Reste ï¿½galement pendante la question des trois jeux ajoutï¿½s, (peut-ï¿½tre) par LEPINE...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;S'agit-il d'un troisième clavier (de récit) placé au revers de la façade principale 
-			   comme on le faisait alors ? La difficulté actuelle d'accès dans le grand buffet (il faut descendre les cinq 
+			   &nbsp;&nbsp;&nbsp;&nbsp;S'agit-il d'un troisiï¿½me clavier (de rï¿½cit) placï¿½ au revers de la faï¿½ade principale 
+			   comme on le faisait alors ? La difficultï¿½ actuelle d'accï¿½s dans le grand buffet (il faut descendre les cinq 
 			   plus gros tuyaux) ne permet pas de confirmer ou d'infirmer...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Tout ceci est certes des plus intéressant, mais ne fournit pas la composition en jeux. 
-			   Tout ce qu'on peut affirmer c'est que l'orgue possédait une montre de 8' et un 16' de pédale, ce dernier acquis 
+			   &nbsp;&nbsp;&nbsp;&nbsp;Tout ceci est certes des plus intï¿½ressant, mais ne fournit pas la composition en jeux. 
+			   Tout ce qu'on peut affirmer c'est que l'orgue possï¿½dait une montre de 8' et un 16' de pï¿½dale, ce dernier acquis 
 			   tardivement. La suite des investigations apprend que le sommier de grand orgue comportait 11 jeux...
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;L'orgue est composé d'une tribune avec sa balustrade, d'un buffet de positif situé 
+			   &nbsp;&nbsp;&nbsp;&nbsp;L'orgue est composï¿½ d'une tribune avec sa balustrade, d'un buffet de positif situï¿½ 
 			   sur le plancher de cette tribune et d'un grand corps.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;<U>La balustrade</U> : on a du refaire plusieurs panneaux, copie de même style pour 
-			   appareiller. En regardant le buffet de face, le panneau armorié de gauche semble être celui de Jacques 
-			   AMYOT, celui de droite porte les armoiries de Mgr ARDIN qui fut archevêque de Sens-Auxerre de 1891 à 1911. 
-			   Cette balustrade se présente donc dans le style fin XVIème. La décoration en est assez sobre au contraire 
+			   &nbsp;&nbsp;&nbsp;&nbsp;<U>La balustrade</U> : on a du refaire plusieurs panneaux, copie de mï¿½me style pour 
+			   appareiller. En regardant le buffet de face, le panneau armoriï¿½ de gauche semble ï¿½tre celui de Jacques 
+			   AMYOT, celui de droite porte les armoiries de Mgr ARDIN qui fut archevï¿½que de Sens-Auxerre de 1891 ï¿½ 1911. 
+			   Cette balustrade se prï¿½sente donc dans le style fin XVIï¿½me. La dï¿½coration en est assez sobre au contraire 
 			   de celle du buffet de positif.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le buffet de positif</U> : il se présente sous l'aspect de trois tourelles, la 
-			   plus haute au centre, les deux autres aux extrémités, séparées entre elles par deux plates faces.
+			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le buffet de positif</U> : il se prï¿½sente sous l'aspect de trois tourelles, la 
+			   plus haute au centre, les deux autres aux extrï¿½mitï¿½s, sï¿½parï¿½es entre elles par deux plates faces.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Chacune des tourelles comporte cinq tuyaux, chacune des plates faces, sept.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;L'ensemble du buffet s'étale sur 198 cm, la grande tourelle mesurant 2 m de hauteur, 
+			   &nbsp;&nbsp;&nbsp;&nbsp;L'ensemble du buffet s'ï¿½tale sur 198 cm, la grande tourelle mesurant 2 m de hauteur, 
 			   chacune des deux autres 1,40 m.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;La décoration en est des plus riches, cornes d'abondance et feuillages entrecroisés 
+			   &nbsp;&nbsp;&nbsp;&nbsp;La dï¿½coration en est des plus riches, cornes d'abondance et feuillages entrecroisï¿½s 
 			   formant des guirlandes et des rinceaux. Un entablement horizontal vient joindre le haut des petites 
-			   tourelles à la tourelle centrale, elle-même couronnée d'un ange joufflu aux ailes déployées.
+			   tourelles ï¿½ la tourelle centrale, elle-mï¿½me couronnï¿½e d'un ange joufflu aux ailes dï¿½ployï¿½es.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Chacune des trois tourelles se termine par un pot-à-feu malheureusement incomplet.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Chacune des trois tourelles se termine par un pot-ï¿½-feu malheureusement incomplet.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le buffet de grand orgue</U> : Bien que postérieur au buffet du positif, il en a 
-			   la même structure : une tourelle centrale plus élevée que les deux tourelles terminales, plus deux plates 
-			   faces. Si les tourelles comportent  également chacune cinq tuyaux, les plates faces sont à deux compartiments 
+			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le buffet de grand orgue</U> : Bien que postï¿½rieur au buffet du positif, il en a 
+			   la mï¿½me structure : une tourelle centrale plus ï¿½levï¿½e que les deux tourelles terminales, plus deux plates 
+			   faces. Si les tourelles comportent  ï¿½galement chacune cinq tuyaux, les plates faces sont ï¿½ deux compartiments 
 			   de six tuyaux chacune.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Le soubassement s'étale sur 2,60 m, non comprise la largeur des tourelles extrêmes 
-			   qui débordent.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Le soubassement s'ï¿½tale sur 2,60 m, non comprise la largeur des tourelles extrï¿½mes 
+			   qui dï¿½bordent.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Les pieds des tuyaux de cette façade, tous à la même hauteur, sont à 2,35 m du sol 
+			   &nbsp;&nbsp;&nbsp;&nbsp;Les pieds des tuyaux de cette faï¿½ade, tous ï¿½ la mï¿½me hauteur, sont ï¿½ 2,35 m du sol 
 			   de la tribune.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Cet instrument devait comporter plus de vingt jeux.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;<U>La console</U> était en fenêtre.
+			   &nbsp;&nbsp;&nbsp;&nbsp;<U>La console</U> ï¿½tait en fenï¿½tre.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le pédalier "à la française"</U> n'était déjà plus là, certainement : l'actuel 
-			   semble être d'origine 1840, probablement quand on ajouta un fonds de 16' à la pédale. Les plaquettes sont 
-			   également de cette époque.
+			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le pï¿½dalier "ï¿½ la franï¿½aise"</U> n'ï¿½tait dï¿½jï¿½ plus lï¿½, certainement : l'actuel 
+			   semble ï¿½tre d'origine 1840, probablement quand on ajouta un fonds de 16' ï¿½ la pï¿½dale. Les plaquettes sont 
+			   ï¿½galement de cette ï¿½poque.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;La pédale s'étend sur deux octaves, de Ut1 à Ut3, soit 25 marches.
+			   &nbsp;&nbsp;&nbsp;&nbsp;La pï¿½dale s'ï¿½tend sur deux octaves, de Ut1 ï¿½ Ut3, soit 25 marches.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Les sommiers : celui du grand orgue (divisé en deux demi-sommiers par <B>REGAERT</B> 
-			   en 1900, côté Ut et côté Ut#) mesure deux fois 90 cm de large.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Les sommiers : celui du grand orgue (divisï¿½ en deux demi-sommiers par <B>REGAERT</B> 
+			   en 1900, cï¿½tï¿½ Ut et cï¿½tï¿½ Ut#) mesure deux fois 90 cm de large.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Il n'a pas été possible de mesurer sa longueur.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Il n'a pas ï¿½tï¿½ possible de mesurer sa longueur.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Derrière le soubassement s'ouvre le sommier desservant le grand orgue : il a 
-			   conservé ses soupapes d'origine en chêne très étroites.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Derriï¿½re le soubassement s'ouvre le sommier desservant le grand orgue : il a 
+			   conservï¿½ ses soupapes d'origine en chï¿½ne trï¿½s ï¿½troites.
 			   </P>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -523,50 +523,50 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   Hauteur des barrages : 55 mm
 			   <p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;Les rouleaux des tirants des registres sont anciens jusqu'à ce qu'ils rejoignent 
-			   les bâtons ronds à la console.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Les rouleaux des tirants des registres sont anciens jusqu'ï¿½ ce qu'ils rejoignent 
+			   les bï¿½tons ronds ï¿½ la console.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;<U><B>La tuyauterie</B></U> : 
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Le diapason</U> : il est un demi-ton au-dessus du diapason actuel : de plus, les 
-			   tuyaux bouchés ont été décalés vers le haut d'un degré, Ut sur Ut# ; les autres tuyaux ont été pavillonnés 
-			   ou recoupés, ce qui finalement donne un ton plus haut que le diapason original.
+			   tuyaux bouchï¿½s ont ï¿½tï¿½ dï¿½calï¿½s vers le haut d'un degrï¿½, Ut sur Ut# ; les autres tuyaux ont ï¿½tï¿½ pavillonnï¿½s 
+			   ou recoupï¿½s, ce qui finalement donne un ton plus haut que le diapason original.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;<U>Les tuyaux du grand orgue</U> :
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;1. - Montre 8' en etain non martelé de <B>LEPINE</B> ; en façade jusqu'au F3. 
-			   Biseaux dentelés et retouchés, toutes les lèvres ont été abaissées par un apport grossier de soudure qui les 
-			   laisse irrégulières. Nombreuses numérotations sur les pieds. Rouleaux de bois en face des bouches pour les 
-			   15 tuyaux des tourelles. A partir du F3 sur sommier, tuyaux diapasonnés aux bouches en meilleur état mais 
-			   sommets effilochés.
+			   &nbsp;&nbsp;&nbsp;&nbsp;1. - Montre 8' en etain non martelï¿½ de <B>LEPINE</B> ; en faï¿½ade jusqu'au F3. 
+			   Biseaux dentelï¿½s et retouchï¿½s, toutes les lï¿½vres ont ï¿½tï¿½ abaissï¿½es par un apport grossier de soudure qui les 
+			   laisse irrï¿½guliï¿½res. Nombreuses numï¿½rotations sur les pieds. Rouleaux de bois en face des bouches pour les 
+			   15 tuyaux des tourelles. A partir du F3 sur sommier, tuyaux diapasonnï¿½s aux bouches en meilleur ï¿½tat mais 
+			   sommets effilochï¿½s.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;2. - Prestant 4' en étain non martelé, fin XVIIIème. Mêmes remarques que pour la
+			   &nbsp;&nbsp;&nbsp;&nbsp;2. - Prestant 4' en ï¿½tain non martelï¿½, fin XVIIIï¿½me. Mï¿½mes remarques que pour la
 			   montre 8'.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;3. - Bourdon 8', basses en chêne postées. Sur sommier à partir du C2, première 
-			   note marquée
+			   &nbsp;&nbsp;&nbsp;&nbsp;3. - Bourdon 8', basses en chï¿½ne postï¿½es. Sur sommier ï¿½ partir du C2, premiï¿½re 
+			   note marquï¿½e
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   <I>"Flûte allemande du grand orgue"</I>.
+			   <I>"Flï¿½te allemande du grand orgue"</I>.
 			   <BR>
-			   Métal non martelé paraissant d'origine fin XVIIIème.
+			   Mï¿½tal non martelï¿½ paraissant d'origine fin XVIIIï¿½me.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;4. - Flûte 4', étain martelé à calottes mobiles marquée au premier tuyau
+			   &nbsp;&nbsp;&nbsp;&nbsp;4. - Flï¿½te 4', ï¿½tain martelï¿½ ï¿½ calottes mobiles marquï¿½e au premier tuyau
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   <I>"Bourdon 8' du positif"</I>.
 			   <BR>
-			   (donc décalé d'une octave). La deuxième est en plomb à calottes fixes et à cheminées. Ensuite et jusqu'au 
-			   F5 : tuyaux côniques.
+			   (donc dï¿½calï¿½ d'une octave). La deuxiï¿½me est en plomb ï¿½ calottes fixes et ï¿½ cheminï¿½es. Ensuite et jusqu'au 
+			   F5 : tuyaux cï¿½niques.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Grande homogénéité  de timbre malgré les origines diverses ; peut être joué en solo 
-			   à l'octave grave, ce qui donne une très belle petite flûte 8'.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Grande homogï¿½nï¿½itï¿½  de timbre malgrï¿½ les origines diverses ; peut ï¿½tre jouï¿½ en solo 
+			   ï¿½ l'octave grave, ce qui donne une trï¿½s belle petite flï¿½te 8'.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;5. - Bourdon 16', deux octaves en bois de sapin d'origine milieu XIXème. A partir 
-			   du C2 sur sommier : plomb martelé. Un certain nombre de tuyaux portent une ou deux bagues d'allongement à 
-			   la soudure moderne... deux ou trois ont traces de redressement après déséquerrage. Calottes mobiles.
+			   &nbsp;&nbsp;&nbsp;&nbsp;5. - Bourdon 16', deux octaves en bois de sapin d'origine milieu XIXï¿½me. A partir 
+			   du C2 sur sommier : plomb martelï¿½. Un certain nombre de tuyaux portent une ou deux bagues d'allongement ï¿½ 
+			   la soudure moderne... deux ou trois ont traces de redressement aprï¿½s dï¿½sï¿½querrage. Calottes mobiles.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Le premier tuyau porte la marque
 			   <BR>
@@ -574,22 +574,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   <I>"Nazard. Grand orgue"</I>.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Sans ces bagues d'allongement ce tuyau mesure 36 cm, ce qui semble être la mesure 
+			   &nbsp;&nbsp;&nbsp;&nbsp;Sans ces bagues d'allongement ce tuyau mesure 36 cm, ce qui semble ï¿½tre la mesure 
 			   du 1er C/Sol du Nazard.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Les deux derniers tuyaux sont en spoteed.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Les biseaux sont légèrement dentelés et en bon état, comme les tuyaux eux-mêmes.
+			   &nbsp;&nbsp;&nbsp;&nbsp;Les biseaux sont lï¿½gï¿½rement dentelï¿½s et en bon ï¿½tat, comme les tuyaux eux-mï¿½mes.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;Avec les cinq jeux anciens qu'il conserve au grand orgue et qui sont d'une 
-			   parfaite homogénéité à l'audition, nous possédons le meilleur Fonds d'Orgue qui soit, bien loin à la ronde.
+			   parfaite homogï¿½nï¿½itï¿½ ï¿½ l'audition, nous possï¿½dons le meilleur Fonds d'Orgue qui soit, bien loin ï¿½ la ronde.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;L'ensemble mérite au plus haut point d'être compté parmi le
+			   &nbsp;&nbsp;&nbsp;&nbsp;L'ensemble mï¿½rite au plus haut point d'ï¿½tre comptï¿½ parmi le
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;<I>Mobilier protégé</I>
+			   &nbsp;&nbsp;&nbsp;&nbsp;<I>Mobilier protï¿½gï¿½</I>
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;Quel était l'orgue original ? De l'orgue de LEPINE il ne reste que la Montre 8' 
-			   et la Flûte allemande, cette dernière étant utilisée en Bourdon 8'... les autres jeux ont sans doute une 
+			   &nbsp;&nbsp;&nbsp;&nbsp;Quel ï¿½tait l'orgue original ? De l'orgue de LEPINE il ne reste que la Montre 8' 
+			   et la Flï¿½te allemande, cette derniï¿½re ï¿½tant utilisï¿½e en Bourdon 8'... les autres jeux ont sans doute une 
 			   origine plus ancienne, Louis XIV probablement.
 			   </P>
 			   <BR>
@@ -604,29 +604,29 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</FONT>
 			<CENTER>
 			<H2>BULLETIN DE LA SOCIETE DES SCIENCES DE L'YONNE</H2>
-			<H3>1959-60 - 98ème volume</H3>
+			<H3>1959-60 - 98ï¿½me volume</H3>
 			   <Font size=5><B>L ' H O T E L&nbsp;&nbsp;&nbsp;D E S&nbsp;&nbsp;&nbsp;L O M B A R D S</B></FONT>
 			</CENTER>
 			<BR>
 			<FONT SIZE=4>
 			<p align="justify">
-			<B>...</B> au numéro 2 de la rue des Lombards et 5 de la rue Joubert, dans lequel s'exploite un commerce de 
-			café-restaurant.
+			<B>...</B> au numï¿½ro 2 de la rue des Lombards et 5 de la rue Joubert, dans lequel s'exploite un commerce de 
+			cafï¿½-restaurant.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> André FIGEAT, épicier-cirier reprend l'immeuble et y décède, en 1737... 
-			Sa veuve, née Barbe ORILLARD continue le commerce jusqu'au 18 janvier 1744 et vend l'immeuble à Joseph PALAIS, 
-			organiste de la cathédrale, en même temps
+			&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Andrï¿½ FIGEAT, ï¿½picier-cirier reprend l'immeuble et y dï¿½cï¿½de, en 1737... 
+			Sa veuve, nï¿½e Barbe ORILLARD continue le commerce jusqu'au 18 janvier 1744 et vend l'immeuble ï¿½ Joseph PALAIS, 
+			organiste de la cathï¿½drale, en mï¿½me temps
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<I>"maître de pension"</I>;
+			<I>"maï¿½tre de pension"</I>;
 			<BR>
-			C'est un ami du philosophe Jean-Jacques ROUSSEAU auquel il avait, paraît-il, appris l'harmonie alors qu'ils 
-			résidaient tous deux à Chambéry. Le département lui alloua d'ailleurs, une pension vers la fin de sa vie, pour 
-			ce fait jugé remarquable par les dirigeants de l'époque. Lorsque J-J ROUSSEAU vint à Auxerre passer quelque 
-			temps près de son ami PALAIS, il est fort probable qu'il logeait dans cette ancienne maison et que tous deux 
-			se hataient fréquemment de rejoindre le café-billard MILLON, fondé en 1749 pour y jouer aux échecs.
+			C'est un ami du philosophe Jean-Jacques ROUSSEAU auquel il avait, paraï¿½t-il, appris l'harmonie alors qu'ils 
+			rï¿½sidaient tous deux ï¿½ Chambï¿½ry. Le dï¿½partement lui alloua d'ailleurs, une pension vers la fin de sa vie, pour 
+			ce fait jugï¿½ remarquable par les dirigeants de l'ï¿½poque. Lorsque J-J ROUSSEAU vint ï¿½ Auxerre passer quelque 
+			temps prï¿½s de son ami PALAIS, il est fort probable qu'il logeait dans cette ancienne maison et que tous deux 
+			se hataient frï¿½quemment de rejoindre le cafï¿½-billard MILLON, fondï¿½ en 1749 pour y jouer aux ï¿½checs.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;Après la révolution cette maison n'a plus d'histoire.
+			&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s la rï¿½volution cette maison n'a plus d'histoire.
 			</P>
 			</FONT>
 			<BR>
@@ -648,34 +648,34 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
 			8 Juillet
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>Programme de la fête du 14 juillet.</I> - Le conseil arrête que tous les citoyens 
-			seront invités à cette fête... qu'à dix heures une messe solennelle sera dite à la cathédrale, les drapeaux 
-			de la milice bourgeoise seront déposés aux voûtes de cet édifice ; qu'après il sera chanté un <I>Te Deum</I> ; 
-			enfin que MM..., officiers municipaux sont nommés pour demander au Chapitre les prières, messe et <I>Te Deum</I> 
-			ordonnés.
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>Programme de la fï¿½te du 14 juillet.</I> - Le conseil arrï¿½te que tous les citoyens 
+			seront invitï¿½s ï¿½ cette fï¿½te... qu'ï¿½ dix heures une messe solennelle sera dite ï¿½ la cathï¿½drale, les drapeaux 
+			de la milice bourgeoise seront dï¿½posï¿½s aux voï¿½tes de cet ï¿½difice ; qu'aprï¿½s il sera chantï¿½ un <I>Te Deum</I> ; 
+			enfin que MM..., officiers municipaux sont nommï¿½s pour demander au Chapitre les priï¿½res, messe et <I>Te Deum</I> 
+			ordonnï¿½s.
 			<BR>
 			<BR>
 			Dimanche, 14 Juillet
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>Fête de la Fédération</I> - <B>...</B> A l'heure de 10 heures la Compagnie s'est 
-			rendue en l'église cathédrale...
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>Fï¿½te de la Fï¿½dï¿½ration</I> - <B>...</B> A l'heure de 10 heures la Compagnie s'est 
+			rendue en l'ï¿½glise cathï¿½drale...
 			<BR>
-			<B>...</B> Arrivée dans ladite cathédrale... la Compagnie est entrée dans le choeur... Après les prières et 
-			cérémonies religieuses la Compagnie s'est rendue avec le clergé dans la nef, où, en sa présence et celle de 
-			tous les citoyens, les huit drapeaux de la milice bourgeoise ont été déposés à la voûte de ladite. Le clergé 
-			et la Compagnie rentrés dans le choeur, il a été célébré une messe solennelle.
+			<B>...</B> Arrivï¿½e dans ladite cathï¿½drale... la Compagnie est entrï¿½e dans le choeur... Aprï¿½s les priï¿½res et 
+			cï¿½rï¿½monies religieuses la Compagnie s'est rendue avec le clergï¿½ dans la nef, oï¿½, en sa prï¿½sence et celle de 
+			tous les citoyens, les huit drapeaux de la milice bourgeoise ont ï¿½tï¿½ dï¿½posï¿½s ï¿½ la voï¿½te de ladite. Le clergï¿½ 
+			et la Compagnie rentrï¿½s dans le choeur, il a ï¿½tï¿½ cï¿½lï¿½brï¿½ une messe solennelle.
 			<BR>
-			<B>...</B> Aussitôt après a été chanté un <I>Te Deum</I> après lequel la Compagnie est sortie de l'église 
-			cathédrale dans le même ordre qu'elle s'y était rendue.
+			<B>...</B> Aussitï¿½t aprï¿½s a ï¿½tï¿½ chantï¿½ un <I>Te Deum</I> aprï¿½s lequel la Compagnie est sortie de l'ï¿½glise 
+			cathï¿½drale dans le mï¿½me ordre qu'elle s'y ï¿½tait rendue.
 			<BR>
 			<BR>
 			15 Juillet
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>Demande d'une semaine de prières</I> - Sur l'observation faite par un des messieurs 
-			que le temps pluvieux que l'on éprouve depuis plus de quinze jours, peut causer des torts aux biens de la 
-			campagne, et qu'il serait à propos de demander des prières, il a été arrêté que M. le maire voudra bien se rendre 
-			auprès de MM. les grands vicaires, et leur demander, de la part de la Compagnie, d'ordonner une neuvaine de prières 
-			à commencer de ce jour, pour obtenir de Dieu la cessation des pluies.
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>Demande d'une semaine de priï¿½res</I> - Sur l'observation faite par un des messieurs 
+			que le temps pluvieux que l'on ï¿½prouve depuis plus de quinze jours, peut causer des torts aux biens de la 
+			campagne, et qu'il serait ï¿½ propos de demander des priï¿½res, il a ï¿½tï¿½ arrï¿½tï¿½ que M. le maire voudra bien se rendre 
+			auprï¿½s de MM. les grands vicaires, et leur demander, de la part de la Compagnie, d'ordonner une neuvaine de priï¿½res 
+			ï¿½ commencer de ce jour, pour obtenir de Dieu la cessation des pluies.
 			<BR>
 			<BR>
 			</P>
@@ -685,35 +685,35 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
 			12 Juillet
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>Réparations aux orgues de Saint Etienne</I> - Les orgues de l'église saint Etienne 
-			qui n'ont pas été touchées depuis plus de six mois, ayant besoin d'être réparées et accordées, le Conseil 
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>Rï¿½parations aux orgues de Saint Etienne</I> - Les orgues de l'ï¿½glise saint Etienne 
+			qui n'ont pas ï¿½tï¿½ touchï¿½es depuis plus de six mois, ayant besoin d'ï¿½tre rï¿½parï¿½es et accordï¿½es, le Conseil 
 			charge M. Maure de faire faire ce travail par tel artiste qu'il voudra.
 			<BR>
 			<BR>
 			14 Juillet
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>Procès-verbal de la cérémonie qui a eu lieu aujourd'hui</I> - A l'heure de 10 
-			indiquée par la délibération du 9 de ce mois, et jusqu'à laquelle tout ce qui a été prescrit a été exécuté, le 
-			corps municipal, sorti de l'Hôtel-de-Ville, s'est rendu en l'église paroissiale de Sainte-Etienne, à la tête de 
-			la garde nationale et de la brigade de maréchaussée.
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>Procï¿½s-verbal de la cï¿½rï¿½monie qui a eu lieu aujourd'hui</I> - A l'heure de 10 
+			indiquï¿½e par la dï¿½libï¿½ration du 9 de ce mois, et jusqu'ï¿½ laquelle tout ce qui a ï¿½tï¿½ prescrit a ï¿½tï¿½ exï¿½cutï¿½, le 
+			corps municipal, sorti de l'Hï¿½tel-de-Ville, s'est rendu en l'ï¿½glise paroissiale de Sainte-Etienne, ï¿½ la tï¿½te de 
+			la garde nationale et de la brigade de marï¿½chaussï¿½e.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;Arrivé dans ladite église, et après avoir fait déposer l'autel de la patrie dans la nef, 
-			le corps municipal est entré dans le choeur, où il a occupé des sièges placés dans le milieu, comme faisant les 
-			honneurs de la cérémonie.
+			&nbsp;&nbsp;&nbsp;&nbsp;Arrivï¿½ dans ladite ï¿½glise, et aprï¿½s avoir fait dï¿½poser l'autel de la patrie dans la nef, 
+			le corps municipal est entrï¿½ dans le choeur, oï¿½ il a occupï¿½ des siï¿½ges placï¿½s dans le milieu, comme faisant les 
+			honneurs de la cï¿½rï¿½monie.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;Après la célébration de la messe, M. le maire est monté en chaire, et a prononcé un 
-			discours qui a été vivement applaudi. Ensuite on s'est rendu sur la place Saint-Etienne, et à midi précis le 
-			serment fédératif a été prêté par tous les citoyens des deux sexes, et avec des acclamations de joie. On est 
-			rentré dans l'église pour y chanter le Te Deum, après lequel le corps municipal a repris sa marche et s'est 
-			rendu à l'Hôtel-de-Ville, dans le même ordre qu'il était allé à la cérémonie.
+			&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s la cï¿½lï¿½bration de la messe, M. le maire est montï¿½ en chaire, et a prononcï¿½ un 
+			discours qui a ï¿½tï¿½ vivement applaudi. Ensuite on s'est rendu sur la place Saint-Etienne, et ï¿½ midi prï¿½cis le 
+			serment fï¿½dï¿½ratif a ï¿½tï¿½ prï¿½tï¿½ par tous les citoyens des deux sexes, et avec des acclamations de joie. On est 
+			rentrï¿½ dans l'ï¿½glise pour y chanter le Te Deum, aprï¿½s lequel le corps municipal a repris sa marche et s'est 
+			rendu ï¿½ l'Hï¿½tel-de-Ville, dans le mï¿½me ordre qu'il ï¿½tait allï¿½ ï¿½ la cï¿½rï¿½monie.
 			<BR>
 			<BR>
 			16 Juillet
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>Payement des frais de culte</I> - Sont entrés les sieurs Gautheron, sacristain de 
-			l'église Saint-Etienne, Bonnote, chantre, Jobard, serpent, Notiny, suisse, et Benard, sonneur de ladite église. 
-			Ils demandent un à-compte sur leurs traitements. Arrêté qu'ils recevront chacun un à-compte de 50 livres, sauf 
-			répétition contre la fabrique quand elle sera organisée.
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>Payement des frais de culte</I> - Sont entrï¿½s les sieurs Gautheron, sacristain de 
+			l'ï¿½glise Saint-Etienne, Bonnote, chantre, Jobard, serpent, Notiny, suisse, et Benard, sonneur de ladite ï¿½glise. 
+			Ils demandent un ï¿½-compte sur leurs traitements. Arrï¿½tï¿½ qu'ils recevront chacun un ï¿½-compte de 50 livres, sauf 
+			rï¿½pï¿½tition contre la fabrique quand elle sera organisï¿½e.
 			</P>
 			</FONT>
 			<BR>
@@ -726,8 +726,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<CENTER>
-			<H2>Procès-verbaux de l'Administration</H2>
-			<H2>Municipale de la Ville d'Auxerre pendant la Révolution</H2>
+			<H2>Procï¿½s-verbaux de l'Administration</H2>
+			<H2>Municipale de la Ville d'Auxerre pendant la Rï¿½volution</H2>
 			</CENTER>
 			<BR>
 			<FONT SIZE=4>
@@ -736,59 +736,59 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			Temple Saint-Etienne
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;Ouï le rapport d'un de ses membres et le commissaire du Directoire exécutif entendu ; 
+			&nbsp;&nbsp;&nbsp;&nbsp;Ouï¿½ le rapport d'un de ses membres et le commissaire du Directoire exï¿½cutif entendu ; 
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>"L'administration considérant que le législateur, en 
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>"L'administration considï¿½rant que le lï¿½gislateur, en 
 			<BR>
-			"instituant des fêtes nationales et publiques, n'a eu d'autre but
+			"instituant des fï¿½tes nationales et publiques, n'a eu d'autre but
 			<BR>
-			"que de présenter au peuple des spectacles propres à nourrir dans
+			"que de prï¿½senter au peuple des spectacles propres ï¿½ nourrir dans
 			<BR>
-			"son âme le feu sacré de la liberté et resserer entre tous les ci-
+			"son ï¿½me le feu sacrï¿½ de la libertï¿½ et resserer entre tous les ci-
 			<BR>
-			"toyens les biens de la fraternité civile et de l'égalité politi-
+			"toyens les biens de la fraternitï¿½ civile et de l'ï¿½galitï¿½ politi-
 			<BR>
 			"que ;
             <BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Considérant que l'attention du législateur ne sera par-
+			&nbsp;&nbsp;&nbsp;&nbsp;"Considï¿½rant que l'attention du lï¿½gislateur ne sera par-
 			<BR>
-			"faitement remplie que lorsque ces fêtes si intéressantes et si
+			"faitement remplie que lorsque ces fï¿½tes si intï¿½ressantes et si
 			<BR>
 			"instructives, soit par les grands souvenirs qu'elles nous rappel-
 			<BR>
-			"lent, soit par les grands exemples qu'elles nous préparent, se-
+			"lent, soit par les grands exemples qu'elles nous prï¿½parent, se-
 			<BR>
-			"ront célébrées dans des édifices assez vastes pour contenir la
+			"ront cï¿½lï¿½brï¿½es dans des ï¿½difices assez vastes pour contenir la
 			<BR>
-			"totalité des citoyens ;
+			"totalitï¿½ des citoyens ;
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Considérant enfin que le local affecté jusqu'ici à la
+			&nbsp;&nbsp;&nbsp;&nbsp;"Considï¿½rant enfin que le local affectï¿½ jusqu'ici ï¿½ la
 			<BR>
-			"célébration des fêts publiques est évidemment trop étroit ;
+			"cï¿½lï¿½bration des fï¿½ts publiques est ï¿½videmment trop ï¿½troit ;
 			<BR>
-			"qu'il est prouvé par l'expérience qu'il ne peut recevoir dans son
+			"qu'il est prouvï¿½ par l'expï¿½rience qu'il ne peut recevoir dans son
 			<BR>
-			"enceinte qu'une très petite partie des cotoyens et que le temple
+			"enceinte qu'une trï¿½s petite partie des cotoyens et que le temple
 			<BR>
-			"dit Etienne, est le seul qui, par sa position et son étendue,
+			"dit Etienne, est le seul qui, par sa position et son ï¿½tendue,
 			<BR>
-			"réunisse tous les avantages désirés ;
+			"rï¿½unisse tous les avantages dï¿½sirï¿½s ;
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"arrête ce qui suit :
+			&nbsp;&nbsp;&nbsp;&nbsp;"arrï¿½te ce qui suit :
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Le temple dit Etienne demeure uniquement consacré à la
+			&nbsp;&nbsp;&nbsp;&nbsp;"Le temple dit Etienne demeure uniquement consacrï¿½ ï¿½ la
 			<BR>
-			"célébration des fêtes nationales et publiques. Il se nommera le
+			"cï¿½lï¿½bration des fï¿½tes nationales et publiques. Il se nommera le
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Temple de la Fraternité"</I>.
+			&nbsp;&nbsp;&nbsp;&nbsp;"Temple de la Fraternitï¿½"</I>.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;<I>"Article 2. - A la notification du présent les déposi-
+			&nbsp;&nbsp;&nbsp;&nbsp;<I>"Article 2. - A la notification du prï¿½sent les dï¿½posi-
 			<BR>
-			"taires des clefs seront tenus de les remettre au secrétariat de
+			"taires des clefs seront tenus de les remettre au secrï¿½tariat de
 			<BR>
 			"l'administration municipale.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Le présent arrêté sera envoyé à l'homologation du Dé-
+			&nbsp;&nbsp;&nbsp;&nbsp;"Le prï¿½sent arrï¿½tï¿½ sera envoyï¿½ ï¿½ l'homologation du Dï¿½-
 			<BR>
 			"partement."</I>
 			<BR>
@@ -797,130 +797,130 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			Temple Saint-Etienne
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;L'arrêté de fermeture du temple dit de Saint-Etienne a été homologué le 19 par le 
-			Département ; en conséquence l'administration ordonne que son arrêté soit notifié au citoyen Gagneur, ministre 
-			du culte catholique, par deux administrateurs qui se feront rendre les clefs de l'édifice.
+			&nbsp;&nbsp;&nbsp;&nbsp;L'arrï¿½tï¿½ de fermeture du temple dit de Saint-Etienne a ï¿½tï¿½ homologuï¿½ le 19 par le 
+			Dï¿½partement ; en consï¿½quence l'administration ordonne que son arrï¿½tï¿½ soit notifiï¿½ au citoyen Gagneur, ministre 
+			du culte catholique, par deux administrateurs qui se feront rendre les clefs de l'ï¿½difice.
 			<BR>
 			<BR>
-			17 nivôse
+			17 nivï¿½se
 			<BR>
-			Eglise Saint-Etienne, réouverture
+			Eglise Saint-Etienne, rï¿½ouverture
 			<BR>
-			<I>Sur le rapport d'une pétition de citoyens de cette com-
+			<I>Sur le rapport d'une pï¿½tition de citoyens de cette com-
 			<BR>
-			"mune tendant à obtenir l'usage de la ci-devant église Saint-
-			<BR>"Etienne pour y exercer le culte. Vu les lois du 11 prérial an III
+			"mune tendant ï¿½ obtenir l'usage de la ci-devant ï¿½glise Saint-
+			<BR>"Etienne pour y exercer le culte. Vu les lois du 11 prï¿½rial an III
 			<BR>
-			"et 7 vendémiaire an IV, et l'arrêté des consuls de la République
+			"et 7 vendï¿½miaire an IV, et l'arrï¿½tï¿½ des consuls de la Rï¿½publique
 			<BR>
 			"du 7 de ce mois ;
-			&nbsp;&nbsp;&nbsp;&nbsp;"L'administration, ouï le rapport fait par un membre de
+			&nbsp;&nbsp;&nbsp;&nbsp;"L'administration, ouï¿½ le rapport fait par un membre de
 			<BR>
-			"la conférence qu'il a eue avec plusieurs administrateurs du Dé-
+			"la confï¿½rence qu'il a eue avec plusieurs administrateurs du Dï¿½-
 			<BR>
-			"partement sur l'objet de la pétition ;
+			"partement sur l'objet de la pï¿½tition ;
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Considérant que les citoyens de cette commune étaient
+			&nbsp;&nbsp;&nbsp;&nbsp;"Considï¿½rant que les citoyens de cette commune ï¿½taient
 			<BR>
-			"au premier jour de l'an II, en possession de l'édifice dont il
+			"au premier jour de l'an II, en possession de l'ï¿½difice dont il
 			<BR>
-			"s'agit ; qu'ils n'ont pu, ni du en être dépossédés, quoiqu'il y
+			"s'agit ; qu'ils n'ont pu, ni du en ï¿½tre dï¿½possï¿½dï¿½s, quoiqu'il y
 			<BR>
-			"ait eu interruption du service du culte ; qu'en tout cas l'arrêté
+			"ait eu interruption du service du culte ; qu'en tout cas l'arrï¿½tï¿½
 			<BR>
 			"des consuls, leur assure de nousveau ladite possession ;
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;"Considérant aussi que par arrêté de l'administration
+			&nbsp;&nbsp;&nbsp;&nbsp;"Considï¿½rant aussi que par arrï¿½tï¿½ de l'administration
 			<BR>
-			"centrale du 27 fructidor an VI, basé sur un arrêté du Directoire
+			"centrale du 27 fructidor an VI, basï¿½ sur un arrï¿½tï¿½ du Directoire
 			<BR>
-			"exécutif du 27 nivôse an V, et sur une instruction du ministre du
+			"exï¿½cutif du 27 nivï¿½se an V, et sur une instruction du ministre du
 			<BR>
-			"27 ventôse suivant, le local dont il s'agit a été affecté à la
+			"27 ventï¿½se suivant, le local dont il s'agit a ï¿½tï¿½ affectï¿½ ï¿½ la
 			<BR>
-			"célébration des fêtes nationales et décadaires et de toutes les
+			"cï¿½lï¿½bration des fï¿½tes nationales et dï¿½cadaires et de toutes les
 			<BR>
-			"fêtes publiques, mais que cette destination est compatible avec
+			"fï¿½tes publiques, mais que cette destination est compatible avec
 			<BR>
 			"l'exercice des cultes, et que l'intention de l'administration
 			<BR>
-			"centrale ne sera pas contrariée par l'usage de partie de cet eédi-
+			"centrale ne sera pas contrariï¿½e par l'usage de partie de cet eï¿½di-
 			<BR>
-			"fice pour les cérémonies religieuses.
+			"fice pour les cï¿½rï¿½monies religieuses.
 			<BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"Arrête ce qui suit :
+			 &nbsp;&nbsp;&nbsp;&nbsp;"Arrï¿½te ce qui suit :
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"La grande nef, les bas-côtés de ladite nef et toutes
+			 &nbsp;&nbsp;&nbsp;&nbsp;"La grande nef, les bas-cï¿½tï¿½s de ladite nef et toutes
 			 <BR>
-			 "les chapelles et sacristie, qui y font leur entrée, faisant par-
+			 "les chapelles et sacristie, qui y font leur entrï¿½e, faisant par-
 			 <BR>
-			 "tie de l'édifice de la ci-devant église Saint-Etienne, seront
+			 "tie de l'ï¿½difice de la ci-devant ï¿½glise Saint-Etienne, seront
 			 <BR>
-			 "remis à l'usage des citoyens pour s'en servir sous la surveil-
+			 "remis ï¿½ l'usage des citoyens pour s'en servir sous la surveil-
 			 <BR>
-			 "lance des autorités constituées, aux termes des lois et arrêtés
+			 "lance des autoritï¿½s constituï¿½es, aux termes des lois et arrï¿½tï¿½s
 			 <BR>
-			 "précités.
+			 "prï¿½citï¿½s.
              <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"Ils auront également l'usage des orgues, à la charge de
+			 &nbsp;&nbsp;&nbsp;&nbsp;"Ils auront ï¿½galement l'usage des orgues, ï¿½ la charge de
 			 <BR>
-			 "les entretenir toujours en bon état.
+			 "les entretenir toujours en bon ï¿½tat.
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"L'endroit appelé le dessous des cloches demeure réservé
+			 &nbsp;&nbsp;&nbsp;&nbsp;"L'endroit appelï¿½ le dessous des cloches demeure rï¿½servï¿½
 			 <BR>
-			 "pour l'usage exclusif du préposé à la sonnerie, et nul autre ne
+			 "pour l'usage exclusif du prï¿½posï¿½ ï¿½ la sonnerie, et nul autre ne
 			 <BR>
 			 "pourra se servir de ce local, ni en avoir la clef.
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"Il est rappelé aux citoyens que ladite partie église
+			 &nbsp;&nbsp;&nbsp;&nbsp;"Il est rappelï¿½ aux citoyens que ladite partie ï¿½glise
 			 <BR>
-			 "est également consacrée par la loi du 11 prairial à la tenue des
+			 "est ï¿½galement consacrï¿½e par la loi du 11 prairial ï¿½ la tenue des
 			 <BR>
-			 "assemblées ordonnées par la loi ; qu'ils sont chargés de l'entre-
+			 "assemblï¿½es ordonnï¿½es par la loi ; qu'ils sont chargï¿½s de l'entre-
 			 <BR>
-			 "tenir et réparer ainsi qu'ils aviseront sans aucune contribution
+			 "tenir et rï¿½parer ainsi qu'ils aviseront sans aucune contribution
 			 <BR>
-			 "forcée ; que dans le cas où des citoyens exerçant des cultes dif-
+			 "forcï¿½e ; que dans le cas oï¿½ des citoyens exerï¿½ant des cultes dif-
 			 <BR>
-			 "férents ou prétendus tels réclameraient concurremment l'usage du
+			 "fï¿½rents ou prï¿½tendus tels rï¿½clameraient concurremment l'usage du
 			 <BR>
-			 "même local, il leur sera commun, sauf, de la part de l'adminis-
+			 "mï¿½me local, il leur sera commun, sauf, de la part de l'adminis-
 			 <BR>
-			 "tration, à fixer pour chaque culte les jours et heures plus con-
+			 "tration, ï¿½ fixer pour chaque culte les jours et heures plus con-
 			 <BR>
-			 "venables ; qu'enfin nul ne peut remplir le ministère d'aucun cul-
+			 "venables ; qu'enfin nul ne peut remplir le ministï¿½re d'aucun cul-
 			 <BR>
-			 "te dans ledit édifice sans l'avoir déclaré à l'administration, et
+			 "te dans ledit ï¿½difice sans l'avoir dï¿½clarï¿½ ï¿½ l'administration, et
 			 <BR>
-			 "s'il n'a fait devant elle la promesse de fidélité à la Constitu-
+			 "s'il n'a fait devant elle la promesse de fidï¿½litï¿½ ï¿½ la Constitu-
 			 <BR>
-			 "tion prescrite par l'arrêté des consuls du 7 de ce mois, sous les
+			 "tion prescrite par l'arrï¿½tï¿½ des consuls du 7 de ce mois, sous les
 			 <BR>
-			 "peines prononcées par la loi du 7 vendémiaire an IV.
+			 "peines prononcï¿½es par la loi du 7 vendï¿½miaire an IV.
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"Ils ne pourront établir aucun monument à demeure fixe
+			 &nbsp;&nbsp;&nbsp;&nbsp;"Ils ne pourront ï¿½tablir aucun monument ï¿½ demeure fixe
 			 <BR>
 			 "dans la grande nef, ni au devant des grilles du ci-devant choeur
 			 <BR>
 			 "et au contraire ils seront tenus de les laisser libre les jours
 			 <BR>
-			 "de solennités nationales et décadaires et des fêtes publiques.
+			 "de solennitï¿½s nationales et dï¿½cadaires et des fï¿½tes publiques.
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"L'état actuel des lieux sera constaté par le citoyen
+			 &nbsp;&nbsp;&nbsp;&nbsp;"L'ï¿½tat actuel des lieux sera constatï¿½ par le citoyen
 			 <BR>
 			 "Ramponneau, administrateur municipal, contradictoirement avec les
 			 <BR>
-			 "commissaires des pétitionnaires.
+			 "commissaires des pï¿½titionnaires.
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;"Après la confection et signature dudit état des lieux,
+			 &nbsp;&nbsp;&nbsp;&nbsp;"Aprï¿½s la confection et signature dudit ï¿½tat des lieux,
 			 <BR>
-			 "les clefs en seront remises au citoyen Delingette, indiqué par
+			 "les clefs en seront remises au citoyen Delingette, indiquï¿½ par
 			 <BR>
-			 "les pétitionnaires.
+			 "les pï¿½titionnaires.
 			 <BR>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			 Sign" : WAULTIER, président,
+			 Sign" : WAULTIER, prï¿½sident,
 			 <BR>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -944,7 +944,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			 <BR>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			 FAULTRIER, secrétaire en chef.</I>
+			 FAULTRIER, secrï¿½taire en chef.</I>
 			 <BR>
 			 <BR>
 			 par M. Ch. Demay
@@ -954,13 +954,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			 <BR>
 			 Eglise Saint-Etienne
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;Lecture d'une lettre du Département de ce jour, heure de midi, portant que les citoyens ont 
-			 commis des dégâts dans le temple de Saint-Etienne ; qu'ils ont forcé les grilles du choeur et des bas-côtés et détruit 
-			 les décorations servant à la célébration des fêtes nationales. Vérification faite, il est rapporté que les 
-			 grilles du choeur et des bas-côtés, les décorations et autres objets servant à la célébration des fêtes 
-			 nationales, sont dans le même état qu'au moment de la livraison de l'église au culte. Que le seul citoyen 
-			 qui se soit introduit dans le local des solennités nationales est le citoyen Denombret, directeur du temple, 
-			 qui y a numéroté tous les objets mobiliers, pour en assurer la propriété au Département.
+			 &nbsp;&nbsp;&nbsp;&nbsp;Lecture d'une lettre du Dï¿½partement de ce jour, heure de midi, portant que les citoyens ont 
+			 commis des dï¿½gï¿½ts dans le temple de Saint-Etienne ; qu'ils ont forcï¿½ les grilles du choeur et des bas-cï¿½tï¿½s et dï¿½truit 
+			 les dï¿½corations servant ï¿½ la cï¿½lï¿½bration des fï¿½tes nationales. Vï¿½rification faite, il est rapportï¿½ que les 
+			 grilles du choeur et des bas-cï¿½tï¿½s, les dï¿½corations et autres objets servant ï¿½ la cï¿½lï¿½bration des fï¿½tes 
+			 nationales, sont dans le mï¿½me ï¿½tat qu'au moment de la livraison de l'ï¿½glise au culte. Que le seul citoyen 
+			 qui se soit introduit dans le local des solennitï¿½s nationales est le citoyen Denombret, directeur du temple, 
+			 qui y a numï¿½rotï¿½ tous les objets mobiliers, pour en assurer la propriï¿½tï¿½ au Dï¿½partement.
 			 <BR>
 			 <BR>
 			 <BR>
@@ -970,32 +970,32 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			 </P>
 			 </FONT>
 			 <CENTER>
-			    <H2><B>Annuaire historique du département de l'Yonne</B></H2>
+			    <H2><B>Annuaire historique du dï¿½partement de l'Yonne</B></H2>
 			    <H2><B>PERRIQUET 1866</B></H2>
 				<H3>Journal d'un auxerroix du 19 novembre 1796 au 7 septembre 1797</H3>
 			 </CENTER>
 			 <BR>
 			 <FONT SIZE=4>
 			 <p align="justify">
-			 4 floréal
+			 4 florï¿½al
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> A l'issue des vêpres de St Etienne, on a chanté le salut du St Sacrement, 
-			 qui est demeuré exposé toute la journée, après lequel on a chanté le Te Deum avec l'orgue, le verset et la 
-			 collecte d'action de grâce.
+			 &nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> A l'issue des vï¿½pres de St Etienne, on a chantï¿½ le salut du St Sacrement, 
+			 qui est demeurï¿½ exposï¿½ toute la journï¿½e, aprï¿½s lequel on a chantï¿½ le Te Deum avec l'orgue, le verset et la 
+			 collecte d'action de grï¿½ce.
 			 <BR>
 			 <BR>
 			 15 prairial
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Les première vêpres ont été chantées à St Etienne avec la plus grande 
-			 solennité ; on a touché de l'orgue.
+			 &nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Les premiï¿½re vï¿½pres ont ï¿½tï¿½ chantï¿½es ï¿½ St Etienne avec la plus grande 
+			 solennitï¿½ ; on a touchï¿½ de l'orgue.
 			 <BR>
 			 <BR>
 			 9 thermidor
 			 <BR>
-			 &nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Les reclus qui étaient à Auxerre s'y sont trouvés, ainsi que les plus 
-			 honorables citoyens, en grand nombre. La quête a été considérable, le choeur était paré comme aux fêtes 
-			 annuelles ; ensuite on a chanté le Te Deum avec l'orgue et en plain-chant. L'église était pleine ; depuis 
-			 sept ans, on n'avait pas étalé autant de luxe.
+			 &nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Les reclus qui ï¿½taient ï¿½ Auxerre s'y sont trouvï¿½s, ainsi que les plus 
+			 honorables citoyens, en grand nombre. La quï¿½te a ï¿½tï¿½ considï¿½rable, le choeur ï¿½tait parï¿½ comme aux fï¿½tes 
+			 annuelles ; ensuite on a chantï¿½ le Te Deum avec l'orgue et en plain-chant. L'ï¿½glise ï¿½tait pleine ; depuis 
+			 sept ans, on n'avait pas ï¿½talï¿½ autant de luxe.
 			 <BR>
 			 <BR>
 			 <BR>
@@ -1018,12 +1018,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		  </TD>
 		  <TD WIDTH="34%">
 		     <P ALIGN="center">
-			    <a href="Revolution_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxième</FONT></A>
+			    <a href="Revolution_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxiï¿½me</FONT></A>
 			 </P>
 		  </TD>
 		  <TD WIDTH="33%">
 		     <P ALIGN="right">
-			    <a href="Revolution_III.htm"><FONT COLOR = #99FFFF>Chapitre troisième</FONT></A>
+			    <a href="Revolution_III.htm"><FONT COLOR = #99FFFF>Chapitre troisiï¿½me</FONT></A>
 			 </P>
 		  </TD>
       </TR>

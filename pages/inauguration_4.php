@@ -1,11 +1,10 @@
 <html>
 <head>
-<title>Des soumissions à l'inauguration IV</title>
+<title>Des soumissions ï¿½ l'inauguration IV</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Histoire des Orgues de la Cathédrale d'Auxerre en France">
+<meta name="description" content="Histoire des Orgues de la Cathï¿½drale d'Auxerre en France">
 <meta name="Auteur" content="Jean-Marie MEILLIER">
-<SCRIPT language = JavaScript>
-<!--
+<!-- <SCRIPT language = JavaScript>
 function dblclick()
    {
       window.scrollTo(0,0)
@@ -20,7 +19,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</SCRIPT>
+<!-- </SCRIPT>  -->
 </head>
 
 <body bgcolor="#008AAE" text="#FFFFFF">
@@ -32,7 +31,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD WIDTH="100%">
 		    <CENTER>
 			   <H1><I>LES ORGUES</I></H1>
-			   <H1><I>de la Cathédrale</I></H1>
+			   <H1><I>de la Cathï¿½drale</I></H1>
 			   <H1><I>d'Auxerre</I></H1>
 			</CENTER>
          </TD>
@@ -44,9 +43,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD>
 		    <CENTER>
                <BR>			
-			   <H2>Quatrième partie</H2>
+			   <H2>Quatriï¿½me partie</H2>
 			   <img src="Vignettes3/Gothique_4.jpg" width="789" height="128">
-			   <H2>Chapitre quatrième</H2>
+			   <H2>Chapitre quatriï¿½me</H2>
 			   <BR>
 			   <BR>
 			   <BR>
@@ -77,12 +76,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	    </TD>
 	    <TD WIDTH="20%">
 	       <P ALIGN="center">
-                <a href="Inauguration_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxième</FONT></a>
+                <a href="Inauguration_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxiï¿½me</FONT></a>
 		 </P>
 	    </TD>
           <TD WIDTH="20%">
 	       <P ALIGN="center">
-                <a href="Inauguration_III.htm"><FONT COLOR = #99FFFF>Chapitre troisième</FONT></a>
+                <a href="Inauguration_III.htm"><FONT COLOR = #99FFFF>Chapitre troisiï¿½me</FONT></a>
 		 </P>
 	    </TD>
 	    <TD WIDTH="10%">&nbsp;

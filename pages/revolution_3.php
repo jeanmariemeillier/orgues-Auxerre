@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>De la Révolution Française à 1899 III</title>
+<title>De la Rï¿½volution Franï¿½aise ï¿½ 1899 III</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
    <!--
@@ -10,7 +10,7 @@
 		 }
    -->
 </style>
-<SCRIPT language = JavaScript>
+/* <SCRIPT language = JavaScript>
 <!--
 function dblclick()
    {
@@ -26,7 +26,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
-</SCRIPT>
+</SCRIPT> */
 </head>
 
 <body bgcolor="#00AA00" text="#FFFFFF">
@@ -35,9 +35,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD>
 		    <CENTER>
                <BR>			
-			   <H2>Deuxième partie</H2>
+			   <H2>Deuxiï¿½me partie</H2>
 			   <img src="Vignettes3/Gothique_2.jpg" width="789" height="128">
-			   <H2>Chapitre troisième</H2>
+			   <H2>Chapitre troisiï¿½me</H2>
 			</CENTER>
 		</TD>
       </TR>
@@ -47,29 +47,29 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          <TD WIDTH="10%">&nbsp;
 		 </TD>
 	     <TD WIDTH="80%">
-		    <div class="mondiv">ADY 11 J 24/6 f°68r° & 69v°</div>
+		    <div class="mondiv">ADY 11 J 24/6 fï¿½68rï¿½ & 69vï¿½</div>
 	        <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			Réception et paiement de l'orgue de choeur.
+			Rï¿½ception et paiement de l'orgue de choeur.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce jourd'hui trente et un décembre mil huit cent cinquante et un, les membres du 
-			Conseil de fabrique se sont réunis en l'Eglise cathédrale pour <font size=5>la réception de l'orgue de 
-			choeur</font> dont l'acquisition avait été décidée dans la dernière réunion. Immédiatement après cette 
-			réception qui a eu lieu avec solemnité en présence d'un grand concours d'artistes et d'amateurs, les membres du 
-			bureau se sont assemblés au presbytère sous la présence de Mr le Curé Archiprêtre, Mr <B>Ducroquet facteur 
-			d'orgues</B> étant présent a reçu de Mr le Trésorier une somme de quatre mille deux cents francs à compte sur 
-			celle de <I>six mille deux cents francs</I> pour laquelle il s'ent engagé à confectionner l'orgue de choeur 
-			d'après le contrat passé entre lui et MM les membres du Conseil de fabrique le 12 mars dernier. Il ne reste 
-			plus à lui payer qu'une somme de deux mille francs qui devra être remise le 15 janvier 1852 au plus tard sans 
-			intérêts jusque là. Mr Ducroquet a donné quittance à Mr le Trésorier de ladite somme de 4.200 francs laquelle 
-			quittance a été déposée dans les archives de la fabrique.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce jourd'hui trente et un dï¿½cembre mil huit cent cinquante et un, les membres du 
+			Conseil de fabrique se sont rï¿½unis en l'Eglise cathï¿½drale pour <font size=5>la rï¿½ception de l'orgue de 
+			choeur</font> dont l'acquisition avait ï¿½tï¿½ dï¿½cidï¿½e dans la derniï¿½re rï¿½union. Immï¿½diatement aprï¿½s cette 
+			rï¿½ception qui a eu lieu avec solemnitï¿½ en prï¿½sence d'un grand concours d'artistes et d'amateurs, les membres du 
+			bureau se sont assemblï¿½s au presbytï¿½re sous la prï¿½sence de Mr le Curï¿½ Archiprï¿½tre, Mr <B>Ducroquet facteur 
+			d'orgues</B> ï¿½tant prï¿½sent a reï¿½u de Mr le Trï¿½sorier une somme de quatre mille deux cents francs ï¿½ compte sur 
+			celle de <I>six mille deux cents francs</I> pour laquelle il s'ent engagï¿½ ï¿½ confectionner l'orgue de choeur 
+			d'aprï¿½s le contrat passï¿½ entre lui et MM les membres du Conseil de fabrique le 12 mars dernier. Il ne reste 
+			plus ï¿½ lui payer qu'une somme de deux mille francs qui devra ï¿½tre remise le 15 janvier 1852 au plus tard sans 
+			intï¿½rï¿½ts jusque lï¿½. Mr Ducroquet a donnï¿½ quittance ï¿½ Mr le Trï¿½sorier de ladite somme de 4.200 francs laquelle 
+			quittance a ï¿½tï¿½ dï¿½posï¿½e dans les archives de la fabrique.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et arrêté le trente et un décembre mil huit cent cinquante et un.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et arrï¿½tï¿½ le trente et un dï¿½cembre mil huit cent cinquante et un.
 			<BR>
 			<BR>
 			<BR>
-			31 décembre 1852
-			Payé au sieur Ducroquet pour l'accord de l'orgue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			31 dï¿½cembre 1852
+			Payï¿½ au sieur Ducroquet pour l'accord de l'orgue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;
@@ -82,35 +82,35 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			Admission d'un organiste et d'un serpent.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aujourd'hui vingt et un mars mil huit cent cinquante deux, MM les membres du 
-			bureau de la fabrique de l'Eglise Saint-Etienne se sont réunis au presbytère sous la présidence et sur la 
-			convocation de Mr le Curé Archiprêtre qui leur a exposé qu'il convenait de fixer définitivement le traitement 
-			de l'organiste chargé de l'orgue du choeur et qu'il proposait de lui allouer la somme de deux cent francs de 
-			même que pour le grand orgue. Le bureau après en avoir délibéré a admis comme organiste Mr Lyon... fixant les 
-			appointements à deux cents francs il a décidé ensuite sur la proposition de Mr le Curé que le Sr Thomas 
+			bureau de la fabrique de l'Eglise Saint-Etienne se sont rï¿½unis au presbytï¿½re sous la prï¿½sidence et sur la 
+			convocation de Mr le Curï¿½ Archiprï¿½tre qui leur a exposï¿½ qu'il convenait de fixer dï¿½finitivement le traitement 
+			de l'organiste chargï¿½ de l'orgue du choeur et qu'il proposait de lui allouer la somme de deux cent francs de 
+			mï¿½me que pour le grand orgue. Le bureau aprï¿½s en avoir dï¿½libï¿½rï¿½ a admis comme organiste Mr Lyon... fixant les 
+			appointements ï¿½ deux cents francs il a dï¿½cidï¿½ ensuite sur la proposition de Mr le Curï¿½ que le Sr Thomas 
 			souffleur de l'orgue de choeur aurait trente francs par an et que les appointements du Sr Thomas serpent seraient 
-			fixés à cent francs. Mr le Trésorier est spécialement chargé de l'exécution de cette délibération qui aura son effet 
+			fixï¿½s ï¿½ cent francs. Mr le Trï¿½sorier est spï¿½cialement chargï¿½ de l'exï¿½cution de cette dï¿½libï¿½ration qui aura son effet 
 			depuis le premier janvier dernier.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et délibéré le vingt et un mars mil huit cent cinquante deux.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et dï¿½libï¿½rï¿½ le vingt et un mars mil huit cent cinquante deux.
 			</p>
 			<BR>
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/12</div>
-			Dépense extraordinaire
+			Dï¿½pense extraordinaire
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé à Mr Ducroquet, facteur d'orgue à Paris, à valoir sur le prix de l'orgue de 
-			choeur par lui livré suivant sa quittance une somme de quatre mille deux cents francs, dont mille francs ont été 
-			fournis par Mr le Curé et
-			le surplus seulement sera porté ici	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ ï¿½ Mr Ducroquet, facteur d'orgue ï¿½ Paris, ï¿½ valoir sur le prix de l'orgue de 
+			choeur par lui livrï¿½ suivant sa quittance une somme de quatre mille deux cents francs, dont mille francs ont ï¿½tï¿½ 
+			fournis par Mr le Curï¿½ et
+			le surplus seulement sera portï¿½ ici	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			3 200,00
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé au Sr Bujaud <I>(?)</I> Entrepreneur pour travaux occasionnés par le placement 
-			dudit orgue, suivant mémoire quittancé &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ au Sr Bujaud <I>(?)</I> Entrepreneur pour travaux occasionnï¿½s par le placement 
+			dudit orgue, suivant mï¿½moire quittancï¿½ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -122,9 +122,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé à Mr Lyon organiste de choeur pendant le 1er trimestre
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ ï¿½ Mr Lyon organiste de choeur pendant le 1er trimestre
 			<BR>
-			et pour l'intérim de Maître de Chapelle en 1852
+			et pour l'intï¿½rim de Maï¿½tre de Chapelle en 1852
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -134,9 +134,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			...
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé à Mr Ducroquet, facteur d'orgues, pour solde du
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ ï¿½ Mr Ducroquet, facteur d'orgues, pour solde du
 			<BR>
-			prix de l'orgue de choeur, suivant mandat quittancé
+			prix de l'orgue de choeur, suivant mandat quittancï¿½
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -153,7 +153,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<BR>
-			<div class="mondiv">ADY 11 J 24/6 f°72r° & 74r°</div>
+			<div class="mondiv">ADY 11 J 24/6 fï¿½72rï¿½ & 74rï¿½</div>
 			Budget pour 1853
 			<BR>
 			Traitement de deux organistes et des souffleurs
@@ -169,11 +169,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nomination d'un organiste pour l'orgue de choeur en remplacement de Mr Lyon.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avant de terminer la séance Mr le Curé expose que le Sr Lyon organiste de 
-			l'orgue de choeur ayant renoncé à son emploi, il doit être pourvu à son remplacement. Mr Milliaut se présentant 
-			avec toutes les garanties désirables est accepté pour commencer son service à partir du jour de Pâques prochain.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avant de terminer la sï¿½ance Mr le Curï¿½ expose que le Sr Lyon organiste de 
+			l'orgue de choeur ayant renoncï¿½ ï¿½ son emploi, il doit ï¿½tre pourvu ï¿½ son remplacement. Mr Milliaut se prï¿½sentant 
+			avec toutes les garanties dï¿½sirables est acceptï¿½ pour commencer son service ï¿½ partir du jour de Pï¿½ques prochain.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et arrêté le Vingt mars 1853.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fait et arrï¿½tï¿½ le Vingt mars 1853.
 			</p>
 			<BR>
 			<BR>
@@ -182,12 +182,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<div class="mondiv">ADY 11 J 24/7 p 185</div>
 			Le Dimanche de Quasimodo trois avril 1853
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Trésorier expose la demande faite par Mr Lyon, organiste de choeur qui 
-			s'est retiré et réclame une indemnité pour les sept mois de 1852 pendant lesquels, il a exercé les chantres et 
-			enfants de choeur ; après une courte discussion et les observations présentées par Mr le Curé, le Conseil 
-			arrête que le traitement de Mr Lyon sera compté pour les sept derniers mois de 1852 comme pour les premiers 
-			de 1853, c'est-à-dire sur le pied de 400 Frs pour l'année et il autorise en conséquence Mr le Trésorier à 
-			payer la dite indemnité à Mr Lyon.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Trï¿½sorier expose la demande faite par Mr Lyon, organiste de choeur qui 
+			s'est retirï¿½ et rï¿½clame une indemnitï¿½ pour les sept mois de 1852 pendant lesquels, il a exercï¿½ les chantres et 
+			enfants de choeur ; aprï¿½s une courte discussion et les observations prï¿½sentï¿½es par Mr le Curï¿½, le Conseil 
+			arrï¿½te que le traitement de Mr Lyon sera comptï¿½ pour les sept derniers mois de 1852 comme pour les premiers 
+			de 1853, c'est-ï¿½-dire sur le pied de 400 Frs pour l'annï¿½e et il autorise en consï¿½quence Mr le Trï¿½sorier ï¿½ 
+			payer la dite indemnitï¿½ ï¿½ Mr Lyon.
 			</P>
 			<BR>
 			<BR>
@@ -200,22 +200,22 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<div class="mondiv">ADY 11 J 24/7 pp 190 & 191</div>
 			<p align="justify">
-			Le trois décembre mil huit cent cinquante quatre
+			Le trois dï¿½cembre mil huit cent cinquante quatre
 			<BR>
-			Réparation du grand orgue
+			Rï¿½paration du grand orgue
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Mr le Président expose ensuite que la soufflerie du grand orgue ayant 
-			un besoin urgent de réparation, Mr le Curé après en avoir parlé au bureau s'est adressé à Mr Ducroquet facteur 
-			d'orgues à Paris qui a pris connaissance du dommage et a dressé un devis sur lequel il s'agit de statuer en ce 
-			moment Mr Ducroquet s'engage à établir une soufflerie neuve dans un nouveau système et avec tous les 
-			perfectionnements introduits dans cette industrie, à remonter et nettoyer tous les tuyaux de l'orgue ; il 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Mr le Prï¿½sident expose ensuite que la soufflerie du grand orgue ayant 
+			un besoin urgent de rï¿½paration, Mr le Curï¿½ aprï¿½s en avoir parlï¿½ au bureau s'est adressï¿½ ï¿½ Mr Ducroquet facteur 
+			d'orgues ï¿½ Paris qui a pris connaissance du dommage et a dressï¿½ un devis sur lequel il s'agit de statuer en ce 
+			moment Mr Ducroquet s'engage ï¿½ ï¿½tablir une soufflerie neuve dans un nouveau systï¿½me et avec tous les 
+			perfectionnements introduits dans cette industrie, ï¿½ remonter et nettoyer tous les tuyaux de l'orgue ; il 
 			demande pour ces travaux une somme de deux mille francs
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil après en avoir délibéré adopte le devis de Mr Ducroquet, consent à ce 
-			que la Fabrique supporte cette dépense de 2,100 frs <I>(!)</I> et charge Mr le Trésorier de s'engager comme la 
-			représentant jusqu'à concurrence de cette somme en ajoutant aux conditions du marché, d'abord que le travail 
-			serait fini pour Pâques de l'année prochaire au plus tard puis que le paiement se ferait en deux fois, moitié 
-			dans le mois de la réception des travaux et moitié fin de janvier 1856, sans intérêts jusque là.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil aprï¿½s en avoir dï¿½libï¿½rï¿½ adopte le devis de Mr Ducroquet, consent ï¿½ ce 
+			que la Fabrique supporte cette dï¿½pense de 2,100 frs <I>(!)</I> et charge Mr le Trï¿½sorier de s'engager comme la 
+			reprï¿½sentant jusqu'ï¿½ concurrence de cette somme en ajoutant aux conditions du marchï¿½, d'abord que le travail 
+			serait fini pour Pï¿½ques de l'annï¿½e prochaire au plus tard puis que le paiement se ferait en deux fois, moitiï¿½ 
+			dans le mois de la rï¿½ception des travaux et moitiï¿½ fin de janvier 1856, sans intï¿½rï¿½ts jusque lï¿½.
 			</P>
 			<BR>
 			<BR>
@@ -226,24 +226,24 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<BR>
-			<div class="mondiv">ADY 11 J 24/12 f°77v°</div>
+			<div class="mondiv">ADY 11 J 24/12 fï¿½77vï¿½</div>
 			<p align="justify">
 			Nomination d'un organiste
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le dimanche 14 janvier 1855 MM les membres du bureau de la Fabrique St Etienne 
-			d'Auxerre se sont réunis à midi au presbytère sous la présidence et sur la convocation de Mr le Curé Archiprêtre 
-			qui leur a exposé que Mr Milliaut organiste de l'orgue de choeur ayant quitté la ville, il était urgent de 
-			pourvoir à son remplacement. Mr Huret réunissant les conditions nécessaires de moralité et de capacité pour 
-			être admis, il propose son acceptation... Le bureau après en avoir délibéré après le choix de Mr Huret comme organiste 
-			le nomme à cette fonction, son traitement étant le même que celui de Mr Milliaut...
+			d'Auxerre se sont rï¿½unis ï¿½ midi au presbytï¿½re sous la prï¿½sidence et sur la convocation de Mr le Curï¿½ Archiprï¿½tre 
+			qui leur a exposï¿½ que Mr Milliaut organiste de l'orgue de choeur ayant quittï¿½ la ville, il ï¿½tait urgent de 
+			pourvoir ï¿½ son remplacement. Mr Huret rï¿½unissant les conditions nï¿½cessaires de moralitï¿½ et de capacitï¿½ pour 
+			ï¿½tre admis, il propose son acceptation... Le bureau aprï¿½s en avoir dï¿½libï¿½rï¿½ aprï¿½s le choix de Mr Huret comme organiste 
+			le nomme ï¿½ cette fonction, son traitement ï¿½tant le mï¿½me que celui de Mr Milliaut...
 			<BR>
 			<BR>
 			<BR>
-			<div class="mondiv">ADY 11 J 24/12 f°114v°</div>
-			Achat d'une Ophycléide.
+			<div class="mondiv">ADY 11 J 24/12 fï¿½114vï¿½</div>
+			Achat d'une Ophyclï¿½ide.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr... exposant que l'ophicléide de l'église ne peut plus servir, une somme de 80 Frs 
-			est votée pour l'achat d'un neuf.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr... exposant que l'ophiclï¿½ide de l'ï¿½glise ne peut plus servir, une somme de 80 Frs 
+			est votï¿½e pour l'achat d'un neuf.
 			</P>
 			<BR>
 			<BR>
@@ -257,9 +257,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
 			29 avril 1855
 			<BR>
-			Rapport de la Commission sur le Budget de la Fabrique de l'Eglise Saint-Etienne d'Auxerre pour l'année 1856
+			Rapport de la Commission sur le Budget de la Fabrique de l'Eglise Saint-Etienne d'Auxerre pour l'annï¿½e 1856
 			<BR>
-			... Ainsi dès aujourd'hui la Fabrique... doit de plus pour
+			... Ainsi dï¿½s aujourd'hui la Fabrique... doit de plus pour
 			<BR>
 			la soufflerie de l'orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -282,7 +282,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			565,00
 			<BR>
-			Dépense pour la soufflerie du grand orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			Dï¿½pense pour la soufflerie du grand orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -301,13 +301,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
 			1856			
 			<BR>
-			Janvier 30. Payé à Mr Viollet pour réparation au grand orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			Janvier 30. Payï¿½ ï¿½ Mr Viollet pour rï¿½paration au grand orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			15,00
 			<BR>
-			Février 26. Payé pour solde à Mr Ducroquet suivant mandat délivré le 26 février
+			Fï¿½vrier 26. Payï¿½ pour solde ï¿½ Mr Ducroquet suivant mandat dï¿½livrï¿½ le 26 fï¿½vrier
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;
 			1 061,20
@@ -323,15 +323,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
 			<div class="mondiv">ADY 11 J 24/16 </div>
 			<BR>
-			15 février&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mandat n°5. Payé à Mr Ducroquet Merklin et Cie pour abonnement de 3 
+			15 fï¿½vrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mandat nï¿½5. Payï¿½ ï¿½ Mr Ducroquet Merklin et Cie pour abonnement de 3 
 			semestres&nbsp;&nbsp;&nbsp;&nbsp;
 			90,00
 			<BR>
-			29 février&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé à Mr Ducroquet pour l'entretien de l'orgue de choeur et du grand 
+			29 fï¿½vrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ ï¿½ Mr Ducroquet pour l'entretien de l'orgue de choeur et du grand 
 			orgue
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;pendant l'année 1855 et le 1er semestre 1856
+			&nbsp;&nbsp;&nbsp;pendant l'annï¿½e 1855 et le 1er semestre 1856
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -345,63 +345,63 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<BR>
 			<BR>
 			<BR>
-            <div class="mondiv">ADY 11 J 24/6 f° 108</div>
+            <div class="mondiv">ADY 11 J 24/6 fï¿½ 108</div>
 			<p align="justify">
 			Le samedi 4 avril mil huit cent cinquante sept...
 			<BR>
 			Observations sur le refus de l'organiste d'assister aux enterrements
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En l'absence de Mr Lambert, Mr Lallemand est désigné par le Bureau pour remplir 
-			les fonctions de Secrétaire.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En l'absence de Mr Lambert, Mr Lallemand est dï¿½signï¿½ par le Bureau pour remplir 
+			les fonctions de Secrï¿½taire.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur le Président soumet au Bureau les réclamations qui lui ont été adressées 
-			par l'organiste et par le souffleur, au sujet de l'appel qui leur a été fait par Mr le Curé à l'occasion de 
-			deux enterrements. Ils ont fait remarquer l'un et l'autre que les orgues n'ont pas été touchés dans les 
-			exercices précédents et que l'exiguité de leur traitement actuel ne permet pas de leur imposer cette charge 
-			extraordinaire. Mr le Curé répond qu'ils ont été demandés par lui et que tous les employés de l'Eglise doivent 
-			se rendre à son appel. Le bureau sans nier en principe l'obligation de la part des deux pétitionnaires de se 
-			soumettre aux injonctions de Mr le Curé fait observer que tous les employés de l'Eglise moins les Clercs et les 
-			Enfants de Choeur, devant être nommés et révoqués par le bureau, il est juste que le bureau soit consulté sur 
-			l'opportunité d'une dérogation à leurs fonctions habituelles. Le président fait observer que si, d'une part, Mr le 
-			Curé a le droit de ne pas recevoir dans son Eglise, un employé qui ne lui convient pas, d'autre part le bureau 
-			serait dans son droit en refusant toute allocation à un employé non agréé par lui.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur le Prï¿½sident soumet au Bureau les rï¿½clamations qui lui ont ï¿½tï¿½ adressï¿½es 
+			par l'organiste et par le souffleur, au sujet de l'appel qui leur a ï¿½tï¿½ fait par Mr le Curï¿½ ï¿½ l'occasion de 
+			deux enterrements. Ils ont fait remarquer l'un et l'autre que les orgues n'ont pas ï¿½tï¿½ touchï¿½s dans les 
+			exercices prï¿½cï¿½dents et que l'exiguitï¿½ de leur traitement actuel ne permet pas de leur imposer cette charge 
+			extraordinaire. Mr le Curï¿½ rï¿½pond qu'ils ont ï¿½tï¿½ demandï¿½s par lui et que tous les employï¿½s de l'Eglise doivent 
+			se rendre ï¿½ son appel. Le bureau sans nier en principe l'obligation de la part des deux pï¿½titionnaires de se 
+			soumettre aux injonctions de Mr le Curï¿½ fait observer que tous les employï¿½s de l'Eglise moins les Clercs et les 
+			Enfants de Choeur, devant ï¿½tre nommï¿½s et rï¿½voquï¿½s par le bureau, il est juste que le bureau soit consultï¿½ sur 
+			l'opportunitï¿½ d'une dï¿½rogation ï¿½ leurs fonctions habituelles. Le prï¿½sident fait observer que si, d'une part, Mr le 
+			Curï¿½ a le droit de ne pas recevoir dans son Eglise, un employï¿½ qui ne lui convient pas, d'autre part le bureau 
+			serait dans son droit en refusant toute allocation ï¿½ un employï¿½ non agrï¿½ï¿½ par lui.
 			<BR>
-			Mr le Trésorier ajoute que les droits du Curé et ceux du Bureau sont nettement définis par le législateur, mais 
-			qu'une loi plus élevée que toute juridiction, celle des convenances, exige un mutuel accord sur cette question, 
-			comme sur toutes les autres, et que de même que le Bureau ne saurait donc manquer à ses obligations critiques 
-			et rejeter sans motifs sérieux, les propositions de Mr le Curé, le Curé ne doit pas être guidé dans ses 
-			déterminations par le Caprice ou les préventions. Il termine en ajoutant que tout service exceptionnel soit 
-			rétribué aux employés qui seraient appelés par Mr le Curé. Le Bureau consulté sur cette question déclare que les 
-			organistes et les souffleurs seront payés, à toutes les fois qu'on les appellera à un enterrement ou à un 
-			mariage, que sans cette condition ils sont autorisés à ne pas venir...
+			Mr le Trï¿½sorier ajoute que les droits du Curï¿½ et ceux du Bureau sont nettement dï¿½finis par le lï¿½gislateur, mais 
+			qu'une loi plus ï¿½levï¿½e que toute juridiction, celle des convenances, exige un mutuel accord sur cette question, 
+			comme sur toutes les autres, et que de mï¿½me que le Bureau ne saurait donc manquer ï¿½ ses obligations critiques 
+			et rejeter sans motifs sï¿½rieux, les propositions de Mr le Curï¿½, le Curï¿½ ne doit pas ï¿½tre guidï¿½ dans ses 
+			dï¿½terminations par le Caprice ou les prï¿½ventions. Il termine en ajoutant que tout service exceptionnel soit 
+			rï¿½tribuï¿½ aux employï¿½s qui seraient appelï¿½s par Mr le Curï¿½. Le Bureau consultï¿½ sur cette question dï¿½clare que les 
+			organistes et les souffleurs seront payï¿½s, ï¿½ toutes les fois qu'on les appellera ï¿½ un enterrement ou ï¿½ un 
+			mariage, que sans cette condition ils sont autorisï¿½s ï¿½ ne pas venir...
 			<BR>
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/7 pp 262 & 264</div>
 			Le vingt quatre mai mil huit cent cinquante sept
 			<BR>
-			... 7° Au tarif des dépenses facultatives seront ajoutés les droits dûs à la Fabrique et aux employés pour les orgues, 
-			si le service en est réclamé par les familles.
+			... 7ï¿½ Au tarif des dï¿½penses facultatives seront ajoutï¿½s les droits dï¿½s ï¿½ la Fabrique et aux employï¿½s pour les orgues, 
+			si le service en est rï¿½clamï¿½ par les familles.
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/6</div>
-			<div class="mondiv">Achat d'une Ophycléïde</div>
+			<div class="mondiv">Achat d'une Ophyclï¿½ï¿½de</div>
 			Le 11 juin 1857
 			<BR>
-			... 3° Mr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exposant que l'ophycleïde de l'église ne peut 
-			plus servir une somme de 80 frs est votée pour l'achat d'un neuf.
+			... 3ï¿½ Mr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exposant que l'ophycleï¿½de de l'ï¿½glise ne peut 
+			plus servir une somme de 80 frs est votï¿½e pour l'achat d'un neuf.
 			<BR>
 			<BR>
-			<div class="mondiv">ADY 11 J 24/6 f° 120 v°</div>
+			<div class="mondiv">ADY 11 J 24/6 fï¿½ 120 vï¿½</div>
 			Le 26 novembre 1857
 			<BR>
 			Achat pour l'orgue de choeur.
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Il serait acheté un petit trépied de fer ou en fonte destiné à mettre 
-			la braise et le charbon pour le service de l'organiste du choeur afin qu'il puisse se garantir du froid, ce trépied 
-			devant être assez élevé pour qu'il n'ait pas à se baisser continuellement et en outre deux bobèches pour les 
-			bougies dont il se sert et qui sans cette adjonction gâtent le clavier de l'orgue.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Il serait achetï¿½ un petit trï¿½pied de fer ou en fonte destinï¿½ ï¿½ mettre 
+			la braise et le charbon pour le service de l'organiste du choeur afin qu'il puisse se garantir du froid, ce trï¿½pied 
+			devant ï¿½tre assez ï¿½levï¿½ pour qu'il n'ait pas ï¿½ se baisser continuellement et en outre deux bobï¿½ches pour les 
+			bougies dont il se sert et qui sans cette adjonction gï¿½tent le clavier de l'orgue.
 			</P>
 			<BR>
 			<BR>
@@ -415,26 +415,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			</center>
 			<p align="justify">
 			<div class="mondiv">ADY 11 J 24/16</div>
-			20 février&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé l'abonnement pour l'accord des orgues 2 
+			20 fï¿½vrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ l'abonnement pour l'accord des orgues 2 
 			semestres 57 et 1 semerstre 1858
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			60,00
 			<BR>
 			<BR>
-			<div class="mondiv"><I>Référence à repréciser</I></div>
+			<div class="mondiv"><I>Rï¿½fï¿½rence ï¿½ reprï¿½ciser</I></div>
 			Le Dimanche de Quasimodo onze avril mil huit cent cinquante huit
 			<BR>
-			... Le traitement du serpent est maintenu malgré sa réclamation à 300 Frs jusqu'à nouvel ordre.
+			... Le traitement du serpent est maintenu malgrï¿½ sa rï¿½clamation ï¿½ 300 Frs jusqu'ï¿½ nouvel ordre.
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/6</div>
-			<div class="mondiv">Réclamation du serpent</div>
-			Séance du lundi 20 7bre 1858
+			<div class="mondiv">Rï¿½clamation du serpent</div>
+			Sï¿½ance du lundi 20 7bre 1858
 			<BR>
 			<p align="justify">
-			Un membre donne connaissance d'une réclamation du serpent de la cathédrale demandant une augmentation de traitement. 
-			Le bureau prend en considération la demande du sieur Thomas et en fera son rapport au conseil dans la séance du premier 
+			Un membre donne connaissance d'une rï¿½clamation du serpent de la cathï¿½drale demandant une augmentation de traitement. 
+			Le bureau prend en considï¿½ration la demande du sieur Thomas et en fera son rapport au conseil dans la sï¿½ance du premier 
 			dimanche d'octobre.
 			</p>
 			</FONT>
@@ -465,7 +465,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <BR>
 		   Boulevard Montparnasse, 49
 		   <BR>
-		   à Paris
+		   ï¿½ Paris
 		   <BR>
 		   (Merklin & Schultz successeurs)
 		   </P>
@@ -484,42 +484,42 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 		    <p align="justify">
-		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous étiez chargé depuis quelques années d'accorder tous les six mois les orgues 
-			de l'église st Etienne d'Auxerre pour le compte de la Fabrique dont je suis le Trésorier. Nous avons depuis 
-			peu de temps ici pris un artiste très habile qui accorde parfaitement, et comme en raison de la distance qui 
-			nous sépare de Paris, vous êtes obligé de nous demander un prix bien supérieur à celui qu'il nous demande 
-			pour le même travail, vous ne pouvez donc trouver mauvais que dans les intérêts de notre église, nous 
-			nous adressions désormais à lui pour l'accord de nos orgues. Mais en vous prévenant de ceci, la Fabrique tient 
-			bien à vous dire que ce n'est pas par suite de mécontentement contre vous ou vos employés qu'elle prend cette 
+		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous ï¿½tiez chargï¿½ depuis quelques annï¿½es d'accorder tous les six mois les orgues 
+			de l'ï¿½glise st Etienne d'Auxerre pour le compte de la Fabrique dont je suis le Trï¿½sorier. Nous avons depuis 
+			peu de temps ici pris un artiste trï¿½s habile qui accorde parfaitement, et comme en raison de la distance qui 
+			nous sï¿½pare de Paris, vous ï¿½tes obligï¿½ de nous demander un prix bien supï¿½rieur ï¿½ celui qu'il nous demande 
+			pour le mï¿½me travail, vous ne pouvez donc trouver mauvais que dans les intï¿½rï¿½ts de notre ï¿½glise, nous 
+			nous adressions dï¿½sormais ï¿½ lui pour l'accord de nos orgues. Mais en vous prï¿½venant de ceci, la Fabrique tient 
+			bien ï¿½ vous dire que ce n'est pas par suite de mï¿½contentement contre vous ou vos employï¿½s qu'elle prend cette 
 			mesure, mais seulement pour le motif que je vous indique. Nos fabriques de province ne sont pas riches, et elles 
-			doivent prendre les moyens qui se présentent pour diminuer leurs dépenses ; si les circonstances nous étaient 
-			plus favorables rien ne nous empêcherait alors de recourir comme par le passé à votre maison pour l'accord de 
+			doivent prendre les moyens qui se prï¿½sentent pour diminuer leurs dï¿½penses ; si les circonstances nous ï¿½taient 
+			plus favorables rien ne nous empï¿½cherait alors de recourir comme par le passï¿½ ï¿½ votre maison pour l'accord de 
 			nos orgues.
 			</P>
 			<BR>
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/6</div>
-			Séance du 16 Xbre 1858
+			Sï¿½ance du 16 Xbre 1858
 			<BR>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Président fait savoir au Bureau que nous avons à Avallon un facteur d'orgues 
-			qui a fait ses preuves à la dernière Exposition, que ce facteur accorde l'orgue de St Pierre, et qu'il pourra 
-			également accorder les orgues de notre cathédrale, à moindre frais que ne le peut faire un facteur de Paris. Le 
-			Bureau accepte avec empressement l'avis de Mr le Trésorier et le charge d'écrire immédiatement à la maison 
-			Ducroquet afin qu'elle n'ait plus à nous envoyer d'accordeur. Un membre fait observer qu'il pourrait bien y avoir 
-			un marché passé entre Mr le Curé et la maison Ducroquet et qu'il serait convenable de prendre des renseignements 
-			à ce sujet auprès de Mr Fortin.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Prï¿½sident fait savoir au Bureau que nous avons ï¿½ Avallon un facteur d'orgues 
+			qui a fait ses preuves ï¿½ la derniï¿½re Exposition, que ce facteur accorde l'orgue de St Pierre, et qu'il pourra 
+			ï¿½galement accorder les orgues de notre cathï¿½drale, ï¿½ moindre frais que ne le peut faire un facteur de Paris. Le 
+			Bureau accepte avec empressement l'avis de Mr le Trï¿½sorier et le charge d'ï¿½crire immï¿½diatement ï¿½ la maison 
+			Ducroquet afin qu'elle n'ait plus ï¿½ nous envoyer d'accordeur. Un membre fait observer qu'il pourrait bien y avoir 
+			un marchï¿½ passï¿½ entre Mr le Curï¿½ et la maison Ducroquet et qu'il serait convenable de prendre des renseignements 
+			ï¿½ ce sujet auprï¿½s de Mr Fortin.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Le Bureau après en avoir délibéré, décide toutefois, vu l'urgence, que 
-			Mr le Trésorier est chargé d'écrire immédiatement à Mr Chazelles, facteur d'orgues à Avallon pour qu'il puisse 
-			procéder avant les fêtes, à l'accord de nos orgues.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Le Bureau aprï¿½s en avoir dï¿½libï¿½rï¿½, dï¿½cide toutefois, vu l'urgence, que 
+			Mr le Trï¿½sorier est chargï¿½ d'ï¿½crire immï¿½diatement ï¿½ Mr Chazelles, facteur d'orgues ï¿½ Avallon pour qu'il puisse 
+			procï¿½der avant les fï¿½tes, ï¿½ l'accord de nos orgues.
 			</P>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/16</div>
 			25 Xbre
 			<BR>
-			à Mr Merry pour indemnité du travail pour la musique de l'orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			ï¿½ Mr Merry pour indemnitï¿½ du travail pour la musique de l'orgue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -539,7 +539,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<div class="mondiv">ADY 11 J 24/16</div> 
 			15 avril
 			<BR>
-			à Mr Chazelle pour l'accord des 2 orgues&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			ï¿½ Mr Chazelle pour l'accord des 2 orgues&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -566,9 +566,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
             <p align="justify">
 			Le dimanche seize janvier mil huit cent cinquante neuf
             <BR>
-            ... Me le Secrétaire donne lecture de la demande d'augmentation renouvelée par le jeune Thomas qui 
-            tient l'ophycléïde au choeur, le Conseil considérant qu'il y a justice à élever le traitement de ce 
-            musicien au niveau de celui des chantres, décide qu'à partir de ce jour, le sieur Thomas sera payé à 
+            ... Me le Secrï¿½taire donne lecture de la demande d'augmentation renouvelï¿½e par le jeune Thomas qui 
+            tient l'ophyclï¿½ï¿½de au choeur, le Conseil considï¿½rant qu'il y a justice ï¿½ ï¿½lever le traitement de ce 
+            musicien au niveau de celui des chantres, dï¿½cide qu'ï¿½ partir de ce jour, le sieur Thomas sera payï¿½ ï¿½ 
             raison de 340 Frs par an. 
 			</p>
          </td>
@@ -584,7 +584,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 		 <TD WIDTH="50%">
 		   <FONT size=4 color=#FFFFFF>
-		   24 février 1859
+		   24 fï¿½vrier 1859
 		   </FONT>
 		 </TD>
 		 <TD WIDTH="30%">
@@ -610,13 +610,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 		    <p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je le prie de passer chez moi à son premier passage à Auxerre quand il viendra 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je le prie de passer chez moi ï¿½ son premier passage ï¿½ Auxerre quand il viendra 
 			accorder les orgues de St Pierre, je m'entendrai avec lui pour celles de St Etienne.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Réponse qu'il viendra de suite si je ne puis attendre Pâques.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rï¿½ponse qu'il viendra de suite si je ne puis attendre Pï¿½ques.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je lui écris de nouveau qu'après avoir consulté les organistes, il n'est pas nécessaire 
-			qu'il fasse exprès pour nous le voyage d'Auxerre, et qu'avant Pâques il sera temps...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je lui ï¿½cris de nouveau qu'aprï¿½s avoir consultï¿½ les organistes, il n'est pas nï¿½cessaire 
+			qu'il fasse exprï¿½s pour nous le voyage d'Auxerre, et qu'avant Pï¿½ques il sera temps...
 			</P>
 			</FONT>
 		 </TD>
@@ -632,15 +632,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	     <TD WIDTH="80%">
 	        <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			<div class="mondiv">ADY 11 J 24/6 f° 159 r°</div>
+			<div class="mondiv">ADY 11 J 24/6 fï¿½ 159 rï¿½</div>
 			Le vingt neuf juillet mil huit cent cinquante neuf
 			<BR>
-			Mr Chazelles est accepté comme accordeur.
+			Mr Chazelles est acceptï¿½ comme accordeur.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Trésorier prévient le Bureau que Mr Chazelles, d'Avallon offre d'accorder 
-			deux fois par an les deux orgues de l'église et de venir une troisième fois s'il est nécessaire moyennant une 
-			rétribution annuelle de soixante francs. Le Bureau accueille cette proposition et accepte le choix fait par 
-			Mr le Trésorier, du nouvel accordeur.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Trï¿½sorier prï¿½vient le Bureau que Mr Chazelles, d'Avallon offre d'accorder 
+			deux fois par an les deux orgues de l'ï¿½glise et de venir une troisiï¿½me fois s'il est nï¿½cessaire moyennant une 
+			rï¿½tribution annuelle de soixante francs. Le Bureau accueille cette proposition et accepte le choix fait par 
+			Mr le Trï¿½sorier, du nouvel accordeur.
 			</P>
 			</FONT>
          </TD>
@@ -664,7 +664,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <div class="mondiv">ADY 11 J 24/10</div>
 		   Chazelles facteur d'orgues
 		   <BR>
-		   à Avallon
+		   ï¿½ Avallon
 		   </P>
 		   </FONT>
 		 </TD>
@@ -682,14 +682,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <FONT size=4 color=#FFFFFF>
 		    <p align="justify">
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je pensais que vous seriez venu en 7bre ou 8bre accorder nos orgues ainsi qu'il 
-			avait été convenu avec moi agissant au nom du Bureau de la Fabrique. Mme Barrois principalement se plaint que 
-			les grandes orgues ne marchent pas ; qu'en avril dernier vous n'aviez même fait qu'un accord incomplet parce 
-			que vous n'étiez pas assuré de pouvoir continuer ; et que depuis cette époque les grandes chaleurs et les 
-			grands froids ont rendu l'accord de son orgue indispensable ; que si on n'y procédait pas promptement, il 
-			pourrait arriver de graves dommages à son instrument.
+			avait ï¿½tï¿½ convenu avec moi agissant au nom du Bureau de la Fabrique. Mme Barrois principalement se plaint que 
+			les grandes orgues ne marchent pas ; qu'en avril dernier vous n'aviez mï¿½me fait qu'un accord incomplet parce 
+			que vous n'ï¿½tiez pas assurï¿½ de pouvoir continuer ; et que depuis cette ï¿½poque les grandes chaleurs et les 
+			grands froids ont rendu l'accord de son orgue indispensable ; que si on n'y procï¿½dait pas promptement, il 
+			pourrait arriver de graves dommages ï¿½ son instrument.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous transmets sa plainte, et je vous prie de venir le plus tôt que vous le 
-			pourrez faire le second accord de 1859 ; puis vous continuerez ensuite 2 foix par an comme vous faîtes à St 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous transmets sa plainte, et je vous prie de venir le plus tï¿½t que vous le 
+			pourrez faire le second accord de 1859 ; puis vous continuerez ensuite 2 foix par an comme vous faï¿½tes ï¿½ St 
 			Pierre.
 			<BR>
 			</P>
@@ -725,7 +725,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   </center>
 		   <BR>
 		   <div class="mondiv">ADY 11 J 24/12</div>
-		   Xbre. 20.&nbsp;&nbsp;&nbsp;&nbsp;A Mr Chazelle facteur d'orgues pour abonnement de l'année&nbsp;
+		   Xbre. 20.&nbsp;&nbsp;&nbsp;&nbsp;A Mr Chazelle facteur d'orgues pour abonnement de l'annï¿½e&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		   60,00
@@ -761,13 +761,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <BR>
 		   N A P O L E O N
 		   </b>,
-		   par la grâce de Dieu
+		   par la grï¿½ce de Dieu
 		   <BR>
 		   <BR>
-		   et la volonté nationale, Empereur des Français,
+		   et la volontï¿½ nationale, Empereur des Franï¿½ais,
 		   <BR>
 		   <BR>
-		   à tous présents et à venir,
+		   ï¿½ tous prï¿½sents et ï¿½ venir,
 		   <b>
 		      S A L U T
 		   </b>.
@@ -797,12 +797,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <BR>
 		   <BR>
 		   <img src="Invisible.gif" hspace="100">
-		   signé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  N A P O L E O N 
+		   signï¿½&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  N A P O L E O N 
 		   <BR>
 		   <BR>
 		   <BR>
 		   <img src="Invisible.gif" hspace="150">
-		   20 août 1860
+		   20 aoï¿½t 1860
 		   </p>
          </TD>
 		 <td width="10%">&nbsp;
@@ -835,7 +835,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <p align="justify"> 
 		   Le dimanche quatorze avril mil huit cent soixante et un
 		   <BR>
-		   ... La demande d'augmentation faite par Mad. Barrois, organiste, est ajournée.
+		   ... La demande d'augmentation faite par Mad. Barrois, organiste, est ajournï¿½e.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -876,9 +876,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 		    <p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous m'aviez écrit que vous viendriez avant l'Ascension accorder les orgues 
-			de la Cathédrale, nos organistes demandent qu'elles le soient promptement, et si c'était possible avant la 
-			Fête Dieu. Je vous prie donc de venir à cet effet cette semaine.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous m'aviez ï¿½crit que vous viendriez avant l'Ascension accorder les orgues 
+			de la Cathï¿½drale, nos organistes demandent qu'elles le soient promptement, et si c'ï¿½tait possible avant la 
+			Fï¿½te Dieu. Je vous prie donc de venir ï¿½ cet effet cette semaine.
 			</P>
 			</FONT>
 		 </TD>
@@ -908,9 +908,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="30%">
 		   <FONT size=4 color=#FFFFFF>
 		   <P ALIGN="LEFT">
-		   Cette lettre n'a pas été envoyée
+		   Cette lettre n'a pas ï¿½tï¿½ envoyï¿½e
 		   <BR>
-		   le jour même Chazelles a donné
+		   le jour mï¿½me Chazelles a donnï¿½
 		   <BR>
 		   une raison satisfaisante de son
 		   <BR>
@@ -931,11 +931,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 		    <p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je suis accablé de demandes par nos deux organistes relativement à l'accord des  
-			orgues ; il paraît qu'il est de nécessité absolue de ne pas attendre plus longtemps ; je vous ai adressé plusieurs 
-			lettres inutilement ; nous pensons que vous ne pouvez pas continuer à accorder les orgues de la cathédrale ; s'il 
-			en est ainsi écrivez-le moi ; votre silence passé ce mois aura le même résultat et si je ne reçois pas de réponse 
-			nous considérerons ce fait comme un désistement, la Fabrique s'adressera alors ailleurs.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je suis accablï¿½ de demandes par nos deux organistes relativement ï¿½ l'accord des  
+			orgues ; il paraï¿½t qu'il est de nï¿½cessitï¿½ absolue de ne pas attendre plus longtemps ; je vous ai adressï¿½ plusieurs 
+			lettres inutilement ; nous pensons que vous ne pouvez pas continuer ï¿½ accorder les orgues de la cathï¿½drale ; s'il 
+			en est ainsi ï¿½crivez-le moi ; votre silence passï¿½ ce mois aura le mï¿½me rï¿½sultat et si je ne reï¿½ois pas de rï¿½ponse 
+			nous considï¿½rerons ce fait comme un dï¿½sistement, la Fabrique s'adressera alors ailleurs.
 			</P>
 			</FONT>
 		 </TD>
@@ -966,7 +966,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 		 <TD WIDTH="50%">
 		   <FONT size=4 color=#FFFFFF>
-		   4 février 1862
+		   4 fï¿½vrier 1862
 		   </FONT>
 		 </TD>
 		 <TD WIDTH="30%">
@@ -991,28 +991,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 		    <p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En réponse à la lettre que vous m'adressez ce matin, j'ai l'honneur de vous 
-			rappeler ce que je vous ai dit lors de notre voyage : savoir que la dépense du nettoyage de l'orgue n'avait 
-			pas été autorisée par la fabrique, et ne figurait pas au budget de 1862, qu'en conséquence il m'était 
-			impossible de solder cette dépense sans un vote régulier du Conseil.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En rï¿½ponse ï¿½ la lettre que vous m'adressez ce matin, j'ai l'honneur de vous 
+			rappeler ce que je vous ai dit lors de notre voyage : savoir que la dï¿½pense du nettoyage de l'orgue n'avait 
+			pas ï¿½tï¿½ autorisï¿½e par la fabrique, et ne figurait pas au budget de 1862, qu'en consï¿½quence il m'ï¿½tait 
+			impossible de solder cette dï¿½pense sans un vote rï¿½gulier du Conseil.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous prie donc de ne pas faire tirer sur moi pour le mois de mai, ni pour 
-			cette année, car je serais obligé de refuser la traite. J'ai vu Mr Blin, à qui vous avez parlé le premier. 
-			De cette dépense, il m'a dit vous avoir simplement promis de proposer la dépense à la première réunions du 
-			Conseil ; je regrette que vous ne soyez pas venu me trouver de suite car c'est au Trésorier qui détient le 
-			budget et qui seul est responsable que l'on doit s'adresser pour savoir si telle ou telle dépense a été votée.
+			cette annï¿½e, car je serais obligï¿½ de refuser la traite. J'ai vu Mr Blin, ï¿½ qui vous avez parlï¿½ le premier. 
+			De cette dï¿½pense, il m'a dit vous avoir simplement promis de proposer la dï¿½pense ï¿½ la premiï¿½re rï¿½unions du 
+			Conseil ; je regrette que vous ne soyez pas venu me trouver de suite car c'est au Trï¿½sorier qui dï¿½tient le 
+			budget et qui seul est responsable que l'on doit s'adresser pour savoir si telle ou telle dï¿½pense a ï¿½tï¿½ votï¿½e.
 			<BR>
-			Vous vous seriez ainsi évité ce désagrément. Tout ce que je puis faire à présent, c'est de présenter votre 
-			lettre à la réunion de Quasimodo lors de l'établissement du budget de 1863, car pour cette année, je vous le 
-			répète le budget est voté, approuvé par Mgr et il y a des travaux considérables et autorisés à payer. Agréez Mr...
+			Vous vous seriez ainsi ï¿½vitï¿½ ce dï¿½sagrï¿½ment. Tout ce que je puis faire ï¿½ prï¿½sent, c'est de prï¿½senter votre 
+			lettre ï¿½ la rï¿½union de Quasimodo lors de l'ï¿½tablissement du budget de 1863, car pour cette annï¿½e, je vous le 
+			rï¿½pï¿½te le budget est votï¿½, approuvï¿½ par Mgr et il y a des travaux considï¿½rables et autorisï¿½s ï¿½ payer. Agrï¿½ez Mr...
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/8</div> 
 			9 mai 1862
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Mr le Trésorier ayant énuméré les différentes dettes de la fabrique, le 
-			Conseil déclare d'abord que le paiement de la réparation de l'Orgue de Choeur, faite sans autorisation 
-			préalable, sera ajournée à l'année 1864.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> Mr le Trï¿½sorier ayant ï¿½numï¿½rï¿½ les diffï¿½rentes dettes de la fabrique, le 
+			Conseil dï¿½clare d'abord que le paiement de la rï¿½paration de l'Orgue de Choeur, faite sans autorisation 
+			prï¿½alable, sera ajournï¿½e ï¿½ l'annï¿½e 1864.
 			</P>
 			</FONT>
 		 </TD>	
@@ -1041,7 +1041,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <div class="mondiv">ADY 11 J 24/10</div> 
-		          Chazelles facteur d'orgues à Avallon
+		          Chazelles facteur d'orgues ï¿½ Avallon
 		   	   </P>
 		       </FONT>
 		    </TD>
@@ -1058,51 +1058,51 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La réunion de la Fabrique pour délibérer sur le budget de 1863 vient d'avoir 
-			lieu ; j'"ai proposé d'inscrire aux dépenses du dit Budget les travaux que vous avez faits en janvier dernier, 
-			et le mémoire que vous m'avez présenté, lequel monte à 325 frs, pour nettoyage et accord général de l'orgue 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La rï¿½union de la Fabrique pour dï¿½libï¿½rer sur le budget de 1863 vient d'avoir 
+			lieu ; j'"ai proposï¿½ d'inscrire aux dï¿½penses du dit Budget les travaux que vous avez faits en janvier dernier, 
+			et le mï¿½moire que vous m'avez prï¿½sentï¿½, lequel monte ï¿½ 325 frs, pour nettoyage et accord gï¿½nï¿½ral de l'orgue 
 			de choeur.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plusieurs membres du Conseil ont trouvé ce travail fort coûteux et il ont exprimé 
-			le voeu de l'examen détaillé de cette note, et que vous soyiez prié de vérifier de nouveau l'ouvrage fait, et 
-			d'examiner scrupuleusement, s'il n'y aurait pas une diminution sensible à opérer sur votre mémoire.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plusieurs membres du Conseil ont trouvï¿½ ce travail fort coï¿½teux et il ont exprimï¿½ 
+			le voeu de l'examen dï¿½taillï¿½ de cette note, et que vous soyiez priï¿½ de vï¿½rifier de nouveau l'ouvrage fait, et 
+			d'examiner scrupuleusement, s'il n'y aurait pas une diminution sensible ï¿½ opï¿½rer sur votre mï¿½moire.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant au paiement à faire sur les fonds de 1863, la grande majorité du Conseil 
-			a été plus formellement encore en opposition avec la proposition que je présentais ; tous ces M.M. disaient 
-			qu'aucune dépense importante ne pouvait être faite sans l'assentiment du Conseil et sans discussion et 
-			délibérations préalables, que même en cas d'urgence il eut été facile d'obtenir une réunion extraordinaire 
-			qui aurait statué à cet effet. La Fabrique eût cependant, je le crois, inscrit cette dépense à con Budget de 
-			1863 sans une circonstance grave et imprévue qui l'en a empêchée. Elle est titulaire de rentes 4&#189; sur 
-			lesquelles par suite de la conversion en 3 % elle est obligée de payer en 1863 une somme de 2578 f 80. Cette 
-			lourde charge tombant inopinément sur des revenus restreints, et qui ont déjà leur emploi nécessaire et prévu 
-			pour le personnel et les frais ordinaires du Culte, a fait rejeter forcément toutes les autres dépenses qui 
-			n'étaient pas indispensables et celle-ci qui n'avait été autorisée par personne ; (et encore malgré ces rejets, 
-			le Budget se solde en déficit en raison de cette soulte). 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant au paiement ï¿½ faire sur les fonds de 1863, la grande majoritï¿½ du Conseil 
+			a ï¿½tï¿½ plus formellement encore en opposition avec la proposition que je prï¿½sentais ; tous ces M.M. disaient 
+			qu'aucune dï¿½pense importante ne pouvait ï¿½tre faite sans l'assentiment du Conseil et sans discussion et 
+			dï¿½libï¿½rations prï¿½alables, que mï¿½me en cas d'urgence il eut ï¿½tï¿½ facile d'obtenir une rï¿½union extraordinaire 
+			qui aurait statuï¿½ ï¿½ cet effet. La Fabrique eï¿½t cependant, je le crois, inscrit cette dï¿½pense ï¿½ con Budget de 
+			1863 sans une circonstance grave et imprï¿½vue qui l'en a empï¿½chï¿½e. Elle est titulaire de rentes 4&#189; sur 
+			lesquelles par suite de la conversion en 3 % elle est obligï¿½e de payer en 1863 une somme de 2578 f 80. Cette 
+			lourde charge tombant inopinï¿½ment sur des revenus restreints, et qui ont dï¿½jï¿½ leur emploi nï¿½cessaire et prï¿½vu 
+			pour le personnel et les frais ordinaires du Culte, a fait rejeter forcï¿½ment toutes les autres dï¿½penses qui 
+			n'ï¿½taient pas indispensables et celle-ci qui n'avait ï¿½tï¿½ autorisï¿½e par personne ; (et encore malgrï¿½ ces rejets, 
+			le Budget se solde en dï¿½ficit en raison de cette soulte). 
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je regrette donc beaucoup, d'avoir à vous prévenir qu'il me sera impossible, vu 
-			le vote du Conseil, de solder votre mémoire en 1863, je le présenterai de nouveau l'année prochaine afin de 
-			le faire inscrire pour les premiers fonds de l'année suivante, et je compte bien que les explications que vous 
-			pourrez fournir d'ici là aux membres de la Fabrique sur la nature du travail, et de meilleures circonstances 
-			pour nos ressources pécuniaires feront accorder immédiatement les fonds destinés à ce travail.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je regrette donc beaucoup, d'avoir ï¿½ vous prï¿½venir qu'il me sera impossible, vu 
+			le vote du Conseil, de solder votre mï¿½moire en 1863, je le prï¿½senterai de nouveau l'annï¿½e prochaine afin de 
+			le faire inscrire pour les premiers fonds de l'annï¿½e suivante, et je compte bien que les explications que vous 
+			pourrez fournir d'ici lï¿½ aux membres de la Fabrique sur la nature du travail, et de meilleures circonstances 
+			pour nos ressources pï¿½cuniaires feront accorder immï¿½diatement les fonds destinï¿½s ï¿½ ce travail.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je regrette encore plus, qu'avant de le commencer, vous ne soyez pas venu me 
-			trouver, je vous aurais instruit des règles de comptabilité auxquelles un Trésorier responsable est tenu de se 
-			soumettre, je vous aurais prévenu que sur l'exercice 1862, je n'avais aucun fonds disponible à ce sujet, et que 
+			trouver, je vous aurais instruit des rï¿½gles de comptabilitï¿½ auxquelles un Trï¿½sorier responsable est tenu de se 
+			soumettre, je vous aurais prï¿½venu que sur l'exercice 1862, je n'avais aucun fonds disponible ï¿½ ce sujet, et que 
 			pour 1863 je ne pouvais rien vous promettre avant un vote de la Fabrique.
 			<BR>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Croyez bien au surplus, Monsieur, que ce retard provient surtout des causes 
-			véritablement exceptionnelles que je vous signale et soyez bien assuré que s'il avait été en mon pouvoir de 
-			l'abréger, je l'aurais fait avec la plus grande satisfaction et que tout le Conseil aurait décidé ainsi pouvoir 
-			constater les difficultés qui se sont présentées.
+			vï¿½ritablement exceptionnelles que je vous signale et soyez bien assurï¿½ que s'il avait ï¿½tï¿½ en mon pouvoir de 
+			l'abrï¿½ger, je l'aurais fait avec la plus grande satisfaction et que tout le Conseil aurait dï¿½cidï¿½ ainsi pouvoir 
+			constater les difficultï¿½s qui se sont prï¿½sentï¿½es.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agréez...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agrï¿½ez...
 			</P>
 			<BR>
 			<BR>
 			Suivent des comptes de 1862, avec :
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>... </B>plus vingt neuf francs cinquante (le 2ème trimestre) pour exécution 
-			du chant et location d'un orgue pendant la station du Carême du mois de mai.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>... </B>plus vingt neuf francs cinquante (le 2ï¿½me trimestre) pour exï¿½cution 
+			du chant et location d'un orgue pendant la station du Carï¿½me du mois de mai.
 			<p></P>
 			</FONT>
 		 </TD>
@@ -1131,7 +1131,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="LEFT">
-		          Chazelles facteur d'orgues à Avallon
+		          Chazelles facteur d'orgues ï¿½ Avallon
 		   	   </P>
 		       </FONT>
 		    </TD>
@@ -1148,10 +1148,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mme Barrois vient se plaindre à moi que son orgue n'est pas d'accord, et qu'elle 
-			désirerait beaucoup que vous puissiez faire votre tournée d'été le plus tôt possible avant les fêtes qui 
-			restent dans cette saison, j'espère donc que vous pourrez venir accorder nos orgues avant le 14 juillet, jour 
-			où Mgr officiera à la Cathédrale. Les travaux que vous faites à St Pierre vous rendront ce voyage plus facile 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mme Barrois vient se plaindre ï¿½ moi que son orgue n'est pas d'accord, et qu'elle 
+			dï¿½sirerait beaucoup que vous puissiez faire votre tournï¿½e d'ï¿½tï¿½ le plus tï¿½t possible avant les fï¿½tes qui 
+			restent dans cette saison, j'espï¿½re donc que vous pourrez venir accorder nos orgues avant le 14 juillet, jour 
+			oï¿½ Mgr officiera ï¿½ la Cathï¿½drale. Les travaux que vous faites ï¿½ St Pierre vous rendront ce voyage plus facile 
 			en ce moment.
 			</P>
 			</FONT>
@@ -1206,41 +1206,41 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorsque votre lettre m'est arrivée, je voulais vous faire savoir que la somme de 
-			60 frs dont la Fabrique est débitrice pour l'accord des 2 orgues était à votre disposition et que je décidais 
-			même que vous puissiez désormais toucher cette petite somme au 15 Xbre afin que selon le v&#156;u du Conseil les 
-			dépenses soient toujours faites pendant le cours de l'exercice et n'empiét(ass)ent(!) pas d'une année sur 
-			l'autre. Veuillez donc pour cet objet faire présenter votre quittance de 60 frs le plus tôt possible, et pour 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorsque votre lettre m'est arrivï¿½e, je voulais vous faire savoir que la somme de 
+			60 frs dont la Fabrique est dï¿½bitrice pour l'accord des 2 orgues ï¿½tait ï¿½ votre disposition et que je dï¿½cidais 
+			mï¿½me que vous puissiez dï¿½sormais toucher cette petite somme au 15 Xbre afin que selon le v&#156;u du Conseil les 
+			dï¿½penses soient toujours faites pendant le cours de l'exercice et n'empiï¿½t(ass)ent(!) pas d'une annï¿½e sur 
+			l'autre. Veuillez donc pour cet objet faire prï¿½senter votre quittance de 60 frs le plus tï¿½t possible, et pour 
 			l'accord de 1863 ne pas attendre 1864 ; au mois de Xbre prochain, vous pourrez me faire tenir si je suis encore 
-			Trésorier pareille quittance de 60 frs.
+			Trï¿½sorier pareille quittance de 60 frs.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant à l'objet principal de votre lettre et à la demande de paiement de la 
-			réparation du petit orgue je la	 transmettrai dans la première réunion, mais je regrette de vous dire que je doute 
-			beaucoup qu'elle puisse être admise de suite ; les raisons que je vous ai déduites (!) dans ma lettre du 22 mai 
-			subsistent entièrement. Quelqu'ait été l'urgence et quelque fut votre conversation avec un membre de la fabrique 
-			j'ai les mains liées par le vote du Conseil, et par le Budget qui ne <U>prescrit</U> dans les recettes prévues 
-			<U>de payer les seules dépenses adoptées</U>. Le Conseil me rappelle que la personne à laquelle vous faites 
-			allusion dans votre lettre, en rendant compte de ce qui s'était passé, a cru qu'il s'agissait d'une petite 
-			opération qui ne dépasserait pas 100 frs et alors dans sa pensée et attendu l'urgence que vous signaliez ce 
-			membre a pu dire en conversation qu'il approuverait cette dépense mais de là à un vote de 325 frs qui dût être 
-			fait par tout le Conseil et question Budget, il y a bien sûr des motifs qu'il serait bien long et superflu de 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant ï¿½ l'objet principal de votre lettre et ï¿½ la demande de paiement de la 
+			rï¿½paration du petit orgue je la	 transmettrai dans la premiï¿½re rï¿½union, mais je regrette de vous dire que je doute 
+			beaucoup qu'elle puisse ï¿½tre admise de suite ; les raisons que je vous ai dï¿½duites (!) dans ma lettre du 22 mai 
+			subsistent entiï¿½rement. Quelqu'ait ï¿½tï¿½ l'urgence et quelque fut votre conversation avec un membre de la fabrique 
+			j'ai les mains liï¿½es par le vote du Conseil, et par le Budget qui ne <U>prescrit</U> dans les recettes prï¿½vues 
+			<U>de payer les seules dï¿½penses adoptï¿½es</U>. Le Conseil me rappelle que la personne ï¿½ laquelle vous faites 
+			allusion dans votre lettre, en rendant compte de ce qui s'ï¿½tait passï¿½, a cru qu'il s'agissait d'une petite 
+			opï¿½ration qui ne dï¿½passerait pas 100 frs et alors dans sa pensï¿½e et attendu l'urgence que vous signaliez ce 
+			membre a pu dire en conversation qu'il approuverait cette dï¿½pense mais de lï¿½ ï¿½ un vote de 325 frs qui dï¿½t ï¿½tre 
+			fait par tout le Conseil et question Budget, il y a bien sï¿½r des motifs qu'il serait bien long et superflu de 
 			vous ... , la Fabrique de St Etienne est plus que tout autre tenue d'observer simplement et rigoureusement les 
-			règles de comptabilité. Sans la dépense extraordinaire et imprévue qui est tombée ... de payer 2578 de soulte 
-			<U>ce qui nous prive de plus d'une année de ressources</U> le Conseil a admis la réparation de l'orgue pour 
-			1864, mais vu cette dépense si considérable, il sera impossible de porter l'orgue ailleurs qu'au budget de 1864 
-			à moins qu'il ne nous vienne pour 1864 une ressource imprévue telle que don ou legs.
+			rï¿½gles de comptabilitï¿½. Sans la dï¿½pense extraordinaire et imprï¿½vue qui est tombï¿½e ... de payer 2578 de soulte 
+			<U>ce qui nous prive de plus d'une annï¿½e de ressources</U> le Conseil a admis la rï¿½paration de l'orgue pour 
+			1864, mais vu cette dï¿½pense si considï¿½rable, il sera impossible de porter l'orgue ailleurs qu'au budget de 1864 
+			ï¿½ moins qu'il ne nous vienne pour 1864 une ressource imprï¿½vue telle que don ou legs.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyez assuré que si cela arrivait et si par quelque moyen que ce soit il était 
-			possible d'avancer ce paiement je ferai toutes les instances nécessaires pour cela, je présenterai donc votre 
-			demande au Conseil pour la prochaine réunion de Quasimodo ; je ne doute pas que le Conseil ne l'adopte pour le 
-			Budget de 1864. Dans ce cas vous pourriez compter sur la somme au moyen des 1ers fonds disponibles c-à-d aux premiers 
-			jours de janvier prochain, et je répète que s'il nous arrivait une ressource extraordinaire je demanderais 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soyez assurï¿½ que si cela arrivait et si par quelque moyen que ce soit il ï¿½tait 
+			possible d'avancer ce paiement je ferai toutes les instances nï¿½cessaires pour cela, je prï¿½senterai donc votre 
+			demande au Conseil pour la prochaine rï¿½union de Quasimodo ; je ne doute pas que le Conseil ne l'adopte pour le 
+			Budget de 1864. Dans ce cas vous pourriez compter sur la somme au moyen des 1ers fonds disponibles c-ï¿½-d aux premiers 
+			jours de janvier prochain, et je rï¿½pï¿½te que s'il nous arrivait une ressource extraordinaire je demanderais 
 			alors au Conseil l'autorisation de l'appliquer de suite et par avance au paiement que vous demandez. Vous 
-			pouvez donc compter sur tout mon concours dans la limite des possibilités et autant que le Conseil de Fabrique 
-			m'y autorisera car je n'ai qu'une voix au chapître.
+			pouvez donc compter sur tout mon concours dans la limite des possibilitï¿½s et autant que le Conseil de Fabrique 
+			m'y autorisera car je n'ai qu'une voix au chapï¿½tre.
 			</P>
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agréez...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agrï¿½ez...
          </td>
          <td width="10%">&nbsp;
 		    
@@ -1261,13 +1261,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify"> 
 			Cejourd'hui quatre mars mil huit cent soixante trois.
 			<BR>
-			Demande de Mr Chazelles pour réparation de l'orgue de choeur.
+			Demande de Mr Chazelles pour rï¿½paration de l'orgue de choeur.
 			<BR>
-			Mr le Curé demande des explications au sujet d'une somme de 325 fr que Mr le Trésorier propose de porter au budget 
-			de 1864 pour le paiement d'un mémoire de Mr Chazelles, facteur d'orgues, qui a, sans ordre du Bureau, réparé l'orgue de choeur.
-			Les explications ne se trouvant pas comprises audit mémoire, le Bureau décide qu'il sera sursis à ce réglement 
-			jusqu'à nouvel ordre, et charge le Trésorier de recueillir les renseignements nécessaires pour édifier le Conseil 
-			à qui la question est renvoyée.
+			Mr le Curï¿½ demande des explications au sujet d'une somme de 325 fr que Mr le Trï¿½sorier propose de porter au budget 
+			de 1864 pour le paiement d'un mï¿½moire de Mr Chazelles, facteur d'orgues, qui a, sans ordre du Bureau, rï¿½parï¿½ l'orgue de choeur.
+			Les explications ne se trouvant pas comprises audit mï¿½moire, le Bureau dï¿½cide qu'il sera sursis ï¿½ ce rï¿½glement 
+			jusqu'ï¿½ nouvel ordre, et charge le Trï¿½sorier de recueillir les renseignements nï¿½cessaires pour ï¿½difier le Conseil 
+			ï¿½ qui la question est renvoyï¿½e.
 			</p>
 			<BR>
 			<BR>
@@ -1281,23 +1281,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			Chazelles...
 			<BR>
-			Le Bureau de la Fabrique  ayant préparé le Budget de 1864 qui doit être discuté et voté par la Conseil à Quasimodo prochain,
-			j'ai présenté votre mémoire de 325 frs pour nettoyage de l'orgue de choeur mais ce mémoire a été contesté par plusieurs 
-			membres, d'abord parce que le travail a été fait sans ordre ni vote de personne, puis parce que votre mémoire ne 
-			présente aucun détail, aucune constatation du temps passé et de la réparation nécessaire ; je dois donc vous dire 
-			qu'après cette discussion préparatoire, je crains beaucoup que le Conseil ne se montre pas aussi favorable que je l'avias 
-			pensé d'abord, et que, contrairement à ce que je vous ai écrit le 22 janvier dernier, il serait possible que cette 
-			dpense fût rejetée ou du moins fortement amoindrie. Je pense que vous aurez l'occasion de venir ici avant Quasimodo, ne 
-			fut-ce que pour le premier accord de l'année.
+			Le Bureau de la Fabrique  ayant prï¿½parï¿½ le Budget de 1864 qui doit ï¿½tre discutï¿½ et votï¿½ par la Conseil ï¿½ Quasimodo prochain,
+			j'ai prï¿½sentï¿½ votre mï¿½moire de 325 frs pour nettoyage de l'orgue de choeur mais ce mï¿½moire a ï¿½tï¿½ contestï¿½ par plusieurs 
+			membres, d'abord parce que le travail a ï¿½tï¿½ fait sans ordre ni vote de personne, puis parce que votre mï¿½moire ne 
+			prï¿½sente aucun dï¿½tail, aucune constatation du temps passï¿½ et de la rï¿½paration nï¿½cessaire ; je dois donc vous dire 
+			qu'aprï¿½s cette discussion prï¿½paratoire, je crains beaucoup que le Conseil ne se montre pas aussi favorable que je l'avias 
+			pensï¿½ d'abord, et que, contrairement ï¿½ ce que je vous ai ï¿½crit le 22 janvier dernier, il serait possible que cette 
+			dpense fï¿½t rejetï¿½e ou du moins fortement amoindrie. Je pense que vous aurez l'occasion de venir ici avant Quasimodo, ne 
+			fut-ce que pour le premier accord de l'annï¿½e.
 			<BR>
-			Veuillez donc alors passer chez moi et me donner des détails plus complets sur ce nettoyage, puis me laisser ou m'envoyer 
-			une note très explicite et très détaillée, indiquant la nature de l'ouvrage, le temps que vous avez passé, le nombre d'employés, 
-			etc., tout cela servira à éclairer le Conseil, et à justifier l'importance de la somme que vous demandez pour le budget de 
+			Veuillez donc alors passer chez moi et me donner des dï¿½tails plus complets sur ce nettoyage, puis me laisser ou m'envoyer 
+			une note trï¿½s explicite et trï¿½s dï¿½taillï¿½e, indiquant la nature de l'ouvrage, le temps que vous avez passï¿½, le nombre d'employï¿½s, 
+			etc., tout cela servira ï¿½ ï¿½clairer le Conseil, et ï¿½ justifier l'importance de la somme que vous demandez pour le budget de 
 			1864.
 			<BR>
-			Agréez...
+			Agrï¿½ez...
 			<BR>
-			Vous feriez peut-être même bien d'adresser à ce sujet une lettre explicative à Mr le Président et à M.M. les membres de la 
+			Vous feriez peut-ï¿½tre mï¿½me bien d'adresser ï¿½ ce sujet une lettre explicative ï¿½ Mr le Prï¿½sident et ï¿½ M.M. les membres de la 
 			Fabrique
 			</P>
 			</FONT>
@@ -1319,7 +1319,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <BR>
 		   (de l'orgue de choeur
 		   <BR>
-		   nouvelle réclamation
+		   nouvelle rï¿½clamation
 		   <BR>
 		   du facteur)
 		   </FONT>
@@ -1330,7 +1330,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		   <P ALIGN="LEFT">
 		   Le facteur d'orgues Chazelles renouvelle
 		   <BR>
-		   par l'organe de Mr le Trésorier, sa demande
+		   par l'organe de Mr le Trï¿½sorier, sa demande
 		   <BR>
 		   de 325 frs pour nettoiement complet de
 		   <BR>
@@ -1350,9 +1350,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 		 <TD WIDTH="80%">
 		 <FONT size=4 color=#FFFFFF>
-		    Aucune pièce n'étant présentée pour contrôler cette dépense et justifier la fixation du chiffre, il est décidé que des 
-			renseignements seront pris, à Paris à ce sujet, et afin de solder cette réparation, s'il y a lieu, l'article des 
-			dépenses imprévues est augmenté de 200 frs et porté à 600 frs. L'ensemble du budget est adopté...
+		    Aucune piï¿½ce n'ï¿½tant prï¿½sentï¿½e pour contrï¿½ler cette dï¿½pense et justifier la fixation du chiffre, il est dï¿½cidï¿½ que des 
+			renseignements seront pris, ï¿½ Paris ï¿½ ce sujet, et afin de solder cette rï¿½paration, s'il y a lieu, l'article des 
+			dï¿½penses imprï¿½vues est augmentï¿½ de 200 frs et portï¿½ ï¿½ 600 frs. L'ensemble du budget est adoptï¿½...
 			</P>
 			</FONT>
 		 </TD>
@@ -1387,18 +1387,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<p align="justify">
             Suivent des comptes, dont :
 			<BR>
-			Xbre. 20. A Mr Gropin, facteur d'orgue, pour réparation à l'orgue du choeur et adjonction de pédales suivant 
+			Xbre. 20. A Mr Gropin, facteur d'orgue, pour rï¿½paration ï¿½ l'orgue du choeur et adjonction de pï¿½dales suivant 
 			un vote du Conseil................................................................................................................
 			&nbsp;&nbsp;&nbsp;60,25
 			<BR>
-			Juin. 10. A Mr Chazelle pour nettoyage complet fait en 1862 à l'orgue de choeur........ 200,00
+			Juin. 10. A Mr Chazelle pour nettoyage complet fait en 1862 ï¿½ l'orgue de choeur........ 200,00
 			<BR>
 			<BR>
 			<div class="mondiv">ADY 11 J 24/6</div>
-			Le 19 mars le Trésorier fait connaître au Bureau qu'il s'est mis en rapport avec un facteur de Paris ; que ce dernier 
-			a examiné le travail fait par Chazelles, qu'il a estimé ce travail à 200 frs au moins, 250 frs au plus.
+			Le 19 mars le Trï¿½sorier fait connaï¿½tre au Bureau qu'il s'est mis en rapport avec un facteur de Paris ; que ce dernier 
+			a examinï¿½ le travail fait par Chazelles, qu'il a estimï¿½ ce travail ï¿½ 200 frs au moins, 250 frs au plus.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau décide qu'on réglera cette affaire au prix de 200 frs.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau dï¿½cide qu'on rï¿½glera cette affaire au prix de 200 frs.
 			</P>
 			</FONT>
 		 </TD>
@@ -1437,21 +1437,21 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tous les membres de la Fabrique ont plusieurs fois exprimé leur plainte au sujet 
-			du délaissement dans lequel vous laissiez nos orgues. Il a été en mainte occasion question de vous faire remplacer 
-			puisque vous n'exposiez pas même les motifs qui vous empêchaient de venir ; cependant comme il a été sursit à cet 
-			égard, et que Mr ... qui s'était chargé <U>provisoirement en votre place</U>, n'a pas encore commencé, vous pouvez 
-			venir accorder nos orgues qui en ont grand besoin, et je suis assailli à chaque instant de réclamations par les 
-			Organistes. Je vous engage pour tous ces motifs à venir même dans les plus brefs délais.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tous les membres de la Fabrique ont plusieurs fois exprimï¿½ leur plainte au sujet 
+			du dï¿½laissement dans lequel vous laissiez nos orgues. Il a ï¿½tï¿½ en mainte occasion question de vous faire remplacer 
+			puisque vous n'exposiez pas mï¿½me les motifs qui vous empï¿½chaient de venir ; cependant comme il a ï¿½tï¿½ sursit ï¿½ cet 
+			ï¿½gard, et que Mr ... qui s'ï¿½tait chargï¿½ <U>provisoirement en votre place</U>, n'a pas encore commencï¿½, vous pouvez 
+			venir accorder nos orgues qui en ont grand besoin, et je suis assailli ï¿½ chaque instant de rï¿½clamations par les 
+			Organistes. Je vous engage pour tous ces motifs ï¿½ venir mï¿½me dans les plus brefs dï¿½lais.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous avais aussi dans ma dernière lettre demandé des explications au sujet du 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Je vous avais aussi dans ma derniï¿½re lettre demandï¿½ des explications au sujet du 
 			nettoiement de l'orgue de choeur que vous avez fait il y a 18 mois sans autorisation ; sur votre silence 
-			continuel, la Fabrique a passé outre et a fait expertiser par un homme compétent. Après l'expertise il a été décidé 
-			que le Trésorier pourrait solder jusqu'à concurrence d'une somme de 200 frs au maximum.
+			continuel, la Fabrique a passï¿½ outre et a fait expertiser par un homme compï¿½tent. Aprï¿½s l'expertise il a ï¿½tï¿½ dï¿½cidï¿½ 
+			que le Trï¿½sorier pourrait solder jusqu'ï¿½ concurrence d'une somme de 200 frs au maximum.
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A votre premier voyage, veuillez vous présenter chez moi et
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A votre premier voyage, veuillez vous prï¿½senter chez moi et
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agréez...
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agrï¿½ez...
 			</P>
 			</FONT>
 		 </TD>
@@ -1501,7 +1501,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			   <I>Dépenses lors de la visite de Leurs Majestés Impériales à la Cathédrale, le 6 mai
+			   <I>Dï¿½penses lors de la visite de Leurs Majestï¿½s Impï¿½riales ï¿½ la Cathï¿½drale, le 6 mai
 			   </I>
 			</P>
 		 </font></TD>
@@ -1548,9 +1548,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En faisant quelques appropriations à la Cathédrale, il est tombé sans doute des plâtres de 
-			   démolition dans les tuyaux et sur les soupapes du grand orgue, car <B>rien ne veut plus marcher</B>. Nous avons 
-			   Dimanche 29 les lères Communions et Mardi Confirmation. Il serait donc urgent que vous <U>veniez de nuit</U> (ou de 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En faisant quelques appropriations ï¿½ la Cathï¿½drale, il est tombï¿½ sans doute des plï¿½tres de 
+			   dï¿½molition dans les tuyaux et sur les soupapes du grand orgue, car <B>rien ne veut plus marcher</B>. Nous avons 
+			   Dimanche 29 les lï¿½res Communions et Mardi Confirmation. Il serait donc urgent que vous <U>veniez de nuit</U> (ou de 
 			   <U>suite</U>)(?) <U>ici demain ou samedi au plus tard</U> accorder de nouveau cet orgue et voir ce qu"'il y manque. il y 
 			   a urgence, n'y manquez donc pas.  
 			</P>
@@ -1575,7 +1575,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
-		          Séance du 30 août 1866
+		          Sï¿½ance du 30 aoï¿½t 1866
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="10%">&nbsp;
@@ -1594,13 +1594,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </FONT>
 			<FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Sieur Mélotat nommé provisoirement organiste au choeur.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Sieur Mï¿½lotat nommï¿½ provisoirement organiste au choeur.
 			   <BR>
-			   Un membre dit que pour ce qui concerne le jeune Louis Mélotat, proposé par Mr le Curé pour remplacer l'organiste qui a 
-			   quitté la ville, les renseignements pris permettent d'espérer qu'il remplira correctement ses fonctions surtout si des 
-			   avertissements préalables le prémunissent contre toute infraction au réglement qui lui sera présenté.
+			   Un membre dit que pour ce qui concerne le jeune Louis Mï¿½lotat, proposï¿½ par Mr le Curï¿½ pour remplacer l'organiste qui a 
+			   quittï¿½ la ville, les renseignements pris permettent d'espï¿½rer qu'il remplira correctement ses fonctions surtout si des 
+			   avertissements prï¿½alables le prï¿½munissent contre toute infraction au rï¿½glement qui lui sera prï¿½sentï¿½.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau consulté nomme provisoirement aux fonctions d'organiste le nommé Louis Mélotat 
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau consultï¿½ nomme provisoirement aux fonctions d'organiste le nommï¿½ Louis Mï¿½lotat 
 			   dont le traitement partira d'aujourd'hui, jour de son admission par le Bureau. 
 			</P>
 			</FONT>
@@ -1658,12 +1658,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos organistes nous demandent avec instance que vous veniez accorder nos deux orgues avant 
-			   Pâques et la semaine prochaine plutôt que la Seamine Sainte afin de ne pas gêner les offices ni les confessions.
+			   Pï¿½ques et la semaine prochaine plutï¿½t que la Seamine Sainte afin de ne pas gï¿½ner les offices ni les confessions.
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La grande humidité de l'hiver a mis, disent nos organistes, nos instruments en grand 
-			   désaccord pricipalement le grand orgue. Veuillez donc tout mettre en harmonie avant la grande fête de Pâques et
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La grande humiditï¿½ de l'hiver a mis, disent nos organistes, nos instruments en grand 
+			   dï¿½saccord pricipalement le grand orgue. Veuillez donc tout mettre en harmonie avant la grande fï¿½te de Pï¿½ques et
 			   <BR>
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agréez...
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agrï¿½ez...
 			</P>
 			</FONT>
 		 </TD>
@@ -1718,10 +1718,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		    <FONT size=4 color=#FFFFFF>
 			<p align="justify">
-			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorsqu'il y a quelques années nous vous avons chargé de l'accord de nos 2 orgues en 
-			   priant les employés de la maison Ducroquet de cesser le service qu'ils faisaient jusque là ... c'était dans l'espoir 
-			   que nos instruments seraient ... un facteur habile si proche de notre ville, nous étions heureux de lui procurer notre 
-			   petite clientèle.
+			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorsqu'il y a quelques annï¿½es nous vous avons chargï¿½ de l'accord de nos 2 orgues en 
+			   priant les employï¿½s de la maison Ducroquet de cesser le service qu'ils faisaient jusque lï¿½ ... c'ï¿½tait dans l'espoir 
+			   que nos instruments seraient ... un facteur habile si proche de notre ville, nous ï¿½tions heureux de lui procurer notre 
+			   petite clientï¿½le.
 			</P>
 			</FONT>
 		 </TD>
@@ -1752,7 +1752,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
-		          Suivent des comptes et budgets concernant les organistes et souffleurs, ainsi que les abonnements à Chazelles.
+		          Suivent des comptes et budgets concernant les organistes et souffleurs, ainsi que les abonnements ï¿½ Chazelles.
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="10%">&nbsp;
@@ -1783,68 +1783,68 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="center">
-			      <B>Le département de l'Yonne
+			      <B>Le dï¿½partement de l'Yonne
 				  <BR>
-				  comme Diocèse</B>
+				  comme Diocï¿½se</B>
 				  <BR>
 				  Alype-Jean NOIROT
 				  <BR>
 				  Tome 2
 				  <BR>
-				  Quand refleurissent les déserts (1844-1875)
+				  Quand refleurissent les dï¿½serts (1844-1875)
 			   </P>
 				  <p align="justify">
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> En 1852, l'abbé VIALA proposait qu'on mit un peu d'ordre dans ces 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>...</B> En 1852, l'abbï¿½ VIALA proposait qu'on mit un peu d'ordre dans ces 
 				  restaurations.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>C'est le temps où les orgues s'installent jusque dans les villages :
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>C'est le temps oï¿½ les orgues s'installent jusque dans les villages :
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;à Villevallier, le 31 août 1866<SUP><font color="#ff0000">1</FONT></SUP> ; le 12 mars 
-				  1865 à Sergines<SUP><font color="#ff0000">2</FONT></SUP> en attendant que, passée la guerre de 1870-1871, une 
-				  véritable épidémie se propage dans ce luxueux besoin.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ï¿½ Villevallier, le 31 aoï¿½t 1866<SUP><font color="#ff0000">1</FONT></SUP> ; le 12 mars 
+				  1865 ï¿½ Sergines<SUP><font color="#ff0000">2</FONT></SUP> en attendant que, passï¿½e la guerre de 1870-1871, une 
+				  vï¿½ritable ï¿½pidï¿½mie se propage dans ce luxueux besoin.
                   <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jusqu'alors l'engouement, cultivé à grand renfort de recommandations épiscopales et de 
-				  certifications ministérielles, pour petites bourses notamment, outre les "serpents", s'était porté sur des appareils 
-				  musicaux transformés grâce à l'invention du curé de Villeblevin, Clergeau, d'un "<B>mécanisme musical de 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jusqu'alors l'engouement, cultivï¿½ ï¿½ grand renfort de recommandations ï¿½piscopales et de 
+				  certifications ministï¿½rielles, pour petites bourses notamment, outre les "serpents", s'ï¿½tait portï¿½ sur des appareils 
+				  musicaux transformï¿½s grï¿½ce ï¿½ l'invention du curï¿½ de Villeblevin, Clergeau, d'un "<B>mï¿½canisme musical de 
 				  transposition</B>".
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'archevêque en avait par une lettre circulaire du 19 mars 1845, chaleureusement 
-				  félicité l'inventeur : "<B>Votre découverte</B>, notait-il, <B>doit être d'une grande utilité pour la propagation et 
-				  pour la popularité de la musique d'orgue qu'il est si désirable de voir employer dans toutes les églises pour 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'archevï¿½que en avait par une lettre circulaire du 19 mars 1845, chaleureusement 
+				  fï¿½licitï¿½ l'inventeur : "<B>Votre dï¿½couverte</B>, notait-il, <B>doit ï¿½tre d'une grande utilitï¿½ pour la propagation et 
+				  pour la popularitï¿½ de la musique d'orgue qu'il est si dï¿½sirable de voir employer dans toutes les ï¿½glises pour 
 				  l'accompagnement du plain-chant et des cantiques</B>".
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La démonstration faite devant Mgr Joly de ce que nous connaissons sous le nom de "
-				  </I>transpositeur<I>" devait enthousiasmer l'archevêque : "<B>Je vous félicite donc bien sincérement de vos 
-				  succès et du bon service que vous rendez aux pompes religieuses. Donnez à votre découverte tous les développements 
-				  qui puissent la rendre d'une utilité générale. Vous savez quelle est votre première démarche à faire. Les moyens de 
-				  publicité ne vous manquerons pas, et ils auront certainement un résultat favorable. Vous pouvez compter sur mon concours 
-				  pour propager l'emploi et l'application de votre découverte. Je la verrai avec plaisir s'introduire sur l'orgue du 
-				  choeur de la métropole, dans mes grand et petit séminaires, et dans toutes les paroisses de mon diocèse</B>".
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dï¿½monstration faite devant Mgr Joly de ce que nous connaissons sous le nom de "
+				  </I>transpositeur<I>" devait enthousiasmer l'archevï¿½que : "<B>Je vous fï¿½licite donc bien sincï¿½rement de vos 
+				  succï¿½s et du bon service que vous rendez aux pompes religieuses. Donnez ï¿½ votre dï¿½couverte tous les dï¿½veloppements 
+				  qui puissent la rendre d'une utilitï¿½ gï¿½nï¿½rale. Vous savez quelle est votre premiï¿½re dï¿½marche ï¿½ faire. Les moyens de 
+				  publicitï¿½ ne vous manquerons pas, et ils auront certainement un rï¿½sultat favorable. Vous pouvez compter sur mon concours 
+				  pour propager l'emploi et l'application de votre dï¿½couverte. Je la verrai avec plaisir s'introduire sur l'orgue du 
+				  choeur de la mï¿½tropole, dans mes grand et petit sï¿½minaires, et dans toutes les paroisses de mon diocï¿½se</B>".
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joignant l'acte à la promesse, l'archevêque fait insérer au dos de la lettre d'invite à la 
-				  retraite ecclésiastique, datée du 23 juillet suivant, à l'intention de tous les curés du diocèse : "<B>M. Clergeau, 
-				  desservant de Villeblevin fait prévenir MM les curés du diocèse que l'</B></I>ORGUE TRANSPOSITEUR<I><B>, dont il est 
-				  l'inventeur, sera expérimenté à la fin de la retraite ecclésiastique</B>".
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joignant l'acte ï¿½ la promesse, l'archevï¿½que fait insï¿½rer au dos de la lettre d'invite ï¿½ la 
+				  retraite ecclï¿½siastique, datï¿½e du 23 juillet suivant, ï¿½ l'intention de tous les curï¿½s du diocï¿½se : "<B>M. Clergeau, 
+				  desservant de Villeblevin fait prï¿½venir MM les curï¿½s du diocï¿½se que l'</B></I>ORGUE TRANSPOSITEUR<I><B>, dont il est 
+				  l'inventeur, sera expï¿½rimentï¿½ ï¿½ la fin de la retraite ecclï¿½siastique</B>".
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dezpuis le 14 avril, l'abbé Clergeau tient son brevet d'invention et s'active près des 
-				  évêques de France par une lettre et une notice datée du 1er juillet. La fabrication de l'instrument qui peut 
-				  s'adapter sur les pianos ou orgues existants, comme la mise en chantier de nouveaux modèles qui inclueront le procédé, 
-				  a été remise à un facteur d'orgues et harmoniums parisien : Fourneaux, passage Vivienne, 64 et 70; Ce dernier a 
-				  même amélioré le système en adjoignant sur les instruments qu'on désire en voir munis une "</I>expression<I>" par 
-				  combinaison de jeux ; "</I>ces orgues-expressives s'appelleront dorénavant SYMPHONIUM-ORCHESTRION<I>".
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dezpuis le 14 avril, l'abbï¿½ Clergeau tient son brevet d'invention et s'active prï¿½s des 
+				  ï¿½vï¿½ques de France par une lettre et une notice datï¿½e du 1er juillet. La fabrication de l'instrument qui peut 
+				  s'adapter sur les pianos ou orgues existants, comme la mise en chantier de nouveaux modï¿½les qui inclueront le procï¿½dï¿½, 
+				  a ï¿½tï¿½ remise ï¿½ un facteur d'orgues et harmoniums parisien : Fourneaux, passage Vivienne, 64 et 70; Ce dernier a 
+				  mï¿½me amï¿½liorï¿½ le systï¿½me en adjoignant sur les instruments qu'on dï¿½sire en voir munis une "</I>expression<I>" par 
+				  combinaison de jeux ; "</I>ces orgues-expressives s'appelleront dorï¿½navant SYMPHONIUM-ORCHESTRION<I>".
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le diocèse de Sens fut le premier à s'en doter. Il est encore des églises possédant 
-				  cet instrument, telle celle de Merry-la-Vallée ; il y servit jusqu'à ce qu'un orgue vint détrôner de ses quatre jeux 
-				  à tuyaux le modeste orchestrion symphonique<SUP><font color="#ff0000">3</FONT></SUP>
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le diocï¿½se de Sens fut le premier ï¿½ s'en doter. Il est encore des ï¿½glises possï¿½dant 
+				  cet instrument, telle celle de Merry-la-Vallï¿½e ; il y servit jusqu'ï¿½ ce qu'un orgue vint dï¿½trï¿½ner de ses quatre jeux 
+				  ï¿½ tuyaux le modeste orchestrion symphonique<SUP><font color="#ff0000">3</FONT></SUP>
 				  <BR>
 				  <BR>
 				  <BR>
 				  <SUP><font color="#ff0000">1</FONT></SUP> Semaine Religieuse de Sens 1866 p.9.
 				  <BR>
-				  <SUP><font color="#ff0000">2</FONT></SUP> Id. 1865 pp 55-56. On fit venir de Parie l'organiste de l'église St-Roch, Darnault, pour l'inauguration de 
+				  <SUP><font color="#ff0000">2</FONT></SUP> Id. 1865 pp 55-56. On fit venir de Parie l'organiste de l'ï¿½glise St-Roch, Darnault, pour l'inauguration de 
 				  l'instrument.
 				  <BR>
-				  <SUP><font color="#ff0000">3</FONT></SUP> Même auteur, <I>La vallée d'Aillant</I>, t.I, p.67. L'orgue fut acheté en 1861.
+				  <SUP><font color="#ff0000">3</FONT></SUP> Mï¿½me auteur, <I>La vallï¿½e d'Aillant</I>, t.I, p.67. L'orgue fut achetï¿½ en 1861.
 			   </i></P>
 			   </FONT>
 		    </TD>
@@ -1881,13 +1881,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   </p>	  
 		       <BR>
 			   <BR>
-			   à René Mélotat
+			   ï¿½ Renï¿½ Mï¿½lotat
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			   cinquante francs
 			   <BR>
-			   pour tous les livres de musique laissés par son fils, ancien organiste de l'orgue de choeur, livres, cahiers et morceaux de chant se rapportant à la musique du 
+			   pour tous les livres de musique laissï¿½s par son fils, ancien organiste de l'orgue de choeur, livres, cahiers et morceaux de chant se rapportant ï¿½ la musique du 
 			   dit orgue.
 			   <BR>
 			   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1936,17 +1936,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos organistes désireraient bien que vous puissiez venir pour les accords de nos orgues 
-				  avant Pâques, hors pour les trois derniers jours de la Semaine Sainte pendant lesquels les offices fréquents et les 
-				  confessions empêcheraient d'accorder. Il faudrait donc que vous puissiez venir soit les derniers jours de cette semaine 
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos organistes dï¿½sireraient bien que vous puissiez venir pour les accords de nos orgues 
+				  avant Pï¿½ques, hors pour les trois derniers jours de la Semaine Sainte pendant lesquels les offices frï¿½quents et les 
+				  confessions empï¿½cheraient d'accorder. Il faudrait donc que vous puissiez venir soit les derniers jours de cette semaine 
 				  soit les trois premiers jours de l'autre.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous pourriez en même temps me faire présenter votre quittance de 30 frs pour le 1er 
-				  semestre, je n'aime pas que vous tiriez sur moi par billet à ordre, car souvent je suis absent, on se présente 
-				  inutilement et alors on menace de protêt ou on fait payer un fr de commission pour retard, ce qui est onéreux et 
-				  désagréable.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous pourriez en mï¿½me temps me faire prï¿½senter votre quittance de 30 frs pour le 1er 
+				  semestre, je n'aime pas que vous tiriez sur moi par billet ï¿½ ordre, car souvent je suis absent, on se prï¿½sente 
+				  inutilement et alors on menace de protï¿½t ou on fait payer un fr de commission pour retard, ce qui est onï¿½reux et 
+				  dï¿½sagrï¿½able.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agréez...
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agrï¿½ez...
 			   </P>
 			   </FONT>
 		    </TD>
@@ -1970,7 +1970,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <P ALIGN="LEFT">
 		          Chazelles ancien facteur d'orgues.
 				  <BR>
-				  nég<SUP>ant</SUP> en vin. Avallon
+				  nï¿½g<SUP>ant</SUP> en vin. Avallon
 		   	   </P>
 		       </FONT>
 		    </TD>
@@ -1987,19 +1987,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous êtes arrivé hier à la dernière heure pour l'accord de nos orgues, mais enfin, il 
-				  était encore temps pour Pâques. Seulement vous avez omis de passer chez moi afin de nous entendre pour régler ; je 
-				  vois en effet que l'an dernier j'ai soldé le 4 juillet et 24 Xbre 2 mandats de 30 frs chaque pour les 2 accords de 
-				  1871 et vous n'étiez venu qu'une seule fois à Pâques. Il se trouve donc ainsi que l'accord que vous avez fait hier 
-				  se trouvait payé d'avance par le billet du 24 Xbre ; vous voudrez donc bien en prendre note et ne pas faire tirer 
-				  sur moi cette année, car je serais obligé de refuser la traite.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous ï¿½tes arrivï¿½ hier ï¿½ la derniï¿½re heure pour l'accord de nos orgues, mais enfin, il 
+				  ï¿½tait encore temps pour Pï¿½ques. Seulement vous avez omis de passer chez moi afin de nous entendre pour rï¿½gler ; je 
+				  vois en effet que l'an dernier j'ai soldï¿½ le 4 juillet et 24 Xbre 2 mandats de 30 frs chaque pour les 2 accords de 
+				  1871 et vous n'ï¿½tiez venu qu'une seule fois ï¿½ Pï¿½ques. Il se trouve donc ainsi que l'accord que vous avez fait hier 
+				  se trouvait payï¿½ d'avance par le billet du 24 Xbre ; vous voudrez donc bien en prendre note et ne pas faire tirer 
+				  sur moi cette annï¿½e, car je serais obligï¿½ de refuser la traite.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On m'a dit que vous aviez renoncé à l'industrie des orgues pour prendre un autre 
-				  genre de négoce. Dans ce cas il me paraît évident que nous ne pouvons plus compter sur vous, car il vous serait 
-				  impossible de venir au moment précis où nous le désirerions ; nous trouvons un accordeur beaucoup plus prêt et qui 
-				  ne s'occupe que de choses de musique, comme il aura moins de frais de déplacement, nous traiterons avec lui à des 
-				  conditions plus modérées, et surtout il sera à notre disposition du jour au lendemain ce qui est un avantage 
-				  inappréciable pour nos organistes lesquels se plaignent sans cesse du défaut d'accord de leurs instruments.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On m'a dit que vous aviez renoncï¿½ ï¿½ l'industrie des orgues pour prendre un autre 
+				  genre de nï¿½goce. Dans ce cas il me paraï¿½t ï¿½vident que nous ne pouvons plus compter sur vous, car il vous serait 
+				  impossible de venir au moment prï¿½cis oï¿½ nous le dï¿½sirerions ; nous trouvons un accordeur beaucoup plus prï¿½t et qui 
+				  ne s'occupe que de choses de musique, comme il aura moins de frais de dï¿½placement, nous traiterons avec lui ï¿½ des 
+				  conditions plus modï¿½rï¿½es, et surtout il sera ï¿½ notre disposition du jour au lendemain ce qui est un avantage 
+				  inapprï¿½ciable pour nos organistes lesquels se plaignent sans cesse du dï¿½faut d'accord de leurs instruments.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2038,14 +2038,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'accepterai le mandat que vous faites tirer puisque cela vous désobligerait tant, 
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'accepterai le mandat que vous faites tirer puisque cela vous dï¿½sobligerait tant, 
 				  mais je maintiens ma demande d'un accord gratuit pour 1872 avant 9bre. Si vous n'aviez pas attendu au 18 Xbre et 
-				  que vous fussiez venu au plus tard avant le 1er 9bre l'accord ait été donné ; vous ne ferez donc plus tirer sur moi. 
-				  De plus je n'aime pas ce mode ainsi que je vous l'ai expliqué dans ma lettre du 19 mars, il est beaucoup plus simple 
-				  qu'aussitôt l'accord vous passiez chez moi qui suis à la porte ou chez le 3ème vicaire qui vous solderait votre 
+				  que vous fussiez venu au plus tard avant le 1er 9bre l'accord ait ï¿½tï¿½ donnï¿½ ; vous ne ferez donc plus tirer sur moi. 
+				  De plus je n'aime pas ce mode ainsi que je vous l'ai expliquï¿½ dans ma lettre du 19 mars, il est beaucoup plus simple 
+				  qu'aussitï¿½t l'accord vous passiez chez moi qui suis ï¿½ la porte ou chez le 3ï¿½me vicaire qui vous solderait votre 
 				  quittance et le lendemain je le rembourse.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour 1873, je ferai part de vos propositions à la Fabrique, je ne puis rien décider.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour 1873, je ferai part de vos propositions ï¿½ la Fabrique, je ne puis rien dï¿½cider.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2065,7 +2065,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		          <div class="mondiv">ADY 11 J 24/17</div>
 			   </p>	
 			   <p align="justify">
-			      5 avril&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; à Mr Chazelle facteur d'orgue à Avallon pour le 1<sup>er</sup> accord de l'année suivant billet
+			      5 avril&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ï¿½ Mr Chazelle facteur d'orgue ï¿½ Avallon pour le 1<sup>er</sup> accord de l'annï¿½e suivant billet
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30,00
 			   </p>
 			   </font>
@@ -2082,7 +2082,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          15 août 1872
+		          15 aoï¿½t 1872
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -2105,9 +2105,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mme Barrois se plaint que lorsque vous êtes venu mettre l'orgue en accord lundi dernier 12 août vous avez 
-				  omis de toucher au pédalier qui ne marchait plus du tout. Ayez donc l'obligeance si vous ne venez pas par occasion ici assez promptement 
-				  de lui écrire comment il faut obvier rapidement et précisément à l'inconvénient que je vous signale.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mme Barrois se plaint que lorsque vous ï¿½tes venu mettre l'orgue en accord lundi dernier 12 aoï¿½t vous avez 
+				  omis de toucher au pï¿½dalier qui ne marchait plus du tout. Ayez donc l'obligeance si vous ne venez pas par occasion ici assez promptement 
+				  de lui ï¿½crire comment il faut obvier rapidement et prï¿½cisï¿½ment ï¿½ l'inconvï¿½nient que je vous signale.
 				  <BR>
 			   </P>
 			   </FONT>
@@ -2125,7 +2125,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="55%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      5 9bre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; à Mr Chazelle facteur d'orgue à Avallon pour le 2<sup>me</sup> accord de l'année suivant billet
+			      5 9bre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ï¿½ Mr Chazelle facteur d'orgue ï¿½ Avallon pour le 2<sup>me</sup> accord de l'annï¿½e suivant billet
 				  &nbsp;&nbsp;&nbsp;&nbsp;30,00
 			   </P>
 			   </FONT>
@@ -2155,17 +2155,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <p align="justify">
 			      Organistes et souffleurs : id 1871.
 				  <br>
-			      à Grapin, facteur de pianos à Auxerre.
+			      ï¿½ Grapin, facteur de pianos ï¿½ Auxerre.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deux cent cinquante francs pour un orgue harmonium d'occasion à l'effet de donner des 
-				  leçons de chant aux enfants de choeur.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deux cent cinquante francs pour un orgue harmonium d'occasion ï¿½ l'effet de donner des 
+				  leï¿½ons de chant aux enfants de choeur.
 				  <BR>
 				  <BR>
 				  31 Xbre 1872.
 				  <BR>
 				  Dans les comptes
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Mr Grapin prix d'un orgue d'accompagnement destiné au Vicaire qui exerce chez lui 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Mr Grapin prix d'un orgue d'accompagnement destinï¿½ au Vicaire qui exerce chez lui 
 				  les enfants de choeur.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250,00 
 			   </P>
 			   </FONT>
@@ -2219,9 +2219,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				     
 				  </p>
 			      <p align="justify">
-			      6 février&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; au S<sup>r</sup> Grapin pour réparation d'un ophicléide
+			      6 fï¿½vrier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; au S<sup>r</sup> Grapin pour rï¿½paration d'un ophiclï¿½ide
 				  <br>
-				  23 juin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Payé à Chazelle accord des orgues par Mr Blin
+				  23 juin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Payï¿½ ï¿½ Chazelle accord des orgues par Mr Blin
 				  </p>
 		       </FONT>
 		    </TD>
@@ -2272,8 +2272,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 3° Depuis longtemps, Madame Barrois demande à être remplacée comme organiste. Mr 
-				  Lyon est proposé. Il demande 500 frs plus un mois de vacances. Le Bureau est autorisé à s'entendre avec Mr Lyon.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 3ï¿½ Depuis longtemps, Madame Barrois demande ï¿½ ï¿½tre remplacï¿½e comme organiste. Mr 
+				  Lyon est proposï¿½. Il demande 500 frs plus un mois de vacances. Le Bureau est autorisï¿½ ï¿½ s'entendre avec Mr Lyon.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2308,7 +2308,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<TD width="50%">
 		   <FONT size=4 color=#FFFFFF>
 		      <p align="justify">
-		         31 Xbre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Payé à Chazelle pour abonnement et réparation
+		         31 Xbre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Payï¿½ ï¿½ Chazelle pour abonnement et rï¿½paration
 			  </p>
 		   </font>
 		</td>
@@ -2349,7 +2349,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Séance du 13 novembre 1873.
+		          Sï¿½ance du 13 novembre 1873.
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -2372,18 +2372,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Le Bureau nomme également organiste de la cathédrale, Mr Lyon en remplacement de 
-				  Mme Barois démissionnaire.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Le Bureau nomme ï¿½galement organiste de la cathï¿½drale, Mr Lyon en remplacement de 
+				  Mme Barois dï¿½missionnaire.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil dans sa prochaine séance fixera le traitement de ce nouvel organiste qui 
-				  est entré en fonction le 1er novembre.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil dans sa prochaine sï¿½ance fixera le traitement de ce nouvel organiste qui 
+				  est entrï¿½ en fonction le 1er novembre.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Président expose qu'à l'occasion de cette récente nomination on a reconnu la 
-				  nécessité de faire quelques réparations importantes au grand orgue. A cet effet un devis a été demandé au facteur 
-				  qui accorde les orgues de la cathédrale. Ce devis vient d'être présenté par Mr Chazelles, il s'élève au chiffre de 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Prï¿½sident expose qu'ï¿½ l'occasion de cette rï¿½cente nomination on a reconnu la 
+				  nï¿½cessitï¿½ de faire quelques rï¿½parations importantes au grand orgue. A cet effet un devis a ï¿½tï¿½ demandï¿½ au facteur 
+				  qui accorde les orgues de la cathï¿½drale. Ce devis vient d'ï¿½tre prï¿½sentï¿½ par Mr Chazelles, il s'ï¿½lï¿½ve au chiffre de 
 				  6,240 frs.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau opine que ce devis doit être soumis au Conseil dans sa prochaine séance.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau opine que ce devis doit ï¿½tre soumis au Conseil dans sa prochaine sï¿½ance.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2440,7 +2440,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Séance du 2 janvier 1874
+		          Sï¿½ance du 2 janvier 1874
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -2463,19 +2463,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Président communique au Bureau une lettre de Mr Lyon organiste, à laquelle est jointe 
-				  un devis dressé par Mr Chazelles, facteur d'orgues, pour la réparation des orgues de la cathédrale.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Prï¿½sident communique au Bureau une lettre de Mr Lyon organiste, ï¿½ laquelle est jointe 
+				  un devis dressï¿½ par Mr Chazelles, facteur d'orgues, pour la rï¿½paration des orgues de la cathï¿½drale.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Lyon réclame instamment le renouvellement des claviers et le nettoyage des jeux. ces 
-				  deux articles du devis montant à 1.100 Frs seraient les premiers et les plus urgents à exécuter. Le Bureau après 
-				  avoir entendu la lecture du devis de Mr Chazelles, arrête d'abord son attention sur les deux points signalés par Mr 
-				  Lyon et priera le Conseil d'y employer ses ressources disponibles et au besoin d'en créer.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Lyon rï¿½clame instamment le renouvellement des claviers et le nettoyage des jeux. ces 
+				  deux articles du devis montant ï¿½ 1.100 Frs seraient les premiers et les plus urgents ï¿½ exï¿½cuter. Le Bureau aprï¿½s 
+				  avoir entendu la lecture du devis de Mr Chazelles, arrï¿½te d'abord son attention sur les deux points signalï¿½s par Mr 
+				  Lyon et priera le Conseil d'y employer ses ressources disponibles et au besoin d'en crï¿½er.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau pense que les autres parties du devis doivent être aussi prises en considération. 
-				  Elles pourraient être successivement exécutées et à cet effet on pourrait entendre Mr Lyon pour être mieux renseignés. 
-				  Mr l'Abbé Appert fait observer que de l'augmentation avait été promise à l'organiste du petit orgue et que ce jeune employé 
-				  sollicite la réalisation de cette promesse. Le Bureau décide qu'il en sera référé au Conseil et qu'on demandera pour cet 
-				  organiste du choeur le traitement payé à son prédécesseur, c'est-à-dire une augmentation de cent francs.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau pense que les autres parties du devis doivent ï¿½tre aussi prises en considï¿½ration. 
+				  Elles pourraient ï¿½tre successivement exï¿½cutï¿½es et ï¿½ cet effet on pourrait entendre Mr Lyon pour ï¿½tre mieux renseignï¿½s. 
+				  Mr l'Abbï¿½ Appert fait observer que de l'augmentation avait ï¿½tï¿½ promise ï¿½ l'organiste du petit orgue et que ce jeune employï¿½ 
+				  sollicite la rï¿½alisation de cette promesse. Le Bureau dï¿½cide qu'il en sera rï¿½fï¿½rï¿½ au Conseil et qu'on demandera pour cet 
+				  organiste du choeur le traitement payï¿½ ï¿½ son prï¿½dï¿½cesseur, c'est-ï¿½-dire une augmentation de cent francs.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2515,7 +2515,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Le quatre août mil huit cent et soixante quatorze.
+		          Le quatre aoï¿½t mil huit cent et soixante quatorze.
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -2538,8 +2538,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau décide en outre qu'il est utile de s'occuper dès maintenant du projet de 
-				  réparation du grand orgue qui a été adopté par le Conseil pour l'exercice 1875.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau dï¿½cide en outre qu'il est utile de s'occuper dï¿½s maintenant du projet de 
+				  rï¿½paration du grand orgue qui a ï¿½tï¿½ adoptï¿½ par le Conseil pour l'exercice 1875.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2601,7 +2601,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  <BR>
 				  2 souffleurs
 				  <BR>
-				  Réparation urgente des orgues   
+				  Rï¿½paration urgente des orgues   
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2670,10 +2670,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Le Conseil... autorise le Bureau à traiter avec Mr Chazelles pour les travaux de 
-				  réparation du grand orgue, tels qu'ils sont détaillés dans le devis antérieurement soumis au Conseil, moyennant le 
-				  prix total de 6240 frs et conformément aux conditions de paiement en principal et intérêt énoncés dans la 
-				  soumission et à stipuler toutes les clauses de bonne exécution et de garantie convenables.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Le Conseil... autorise le Bureau ï¿½ traiter avec Mr Chazelles pour les travaux de 
+				  rï¿½paration du grand orgue, tels qu'ils sont dï¿½taillï¿½s dans le devis antï¿½rieurement soumis au Conseil, moyennant le 
+				  prix total de 6240 frs et conformï¿½ment aux conditions de paiement en principal et intï¿½rï¿½t ï¿½noncï¿½s dans la 
+				  soumission et ï¿½ stipuler toutes les clauses de bonne exï¿½cution et de garantie convenables.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2714,7 +2714,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P>
-			      Ce onze août 1875.
+			      Ce onze aoï¿½t 1875.
 			   </P>
 		       </FONT>
 		    </TD>
@@ -2731,17 +2731,17 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Président donne lecture d'une lettre de Mr Chazelles demandant qu'une 
-				  commission soit chargée de contrôler l'opération de la réfection de l'orgue principal et de seconder son exécution 
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Prï¿½sident donne lecture d'une lettre de Mr Chazelles demandant qu'une 
+				  commission soit chargï¿½e de contrï¿½ler l'opï¿½ration de la rï¿½fection de l'orgue principal et de seconder son exï¿½cution 
 				  par un concours permanent.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau pense que Mr Lyon suffira à cette oeuvre et qu'en cas d'hésitation il 
-				  pourra s'aider des connaissances et de l'expérience de Mr Oberti.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau pense que Mr Lyon suffira ï¿½ cette oeuvre et qu'en cas d'hï¿½sitation il 
+				  pourra s'aider des connaissances et de l'expï¿½rience de Mr Oberti.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans la même lettre, Mr Chazelles demande que les frais de transport des pièces 
-				  nécessaires à la réfection de l'orgue soient supportés par la Fabrique.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dans la mï¿½me lettre, Mr Chazelles demande que les frais de transport des piï¿½ces 
+				  nï¿½cessaires ï¿½ la rï¿½fection de l'orgue soient supportï¿½s par la Fabrique.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau après en avoir délibéré, décide que ces frais doivent être payés par le 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bureau aprï¿½s en avoir dï¿½libï¿½rï¿½, dï¿½cide que ces frais doivent ï¿½tre payï¿½s par le 
 				  fournisseur.     
 			   </P>
 			   </FONT>
@@ -2774,7 +2774,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -2808,9 +2808,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Les autres dépenses ordinaires ne donnent lieu à aucune observation... Le Conseil 
-				  ouvre un crédit de 1 000 frs pour le mobilier de la nouvelle sacristie et un autre de pareille somme pour la 
-				  réparation du grand orgue. 
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Les autres dï¿½penses ordinaires ne donnent lieu ï¿½ aucune observation... Le Conseil 
+				  ouvre un crï¿½dit de 1 000 frs pour le mobilier de la nouvelle sacristie et un autre de pareille somme pour la 
+				  rï¿½paration du grand orgue. 
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2870,8 +2870,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'entrepreneur Chazelles a souscrit un engagement régulier pour la livraison des travaux 
-				  de l'orgue à la fin de décembre 1876, avec condition de 20 francs pour chaque jour de retard.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L'entrepreneur Chazelles a souscrit un engagement rï¿½gulier pour la livraison des travaux 
+				  de l'orgue ï¿½ la fin de dï¿½cembre 1876, avec condition de 20 francs pour chaque jour de retard.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2929,11 +2929,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Mr Quantin, président du bureau des Marguilliers, donne communication d'une lettre 
-				  en date du 29 7bre 1876, par laquelle Mr Chazelle, chargé de la réparation du grand orgue, lui annonce sa prochaine 
-				  arrivée pour commencer de suite les travaux. Le Conseil reçoit cette nouvelle avec satisfaction et il espère que 
-				  Mr Chazelle continuera son travail sans interruption de manière à livrer l'orgue en bon état dans les délais fixés 
-				  par son traité.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Mr Quantin, prï¿½sident du bureau des Marguilliers, donne communication d'une lettre 
+				  en date du 29 7bre 1876, par laquelle Mr Chazelle, chargï¿½ de la rï¿½paration du grand orgue, lui annonce sa prochaine 
+				  arrivï¿½e pour commencer de suite les travaux. Le Conseil reï¿½oit cette nouvelle avec satisfaction et il espï¿½re que 
+				  Mr Chazelle continuera son travail sans interruption de maniï¿½re ï¿½ livrer l'orgue en bon ï¿½tat dans les dï¿½lais fixï¿½s 
+				  par son traitï¿½.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -2989,9 +2989,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <P ALIGN="LEFT">
 		          Lettre de Mr Chazelle concernant
 				  <BR>
-				  le peu de solidité du plancher du
+				  le peu de soliditï¿½ du plancher du
 				  <BR>
-				  grand orgue et décision du Conseil
+				  grand orgue et dï¿½cision du Conseil
 			   </P>
 		       </FONT>
 		    </TD>
@@ -3008,21 +3008,21 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est donné lecture d'une lettre de Mr Chazelle chargé de la réparation du grand 
-				  orgue, qui craint que la tribune où il est placé et le plancher sur lequel repose la soufflerie ne présente pas 
-				  toute la solidité désirable. Il prie Mr le Président du Bureau des Marguilliers d'en faire vérifier l'état.
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il est donnï¿½ lecture d'une lettre de Mr Chazelle chargï¿½ de la rï¿½paration du grand 
+				  orgue, qui craint que la tribune oï¿½ il est placï¿½ et le plancher sur lequel repose la soufflerie ne prï¿½sente pas 
+				  toute la soliditï¿½ dï¿½sirable. Il prie Mr le Prï¿½sident du Bureau des Marguilliers d'en faire vï¿½rifier l'ï¿½tat.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Piéplu a procédé à cette vérification et il résulte de son rapport que le 
-				  plancher sur lequel est établi le buffet de l'orgue est suffisamment solide pour en supporter la charge, 
-				  mais que celui sur lequel repose la soufflerie présente une trop grande distance entre les solives et que 
-				  celles-ci devraient être doublées. En même temps Mr l'Architecte fait observer que la réparation de l'orgue actuel 
-				  devant entraîner la fabrique dans des dépenses fort élevées, il y aurait peut-être avantage à le transférer 
-				  immédiatement au bas de la nef et à l'établir au-dessus de la porte principale de l'église.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Piï¿½plu a procï¿½dï¿½ ï¿½ cette vï¿½rification et il rï¿½sulte de son rapport que le 
+				  plancher sur lequel est ï¿½tabli le buffet de l'orgue est suffisamment solide pour en supporter la charge, 
+				  mais que celui sur lequel repose la soufflerie prï¿½sente une trop grande distance entre les solives et que 
+				  celles-ci devraient ï¿½tre doublï¿½es. En mï¿½me temps Mr l'Architecte fait observer que la rï¿½paration de l'orgue actuel 
+				  devant entraï¿½ner la fabrique dans des dï¿½penses fort ï¿½levï¿½es, il y aurait peut-ï¿½tre avantage ï¿½ le transfï¿½rer 
+				  immï¿½diatement au bas de la nef et ï¿½ l'ï¿½tablir au-dessus de la porte principale de l'ï¿½glise.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil s'en<I>(!)</I> s'arrêter à la proposition de Mr Piéplu qui occasionnerait 
-				  pour la fabrique une dépense bien plus considérable que celle de la réparation pure et simple du jeu d'orgues, 
-				  telle qu'elle s'exécute aujourd'hui, autorise le bureau des Marguilliers à faire procéder aux travaux de 
-				  consolidation jugés nécessaires par l'architecte. La dépense est imputée sur le crédit des dépenses imprévues.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil s'en<I>(!)</I> s'arrï¿½ter ï¿½ la proposition de Mr Piï¿½plu qui occasionnerait 
+				  pour la fabrique une dï¿½pense bien plus considï¿½rable que celle de la rï¿½paration pure et simple du jeu d'orgues, 
+				  telle qu'elle s'exï¿½cute aujourd'hui, autorise le bureau des Marguilliers ï¿½ faire procï¿½der aux travaux de 
+				  consolidation jugï¿½s nï¿½cessaires par l'architecte. La dï¿½pense est imputï¿½e sur le crï¿½dit des dï¿½penses imprï¿½vues.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -3062,7 +3062,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Dépenses imprévues
+		          Dï¿½penses imprï¿½vues
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -3087,11 +3087,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <p align="justify">
 			      4 janvier 1878. Mandat Viollet
 				  <BR>
-				  réparation de l'orgue de choeur
+				  rï¿½paration de l'orgue de choeur
 				  <BR>
-				  Réparation et nettoyage de l'orgue du catéchisme de persévérence
+				  Rï¿½paration et nettoyage de l'orgue du catï¿½chisme de persï¿½vï¿½rence
 				  <BR>
-				  Organistes et souffleurs : identique à 1876
+				  Organistes et souffleurs : identique ï¿½ 1876
 			   </P>
 			   </FONT>
 		    </TD>
@@ -3144,7 +3144,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Le dix février mil huit cent soixante dix sept.
+		          Le dix fï¿½vrier mil huit cent soixante dix sept.
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -3167,9 +3167,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      Mr Chazelles ne répondant à une lettre de Mr le Président au sujet du retard qu'il apporte à la restauration du grand 
-				  orgue et une nouvelle demande ayant été faite par lui modifiant son devis, il est décidé qu'on lui adressera une 
-				  seconde lettre pour le prier de venir à Auxerre sans délai.  
+			      Mr Chazelles ne rï¿½pondant ï¿½ une lettre de Mr le Prï¿½sident au sujet du retard qu'il apporte ï¿½ la restauration du grand 
+				  orgue et une nouvelle demande ayant ï¿½tï¿½ faite par lui modifiant son devis, il est dï¿½cidï¿½ qu'on lui adressera une 
+				  seconde lettre pour le prier de venir ï¿½ Auxerre sans dï¿½lai.  
 			   </P>
 			   </FONT>
 		    </TD>
@@ -3209,11 +3209,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          à Administration des Chemins de Fer
+		          ï¿½ Administration des Chemins de Fer
 				  <BR>
 				  Treize francs vingt cinq centimes
 				  <BR>
-				  pour expédition d'objets d'orgue
+				  pour expï¿½dition d'objets d'orgue
 				  <BR>
 				  &nbsp;
 		       </FONT>
@@ -3221,7 +3221,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="LEFT">
-		          Expéditeur : Pilverdier
+		          Expï¿½diteur : Pilverdier
 				  <BR>
 				  328, r de Vaugirard
 				  <BR>
@@ -3254,7 +3254,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  <BR>
 				  Vingt cinq francs
 				  <BR>
-				  Transport de matériel destiné aux
+				  Transport de matï¿½riel destinï¿½ aux
 				  <BR>
 				  orgues&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuy d'orgues
 		       </FONT>
@@ -3262,7 +3262,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="LEFT">
-		          Expéditeur : Coursier
+		          Expï¿½diteur : Coursier
 				  <BR>
 				  50 <I>(ou 59)</I> boulevard
 				  <BR>
@@ -3283,7 +3283,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="center">
-			      Gare expéditrice : BERCY
+			      Gare expï¿½ditrice : BERCY
 			   </P>   
 		       </FONT>
 		    </TD>
@@ -3324,15 +3324,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Mémoire Piéplu fils
+		          Mï¿½moire Piï¿½plu fils
 				  <BR>
 				  Architecte
 				  <BR>
-				  Attaché à la commission
+				  Attachï¿½ ï¿½ la commission
 				  <BR>
 				  des Monuments historiques
 				  <BR>
-				  à AUXERRE
+				  ï¿½ AUXERRE
 		       </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -3362,44 +3362,44 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="60%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          18 Fixé une partie des sommiers de l'orgue sur l'ordre de
+		          18 Fixï¿½ une partie des sommiers de l'orgue sur l'ordre de
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l'organiste ft 3 supports avec bouts soudés en T à congé
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l'organiste ft 3 supports avec bouts soudï¿½s en T ï¿½ congï¿½
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;percé les murs, les scellés pour porter un plancher
-				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  pris 32 h 50 à 0,80 .....
-				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 vis à tête carrée 28-70 pour les fixer 0,35.....
-				  <BR>
-				  25 ft 2 supports de plancher après les montants de chassis
-				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du soufflet dont à scell.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;percï¿½ les murs, les scellï¿½s pour porter un plancher
 				  <BR>
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  pris 20 h à 0,80.....
+				  pris 32 h 50 ï¿½ 0,80 .....
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft 4 vis tête carrée 28-70 pour les fixer au boir à 0,35.....
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 vis ï¿½ tï¿½te carrï¿½e 28-70 pour les fixer 0,35.....
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft 2 boulons tête à 6 pans écrous 6 pans de 80 m/m pour
+				  25 ft 2 supports de plancher aprï¿½s les montants de chassis
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fixer un des supports à un de ceux déjà posés à 0,65.....
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du soufflet dont ï¿½ scell.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;façonné 2 supports en vieux fer, les posés à scell. pour
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				  pris 20 h ï¿½ 0,80.....
+				  <BR>
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft 4 vis tï¿½te carrï¿½e 28-70 pour les fixer au boir ï¿½ 0,35.....
+				  <BR>
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ft 2 boulons tï¿½te ï¿½ 6 pans ï¿½crous 6 pans de 80 m/m pour
+				  <BR>
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fixer un des supports ï¿½ un de ceux dï¿½jï¿½ posï¿½s ï¿½ 0,65.....
+				  <BR>
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;faï¿½onnï¿½ 2 supports en vieux fer, les posï¿½s ï¿½ scell. pour
 				  <BR>
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;le corps du buffet d'orgue au-dessus pour recevoir un
 				  <BR>
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plancher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  pris 13 h 80<SUP><font color="#ff0000">1</FONT></SUP> à 0,50.....
+				  pris 13 h 80<SUP><font color="#ff0000">1</FONT></SUP> ï¿½ 0,50.....
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f.un&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;neuf à scell. et à 
-				  patte 8 h 50 à 0,80.....
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f.un&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;neuf ï¿½ scell. et ï¿½ 
+				  patte 8 h 50 ï¿½ 0,80.....
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. 6 vis à tête carrée de 70 m/m pour les fixer au buffet à 0,35.....
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. 6 vis ï¿½ tï¿½te carrï¿½e de 70 m/m pour les fixer au buffet ï¿½ 0,35.....
 				  <BR>
 				  <BR>
 				  <SUP><font color="#ff0000">1</FONT></SUP><I>13 h 48 de nos jours</I> (NdA)
@@ -3455,13 +3455,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          a Chazelle selon le budget supplémentaire
+		          a Chazelle selon le budget supplï¿½mentaire
 				  <BR>
 				  Restauration des orgues
 				  <BR>
 				  Cent trente trois francs cinquante
 				  <BR>
-				  pour fourniture de plaques de fontes destinée au soufflet des orgues.
+				  pour fourniture de plaques de fontes destinï¿½e au soufflet des orgues.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -3507,7 +3507,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="LEFT">
-		          Complément de la restauration
+		          Complï¿½ment de la restauration
 				  <BR>
 				  du grand orgue
 			   </P>
@@ -3526,28 +3526,28 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          La parole est donnée à Mr le Trésorier.
+		          La parole est donnï¿½e ï¿½ Mr le Trï¿½sorier.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce membre fait connaître au Conseil que le bureau a été saisi récemment de la 
-				  demande formulée par Mr Chazelles, facteur d'orgues, à l'effet de compléter la restauration du grand orgue. Cette 
-				  demande a été soumise à la commission d'artistes exécutants qui s'est transportée avec le bureau au lieu où se 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce membre fait connaï¿½tre au Conseil que le bureau a ï¿½tï¿½ saisi rï¿½cemment de la 
+				  demande formulï¿½e par Mr Chazelles, facteur d'orgues, ï¿½ l'effet de complï¿½ter la restauration du grand orgue. Cette 
+				  demande a ï¿½tï¿½ soumise ï¿½ la commission d'artistes exï¿½cutants qui s'est transportï¿½e avec le bureau au lieu oï¿½ se 
 				  poursuit cette restauration.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après un long examen des travaux en cours d'exécution et des demandes d'extension 
-				  non comprises au devis, la commission susnommée a été d'avis :
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s un long examen des travaux en cours d'exï¿½cution et des demandes d'extension 
+				  non comprises au devis, la commission susnommï¿½e a ï¿½tï¿½ d'avis :
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1° que les travaux sont très bien exécutés.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1ï¿½ que les travaux sont trï¿½s bien exï¿½cutï¿½s.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2° que parmi les demandes adressées au bureau, il y en 
-				  a dont l'exécution est d'une urgence indispensable et que les autres s'élevant du reste à un chiffre beaucoup 
-				  moindre, compléteront très avantageusement la restauration de notre grand orgue. Elle ajoute que si ce travail de 
-				  complément est renvoyé à une époque ultérieure, il entrainerait une dépense trois fois plus fortes. En conséquence 
-				  la commission a été d'avis que l'on accédat aux demandes de Mr le facteur d'orgues Chazelles.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2ï¿½ que parmi les demandes adressï¿½es au bureau, il y en 
+				  a dont l'exï¿½cution est d'une urgence indispensable et que les autres s'ï¿½levant du reste ï¿½ un chiffre beaucoup 
+				  moindre, complï¿½teront trï¿½s avantageusement la restauration de notre grand orgue. Elle ajoute que si ce travail de 
+				  complï¿½ment est renvoyï¿½ ï¿½ une ï¿½poque ultï¿½rieure, il entrainerait une dï¿½pense trois fois plus fortes. En consï¿½quence 
+				  la commission a ï¿½tï¿½ d'avis que l'on accï¿½dat aux demandes de Mr le facteur d'orgues Chazelles.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Trésorier ajoute que le bureau a été unanime pour appuyer devant le Conseil la 
-				  demande formulée par Mr Chazelles le 5 juillet dernier.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Trï¿½sorier ajoute que le bureau a ï¿½tï¿½ unanime pour appuyer devant le Conseil la 
+				  demande formulï¿½e par Mr Chazelles le 5 juillet dernier.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il dépose ensuite le devis des travaux additionnels préparé par Mr Chazelles comme 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il dï¿½pose ensuite le devis des travaux additionnels prï¿½parï¿½ par Mr Chazelles comme 
 				  il suit :
 			   </P>	  
 		       </FONT>
@@ -3565,25 +3565,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="60%">
 		       <FONT size=4 color=#FFFFFF>
 		       <p align="justify">
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1° Fourniture de 139 tuyaux pour compléter les anciens jeux
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1ï¿½ Fourniture de 139 tuyaux pour complï¿½ter les anciens jeux
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2° Réparer et mettre en harmonie les jeux anciens au nombre de 20
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2ï¿½ Rï¿½parer et mettre en harmonie les jeux anciens au nombre de 20
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3° Réparer et refaire le postage du grand orgue et son positif
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3ï¿½ Rï¿½parer et refaire le postage du grand orgue et son positif
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4° Nettoyer les tuyaux de montre du grand orgue et du positif
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4ï¿½ Nettoyer les tuyaux de montre du grand orgue et du positif
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5° Trente boutons de registres à fournir
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5ï¿½ Trente boutons de registres ï¿½ fournir
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6° Grand parallèlogramme en fer pour l'ancienne soufflerie
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6ï¿½ Grand parallï¿½logramme en fer pour l'ancienne soufflerie
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7° Un salicional de 8 pieds basses bouchées antaillées
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7ï¿½ Un salicional de 8 pieds basses bouchï¿½es antaillï¿½es
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8° Trompette de 8 pieds grosse taille
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8ï¿½ Trompette de 8 pieds grosse taille
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9° Au récit manque flûte harmonique de 4
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9ï¿½ Au rï¿½cit manque flï¿½te harmonique de 4
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10° Au récit octavin harmonique   
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10ï¿½ Au rï¿½cit octavin harmonique   
 			   </P>
 			   </FONT>
 		    </TD>
@@ -3647,13 +3647,13 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les plaques en fonte pour charger la soufflerie resteront à la charge de la fabrique.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les plaques en fonte pour charger la soufflerie resteront ï¿½ la charge de la fabrique.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil après en avoir longuement délibéré décide à la majorité que ces travaux 
-				  seront entrepris par Mr Chazelle aux prix susindiqués, qu'ils ne devront pas retarder la livraison de l'orgue et que 
-				  pour suffire à leur paiement on prolongera autant qu'il sera nécessaire, le nombre des annuités déjà fixé au 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil aprï¿½s en avoir longuement dï¿½libï¿½rï¿½ dï¿½cide ï¿½ la majoritï¿½ que ces travaux 
+				  seront entrepris par Mr Chazelle aux prix susindiquï¿½s, qu'ils ne devront pas retarder la livraison de l'orgue et que 
+				  pour suffire ï¿½ leur paiement on prolongera autant qu'il sera nï¿½cessaire, le nombre des annuitï¿½s dï¿½jï¿½ fixï¿½ au 
 				  premier devis ; de plus que la demande des anciens tuyaux faite par ledit facteur ne peut encore avoir de solution 
-				  et est renvoyée à une autre réunion.   
+				  et est renvoyï¿½e ï¿½ une autre rï¿½union.   
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -3677,7 +3677,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -3699,7 +3699,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="LEFT">
-		          Allocation d'un à compte à Mr Chazelle.
+		          Allocation d'un ï¿½ compte ï¿½ Mr Chazelle.
 			   </P>
 		       </FONT>
 		    </TD>
@@ -3716,8 +3716,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil adopte cette idée et charge un de ses membres de traiter cette question... 
-				  On proposerait à Mr Chazelle un à compte de 2 ou 3000 frs. 
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil adopte cette idï¿½e et charge un de ses membres de traiter cette question... 
+				  On proposerait ï¿½ Mr Chazelle un ï¿½ compte de 2 ou 3000 frs. 
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -3763,9 +3763,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur la proposition du même membre, le Conseil ouvre sur les fonds libres de 
-				  l'exercice courant un crédit de 410 frs à l'effet de solder le montant de tous les frais relatifs au transport 
-				  et à l'emballage du matériel neuf employé à la restauration du grand orgue.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur la proposition du mï¿½me membre, le Conseil ouvre sur les fonds libres de 
+				  l'exercice courant un crï¿½dit de 410 frs ï¿½ l'effet de solder le montant de tous les frais relatifs au transport 
+				  et ï¿½ l'emballage du matï¿½riel neuf employï¿½ ï¿½ la restauration du grand orgue.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -3812,19 +3812,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
 		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Blin expose encore que depuis quelques jours on remarque un affaissement dans le 
-				  corps principal de l'orgue. La partie supérieure du clavier touchait à l'arceau de la voûte et elle en est 
-				  aujourd'hui séparée de quelques centimètres. L'affaissement constaté proviendrait d'un mouvement de la charpente 
+				  corps principal de l'orgue. La partie supï¿½rieure du clavier touchait ï¿½ l'arceau de la voï¿½te et elle en est 
+				  aujourd'hui sï¿½parï¿½e de quelques centimï¿½tres. L'affaissement constatï¿½ proviendrait d'un mouvement de la charpente 
 				  qui contient l'orgue par suite des additions qu'on y a faites ou simplement du plancher sur lequel il repose ? Il 
-				  ne lui pas été possible de s'en assurer, mais il déclare que l'inspection à laquelle il s'est livré ne lui a fait 
-				  connaître aucun dégât indiquant un mouvement dans la charpente. Quoiqu'il en soit il croit urgent de fair rechercher  
-				  par un homme compétent la cause de l'affaissement qui s'est manifesté et vérifier l'état du bois de la charpente 
-				  sur laquelle sont établis le jeu d'orgues et ses accessoires.
+				  ne lui pas ï¿½tï¿½ possible de s'en assurer, mais il dï¿½clare que l'inspection ï¿½ laquelle il s'est livrï¿½ ne lui a fait 
+				  connaï¿½tre aucun dï¿½gï¿½t indiquant un mouvement dans la charpente. Quoiqu'il en soit il croit urgent de fair rechercher  
+				  par un homme compï¿½tent la cause de l'affaissement qui s'est manifestï¿½ et vï¿½rifier l'ï¿½tat du bois de la charpente 
+				  sur laquelle sont ï¿½tablis le jeu d'orgues et ses accessoires.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil après en avoir délibéré décide que Mr l'Architecte Piéplu, chargé de la 
-				  surveillance des travaux de la cathédrale, sera invité à procéder immédiatement à la vérification proposée et à 
-				  s'adjoindre à cet effet le charpentier de la fabrique ou tout autre homme de l'art qui lui conviendra.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil aprï¿½s en avoir dï¿½libï¿½rï¿½ dï¿½cide que Mr l'Architecte Piï¿½plu, chargï¿½ de la 
+				  surveillance des travaux de la cathï¿½drale, sera invitï¿½ ï¿½ procï¿½der immï¿½diatement ï¿½ la vï¿½rification proposï¿½e et ï¿½ 
+				  s'adjoindre ï¿½ cet effet le charpentier de la fabrique ou tout autre homme de l'art qui lui conviendra.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil s'ajourne à un jour ultérieur pour entendre le rapport de Mr Piéplu.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil s'ajourne ï¿½ un jour ultï¿½rieur pour entendre le rapport de Mr Piï¿½plu.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -3887,9 +3887,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Trésorier de la fabrique St Etienne paie à Mr Blin, membre du Conseil la somme de 
-				  quatre cent dix francs 80 centimes que ledit Blin a payé au Sieur Chazelle en compte et à valoir sur les travaux par lui 
-				  faits à l'orgue de st Etienne (frais d'emballage et de transport).
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Trï¿½sorier de la fabrique St Etienne paie ï¿½ Mr Blin, membre du Conseil la somme de 
+				  quatre cent dix francs 80 centimes que ledit Blin a payï¿½ au Sieur Chazelle en compte et ï¿½ valoir sur les travaux par lui 
+				  faits ï¿½ l'orgue de st Etienne (frais d'emballage et de transport).
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -3935,7 +3935,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
 		       <P ALIGN="LEFT">
-		          Vérification du plancher des orgues
+		          Vï¿½rification du plancher des orgues
 				  <BR>
 				  Nomination d'experts
 			   </P>
@@ -3955,37 +3955,37 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
 		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un membre rend compte de l'inspection de la charpente du grand orgue faite par Mr 
-				  l'Architecte Piéplu conformément à la dernière délibération du Conseil. Après un examen attentif il a constaté que 
-				  tous les bois étaient en parfait état de conservation qu'ils n'avaient fléchi d'aucun côté et que l'affaissement 
-				  qui s'était produit n'avait pas augmenté. Il regarde cette charpente comme suffisamment solide pour supporter le 
-				  nouveau jeu et ses accessoires, mais pour éviter l'oscillation qui se manifeste dans les solives du plancher de la 
+				  l'Architecte Piï¿½plu conformï¿½ment ï¿½ la derniï¿½re dï¿½libï¿½ration du Conseil. Aprï¿½s un examen attentif il a constatï¿½ que 
+				  tous les bois ï¿½taient en parfait ï¿½tat de conservation qu'ils n'avaient flï¿½chi d'aucun cï¿½tï¿½ et que l'affaissement 
+				  qui s'ï¿½tait produit n'avait pas augmentï¿½. Il regarde cette charpente comme suffisamment solide pour supporter le 
+				  nouveau jeu et ses accessoires, mais pour ï¿½viter l'oscillation qui se manifeste dans les solives du plancher de la 
 				  soufflerie quand elle est en mouvement, il proposerait de les doubler ou de les soutenir par une poutre transversale.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Secrétaire déclare que malgré toute la confiance que lui inspirent le titre et les 
-				  fonctions de Mr Piéplu comme architecte des Monuments Historiques, il ne peut se contenter du rapport verbal qui vient 
-				  d'être fait en son nom. Il manifeste de nouveau la crainte que lui donne l'affaissement du plancher sur lequel repose le 
-				  buffet de l'orgue et il expose les graves responsabilités de toute espèce que le Conseil assurerait si faute de précautions 
-				  la charpente de l'orgue ou celle de la soufflerie s'écroulait. Le nouveau jeu, au dire du facteur, pèse environ 12000 
-				  kilog<SUP>s</SUP> de plus que l'ancien. C'est là une surcharge considérable qui lui semble éxiger  quelques mesures de 
-				  consolidation et il serait d'avis de faire vérifier de la manière la plus approndie par une commission de plusieurs 
-				  architectes l'état des charpentes qui soutiennent l'orgue.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Secrï¿½taire dï¿½clare que malgrï¿½ toute la confiance que lui inspirent le titre et les 
+				  fonctions de Mr Piï¿½plu comme architecte des Monuments Historiques, il ne peut se contenter du rapport verbal qui vient 
+				  d'ï¿½tre fait en son nom. Il manifeste de nouveau la crainte que lui donne l'affaissement du plancher sur lequel repose le 
+				  buffet de l'orgue et il expose les graves responsabilitï¿½s de toute espï¿½ce que le Conseil assurerait si faute de prï¿½cautions 
+				  la charpente de l'orgue ou celle de la soufflerie s'ï¿½croulait. Le nouveau jeu, au dire du facteur, pï¿½se environ 12000 
+				  kilog<SUP>s</SUP> de plus que l'ancien. C'est lï¿½ une surcharge considï¿½rable qui lui semble ï¿½xiger  quelques mesures de 
+				  consolidation et il serait d'avis de faire vï¿½rifier de la maniï¿½re la plus approndie par une commission de plusieurs 
+				  architectes l'ï¿½tat des charpentes qui soutiennent l'orgue.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après en avoir délibéré le Conseil, adhérent à la proposition qui lui est soumise, 
-				  désigne MMrs Dondaine, Piéplu et Grégoire Roux, tous trois architectes à Auxerre, à l'effet de procéder à la vérification 
-				  de tous les bois de charpente sur lesquels reposent l'orgue et ses accessoires, d'éxaminer s'ils ont une solidité suffisante 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s en avoir dï¿½libï¿½rï¿½ le Conseil, adhï¿½rent ï¿½ la proposition qui lui est soumise, 
+				  dï¿½signe MMrs Dondaine, Piï¿½plu et Grï¿½goire Roux, tous trois architectes ï¿½ Auxerre, ï¿½ l'effet de procï¿½der ï¿½ la vï¿½rification 
+				  de tous les bois de charpente sur lesquels reposent l'orgue et ses accessoires, d'ï¿½xaminer s'ils ont une soliditï¿½ suffisante 
 				  pour en supporter le poids et en cas contraire d'indiquer les moyens de consolidation qu'ils jugeraient le plus 
 				  convenable.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il charge Mr le Président des Marguilliers de prévenir ces MMrs de la mission qui leur 
-				  est confiée en les priant de vouloir bien adresser au Conseil le plus tôt possible un rapport écrit sur les résultats 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il charge Mr le Prï¿½sident des Marguilliers de prï¿½venir ces MMrs de la mission qui leur 
+				  est confiï¿½e en les priant de vouloir bien adresser au Conseil le plus tï¿½t possible un rapport ï¿½crit sur les rï¿½sultats 
 				  de leur inspection.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur les explications fournies par un membre le Conseil autorise Mr Chazelle à ajouter 
-				  au nouveau jeu d'orgue un octave de bombarde moyennant l'abandon à son profit des vieux tuyaux.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sur les explications fournies par un membre le Conseil autorise Mr Chazelle ï¿½ ajouter 
+				  au nouveau jeu d'orgue un octave de bombarde moyennant l'abandon ï¿½ son profit des vieux tuyaux.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enfin le Conseil ouvre sur les fonds libres du budget en exercice un crédit de 80 frs 
-				  40 pour le prix des plaques de fonte superposées sur la soufflerie de l'orgue qui aux termes du dernier traité avec 
-				  Mr Chazelle devraient rester à la charge de la fabrique.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enfin le Conseil ouvre sur les fonds libres du budget en exercice un crï¿½dit de 80 frs 
+				  40 pour le prix des plaques de fonte superposï¿½es sur la soufflerie de l'orgue qui aux termes du dernier traitï¿½ avec 
+				  Mr Chazelle devraient rester ï¿½ la charge de la fabrique.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4025,7 +4025,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Séance du Bureau du 18 Xbre 1877.
+		          Sï¿½ance du Bureau du 18 Xbre 1877.
 			   </FONT>
 		    </TD>
 		    <TD WIDTH="30%">&nbsp;
@@ -4044,11 +4044,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Chazelle, facteur d'orgues, mandé par le Bureau afin de donner des renseignements 
-				  sur le degré d'avancement des travaux de l'orgue de l'église, déclare que l'instrument est en état de réception 
-				  sauf quelques menus détails qui pourraient se faire après cette opération. Le Bureau après en avoir délibéré fixe 
-				  à samedi prochain, deux heures, la réception de l'oeuvre. Il arrête que Mr le Président Marée sera invité à 
-				  convoquer à cet effet le Conseil de Fabrique et MM les membres de la Commission.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Chazelle, facteur d'orgues, mandï¿½ par le Bureau afin de donner des renseignements 
+				  sur le degrï¿½ d'avancement des travaux de l'orgue de l'ï¿½glise, dï¿½clare que l'instrument est en ï¿½tat de rï¿½ception 
+				  sauf quelques menus dï¿½tails qui pourraient se faire aprï¿½s cette opï¿½ration. Le Bureau aprï¿½s en avoir dï¿½libï¿½rï¿½ fixe 
+				  ï¿½ samedi prochain, deux heures, la rï¿½ception de l'oeuvre. Il arrï¿½te que Mr le Prï¿½sident Marï¿½e sera invitï¿½ ï¿½ 
+				  convoquer ï¿½ cet effet le Conseil de Fabrique et MM les membres de la Commission.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4095,11 +4095,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  <BR>
 				  11, rue de la Fontaine-Neuve
 				  <BR>
-				  à AVALLON (Yonne)
+				  ï¿½ AVALLON (Yonne)
 				  <BR>
 				  -------------
 				  <BR>
-				  Récompenses aux expositions
+				  Rï¿½compenses aux expositions
 				  <BR>
 				  1858, 1860, 1862
 				  <BR>
@@ -4128,14 +4128,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    <TD WIDTH="25%">
 		       <FONT size=4 color=#FFFFFF>
 			   <P ALIGN="LEFT">
-			      Auxerre, le 1er décembre 1877
+			      Auxerre, le 1er dï¿½cembre 1877
 				  <BR>
 				  <BR>
-				  Monsieur le Président du
+				  Monsieur le Prï¿½sident du
 				  <BR>
 				  Conseil de fabrique de la
 				  <BR>
-				  Cathédrale à Auxerre
+				  Cathï¿½drale ï¿½ Auxerre
 				  <BR>
 				  <BR>
 				  <BR>
@@ -4162,25 +4162,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-			      A mon grand regret, et malgré tous mes efforts, il ne m'a pas été possible de tirer un parti bien Convanable de la 
-				  trompette et du clairon de l'Ancien Orgue, le mécanisme vibran n'étant plus en rapport avec la nouvelle facture, je 
-				  ne puis obtenir la pureté et la Rondeur de son que je désire et que je considère comme absolument nécessaire dans 
+			      A mon grand regret, et malgrï¿½ tous mes efforts, il ne m'a pas ï¿½tï¿½ possible de tirer un parti bien Convanable de la 
+				  trompette et du clairon de l'Ancien Orgue, le mï¿½canisme vibran n'ï¿½tant plus en rapport avec la nouvelle facture, je 
+				  ne puis obtenir la puretï¿½ et la Rondeur de son que je dï¿½sire et que je considï¿½re comme absolument nï¿½cessaire dans 
 				  votre nouvel Orgue.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour arriver à un bon résultat il faudrait tout simplement changer toute la boite 
-				  vibrante de deux jeux ce serait une nouvelle dépense de <U>quatre cent francs</U> et alors nous aurions quelque 
-				  chose de réellement bon.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour arriver ï¿½ un bon rï¿½sultat il faudrait tout simplement changer toute la boite 
+				  vibrante de deux jeux ce serait une nouvelle dï¿½pense de <U>quatre cent francs</U> et alors nous aurions quelque 
+				  chose de rï¿½ellement bon.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez monsieur le Président soumettre mon appréciation à messieurs les Membres du 
-				  Conseil de fabrique et communiquer son avis pour ne donner à mon travail le moindre retard de ce fait.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez monsieur le Prï¿½sident soumettre mon apprï¿½ciation ï¿½ messieurs les Membres du 
+				  Conseil de fabrique et communiquer son avis pour ne donner ï¿½ mon travail le moindre retard de ce fait.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il me serait aussi très agréable .../<SUP>...</SUP>
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il me serait aussi trï¿½s agrï¿½able .../<SUP>...</SUP>
 				  <BR>
-				  de recevoir en compte sur mon travail une somme de 2000 f que Mr le Trésorier de la fabrique verserait à la 
-				  Société Générale au Crédit de monsieur Bouché Banquier à Avallon où que je verserai moi-même à cet Etablissement si 
-				  la fabrique ne le fait elle-même.
+				  de recevoir en compte sur mon travail une somme de 2000 f que Mr le Trï¿½sorier de la fabrique verserait ï¿½ la 
+				  Sociï¿½tï¿½ Gï¿½nï¿½rale au Crï¿½dit de monsieur Bouchï¿½ Banquier ï¿½ Avallon oï¿½ que je verserai moi-mï¿½me ï¿½ cet Etablissement si 
+				  la fabrique ne le fait elle-mï¿½me.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez agréer, Monsieur le Président, mes salutations les plus empressées.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veuillez agrï¿½er, Monsieur le Prï¿½sident, mes salutations les plus empressï¿½es.
 		    </font></TD>
 		    <TD WIDTH="10%">&nbsp;
 		     
@@ -4218,20 +4218,20 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
 			   <P ALIGN="LEFT">
-		          A 45° au bas du recto de cette lettre :
+		          A 45ï¿½ au bas du recto de cette lettre :
 			   </P>
 			   <P ALIGN="CENTER">
-			      Vu bon à payer
+			      Vu bon ï¿½ payer
 			      <BR>
-			      à Mr Chazelle
+			      ï¿½ Mr Chazelle
 			      <BR>
 			      la somme de deux mille francs
 			      <BR>
-			      à compte sur les travaux des orgues
+			      ï¿½ compte sur les travaux des orgues
 			      <BR>
 			      Auxerre 7 Xbre 1877
 			      <BR>
-			      Le Président du Bureau
+			      Le Prï¿½sident du Bureau
 			      <BR>
 			      Quantin
 			   </P>
@@ -4285,7 +4285,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="24%">
 		       <FONT size=4 color=#FFFFFF>
 			   <P ALIGN="LEFT">
-			      15<SUP>è</SUP> Année - N° 1
+			      15<SUP>ï¿½</SUP> Annï¿½e - Nï¿½ 1
 				  <BR>
 				  <BR>
 				  <BR>
@@ -4360,42 +4360,42 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			   <p align="justify">
 			      - On lit dans <I>la Bourgogne</I>
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les fêtes de Noël à Saint Etienne d'Auxerre ont emprunté, cette année, une solennité 
-				  nouvelle, à l'inauguration des grandes orgues. La cathédrale d'Auxerre possède enfin un instrument digne d'elle.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les fï¿½tes de Noï¿½l ï¿½ Saint Etienne d'Auxerre ont empruntï¿½, cette annï¿½e, une solennitï¿½ 
+				  nouvelle, ï¿½ l'inauguration des grandes orgues. La cathï¿½drale d'Auxerre possï¿½de enfin un instrument digne d'elle.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les vieilles orgues du seizième siècle, dont on se servait jusqu'ici, avaient eu sans 
-				  doute, autrefois, des qualités que nos pères avaient pu apprécier ; mais, depuis longtemps, il n'était plus permis 
-				  à leurs petits neveux de les reconnaître, dans un jeu aigre, discordant et sans précision. Les siècles n'avaient point 
-				  passé sur elles sans laisser des traces de leur passage ; chaque année amenait une détérioration nouvelle ; une 
-				  restauration était devenue nécessaire.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les vieilles orgues du seiziï¿½me siï¿½cle, dont on se servait jusqu'ici, avaient eu sans 
+				  doute, autrefois, des qualitï¿½s que nos pï¿½res avaient pu apprï¿½cier ; mais, depuis longtemps, il n'ï¿½tait plus permis 
+				  ï¿½ leurs petits neveux de les reconnaï¿½tre, dans un jeu aigre, discordant et sans prï¿½cision. Les siï¿½cles n'avaient point 
+				  passï¿½ sur elles sans laisser des traces de leur passage ; chaque annï¿½e amenait une dï¿½tï¿½rioration nouvelle ; une 
+				  restauration ï¿½tait devenue nï¿½cessaire.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aujourd'hui cette restauration est un fait accompli ; et il nous a été donné, mardi dernier, 
-				  d'entendre ces nouvelles orgues ; nous pouvons bien dire nouvelles, quoique ce ne soit que les anciennes restaurées ; 
-				  mais cette restauration a été si complète, si entière, que c'est vraiment un nouvel instrument que nous avons entendu. 
-				  Si quelques jeux, en effet, ont été conservés de l'ancien instrument, ils ont été si bien harmonisés, si admirablement 
-				  combinés avec les vingt nouveaux jeux ajoutés, qu'ils ont maintenant dans l'ensemble un caractère harmonieux qui leur 
-				  manquait jusque là. Nos vieilles orgues, si elles offrent encore à l'oeil la même physionomie, ont donc été admirablement 
-				  modernisées, en même temps que la puissance en a été triplée ; il n'était pas possible de faire mieux, à moins de 
-				  faire des orgues tout à fait neuves.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aujourd'hui cette restauration est un fait accompli ; et il nous a ï¿½tï¿½ donnï¿½, mardi dernier, 
+				  d'entendre ces nouvelles orgues ; nous pouvons bien dire nouvelles, quoique ce ne soit que les anciennes restaurï¿½es ; 
+				  mais cette restauration a ï¿½tï¿½ si complï¿½te, si entiï¿½re, que c'est vraiment un nouvel instrument que nous avons entendu. 
+				  Si quelques jeux, en effet, ont ï¿½tï¿½ conservï¿½s de l'ancien instrument, ils ont ï¿½tï¿½ si bien harmonisï¿½s, si admirablement 
+				  combinï¿½s avec les vingt nouveaux jeux ajoutï¿½s, qu'ils ont maintenant dans l'ensemble un caractï¿½re harmonieux qui leur 
+				  manquait jusque lï¿½. Nos vieilles orgues, si elles offrent encore ï¿½ l'oeil la mï¿½me physionomie, ont donc ï¿½tï¿½ admirablement 
+				  modernisï¿½es, en mï¿½me temps que la puissance en a ï¿½tï¿½ triplï¿½e ; il n'ï¿½tait pas possible de faire mieux, ï¿½ moins de 
+				  faire des orgues tout ï¿½ fait neuves.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C'est une &#156;uvre qui fait honneur à messieurs les membres de la fabrique de Saint 
-				  Etienne, qui l'ont entreprise, malgré les lourds sacrifices qu'elle a imposés, et à notre compatriote bien connu, M. 
-				  Chazelle, qui l'a exécutée. Désormais, l'instrument ne fera plus défaut aux inspirations de l'artiste ; et M. Lyon, 
-				  dont le talent n'a plus besoin d'éloges, nous promet des flots de cette harmonie religieuse qui s'allie si bien avec 
-				  la piété.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C'est une &#156;uvre qui fait honneur ï¿½ messieurs les membres de la fabrique de Saint 
+				  Etienne, qui l'ont entreprise, malgrï¿½ les lourds sacrifices qu'elle a imposï¿½s, et ï¿½ notre compatriote bien connu, M. 
+				  Chazelle, qui l'a exï¿½cutï¿½e. Dï¿½sormais, l'instrument ne fera plus dï¿½faut aux inspirations de l'artiste ; et M. Lyon, 
+				  dont le talent n'a plus besoin d'ï¿½loges, nous promet des flots de cette harmonie religieuse qui s'allie si bien avec 
+				  la piï¿½tï¿½.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le jour de Noël, notre éminent organiste a su, dans un jeu large et savamment combiné, 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le jour de Noï¿½l, notre ï¿½minent organiste a su, dans un jeu large et savamment combinï¿½, 
 				  faire ressortir toute la puissance et toutes les ressources de son instrument. Nous ne savons de quel auteur il 
-				  s'est inspiré pour les admirables mélodies de <I>sa communion</I> mais nous serons toujours heureux d'entendre ces 
+				  s'est inspirï¿½ pour les admirables mï¿½lodies de <I>sa communion</I> mais nous serons toujours heureux d'entendre ces 
 				  <I><FONT COLOR ="RED">voies humaines</FONT></I>, si belles, si touchantes, qui nous rappelaient les voix des anges 
-				  appelant les bergers à la crèche.
+				  appelant les bergers ï¿½ la crï¿½che.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plusieurzs amateurs avaient, pour cette circonstance, spontanément offert le concours 
-				  de leur voix ; ils ont, sous l'habile direction du maître de chapelle, exécuté deux motets, bien choisis et bien 
-				  chantés, qui nous ont inspiré le plus vif désir de les entendre de nouveau dans d'autres solennités.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plusieurzs amateurs avaient, pour cette circonstance, spontanï¿½ment offert le concours 
+				  de leur voix ; ils ont, sous l'habile direction du maï¿½tre de chapelle, exï¿½cutï¿½ deux motets, bien choisis et bien 
+				  chantï¿½s, qui nous ont inspirï¿½ le plus vif dï¿½sir de les entendre de nouveau dans d'autres solennitï¿½s.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Cathédrale peut à juste titre être fière de ses orgues, et chacun trouvera désormais dans cet attrait nouveau un 
-				  motif de plus d'assister aux belles et saintes cérémonies de l'Eglise.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Cathï¿½drale peut ï¿½ juste titre ï¿½tre fiï¿½re de ses orgues, et chacun trouvera dï¿½sormais dans cet attrait nouveau un 
+				  motif de plus d'assister aux belles et saintes cï¿½rï¿½monies de l'Eglise.
 			   </P>
 			   </FONT>
 		    </TD>
@@ -4440,7 +4440,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
-			      Rapport des experts chargés de vérifier
+			      Rapport des experts chargï¿½s de vï¿½rifier
 				  <BR>
 				  le plancher des orgues.
 			   </FONT>
@@ -4458,39 +4458,39 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecture est faite du rapport des trois experts chargés par le Conseil de procéder à 
-				  la visite de l'état des planchers qui supportent le grand orgue.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecture est faite du rapport des trois experts chargï¿½s par le Conseil de procï¿½der ï¿½ 
+				  la visite de l'ï¿½tat des planchers qui supportent le grand orgue.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après avoir constaté que les bois de ces planchers étaient d'une qualité excellente, 
-				  d'un équarissage suffisant et qu'ils n'avaient subi aucun affaissement sensible qui fut de nature à inspirer des 
-				  craintes sérieuses, à l'unanimité, ils ont été d'avis
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprï¿½s avoir constatï¿½ que les bois de ces planchers ï¿½taient d'une qualitï¿½ excellente, 
+				  d'un ï¿½quarissage suffisant et qu'ils n'avaient subi aucun affaissement sensible qui fut de nature ï¿½ inspirer des 
+				  craintes sï¿½rieuses, ï¿½ l'unanimitï¿½, ils ont ï¿½tï¿½ d'avis
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1° qu'il n'y avait pas urgence à ce qu'il fût pris pour l'instant aucune mesure de 
-				  sûreté ;
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1ï¿½ qu'il n'y avait pas urgence ï¿½ ce qu'il fï¿½t pris pour l'instant aucune mesure de 
+				  sï¿½retï¿½ ;
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2° qu'il conviendrait néanmoins que les pieds du chassis qui enferme la soufflerie ne 
-				  demeurassent pas plus longtemps en porte-à-faux dans l'entredeux des solives et de remédier de suite à ces inconvénients ; 
-				  qu'il suffirait pour celà de relier les pieds dudit chassis, soit par des &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, soit par de simples entretoises boulonnées avec eux 
-				  et suffisamment allongées pour que la charge se trouve répartie sur l'ensemble des solives contigues.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2ï¿½ qu'il conviendrait nï¿½anmoins que les pieds du chassis qui enferme la soufflerie ne 
+				  demeurassent pas plus longtemps en porte-ï¿½-faux dans l'entredeux des solives et de remï¿½dier de suite ï¿½ ces inconvï¿½nients ; 
+				  qu'il suffirait pour celï¿½ de relier les pieds dudit chassis, soit par des &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, soit par de simples entretoises boulonnï¿½es avec eux 
+				  et suffisamment allongï¿½es pour que la charge se trouve rï¿½partie sur l'ensemble des solives contigues.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3° enfin qu'il serait prudent de faire en sorte qu'un trop grand nombre de personnes 
-				  ne se trouvent jamais réunies dans la tribune qui contient la soufflerie à moins qu'on ne prit auparavant quelques 
-				  précautions pour consolider le plancher de ladite tribune.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3ï¿½ enfin qu'il serait prudent de faire en sorte qu'un trop grand nombre de personnes 
+				  ne se trouvent jamais rï¿½unies dans la tribune qui contient la soufflerie ï¿½ moins qu'on ne prit auparavant quelques 
+				  prï¿½cautions pour consolider le plancher de ladite tribune.
 				  <BR>
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quant aux moyens qu'il conviendrait d'employer pour cette consolidation, MMrs les 
-				  experts déclarent qu'il en existe plusieurs qu'ils pourraient proposer, mais auparavant ils croient devoir faire 
-				  observer que tous présentent des inconvénients et quelque soit  celui qu'on adopte  il y aurait aujourd'hui nécessité 
-				  de défaire tout ou partie des plafond et planchéiage qui recouvrent le plancher de la tribune, ce que l'on eut pu 
-				  plus facilement effectuer, si l'opération se fût faite avant l'installation de l'orgue et de ses accessoires.
+				  experts dï¿½clarent qu'il en existe plusieurs qu'ils pourraient proposer, mais auparavant ils croient devoir faire 
+				  observer que tous prï¿½sentent des inconvï¿½nients et quelque soit  celui qu'on adopte  il y aurait aujourd'hui nï¿½cessitï¿½ 
+				  de dï¿½faire tout ou partie des plafond et planchï¿½iage qui recouvrent le plancher de la tribune, ce que l'on eut pu 
+				  plus facilement effectuer, si l'opï¿½ration se fï¿½t faite avant l'installation de l'orgue et de ses accessoires.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil prend acte de la présentation de ce rapport. Il en ordonne le dépôt dans 
-				  les archives de la fabrique et ouvre au budget de l'exercice courant un crédit de 72 frs pour le paiement des 
-				  honoraires dûs aux experts.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil prend acte de la prï¿½sentation de ce rapport. Il en ordonne le dï¿½pï¿½t dans 
+				  les archives de la fabrique et ouvre au budget de l'exercice courant un crï¿½dit de 72 frs pour le paiement des 
+				  honoraires dï¿½s aux experts.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il autorise en outre Mr l'architecte Piéplu à exécuter immédiatement les travaux 
-				  indiqués par les experts en ce qui concerne le chassis de la soufflerie et s'il ne les trouve pas suffisant pour 
-				  donner au plancher sur lequel il repose une solidité entière & à faire procéder à ceux qu'il estime nécessaires.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Il autorise en outre Mr l'architecte Piï¿½plu ï¿½ exï¿½cuter immï¿½diatement les travaux 
+				  indiquï¿½s par les experts en ce qui concerne le chassis de la soufflerie et s'il ne les trouve pas suffisant pour 
+				  donner au plancher sur lequel il repose une soliditï¿½ entiï¿½re & ï¿½ faire procï¿½der ï¿½ ceux qu'il estime nï¿½cessaires.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4514,30 +4514,30 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <P ALIGN="CENTER">
-			      Procès verbal de réception du grand orgue
+			      Procï¿½s verbal de rï¿½ception du grand orgue
 			   </P>	          
 			   <p align="justify"> 
-			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Blin donne lecture du procès verbal de la réception que MM Oberti et Lyon, 
-				  professeurs de musique, ont faite des travaux de restauration du grand orgue le 21 Xbre dernier en présence du Conseil 
+			      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Blin donne lecture du procï¿½s verbal de la rï¿½ception que MM Oberti et Lyon, 
+				  professeurs de musique, ont faite des travaux de restauration du grand orgue le 21 Xbre dernier en prï¿½sence du Conseil 
 				  de Fabrique.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ces MMrs ont constaté que les conditions du devis avaient entièrement été remplies 
-				  par le facteur. Tous les nouveaux jeux ont été fournis en bonne qualité et en conformité du progrès de la facture 
-				  moderne. L'orgue est d'une harmonie parfaite et tel qu'il est aujourd'hui établi et restauré il serait un instrument 
-				  parfais au moyen de quelques additions dont la dépense ne serait pas très élevée. Mr Chazelle à leur avis a tiré le 
-				  meilleur parti possible de l'étroite enceinte mise à sa disposition et il a surmonté avec un plein succès les 
-				  nombreuses difficultés provenant du défaut d'espace.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ces MMrs ont constatï¿½ que les conditions du devis avaient entiï¿½rement ï¿½tï¿½ remplies 
+				  par le facteur. Tous les nouveaux jeux ont ï¿½tï¿½ fournis en bonne qualitï¿½ et en conformitï¿½ du progrï¿½s de la facture 
+				  moderne. L'orgue est d'une harmonie parfaite et tel qu'il est aujourd'hui ï¿½tabli et restaurï¿½ il serait un instrument 
+				  parfais au moyen de quelques additions dont la dï¿½pense ne serait pas trï¿½s ï¿½levï¿½e. Mr Chazelle ï¿½ leur avis a tirï¿½ le 
+				  meilleur parti possible de l'ï¿½troite enceinte mise ï¿½ sa disposition et il a surmontï¿½ avec un plein succï¿½s les 
+				  nombreuses difficultï¿½s provenant du dï¿½faut d'espace.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil a déjà exprimé, lors de la réception de l'orgue, à MMrs Lyon et Oberti ses 
-				  plus vifs remerciements pour avoir bien voulu surveiller les travaux et aider le facteur de leur expérience. Il les 
-				  leur réitèrent aujourd'hui et prie Mr Blin de se faire auprès d'eux l'interprête de toute sa gratitude.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil a dï¿½jï¿½ exprimï¿½, lors de la rï¿½ception de l'orgue, ï¿½ MMrs Lyon et Oberti ses 
+				  plus vifs remerciements pour avoir bien voulu surveiller les travaux et aider le facteur de leur expï¿½rience. Il les 
+				  leur rï¿½itï¿½rent aujourd'hui et prie Mr Blin de se faire auprï¿½s d'eux l'interprï¿½te de toute sa gratitude.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voulant donner aussi à Mr Chazelle un témoignage de sa satisfaction, le Conseil 
-				  renonce à l'indemnité mise à la charge du facteur en cas de retard des travaux et bien qu'aux termes du traité du .. 
-				  .. .. .. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il ne dut lui être payé qu'une première annuité 
-				  de mille francs un an après la livraison et sans intérêts, il lui sera soldé dès aujourd'hui sur les crédit 
-				  spéciaux ouverts au budget de l'exercice 1877 la somme de 4000 frs. Le Conseil décide en outre que le procès verbal 
-				  de réception sera déposé aux archives de la fabrique.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voulant donner aussi ï¿½ Mr Chazelle un tï¿½moignage de sa satisfaction, le Conseil 
+				  renonce ï¿½ l'indemnitï¿½ mise ï¿½ la charge du facteur en cas de retard des travaux et bien qu'aux termes du traitï¿½ du .. 
+				  .. .. .. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;il ne dut lui ï¿½tre payï¿½ qu'une premiï¿½re annuitï¿½ 
+				  de mille francs un an aprï¿½s la livraison et sans intï¿½rï¿½ts, il lui sera soldï¿½ dï¿½s aujourd'hui sur les crï¿½dit 
+				  spï¿½ciaux ouverts au budget de l'exercice 1877 la somme de 4000 frs. Le Conseil dï¿½cide en outre que le procï¿½s verbal 
+				  de rï¿½ception sera dï¿½posï¿½ aux archives de la fabrique.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4589,7 +4589,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garnie en moleton laine de chamois et cousue
 				  <BR>
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 boucles. 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				  visés à l'orgue.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				  visï¿½s ï¿½ l'orgue.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4604,10 +4604,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  <BR>
 				  L'an 1878, le dimanche 5 mai
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Le Conseil ouvre sur le reliquat actif qu'a présenté le compte de l'exercice 1877 
-				  divers crédits supplémentaires, savoir :
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Le Conseil ouvre sur le reliquat actif qu'a prï¿½sentï¿½ le compte de l'exercice 1877 
+				  divers crï¿½dits supplï¿½mentaires, savoir :
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4° Travaux supplémentaires de menuiserie, ferrurerie et peinture faits aux orgues
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4ï¿½ Travaux supplï¿½mentaires de menuiserie, ferrurerie et peinture faits aux orgues
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  1 000,00
 				  <BR>
@@ -4615,11 +4615,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				  puis
 				  <BR>
 				  <BR>
-				  22 mai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé à Henelle (peintre en bâtiment) travaux à la tribune 
+				  22 mai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ ï¿½ Henelle (peintre en bï¿½timent) travaux ï¿½ la tribune 
 				  des orgues&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;325,25
 				  <BR>
-				  5 juillet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payé à Orcel pour travaux à la tribune des orgues
+				  5 juillet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payï¿½ ï¿½ Orcel pour travaux ï¿½ la tribune des orgues
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;486,50
@@ -4677,9 +4677,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
-			      Augmentation de 25 frs accordée à
+			      Augmentation de 25 frs accordï¿½e ï¿½
 				  <BR>
-				  Landréau, souffleur du petit orgue
+				  Landrï¿½au, souffleur du petit orgue
 			   </FONT>
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -4695,25 +4695,25 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 2° L'attention du Conseil est appelée ensuite sur une demande d'augmentation de 
-				  salaire formée par le sieur Landréot, souffleur du petit orgue, lequel fait observer que son service ne souffre 
-				  point d'interruption et nécessite de sa part une assiduité plus constante que celle exigée du souffleur du grand 
-				  orgue, dont cependant le salaire est plus élevé que le sien, il y aurait lieu de le rétribuer à peu près dans la 
-				  même proportion.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 2ï¿½ L'attention du Conseil est appelï¿½e ensuite sur une demande d'augmentation de 
+				  salaire formï¿½e par le sieur Landrï¿½ot, souffleur du petit orgue, lequel fait observer que son service ne souffre 
+				  point d'interruption et nï¿½cessite de sa part une assiduitï¿½ plus constante que celle exigï¿½e du souffleur du grand 
+				  orgue, dont cependant le salaire est plus ï¿½levï¿½ que le sien, il y aurait lieu de le rï¿½tribuer ï¿½ peu prï¿½s dans la 
+				  mï¿½me proportion.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil, après délibération,
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil, aprï¿½s dï¿½libï¿½ration,
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considérant qu'en effet le petit orgue du choeur fonctionne à tous les offices, aussi 
-				  bien les simples dimanches que les jours de grandes fêtes ;
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considï¿½rant qu'en effet le petit orgue du choeur fonctionne ï¿½ tous les offices, aussi 
+				  bien les simples dimanches que les jours de grandes fï¿½tes ;
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que cependant, si cette circonstance motive de la part du Sieur Landréot une 
-				  assiduité plus grande que celle éxigée de son confrère, on peut dire que, par compensation, son service est 
-				  beaucoup moins pénible ;
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Que cependant, si cette circonstance motive de la part du Sieur Landrï¿½ot une 
+				  assiduitï¿½ plus grande que celle ï¿½xigï¿½e de son confrï¿½re, on peut dire que, par compensation, son service est 
+				  beaucoup moins pï¿½nible ;
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Décide qu'il n'y a pas lieu d'élever son salaire au même chiffre que celui du 
-				  souffleur du grand orgue ; mais que, toutefois, les raisons qu'il indique en sa faveur, méritant d'être prises 
-				  en considération, il lui sera alloué tant pour la présente année que pour les exercices subséquents, une augmentation 
-				  de 25 frs qui portera son traitement annuel à 75 frs. 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dï¿½cide qu'il n'y a pas lieu d'ï¿½lever son salaire au mï¿½me chiffre que celui du 
+				  souffleur du grand orgue ; mais que, toutefois, les raisons qu'il indique en sa faveur, mï¿½ritant d'ï¿½tre prises 
+				  en considï¿½ration, il lui sera allouï¿½ tant pour la prï¿½sente annï¿½e que pour les exercices subsï¿½quents, une augmentation 
+				  de 25 frs qui portera son traitement annuel ï¿½ 75 frs. 
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4749,9 +4749,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 		       <FONT size=4 color=#FFFFFF>
-			      Augmentation de 50 frs allouée à
+			      Augmentation de 50 frs allouï¿½e ï¿½
 				  <BR>
-				  Mr Lécuyer, organiste du petit orgue
+				  Mr Lï¿½cuyer, organiste du petit orgue
 			   </FONT>	  
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -4767,16 +4767,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 Mr l'Archiprêtre communique au Conseil une demande par laquelle Mr Lécuyer, 
-				  Organiste chargé de la tenue du petit orgue, exprime le désir qu'il lui sera alloué, tant pour la présente année 
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 Mr l'Archiprï¿½tre communique au Conseil une demande par laquelle Mr Lï¿½cuyer, 
+				  Organiste chargï¿½ de la tenue du petit orgue, exprime le dï¿½sir qu'il lui sera allouï¿½, tant pour la prï¿½sente annï¿½e 
 				  que pour l'avenir, une augmentation de 100 frs.
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil, considérant que, bien que Mr Lécuyer remplisse ses obligations avec 
-				  beaucoup d'exactitude, ce n'est pas une raison cependant pour lui allouer une augmentation aussi considérable 
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil, considï¿½rant que, bien que Mr Lï¿½cuyer remplisse ses obligations avec 
+				  beaucoup d'exactitude, ce n'est pas une raison cependant pour lui allouer une augmentation aussi considï¿½rable 
 				  que celle qu'il sollicite ;
 				  <BR>
-				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Décide que, cette augmentation sera de cinquante francs seulement ; et que, en ce 
-				  qui touche l'exercice courant, le crédit nécessaire sera prélevé sur les fonds libres.
+				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dï¿½cide que, cette augmentation sera de cinquante francs seulement ; et que, en ce 
+				  qui touche l'exercice courant, le crï¿½dit nï¿½cessaire sera prï¿½levï¿½ sur les fonds libres.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4826,7 +4826,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -4843,9 +4843,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Mr l'Archiprêtre expose l'urgence de l'achat d'un ophicléide, celui de l'église 
-				  étant en très mauvais état, et ne pouvant être réparé. Le Conseil vote le crédit nécessaire et présumé d'environ 
-				  80 francs lequel sera porté sur les dépenses imprévues.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... Mr l'Archiprï¿½tre expose l'urgence de l'achat d'un ophiclï¿½ide, celui de l'ï¿½glise 
+				  ï¿½tant en trï¿½s mauvais ï¿½tat, et ne pouvant ï¿½tre rï¿½parï¿½. Le Conseil vote le crï¿½dit nï¿½cessaire et prï¿½sumï¿½ d'environ 
+				  80 francs lequel sera portï¿½ sur les dï¿½penses imprï¿½vues.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4877,7 +4877,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
           <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -4899,7 +4899,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
-		       Réparations aux orgues
+		       Rï¿½parations aux orgues
 			   </FONT>
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -4915,9 +4915,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour une réparation proposée aux orgues il est admis que l'on se contentera du strict 
-				  nécessaire pour assurer le fonctionnement de l'instrument mais qu'il sera décidé à la séance de Quasimodo quelles 
-				  réparations sérieuses doivent être exécutées.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pour une rï¿½paration proposï¿½e aux orgues il est admis que l'on se contentera du strict 
+				  nï¿½cessaire pour assurer le fonctionnement de l'instrument mais qu'il sera dï¿½cidï¿½ ï¿½ la sï¿½ance de Quasimodo quelles 
+				  rï¿½parations sï¿½rieuses doivent ï¿½tre exï¿½cutï¿½es.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4961,9 +4961,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
 			   <p align="justify">
-		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 4° L'organiste du choeur, Mr Ingrand demande une augmentation de 100 frs, mais 
-				  le Conseil décide que ses appointements seront maintenus au chiffre de 400 frs, tout en reconnaissant qu'il fait 
-				  bien son service, mais aucune obligation nouvelle ne lui étant imposée.
+		          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... 4ï¿½ L'organiste du choeur, Mr Ingrand demande une augmentation de 100 frs, mais 
+				  le Conseil dï¿½cide que ses appointements seront maintenus au chiffre de 400 frs, tout en reconnaissant qu'il fait 
+				  bien son service, mais aucune obligation nouvelle ne lui ï¿½tant imposï¿½e.
 			   </P>	  
 		       </FONT>
 		    </TD>
@@ -4994,11 +4994,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="80%">
 		       <CENTER>
-		          <a href="javascript:;" onClick="MM_openBrWindow('Documents/Cavaille_Coll_1.jpg','GrandeImage32','width=700,height=700')">
-				  <img src="Documents/Cavaille_Coll.JPG" border="0"></a>
+		          /* <a href="javascript:;" onClick="MM_openBrWindow('Documents/Cavaille_Coll_1.jpg','GrandeImage32','width=700,height=700')">
+				  <img src="Documents/Cavaille_Coll.JPG" border="0"></a> */
 				  <BR>
 				   <FONT size=4 color=#FFFFFF>
-				  Certificat délivré par A. C-C
+				  Certificat dï¿½livrï¿½ par A. C-C
 				  <BR>
 				  concernant un de ses ouvriers
 				  </FONT>
@@ -5036,7 +5036,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
-		       Réfection des orgues (ajournée).
+		       Rï¿½fection des orgues (ajournï¿½e).
 			   </FONT>
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -5052,10 +5052,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Président donne connaissance au Conseil, du montant des réparations prévues 
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Prï¿½sident donne connaissance au Conseil, du montant des rï¿½parations prï¿½vues 
 			  pour les orgues.
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le devis établi par Mr Stolz facteur d'orgues à Paris est le suivant :
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le devis ï¿½tabli par Mr Stolz facteur d'orgues ï¿½ Paris est le suivant :
 		   </P>
 		   </FONT>
 		 </TD>
@@ -5072,11 +5072,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	  <TD WIDTH="70%">
 	     <FONT size=4 color=#FFFFFF>
 		 <P ALIGN="left">
-		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1° Relevage général du ton de l'instrument pour l'amener au diapason normal
+		    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1ï¿½ Relevage gï¿½nï¿½ral du ton de l'instrument pour l'amener au diapason normal
 		    <BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2° Réservoir de vent pour assurer une distribution uniforme et divers aménagements
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2ï¿½ Rï¿½servoir de vent pour assurer une distribution uniforme et divers amï¿½nagements
 			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3° Etablissement d'un jeu de bourdon de 16
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3ï¿½ Etablissement d'un jeu de bourdon de 16
 	     </P>	  
 	    </FONT>
 		</TD>
@@ -5124,12 +5124,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En présence de ce chiffre élevé, vu les ressources de la fabrique, Monsieur l'Archiprêtre 
-			  émet l'avis qu'il vaudrait mieux laisser les choses en l'état, tant que le buffet de l'orgue ne sera pas modifié, avec les 
-			  réparations faites il y a 10 ans. L'organiste <I>en y mettant de la bonne volonté</I>, doit pouvoir tirer un parti 
-			  convenable, de l'instrument actuel ; on se bornerait aux réparations et accords indispensables.
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En prï¿½sence de ce chiffre ï¿½levï¿½, vu les ressources de la fabrique, Monsieur l'Archiprï¿½tre 
+			  ï¿½met l'avis qu'il vaudrait mieux laisser les choses en l'ï¿½tat, tant que le buffet de l'orgue ne sera pas modifiï¿½, avec les 
+			  rï¿½parations faites il y a 10 ans. L'organiste <I>en y mettant de la bonne volontï¿½</I>, doit pouvoir tirer un parti 
+			  convenable, de l'instrument actuel ; on se bornerait aux rï¿½parations et accords indispensables.
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Président prend l'avis du Conseil sur cette proposition qui adoptée par la majorité 
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Prï¿½sident prend l'avis du Conseil sur cette proposition qui adoptï¿½e par la majoritï¿½ 
 			  des membres.
 		   </P>
 		   </FONT>
@@ -5166,7 +5166,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
-		       Réclamation Ingrand Organiste.
+		       Rï¿½clamation Ingrand Organiste.
 			   <BR>
 			   Augmentation de 100 frs.
 			   </FONT>
@@ -5184,14 +5184,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Président communique une lettre de Mr Ingrand organiste demandant la réparation de 
-			  l'orgue, des congés et une augmentation de 100 frs. Le Conseil décide
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr le Prï¿½sident communique une lettre de Mr Ingrand organiste demandant la rï¿½paration de 
+			  l'orgue, des congï¿½s et une augmentation de 100 frs. Le Conseil dï¿½cide
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1° que les congés de droit sont refusés et laisse à Mr l'Archiprêtre le soint de donner des 
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1ï¿½ que les congï¿½s de droit sont refusï¿½s et laisse ï¿½ Mr l'Archiprï¿½tre le soint de donner des 
 			  permissions quand il le jugera convenable
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2° que l'augmentation de 100 frs est accordée à partir du 1er mai 1892, mais à la conditions 
-			  que Mr Ingrand abandonne toute autre prétention.
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2ï¿½ que l'augmentation de 100 frs est accordï¿½e ï¿½ partir du 1er mai 1892, mais ï¿½ la conditions 
+			  que Mr Ingrand abandonne toute autre prï¿½tention.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -5217,7 +5217,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
-		          Cours de solfège par Mr Ingrand.
+		          Cours de solfï¿½ge par Mr Ingrand.
 			   </FONT>
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -5233,11 +5233,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Ingrand, deuxième organiste, demande à la fabrique d'établir un cours de solfège pour 
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Ingrand, deuxiï¿½me organiste, demande ï¿½ la fabrique d'ï¿½tablir un cours de solfï¿½ge pour 
 			  les enfants, ce qui faciliterait le recrutement des choristes pour les offices solemnels ; le Conseil sans admettre la 
-			  demande de Mr Ingrand, autorise Mr l'Archiprêtre, à prendre sur les fonds disponibles de la somme votée au budget 
-			  ordinaire, comme frais de maîtrise, ce qui sera utile pour subvenir partiellement aux frais d'un cours de solfège 
-			  établi à l'école des Frères.
+			  demande de Mr Ingrand, autorise Mr l'Archiprï¿½tre, ï¿½ prendre sur les fonds disponibles de la somme votï¿½e au budget 
+			  ordinaire, comme frais de maï¿½trise, ce qui sera utile pour subvenir partiellement aux frais d'un cours de solfï¿½ge 
+			  ï¿½tabli ï¿½ l'ï¿½cole des Frï¿½res.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -5269,7 +5269,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -5290,7 +5290,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
-		          Question des orgues ajournée.
+		          Question des orgues ajournï¿½e.
 			   </FONT>
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -5306,12 +5306,12 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr l'Archiprêtre en présence du chiffre de la souscription pour le calorifère qui donne  
-			  en s'ajoutant aux ressources actuelles pour cet objet un excédant, serait d'avis de le consacrer au projet de 
-			  changement et de translation des orgues, qui tant comme instrument que comme emplacement dans l'église, laissent beaucoup 
-			  à désirer, mais le Conseil refuse de s'occuper de cette question avant  ques les ressources pour le paiement d'une 
-			  dépense aussi importante ne soient pas mieux assurées, il décide donc que l'excédant des fonds disponibles pour le calorifère 
-			  sur les dépenses payées sera mis en valeurs, dont le revenu contribuera à son entretien.
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr l'Archiprï¿½tre en prï¿½sence du chiffre de la souscription pour le calorifï¿½re qui donne  
+			  en s'ajoutant aux ressources actuelles pour cet objet un excï¿½dant, serait d'avis de le consacrer au projet de 
+			  changement et de translation des orgues, qui tant comme instrument que comme emplacement dans l'ï¿½glise, laissent beaucoup 
+			  ï¿½ dï¿½sirer, mais le Conseil refuse de s'occuper de cette question avant  ques les ressources pour le paiement d'une 
+			  dï¿½pense aussi importante ne soient pas mieux assurï¿½es, il dï¿½cide donc que l'excï¿½dant des fonds disponibles pour le calorifï¿½re 
+			  sur les dï¿½penses payï¿½es sera mis en valeurs, dont le revenu contribuera ï¿½ son entretien.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -5347,7 +5347,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		    </TD>
 		    <TD WIDTH="30%">
 			   <FONT size=4 color=#FFFFFF>
-		          Orgues en mauvais état.
+		          Orgues en mauvais ï¿½tat.
 			   </FONT>
 		    </TD>
 			<TD WIDTH="10%">&nbsp;
@@ -5363,11 +5363,11 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une lettre de Mr Lion organiste signale le mauvais état des orgues.
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une lettre de Mr Lion organiste signale le mauvais ï¿½tat des orgues.
 			  <BR>
-			  - Les détériorations résultent surtout des travaux faits à la grande verrière voisine. On ne peut songer à aucune 
-			  réparation utile tant que la verrière ne sera pas terminée. On pressera donc Mr Bonneau d'achever au plus tôt cette 
-			  verrière et on décidera ultérieurement ce qu'il y aura lieu de faire pour les orgues.
+			  - Les dï¿½tï¿½riorations rï¿½sultent surtout des travaux faits ï¿½ la grande verriï¿½re voisine. On ne peut songer ï¿½ aucune 
+			  rï¿½paration utile tant que la verriï¿½re ne sera pas terminï¿½e. On pressera donc Mr Bonneau d'achever au plus tï¿½t cette 
+			  verriï¿½re et on dï¿½cidera ultï¿½rieurement ce qu'il y aura lieu de faire pour les orgues.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -5398,7 +5398,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="80%">
 		       <FONT size=4 color=#FFFFFF>
-		          Dans les documents d'archives, j'ai trouvé un livret des <B>Frères Van Bever</B> dont voici la couverture et une 
+		          Dans les documents d'archives, j'ai trouvï¿½ un livret des <B>Frï¿½res Van Bever</B> dont voici la couverture et une 
 				  gravure au verso.
 				  <BR>
 			   </FONT>
@@ -5422,15 +5422,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="40%">
 		       <CENTER>
-                  <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/VanBever_1_1.jpg','GrandeImage33','width=700,height=700')">
-                  <img src="Cathedrale/VanBever_1.jpg" width="225" height="341" border="0"></a>				  
+                  /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/VanBever_1_1.jpg','GrandeImage33','width=700,height=700')">
+                  <img src="Cathedrale/VanBever_1.jpg" width="225" height="341" border="0"></a>				   */
 				  <BR>
 			   </CENTER>
 		    </TD>
 			<TD WIDTH="40%">
 		       <CENTER>
-		          <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/VanBever_2_1.jpg','GrandeImage34','width=700,height=700')">
-				  <img src="Cathedrale/VanBever_2.jpg" width="206" height="341" border="0"></a>
+		          /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/VanBever_2_1.jpg','GrandeImage34','width=700,height=700')">
+				  <img src="Cathedrale/VanBever_2.jpg" width="206" height="341" border="0"></a> */
 				  <BR>
 			   </CENTER>
 		    </TD>
@@ -5455,15 +5455,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		       <FONT size=4 color=#FFFFFF>
 		          Ce livret contient :
 				  <BR>
-				  - Une présentation ;
+				  - Une prï¿½sentation ;
 				  <BR>
-				  - un extrait des rapports d'expertise et de réception de quelques orgues construites ;
+				  - un extrait des rapports d'expertise et de rï¿½ception de quelques orgues construites ;
 				  <BR>
-				  - des descriptions d'orgues portatives à tuyaux brévetées ;
+				  - des descriptions d'orgues portatives ï¿½ tuyaux brï¿½vetï¿½es ;
 				  <BR>
 				  - des composition et prix de quelques grandes orgues et
 				  <BR>
-				  - la liste des principales orgues construites ou des restaurations importantes faites par Van Bever Frères 
+				  - la liste des principales orgues construites ou des restaurations importantes faites par Van Bever Frï¿½res 
 				  depuis 1880 en
 				  <BR>
 				  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FRANCE
@@ -5504,7 +5504,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Suivent des comptes de 1894 à 1900
+		          Suivent des comptes de 1894 ï¿½ 1900
 			   </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -5540,7 +5540,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -5577,16 +5577,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur l'Archiprêtre entretient le Conseil de remplacer les Grandes Orgues qui sont en 
-			  très mauvais état par de nouvelles qui seraient installées au fond de la Grande Nef. Il dit avoir réuni une certaine 
-			  somme provenant de dons qui lui ont été remis par des paroissiens.
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur l'Archiprï¿½tre entretient le Conseil de remplacer les Grandes Orgues qui sont en 
+			  trï¿½s mauvais ï¿½tat par de nouvelles qui seraient installï¿½es au fond de la Grande Nef. Il dit avoir rï¿½uni une certaine 
+			  somme provenant de dons qui lui ont ï¿½tï¿½ remis par des paroissiens.
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil se range à l'avis de Mr l'Archiprêtre, et décide qu'il sera fait les demandes 
-			  nécessaires pour arriver à ce résultat. La fabrique interviendra pécunièrement pour une certaine somme, et inscrira au 
-			  budget de 1898 à la séance de Quasimodo une somme de 1000 frs comme 1ère annuité des 5000 frs qui sont votés.
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Conseil se range ï¿½ l'avis de Mr l'Archiprï¿½tre, et dï¿½cide qu'il sera fait les demandes 
+			  nï¿½cessaires pour arriver ï¿½ ce rï¿½sultat. La fabrique interviendra pï¿½cuniï¿½rement pour une certaine somme, et inscrira au 
+			  budget de 1898 ï¿½ la sï¿½ance de Quasimodo une somme de 1000 frs comme 1ï¿½re annuitï¿½ des 5000 frs qui sont votï¿½s.
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La copie de cette délibération sera transmise à Mr l'Architecte des Monuments historiques 
-			  chargé de la Conservation de la Cathédrale pour qu'il dresse le plus tôt possible les plans et devis de la tribune.
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La copie de cette dï¿½libï¿½ration sera transmise ï¿½ Mr l'Architecte des Monuments historiques 
+			  chargï¿½ de la Conservation de la Cathï¿½drale pour qu'il dresse le plus tï¿½t possible les plans et devis de la tribune.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -5612,26 +5612,26 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juste avant une énumération des soumissions de l'orgue, il y a une lettre 
-			  en date du 23 janvier 1897, adressée par Mr CH. Anneessens à Monsieur l'abbé Pinçon, curé archiprêtre de la Cathédrale à 
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juste avant une ï¿½numï¿½ration des soumissions de l'orgue, il y a une lettre 
+			  en date du 23 janvier 1897, adressï¿½e par Mr CH. Anneessens ï¿½ Monsieur l'abbï¿½ Pinï¿½on, curï¿½ archiprï¿½tre de la Cathï¿½drale ï¿½ 
 			  Auxerre dont voici les deux premiers paragraphes seulement :
 			  <BR>
 			  <BR>
 			     <img src="Cathedrale/Anneessens_3.jpg" width="765" height="280">
 			  <BR>
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur l'Archiprêtre,
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur l'Archiprï¿½tre,
 			  <BR>
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bien que cette lettre ne concerne pas précisément la reconstruction des Orgues de votre 
-			  cathédrale, je crois devoir vous l'adresser à titre officieux.
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bien que cette lettre ne concerne pas prï¿½cisï¿½ment la reconstruction des Orgues de votre 
+			  cathï¿½drale, je crois devoir vous l'adresser ï¿½ titre officieux.
 			  <BR>
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous ne sauriez croire à quel dénigrement je suis en but et à quels vilains procédés 
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vous ne sauriez croire ï¿½ quel dï¿½nigrement je suis en but et ï¿½ quels vilains procï¿½dï¿½s 
 			  d'aucuns se laissent entrainer.
 			  <BR>
 			  ... 
 			  <br>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Si tant est que cette lettre puisse avoir un intérêt pour les chercheurs des oeuvres d'Anneessens, je peux la copier ici ou
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Si tant est que cette lettre puisse avoir un intï¿½rï¿½t pour les chercheurs des oeuvres d'Anneessens, je peux la copier ici ou
 			  l'envoyer par mail.
 		   </P>
 		   </FONT>
@@ -5664,19 +5664,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <FONT size=4 color=#FFFFFF>
 		 <TD WIDTH="40%">
 		    <CENTER>
-		    <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/EugeneSTOLTZ_1_1.jpg','GrandeImage35','width=700,height=700')">
-			<img src="Cathedrale/EugeneSTOLTZ_1.jpg" width="252" height="327" border="0"></a>
+		    /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/EugeneSTOLTZ_1_1.jpg','GrandeImage35','width=700,height=700')">
+			<img src="Cathedrale/EugeneSTOLTZ_1.jpg" width="252" height="327" border="0"></a> */
 			<BR>
-			Eugène STOLTZ : lettre et projet
+			Eugï¿½ne STOLTZ : lettre et projet
 			<BR>
-			du 29 février 1897.
+			du 29 fï¿½vrier 1897.
 			</CENTER>
 			<BR>
          </TD>
 		 <TD WIDTH="40%">
 		    <CENTER>
-			<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/E&JAbbey_1_1.jpg','GrandeImage36','width=700,height=700')">
-			<img src="Cathedrale/E&JAbbey_1.jpg" width="250" height="327" border="0"></a>
+			/* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/E&JAbbey_1_1.jpg','GrandeImage36','width=700,height=700')">
+			<img src="Cathedrale/E&JAbbey_1.jpg" width="250" height="327" border="0"></a> */
 			<BR>
 			E. & J. ABBEY : devis du 18 mars 1897.
 		    <BR>
@@ -5727,9 +5727,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur l'Archiprêtre informe le Conseil qu'il n'avait pas encore reçu de réponse de Mr 
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monsieur l'Archiprï¿½tre informe le Conseil qu'il n'avait pas encore reï¿½u de rï¿½ponse de Mr 
 			  Boeswillwald, Architecte des Monuments historiques, au sujet des plans et devis de la tribune pour les orgues ; Mr le 
-			  Président se charge de lui envoyer une lettre de rappel ainsi qu'un nouvel extrait de la délibération de la séance du 
+			  Prï¿½sident se charge de lui envoyer une lettre de rappel ainsi qu'un nouvel extrait de la dï¿½libï¿½ration de la sï¿½ance du 
 			  3 janvier dernier
 		   </P>
 		   </FONT>
@@ -5780,8 +5780,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <FONT size=4 color=#FFFFFF>
 		 <TD WIDTH="80%">
 		    <CENTER>
-		    <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/JMerklin_1_1.jpg','GrandeImage37','width=700,height=700')">
-			<img src="Cathedrale/JMerklin_1.jpg" width="230" height="327" border="0"></a>
+		    /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/JMerklin_1_1.jpg','GrandeImage37','width=700,height=700')">
+			<img src="Cathedrale/JMerklin_1.jpg" width="230" height="327" border="0"></a> */
 			<BR>
 			J MERKLIN & C<sup>ie</sup> : avant projet
 			<BR>
@@ -5812,7 +5812,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -5828,7 +5828,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 </TD>
 			<TD WIDTH="50%">
 		       <FONT size=4 color=#FFFFFF>
-		          Séance ordinaire du 4 juillet 1897
+		          Sï¿½ance ordinaire du 4 juillet 1897
 			   </FONT>
 		    </TD>
 		    <TD WIDTH="30%">
@@ -5849,39 +5849,39 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr l'Archiprêtre annonce qu'il a reçu de Mr l'Architecte des Monuments historiques les 
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr l'Archiprï¿½tre annonce qu'il a reï¿½u de Mr l'Architecte des Monuments historiques les 
 			  plans et devis de la Tribune et du Buffet des nouvelles orgues.
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dépense s'élevant à 23 065<SUP>f</SUP>52, le Conseil décide d'adresser à Mr le Ministre des 
-			  Beaux-Arts une demande de secours ainsi conçue :
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La dï¿½pense s'ï¿½levant ï¿½ 23 065<SUP>f</SUP>52, le Conseil dï¿½cide d'adresser ï¿½ Mr le Ministre des 
+			  Beaux-Arts une demande de secours ainsi conï¿½ue :
 			  <BR>
 			  <BR>
-			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considérant que la tribune actuelle des grandes orgues
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"placée provisoirement à l'angle du transept sud est une
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"construction absolument regrettable pour la beauté de l'édi-
+			  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considï¿½rant que la tribune actuelle des grandes orgues
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"placï¿½e provisoirement ï¿½ l'angle du transept sud est une
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"construction absolument regrettable pour la beautï¿½ de l'ï¿½di-
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"fice, qu'elle en brise les lignes, et cache les sculptures
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"et défigure une très belle chapelle latérale de la Renais-
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"et dï¿½figure une trï¿½s belle chapelle latï¿½rale de la Renais-
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"sance ;
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considérant que cette tribune n'est pas d'une solidité à
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"toute épreuve, qu'un affaissement inquiétant s'est déjà ma-
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"nifesté et que dans un délai plus ou moins éloigné, il fau-
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"dra y faire des réparations ;
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considérant qu'il y a lieu de remédier à cet état de
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considï¿½rant que cette tribune n'est pas d'une soliditï¿½ ï¿½
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"toute ï¿½preuve, qu'un affaissement inquiï¿½tant s'est dï¿½jï¿½ ma-
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"nifestï¿½ et que dans un dï¿½lai plus ou moins ï¿½loignï¿½, il fau-
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"dra y faire des rï¿½parations ;
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considï¿½rant qu'il y a lieu de remï¿½dier ï¿½ cet ï¿½tat de
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"choses que tout le monde regrette au point de vue de l'art,
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"en construisant une nouvelle tribune avec un nouveau buffet
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"d'orgues sous la grande verrière de la porte principale ;
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"d'orgues sous la grande verriï¿½re de la porte principale ;
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attendu que Mr Boeswillwald, Architecte des Monuments
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"historiques a établi le plan de cette tribune et du buffet
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"avec un devis s'élevant à la somme de 23 065<SUP>f</SUP>52 ;
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attendu que la Fabrique a voté sur ses ressources person-
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"nelles une somme de 5000 frs payable par annuité et que,
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"d'autre part une souscription faite dans le même but a pro-
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"historiques a ï¿½tabli le plan de cette tribune et du buffet
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"avec un devis s'ï¿½levant ï¿½ la somme de 23 065<SUP>f</SUP>52 ;
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attendu que la Fabrique a votï¿½ sur ses ressources person-
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"nelles une somme de 5000 frs payable par annuitï¿½ et que,
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"d'autre part une souscription faite dans le mï¿½me but a pro-
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"duit une somme de 5000 frs soit 10000 frs pour les travaux
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"projetés ;
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"projetï¿½s ;
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A l'honneur de solliciter de Monsieur le Ministre des
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Beaux-Arts l'autorisation de construire la tribune et le
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"buffet d'orgues, et une subvention nécessaire pour achever
-			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"de couvrir les frais du devis dressé par Mr l'Architecte des
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"buffet d'orgues, et une subvention nï¿½cessaire pour achever
+			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"de couvrir les frais du devis dressï¿½ par Mr l'Architecte des
 			  <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Monuments historiques.</I>
 		   </P>
 		   </FONT>
@@ -5934,9 +5934,9 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <TR>
 	     <TD>
 		    <CENTER>
-			Henri DIDIER : devis du 17 août 1898,
+			Henri DIDIER : devis du 17 aoï¿½t 1898,
 			<BR>
-			précédé d'un livret sur les nouvelles Grandes Orgues de l'Eglise St Nicolas à NANCY <i>(Livret daté de Janvier 1898)</i>
+			prï¿½cï¿½dï¿½ d'un livret sur les nouvelles Grandes Orgues de l'Eglise St Nicolas ï¿½ NANCY <i>(Livret datï¿½ de Janvier 1898)</i>
 			</CENTER>
 		 </TD>
       </TR>
@@ -5956,19 +5956,19 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <FONT size=4 color=#FFFFFF>
 		 <TD WIDTH="40%">
 		    <CENTER>
-               <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_2_1.jpg','GrandeImage38','width=700,height=700')">
-               <img src="Cathedrale/HenriDIDIER_2.jpg" width="238" height="327" border="0"></a>		
+               /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_2_1.jpg','GrandeImage38','width=700,height=700')">
+               <img src="Cathedrale/HenriDIDIER_2.jpg" width="238" height="327" border="0"></a>		 */
 			   <BR>
-			Les nouvelles Grandes Orgues de l'Eglise St Nicolas à NANCY
+			Les nouvelles Grandes Orgues de l'Eglise St Nicolas ï¿½ NANCY
 			</CENTER>
 			<BR>
          </TD>
 		 <TD WIDTH="40%">
 		    <CENTER>
-			<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_3_1.jpg','GrandeImage39','width=700,height=700')">
-			<img src="Cathedrale/HenriDIDIER_3.jpg" width="238" height="327" border="0"></a>
+			/* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_3_1.jpg','GrandeImage39','width=700,height=700')">
+			<img src="Cathedrale/HenriDIDIER_3.jpg" width="238" height="327" border="0"></a> */
 			<BR>
-			Les nouvelles Grandes Orgues de l'Eglise St Nicolas à NANCY
+			Les nouvelles Grandes Orgues de l'Eglise St Nicolas ï¿½ NANCY
 		    <BR>
 			<BR>
 			</CENTER>
@@ -5991,35 +5991,35 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
          <FONT size=4 color=#FFFFFF>
          <TD WIDTH="25%">
 		    <CENTER>
-			<a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_1_1.jpg','GrandeImage40','width=700,height=700')">
-			<img src="Cathedrale/HenriDIDIER_1.jpg" width="238" height="327" border="0"></a>
-			Henri DIDIER : premier devis du 17 août 1898.
+			/* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_1_1.jpg','GrandeImage40','width=700,height=700')">
+			<img src="Cathedrale/HenriDIDIER_1.jpg" width="238" height="327" border="0"></a> */
+			Henri DIDIER : premier devis du 17 aoï¿½t 1898.
 		    </CENTER>
 			<BR>
          </TD>
 		 <TD WIDTH="25%">
 		    <CENTER>
-               <font size=4 color=#FFFFFF><a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_5_1.jpg','GrandeImage41','width=700,height=700')">
-			   <img src="Cathedrale/HenriDIDIER_5.jpg" width="237" height="327" border="0"></a></font>		     Orgues construites par la maison
-			   Deuxième de couverture
+               /* <font size=4 color=#FFFFFF><a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_5_1.jpg','GrandeImage41','width=700,height=700')">
+			   <img src="Cathedrale/HenriDIDIER_5.jpg" width="237" height="327" border="0"></a></font>		     Orgues construites par la maison */
+			   Deuxiï¿½me de couverture
 			</CENTER>
 			<BR>
          </TD>
 		 <TD WIDTH="25%">
 		    <CENTER>
-			   <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_6_1.jpg','GrandeImage43','width=700,height=700')">
-			   <img src="Cathedrale/HenriDIDIER_6.jpg" width="237" height="327" border="0"></a>
+			   /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_6_1.jpg','GrandeImage43','width=700,height=700')">
+			   <img src="Cathedrale/HenriDIDIER_6.jpg" width="237" height="327" border="0"></a> */
 			   Orgues construites par la maison (suite)
-			   Troisième de couverture
+			   Troisiï¿½me de couverture
 		    </CENTER>
 			<BR>
          </TD>
 		 <TD WIDTH="25%">
 		    <CENTER>
-		       <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_4_1.jpg','GrandeImage44','width=700,height=700')">
-			   <img src="Cathedrale/HenriDIDIER_4.jpg" width="237" height="327" border="0"></a>
+		       /* <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/HenriDIDIER_4_1.jpg','GrandeImage44','width=700,height=700')">
+			   <img src="Cathedrale/HenriDIDIER_4.jpg" width="237" height="327" border="0"></a> */
 			   <BR>
-			   Quatrième de couverture 
+			   Quatriï¿½me de couverture 
 			</CENTER>
 			<BR>
          </TD>
@@ -6044,7 +6044,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    <td width="30%">
 		     <FONT size=4 color=#FFFFFF>
 		        <P ALIGN="right">
-		           <div class="mondiv"><i>Référence à préciser</i></div>
+		           <div class="mondiv"><i>Rï¿½fï¿½rence ï¿½ prï¿½ciser</i></div>
 		        </p>
 			 </font>
          </td>
@@ -6081,10 +6081,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		 <TD WIDTH="80%">
 		   <FONT size=4 color=#FFFFFF>
 		   <p align="justify">
-		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr l'Archiprêtre porte une plainte contre l'organiste du petit orgue qui au Salut de la 
-			  fête des &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du 12 novembre dernier a 
-			  refusé de jouer. L'organiste sera mis en demeure de remplir son devoir et de recevoir poliment les observations que Mr 
-			  l'Archiprêtre croira devoir lui faire.
+		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr l'Archiprï¿½tre porte une plainte contre l'organiste du petit orgue qui au Salut de la 
+			  fï¿½te des &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du 12 novembre dernier a 
+			  refusï¿½ de jouer. L'organiste sera mis en demeure de remplir son devoir et de recevoir poliment les observations que Mr 
+			  l'Archiprï¿½tre croira devoir lui faire.
 		   </P>
 		   </FONT>
 		 </TD>
@@ -6107,10 +6107,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
       <TR>
 	     <TD WIDTH="100%">
 		    <CENTER>
-			   <H1>Fin de la Deuxième Partie</H1>
+			   <H1>Fin de la Deuxiï¿½me Partie</H1>
 			   <HR WIDTH="80%">
-			   <H2>Supplément aux Corrections & Additions
-			   <BR>de la Première Partie</H2>
+			   <H2>Supplï¿½ment aux Corrections & Additions
+			   <BR>de la Premiï¿½re Partie</H2>
 			   <BR>
                <BR>
                <BR>
@@ -6120,7 +6120,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                <BR>
                <BR>
 			   <HR WIDTH="80%">
-			   <H2>Corrections & Additions de la Deuxième Partie</H2>
+			   <H2>Corrections & Additions de la Deuxiï¿½me Partie</H2>
 			</CENTER>
 		</TD>
       </TR>
@@ -6148,7 +6148,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		  </TD>
 		  <TD WIDTH="33%">
 		     <P ALIGN="right">
-			    <a href="Revolution_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxième</FONT></A>
+			    <a href="Revolution_II.htm"><FONT COLOR = #99FFFF>Chapitre deuxiï¿½me</FONT></A>
 			 </P>
 		  </TD>
       </TR>

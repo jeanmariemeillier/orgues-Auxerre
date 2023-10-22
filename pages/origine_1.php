@@ -1,7 +1,7 @@
 
 
 
-   <TABLE WIDTH="100%">
+   <!-- <TABLE WIDTH="100%"> -->
       <!--  <TH>
 	     <img src="systeme/img/Guirlande.jpg" width="746" height="80">
 	  </TH>
@@ -219,8 +219,8 @@
                <TR>
                   <TD>
 		             <CENTER>
-                        <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Premier_orgue_1.jpg','GrandeImage3','width=700,height=700')">
-                        <img src="Cathedrale/Premier_orgue.jpg" width="255" height="360" border="0"></a>			            
+                        <!-- <a href="javascript:;" onClick="MM_openBrWindow('Cathedrale/Premier_orgue_1.jpg','GrandeImage3','width=700,height=700')">
+                        <img src="Cathedrale/Premier_orgue.jpg" width="255" height="360" border="0"></a>			             -->
 						<BR>
 			            Premier orgue ?
 			         </CENTER>
@@ -352,8 +352,8 @@
 	     </TD>
 	     <TD WIDTH="80%">
 		    <CENTER>
-			<a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Corbeaux_ancienne_tribune_1.jpg','GrandeImage4','width=700,height=700')">
-			<img src="Vignettes3/Corbeaux_ancienne_tribune.jpg" width="471" height="300" border="0"></a>
+			<!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Corbeaux_ancienne_tribune_1.jpg','GrandeImage4','width=700,height=700')">
+			<img src="Vignettes3/Corbeaux_ancienne_tribune.jpg" width="471" height="300" border="0"></a> -->
 			<BR>
 			Corbeaux de l'ancienne tribune ?
 			</CENTER>
@@ -369,8 +369,8 @@
 			   <TR>
 			      <TD WIDTH="50%">
 				     <CENTER>
-					    <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Chapiteau_non_refait_1.jpg','GrandeImage5','width=700,height=700')">
-						<img src="Vignettes3/Chapiteau_non_refait.jpg" width="300" height="469" border="0"></a>
+					    <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Chapiteau_non_refait_1.jpg','GrandeImage5','width=700,height=700')">
+						<img src="Vignettes3/Chapiteau_non_refait.jpg" width="300" height="469" border="0"></a> -->
 						<BR>
 			               La porte de l'ancienne tribune
 			            <BR>
@@ -378,8 +378,8 @@
 				  </TD>
 				  <TD WIDTH="50%">
 				     <CENTER>
-                        <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Chapiteau_non_refait_2_1.jpg','GrandeImage6','width=700,height=700')">
-						<img src="Vignettes3/Chapiteau_non_refait_2.jpg" width="271" height="469" border="0"></a>						
+                        <!-- <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Chapiteau_non_refait_2_1.jpg','GrandeImage6','width=700,height=700')">
+						<img src="Vignettes3/Chapiteau_non_refait_2.jpg" width="271" height="469" border="0"></a>						 -->
 						<BR>
 						   Les chapiteaux non refaits
 						<BR>   
