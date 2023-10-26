@@ -32,7 +32,7 @@
 		   		du transept d'aujourd'hui. Mais la cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr 
 		   		par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
 		   		<br>
-           		[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE II page ]
+           		[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE II page 236 ligne 18 - CHAPITRE XII page ]
 				<br>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vénérable GUY (XLIVè Evêque d'Auxerre de 933 à 961)
 		   		se mit à l'oeuvre pour réparer le désastre. Il voulut avoir sa sépulture dans sa cathédrale. Jusqu'à lui il n'y avait encore eu aucun évêque inhumé dans l'église cathédrale, et lui-même par humilité n'avait d'abord souhaité d'être inhumé que sous son portique. Mais le malheur de l'incendie arrivé sous son épiscopat fit changer son premier dessein : ainsi, on enterra son corps entre le choeur et la nef devant l'image du crucifix. Comme le bâtiment de l'église était alors beaucoup plus petit que n'est le nouveau qui a été commencé en 1215, le choeur 
