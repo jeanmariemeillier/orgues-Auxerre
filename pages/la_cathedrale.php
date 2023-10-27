@@ -288,7 +288,12 @@
 		   		<br>
 		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Au XIVème siècle, la cathédrale subit diverses 
 		   		transformations. On fit disparaître les peintures du siècle précédent. VIOLLET-LE-DUC restaura le déambulatoire 
-		   		et la crypte. En 1927, les vitraux furent restaurés et remis autant que possible dans leur ordre chronologique. 
+		   		et la crypte. 
+				<br>
+				[<font color="red">Retrouver la page et le paragraphe du texte</font> : L'YONNE SECRETE de Jean-Pierre Fontaine, sixième partie : Secrets de l'art, Chapitre VI, page 356 ligne 29 et A. Y. 78T2 (Saint Germain), 74T8 (crypte de la cathédrale)]
+				En 1802, Rougier de la Bergerie, agronome réputé, préfet depuis sa nomination à auxerre, a découvert les joies de la viticulture. Où trouver un lieu propice à l'élevage de son vin ? Sans rien dire à personne, il entrepose parmi les piliers romans de la crypte de la cathédrale, fûts et cuves, ainsi placés à proximité de la préfecture installée dans l'ancien palais épiscopal au chevet du sanctuaire... A toutes les réclamations du curé, léabbé Viart, il fait la sourde oreille. Même après sa mutation, il maintient dans l'antique sactuaire son "vendangeoir". Finalament, tout rentre dans l'ordre. En 1811, le préfet Defermont évacue les cryptes de la cathédrale.
+				<br>  
+				En 1927, les vitraux furent restaurés et remis autant que possible dans leur ordre chronologique. 
 		   		Ils ont été mis à l'abrit au cours de la dernière guerre. Leur pose a été considérablement ralentie le
 		   		4 août 1947 par une grêle très violente qui a endommagé ceux qui étaient déjà remis en place. A la réfection
 		   		de ces dégâts les verriers ont travaillé plus d'une année (1948).

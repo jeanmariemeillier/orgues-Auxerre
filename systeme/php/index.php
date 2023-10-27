@@ -5,4 +5,4 @@
 header("Location: http://collectif11880.org/");
 /* Redirection du navigateur sur le serveur */
 exit;
-?>
+<?>
