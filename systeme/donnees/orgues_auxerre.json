@@ -6,6 +6,7 @@
 	"auto_menu" : true,
 	"activ_li"	: false,
 	"mod_blog" : false,
+	"liens_get" : true,
 
 "_commentaire": "variable utile pour le module blog",
 	"tmp_blog" : "20000",
