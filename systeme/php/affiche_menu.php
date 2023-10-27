@@ -1,4 +1,4 @@
- <?php> 
+ <?php
 
     /*
     fichier personalisé d'affichage du menu conçu par l'association collectif 11880.
@@ -46,4 +46,4 @@
         }
     echo "</article>".$rn; 
   }  
-<?>
+?>
