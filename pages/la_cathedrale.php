@@ -14,24 +14,37 @@
 	 	<td width="80%">
 	    	<p align = "justify">
 		   		<br>
-		   		Une grande partie de l'histoire des Evêques d'Auxerre et par conséquent de la cathédrale est extraite du livre "Mémoires concernant l'Histoire civile et ecclésiastique d'Auxerre et de son ancien diocèse" de l'Abbé LEBEUF.
-		    	<br>
-		    	<i>Chanoine et Sous-Chantre de la cathédrale d'Auxerre, membre de l'Académie des Inscriptions et Belles-Lettres.</i>
+		   		Une grande partie de l'histoire des Evêques d'Auxerre et par conséquent de la cathédrale est extraite du livre "Mémoires concernant l'Histoire civile et ecclésiastique d'Auxerre et de son ancien diocèse" de <i>l'Abbé LEBEUF</i> . [renvoi 1]
+		    	<br>[texte en italique module tooltip : "Chanoine et Sous-Chantre de la cathédrale d'Auxerre, membre de l'Académie des Inscriptions et Belles-Lettres.""]
+				<br>
+		    	
 			</p>   
 			<p align = "justify">
-				[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - PREMIERE PARTIE -CHAPITRE 1er page 3, ligne 17 et page 19, ligne 16]
-		   		<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La première cathédrale d'Auxerre fut l'église 
-		   		construite par St PELERIN [premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre] dans la plaine 
-		   		au bord de l'Yonne ; c'est seulement vers l'an 400 que l'Evêque St AMATRE [Vè Evêque de 386 à 418] la transféra à son endroit actuel ; voyant que l'église consacrée du temps de saint Pélerin, sur le bord de la rivière du côté qui regardait l'orient d'hiver {c'était du côté de la porte que les anciens auteurs appelaient la <I>Porte des Bains</I>}, ne pouvait plus contenir le nombre des fidèles qui allait toujours en aumentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé RUPTILIUS ou Rutilius. Ruptilius refusa d'abord d'accorder à l'Evêque ce qu'il demandait ; mais, étant ensuite tombé égravement malade, il y vit une punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville. 
+				[<font color="red">paragraphe du texte</font> : PREMIERE PARTIE -CHAPITRE 1er]
+		   		<br> <br> La première cathédrale d'Auxerre fut l'église 
+		   		construite par <i>Saint PELERIN</i> au bord de l'Yonne, c'est seulement vers l'an 400 que <i>l'Evêque St AMATRE</i> la transféra à son endroit actuel. L'Evêque voyant que l'église consacrée du temps de saint Pélerin, sur le bord de la rivière du côté qui regardait <i>l'orient d'hiver</i>, ne pouvait plus contenir le nombre des fidèles qui allait toujours en augmentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé Ruptilius ou Rutilius.</i> Ruptilius refusa d'abord d'accorder à l'Evêque ce qu'il demandait ; mais, étant ensuite tombé égravement malade, il y vit une punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville.<br> 
+
+				   <br>[texte en italique module tooltip : "Saint PELERIN" "Premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre"]  
+		   			<br>[texte en italique module tooltip : "l'Evêque St AMATRE" Vè Evêque de 386 à 418.]
+				 <br>         		
+				<br>[texte en italique module tooltip : l'orient d'hiver [N. d. E (Selon le Gesta Pontif. c'était du côté de la porte que les anciens auteurs appelaient la "Porte des Bains")]
+				<br>				 
 		   		<br>
-			    [<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE 1er page 211, chap Hérifrid et pages 213 bas, 214 ligne 1, N.d.E.= Auxerre Perriquet Editeur]
+			    [<font color="red">paragraphe du texte</font>SECONDE PARTIE -CHAPITRE 1er page 211 - 218 chap Hérifrid 
 				<br>
-		  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Bienheureux (que Lebeuf dit Vénérable) HERIFRIED 
-		   		(qui, selon le langage vulgaire, devrait être prononé Herfroy) [XLè Evêque d'Auxerre de 887 au 23 octobre 909] rebâtit l'édifice {La cathédrale, composée des trois églises de Notre-Dame, Saint-Jean et Saint-Etienne, ayant eté enveloppée dans ce malheur ["<i>Civitas improvise flammis exusta, penitus versa est in cineris tantum et rudera</i>" &#151; Gesta Pontificum. (N. d. E.)] aussi bien que la maison épiscopale, Hérifrid se proposa de la rebâtir ; et, en attendant, il se contenta d'un petit logis qu'il fit accomoder à son usage. Il vint à bout de remettre sur pied les trois églises, et la mort l'ayant prévenu, il laissa à son successeur le soin de rebâtir la maison épiscopale} et l'orna richement. Il la dota d'une tour. Il existait des cryptes au-dessous de l'église. 
-		   		Ce sanctuaire n'avait pas les dimensions de la cathédrale actuelle. Le portail devait se trouver à l'emplacement 
-		   		du transept d'aujourd'hui. Mais la cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr 
-		   		par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
+		  		La cathédrale, composée des trois églises de Notre-Dame, Saint-Jean et Saint-Etienne, ayant eté enveloppée dans ce malheur
+				 <!-- aussi bien que la maison épiscopale -->
+				 , Hérifrid, quarantième Evêque d'Auxerre de 887 au 23 octobre 909, se proposa de la rebâtir.  
+				<!-- et en attendant, il se contenta d'un petit logis qu'il fit accomoder à son usage.  -->
+				Il vint à bout de remettre sur pied les trois églises. 
+				<!-- et la mort l'ayant prévenu, il laissa à son successeur le soin de rebâtir la maison épiscopale. Il l'orna richement et il la dota d'une tour. -->
+				 Il existait des cryptes au-dessous de la cathédrale. 
+				 <br>
+		   		Ce sanctuaire n'avait pas les dimensions de la cathédrale actuelle. Le portail devait se trouver à l'emplacement du transept d'aujourd'hui. La cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
 		   		<br>
+				   <br>[texte en italique module tooltip :(que Lebeuf dit Vénérable) (selon le langage vulgaire, devrait être prononé Herfroy) <br>
+
+			  <br>
            		[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE II page 236 ligne 18 - CHAPITRE XII page ]
 				<br>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vénérable GUY (XLIVè Evêque d'Auxerre de 933 à 961)
@@ -290,15 +303,21 @@
 		   		transformations. On fit disparaître les peintures du siècle précédent. VIOLLET-LE-DUC restaura le déambulatoire 
 		   		et la crypte. 
 				<br>
-				[<font color="red">Retrouver la page et le paragraphe du texte</font> : L'YONNE SECRETE de Jean-Pierre Fontaine, sixième partie : Secrets de l'art, Chapitre VI, page 356 ligne 29 et A. Y. 78T2 (Saint Germain), 74T8 (crypte de la cathédrale)]
-				En 1802, Rougier de la Bergerie, agronome réputé, préfet depuis sa nomination à auxerre, a découvert les joies de la viticulture. Où trouver un lieu propice à l'élevage de son vin ? Sans rien dire à personne, il entrepose parmi les piliers romans de la crypte de la cathédrale, fûts et cuves, ainsi placés à proximité de la préfecture installée dans l'ancien palais épiscopal au chevet du sanctuaire... A toutes les réclamations du curé, léabbé Viart, il fait la sourde oreille. Même après sa mutation, il maintient dans l'antique sactuaire son "vendangeoir". Finalament, tout rentre dans l'ordre. En 1811, le préfet Defermont évacue les cryptes de la cathédrale.
+				Nouveau texte octobre 2023
+				<br>
+				[<font color="red">Retrouver la page et le paragraphe du texte</font> : L'YONNE SECRETE de Jean-Pierre Fontaine, sixième partie, les secrets de l'art ; Chapitre VI, Menaces sur l'église Saint-Germain ; page 356 2è paragraphe - A. Y. 78T2 (Saint Germain), 74T8 (crypte de la cathédrale)]
+				En 1802, Rougier de la Bergerie, 
+				
+				... agronome réputé, préfet depuis sa nomination à auxerre, a découvert les joies de la viticulture. Où trouver un lieu propice à l'élevage de son vin ? Sans rien dire à personne, il entrepose parmi les piliers romans de la crypte de la cathédrale, fûts et cuves, ainsi placés à proximité de la préfecture installée dans l'ancien palais épiscopal au chevet du sanctuaire... A toutes les réclamations du curé, léabbé Viart, il fait la sourde oreille. Même après sa mutation, il maintient dans l'antique sanctuaire son "vendangeoir". Finalament, tout rentre dans l'ordre. En 1811,... le préfet Defermont évacue les cryptes de la cathédrale...
 				<br>  
 				En 1927, les vitraux furent restaurés et remis autant que possible dans leur ordre chronologique. 
 		   		Ils ont été mis à l'abrit au cours de la dernière guerre. Leur pose a été considérablement ralentie le
 		   		4 août 1947 par une grêle très violente qui a endommagé ceux qui étaient déjà remis en place. A la réfection
 		   		de ces dégâts les verriers ont travaillé plus d'une année (1948).
 		   		<br>
-		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le propos de ce site n'est pas l'histoire de la 
+		   		<br>Reprendfre ce texte pour accueil cathédrale
+				<br>
+				Le propos de ce site n'est pas l'histoire de la 
 		   		cathédrale et il a fallu le limiter à l'essentiel. L'édifice est important et des ouvrages fort complets ont 
 		   		été publiés. La cathédrale d'Auxerre est à la fois le monument le plus vénérable et le plus remarquable de
 		   		l'Auxerrois ; son histoire est l'Histoire même de l'Art Français, dont les différents styles, du XIème au
