@@ -1,6 +1,6 @@
 <?php
 	/*
-		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 
+		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 créée le 18/02/2012  
 
 	 	Date de création: 18/02/2012  / version 4.20.1 du 08/10/2023.
 
