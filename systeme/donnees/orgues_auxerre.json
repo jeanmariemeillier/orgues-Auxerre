@@ -7,6 +7,7 @@
 	"activ_li"	: false,
 	"mod_blog" : false,
 	"liens_get" : true,
+	"defactiv" : 1,
 
 "_commentaire": "variable utile pour le module blog",
 	"tmp_blog" : "20000",

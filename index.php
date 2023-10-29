@@ -7,7 +7,7 @@
   $json = file_get_contents("donnees_site.json");
   $demar = json_decode($json, true);
   $chem_princ =$demar["chem"]; 
-  $jsonsite = $demar["f_json"]; 
+  /* $jsonsite = $demar["f_json"];  */ /* pour version 5 */
   include($chem_princ."/php/index_deb.php");
 
 ?>
@@ -38,7 +38,7 @@
       <?php include $chem_princ."/php/affiche_menu.php"; ?>
     </nav>
     <?php 
-        if ($aside) {
+        if ($liens["aside"]) {
           echo"<main id=\"main\">".$rn;
           echo"<aside id=\"aside\">".$rn; 
           include $affasi; 

@@ -1,9 +1,22 @@
 {	
-"_commentaire": "fichier crée par l'association collectif 11880",
-"_commentaire": "stucture fichier json version: 1.0.2 au 08/05/2023",
+"_commentaire1": "fichier crée par l'association collectif 11880",
+"_commentaire2": "stucture fichier json version: 1.0.2 au 08/05/2023",
 	"chem": "systeme",
-  	"f_json" : "orgues_auxerre",
-  	"tabbord" : true,
+	"f_json" : "orgues_auxerre",
+	"dirdonne" : "donnees",
+	"dirphp" : "php",
+
+	"_commentaire 5": "Données pour le option liens en get version 5 du moteur",
+	"liens_get" : true,
+
+	"_commentaire 3": "Données pour l'option élements_list",
+	"nom_elmemnt" : "list-elements",
+
+	"_commentaire 4": "Données pour l'option auto_menu",
+	"instl_automn" : "menu_deb",
+
+	"_commentaire 2": "Données pour le module tab_bord",
+  	"tabbord" : false,
   	"fich_tabbord" : "tab_bord",
   	"pas_bord" :"b17810f37ce753aca00c932e9cb17ee3",
   	"trt_head" : "Orgues Auxerre V2",
