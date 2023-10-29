@@ -25,12 +25,12 @@
     <link href="systeme/css/entrer_securiser.css" rel="stylesheet">
     <link href="systeme/css/tab-bord.css" rel="stylesheet">
     <script src="systeme/js/jquery-3.6.4.min.js"></script>
-    <script src="systeme/js/orgues_auxerre.js"></script>
+    <!-- <script src="systeme/js/orgues_auxerre.js"></script> -->
     <script src="systeme/js/puzzle.js"></script>
          <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
    
         <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
-    <?php  if ($liens["mod_blog"]) include($chem_princ."/blog/installblog.php"); ?>
+    <?php  if ($liens["mod_blog"]) include("modules/blog/installblog.php"); ?>
   </head>
         <!-- <body onload="Defilement()">  --> <!-- modif pascal au 29/10/2023 -->
   <body>

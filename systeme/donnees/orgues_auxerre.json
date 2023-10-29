@@ -5,7 +5,7 @@
 	"list" :true,
 	"auto_menu" : true,
 	"activ_li"	: false,
-	"mod_blog" : false,
+	"mod_blog" : true,
 	"liens_get" : true,
 	"defactiv" : 1,
 
