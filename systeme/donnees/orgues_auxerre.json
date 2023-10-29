@@ -1,7 +1,7 @@
 {	
-	"_commentaire": "stucture fichier json version: 1.2.0 au 04/08/2022",
+	"_commentaire1": "stucture fichier json version: 1.2.0 au 04/08/2022",
 	
-"_commentaire": "modules principaux",
+"_commentaire1": "modules principaux",
 	"list" :true,
 	"auto_menu" : true,
 	"activ_li"	: false,
@@ -9,21 +9,21 @@
 	"liens_get" : true,
 	"defactiv" : 1,
 
-"_commentaire": "variable utile pour le module blog",
+"_commentaire3": "variable utile pour le module blog",
 	"tmp_blog" : "20000",
 	"id_blog" : "info_accueil",
 	"fich_blog" : "info_accueil",
 
-"_commentaire": "données à renseigner pour le site",
+"_commentaire4": "données à renseigner pour le site",
 	"dirlien" : "pages",
 	"dirimg" : "img",
 	"dirtxt" : "elements",
-	"index" : "accueil",
+	"index" : "accueil_cathedrale",
 	"aside" : false,
 	"fich_aside" : "",
 	"trt_head" : "Orgues Auxerre V2",
 
-"_commentaire": "données à renseigner pour le menu",
+"_commentaire5": "données à renseigner pour le menu",
 	"typ_logo" : false,
 	"img_nav" : "logo_repere_invers_pt01.png",
 	"txt_alt" : "site des orgues d'Auxerre",
@@ -31,7 +31,7 @@
 	"img_panier" :"logo_panier.png",
 	"sous_trt" : false,
 
-"_commentaire": "données à renseigner pour le lien social",
+"_commentaire6": "données à renseigner pour le lien social",
 	"lien_social" : false,
 	"auto_fb" : false,
 	"lien_fb" : "",
@@ -42,10 +42,10 @@
 
 	"nbr_menu" :4,
 	"css_a_menu" : false,
-	"indic1" :{
+	"indic2" :{
 				"valid" : true,
-				"trt_menu" : "Accueil",
-				"lien_pg" : "index.php",
+				"trt_menu" : "Les orgues d'Auerre",
+				"lien_pg" : "index.php?pg=2",
 				"lrm" : "accueil",
 				"arm" : "vide"
 	},
@@ -65,20 +65,20 @@
 	},
 	"indic4" :{
 				"valid" : true,
-				"trt_menu" : "L'auteur",
+				"trt_menu" : "A propos",
 				"lien_pg" : "index.php?pg=4",
-				"lrm" : "quijesuis",
+				"lrm" : "apropos",
 				"arm" : "vide"
 	},
-	"indic2" :{
+	"indic1" :{
 				"valid" : true,
 				"trt_menu" : "Les orgues de la cathédrale",
-				"lien_pg" : "index.php?pg=2",
+				"lien_pg" : "index.php?pg=1",
 				"lrm" : "accueil_cathedrale",
 				"arm" : "vide"
 	},
 	
-	"_commentaire": "menu page acceuil",
+	"_commentaire7": "menu page acceuil",
 	"nbr_menu_acc" :17,
 	"indic10" :{
 		"valid" : 0,
@@ -145,7 +145,7 @@
 	"lrm" :"puzzle"
 	},
 
-	"_commentaire": "menu acceuil cathédrale",
+	"_commentaire8": "menu acceuil cathédrale",
 		"indssmenu_2" : 30,
 		"nbr_ssmenu_2" : 8,
 		"indic30" :{
