@@ -93,10 +93,10 @@ figcaption {
     min-height: calc(100vh - 152px);
 } */
 main {
-    margin-top: 5rem;
+    margin-top: 6rem;
     width: 100%;
     margin-bottom: 2rem;
-    min-height: calc(100vh - 163px);
+    min-height: calc(100vh - 168px);
 }
 a {
     text-decoration: none;

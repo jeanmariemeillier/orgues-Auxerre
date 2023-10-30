@@ -59,7 +59,4 @@
     </footer>
   </body>
   <?php include("modules/lance_modules.php"); ?>
-  
-
- <!--   <script>Defilement()</script -->>
 </html>

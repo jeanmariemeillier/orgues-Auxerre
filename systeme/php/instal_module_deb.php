@@ -1,7 +1,8 @@
 <?php
     /* 
-    fichier d'installation du module blog en phase alpha à la version 1.0.1
-    sera modifier pour integrer tous les autres modules et fonctionner sur la version 5 du moteur
+        fichier d'installation des différents modules dansle moteur du collectif
+        création au 30/10/2023 version 1.1.0
+        fonctionne uniquement sur la version 5 du moteur
     */
     if ($liens["mod_blog"]) {
         $json = file_get_contents("modules/blog/module_blog.json");
