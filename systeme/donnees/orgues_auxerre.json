@@ -9,11 +9,6 @@
 	"liens_get" : true,
 	"defactiv" : 1,
 
-"_commentaire3": "variable utile pour le module blog",
-	"tmp_blog" : "20000",
-	"id_blog" : "info_accueil",
-	"fich_blog" : "info_accueil",
-
 "_commentaire4": "données à renseigner pour le site",
 	"dirlien" : "pages",
 	"dirimg" : "img",

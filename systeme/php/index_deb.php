@@ -22,8 +22,6 @@
 			
 		Si vous vouyez un bug ou une amélioration contactez le collectif sur infos@collectif11880.com, on sitera votre nom, merci!
 	*/
-	
-	/* extensions utilisées pour le site [ok_v5]*/
 	$rn = "\r\n";
 	$lp = ".php";
 	$lh = ".html";
