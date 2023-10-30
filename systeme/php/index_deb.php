@@ -2,11 +2,12 @@
 	/*
 		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 créée le 18/02/2012  
 		
-		Actuellement à la version 5.0.4 au 29/10/2023.
+		Actuellement à la version 5.1.1 au 30/10/2023.
 
 	 	Ce fichier est libre d'utilisation en citant l'association: www.collectif11880.org.
 
-		modif au 29/10/2023 par pascal:
+		modif au 30/10/2023 par pascal:
+			correction bug sur la variable $pg_court : elle renseignais le chemin et la page encours au lieu que de la page!
 			ajout d'une variable $pg_court contenant le nom de la page courante pour faire fonctionner les modules
 			récuperation d'une condition de la version 4.20.2 pour lancer l'installation du module blog à réecrire pour la version 5 et accecible pour tous les modules
 			corction d'un bug vesrsion 2:
@@ -51,14 +52,14 @@
 		if(isset($_GET['pg'])) {
 			$pgmain = $_GET['pg'];
 			$affpg =  $dirlien.$liens["indic".$pgmain]["lrm"].$lp;
-			$pg_court =  $dirlien.$liens["indic".$pgmain]["lrm"];
+			$pg_court =  $liens["indic".$pgmain]["lrm"];
 			if(isset($_GET['act'])) $activ = $_GET['act'];
 			else  $activ = $_GET['pg']; 
 			/* modification du 08/10/2023 pour les orgues d'auxerre  condition géstion des liens de type inside*/
 			if (isset($_GET['sm'])) {
 				$sous_menu = $_GET['sm'];
 				$affpg = $dirlien.$liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu].$lp;
-				$pg_court = $dirlien.$liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu];
+				$pg_court = $liens["indic".$pgmain]["sous_menu"]["lrm_".$sous_menu];
 			}
 			if (isset($_GET['asi'])) $affasi =  $dirlien.$liens["indic".$_GET['pg']]["arm"].$lp;
 			/*condition pour que variable 'aupg' reference le nom d'une table en BDD le 23/09/2023*/
@@ -73,7 +74,8 @@
 	/* générateur de menu: appel de la fonction dans <ul> avec  <?php Genenu($activ, $liens, $rn); entierement réecrit pour la version 5*/
 	if ($liens["auto_menu"]) include ($chem_princ."/".$demar["dirphp"]."/".$demar["instl_automn"].$lp);
 	/* nouveau apple du module blog au 01/10/2023 à réecrire pour la version 5*/
-	if ($liens["mod_blog"]) include ($chem_princ."/php/instal_module_blog.php");
+	/* modif version 5 transformation du fichier module_blog en module_deb regroupe toutes les install des modules*/
+	include ($chem_princ."/php/instal_module_deb.php");
 		
 
 ?>	

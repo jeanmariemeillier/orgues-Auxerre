@@ -30,9 +30,8 @@
          <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
    
         <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
-    <?php  if ($liens["mod_blog"]) include("modules/blog/installblog.php"); ?>
+    <?php  include("modules/instal_modules.php"); ?>
   </head>
-        <!-- <body onload="Defilement()">  --> <!-- modif pascal au 29/10/2023 -->
   <body>
     <nav id="navbar">
       <?php include $chem_princ."/php/affiche_menu.php"; ?>
@@ -59,6 +58,8 @@
       </p>
     </footer>
   </body>
+  <?php include("modules/lance_modules.php"); ?>
   
-   <script>Defilement()</script>
+
+ <!--   <script>Defilement()</script -->>
 </html>
