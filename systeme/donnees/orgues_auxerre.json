@@ -1,13 +1,17 @@
 {	
-	"_commentaire1": "stucture fichier json version: 1.2.0 au 04/08/2022",
+	"_commentaire0": "stucture fichier json version: 1.3.2 au 31/10/2023",
 	
 "_commentaire1": "modules principaux",
 	"list" :true,
 	"auto_menu" : true,
 	"activ_li"	: false,
-	"mod_blog" : true,
 	"liens_get" : true,
+	"panier" : false,
 	"defactiv" : 1,
+
+"_commentaire9": "données à renseigner pour les modules optionnels",
+	"mod_blog" : true,
+	"mod_tooltip" : false,
 
 "_commentaire4": "données à renseigner pour le site",
 	"dirlien" : "pages",
