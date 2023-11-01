@@ -6,6 +6,6 @@
         "fich_tooltip" : "accueil",
 
     "_commentaire2": "données non modifiables par l'utilisateur",
-        "fich_js_tooltip" : "tooltip"
+        "fich_js" : "tooltip"
 
 }
