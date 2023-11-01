@@ -15,6 +15,7 @@
 		modif au 1/11/2023 par pascal:
 			déplace les déclaration des modules soit principaux, soit optionel dans le fichier instal_module_deb.php
 			mise à jour des commentaires
+			ajout de l'extention .js pour les modules!
 	 	Nouvelle version 5: 
 			la nouvelle version permet d'intégrer le mode front-end et back-end avec la gestion des liens du menu par le javascript.
 			 la gestion des liens du menu de la version 4 fonctionnant grace au php devient une option definie dans le fichier json : donnees_site.json à la racine du site.
@@ -27,6 +28,7 @@
 	$lh = ".html";
 	$lxt = ".txt";
 	$jsn = ".json"; // nouvelle variable pour extention json V5
+	$js = ".js"; // nouvell extention pour  les modules
 	$v_tbrd = false; // bug version 5 variable definisant si le tabbord est actvé ou non
 	if ($demar["tabbord"]) 	include ($demar["fich_instal"]); 
 	else  $jsonsite = $demar["f_json"];
