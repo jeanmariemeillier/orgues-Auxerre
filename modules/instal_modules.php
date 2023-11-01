@@ -37,11 +37,11 @@ if ($liens["mod_blog"]) {
 /* déclaration des variable pour le module Tooltip */
 if ($liens["mod_tooltip"]) {
     echo $ling_jouvr_js.$rn;
-    echo"const chm_json_tooltip = \"".$demar["dos_modul"]."/tooltip/".$mod_tooltip["lexique_tooltip"].".json\";".$rn;
-    echo"const iconcroix_tooltip = \"".$demar["dos_modul"]."/tooltip/icon/book.svg\";".$rn;
-    echo"const class_tooltip = \"tooltip\";".$rn;
-    echo "</SCRIPT>".$rn;
-    echo "<script src=\"".$demar["dos_modul"]."/tooltip/".$mod_tooltip["fich_js"]."\"></script>";
+    echo"\t\tconst chm_json_tooltip = \"".$demar["dos_modul"]."tooltip/".$mod_tooltip["lexique_tooltip"].".json\";".$rn;
+    echo"\t\tconst iconcroix_tooltip = \"".$demar["dos_modul"]."tooltip/icon/book.svg\";".$rn;
+    echo"\t\tconst class_tooltip = \"tooltip\";".$rn;
+    echo "\t</SCRIPT>".$rn;
+    echo "\t<script src=\"".$demar["dos_modul"]."/tooltip/".$mod_tooltip["fich_js"].$js."\"></script>";
 }
 echo$rn;
 ?>

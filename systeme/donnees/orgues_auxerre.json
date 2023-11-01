@@ -13,7 +13,7 @@
 	"mod_blog" : true,
 	"js_blog" : "module_blog",
 	"mod_tooltip" : false,
-	"js_tooltip" : "module_tooltip",
+	"js_tooltip" : "tooltip",
 
 "_commentaire4": "données à renseigner pour le site",
 	"dirlien" : "pages",
