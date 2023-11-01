@@ -1,5 +1,5 @@
 {	
-	"_commentaire0": "stucture fichier json version: 1.3.2 au 31/10/2023",
+	"_commentaire0": "stucture fichier json version: 1.3.3 au 31/10/2023",
 	
 "_commentaire1": "modules principaux",
 	"list" :true,
@@ -11,7 +11,9 @@
 
 "_commentaire9": "données à renseigner pour les modules optionnels",
 	"mod_blog" : true,
+	"js_blog" : "module_blog",
 	"mod_tooltip" : false,
+	"js_tooltip" : "module_tooltip",
 
 "_commentaire4": "données à renseigner pour le site",
 	"dirlien" : "pages",
