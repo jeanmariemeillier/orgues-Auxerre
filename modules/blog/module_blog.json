@@ -13,7 +13,7 @@
     "url_serv" : "servblog.php",
     "fich_js" : "affich-blog",
 
-
+    "text_blog" : "info_accueil",
     "defil_blog" : true,
     "debut_top" : 430,
     "tempo" : 50,
