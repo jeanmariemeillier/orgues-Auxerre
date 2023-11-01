@@ -15,10 +15,14 @@
 	"_commentaire 4": "Données pour l'option auto_menu",
 	"instl_automn" : "menu_deb",
 
-	"_commentaire 2": "Données pour le module tab_bord",
+	"_commentaire 6": "nom du dossier ou sont stokés les modules",
+	"dos_modul" : "modules/",
+	
+	"_commentaire 2": "Données utiles pour le module tab_bord",
   	"tabbord" : false,
   	"fich_tabbord" : "tab_bord",
   	"pas_bord" :"b17810f37ce753aca00c932e9cb17ee3",
+	
   	"trt_head" : "Orgues Auxerre V2",
 	"version" : "2.0.0",
 	"edition" : "Jean-Marie Meillier",
