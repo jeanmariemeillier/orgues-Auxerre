@@ -2,7 +2,7 @@
 	/*
 		Fichier de gestion pour la navigation des sites conçu ou gérer par l'association collectif 11880 créée le 18/02/2012  
 		
-		Actuellement à la version 5.1.3 au 1/11/2023.
+		Actuellement à la version 5.1.4 au 1/11/2023.
 
 	 	Ce fichier est libre d'utilisation en citant l'association: www.collectif11880.org.
 
