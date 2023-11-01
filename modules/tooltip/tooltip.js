@@ -1,6 +1,6 @@
 /* 
   module tooltip  crée le  01/10/2023 par Fateh kabbani pour l'association collectif 1180 
-  actuellement à la version 1.1.1 alpha au 31/10/2023
+  actuellement à la version 1.1.2 alpha au 31/10/2023
 
  
   Ce module affiche une bulle d'explication sur un mot technique en ouvrant une popup lexique pour affichée plus d'information sur ce mot.
@@ -17,10 +17,10 @@
    
 */
 /* constantes à extraire et a rangée da,s un fichier json utilisateur */
-const elm_tooltip = "tooltip"; 
+/* const elm_tooltip = "tooltip"; 
 const chm_json_tooltip = "../modules/tooltip/lexique_test.json";
 const iconcroix_tooltip = "../modules/tooltip/icon/book.svg";
-const class_tooltip = "tooltip";
+const class_tooltip = "tooltip"; */
 
 /* let tooltipData; */ /* pas utilisé?? */
 
@@ -33,7 +33,7 @@ async function initiate(mode) {
     autoTooltip(data, pargraph_tooltip);
   }
   else {
-    const defaultElements = document.querySelectorAll(`.${elm_tooltip}`);
+    const defaultElements = document.querySelectorAll(`.${class_tooltip}`);
     defaultElements.forEach((e) => {
       e.addEventListener("mouseenter", () => {
         installContent(data, e);
@@ -71,9 +71,9 @@ function autoTooltip(data, elements) {
 /* installe le contenu du moy à l'intérieur de l'info bulle*/
 function installContent(data, element) {
   const content = element.textContent;
-  const icon = document.createElement("img");
+/*   const icon = document.createElement("img");
   icon.src = iconcroix_tooltip;
-  icon.classList.add("learn_more");
+  icon.classList.add("learn_more"); */
   p = document.createElement("p");
   p.classList.add("tooltiptext");
   if (data[content]) {
