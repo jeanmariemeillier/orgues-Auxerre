@@ -510,6 +510,16 @@ cite {
    width:100%;
    clear:both;
 }
+#histoir_acth h1 {
+    font-size: 36px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+#histoir_acth h2 {
+    font-style: italic;
+    text-align: center;
+    font-size: 28px;
+}
 .cnt{
     text-align: center;
 }

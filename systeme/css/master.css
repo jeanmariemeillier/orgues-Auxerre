@@ -1,14 +1,17 @@
 /*collectif 11880 fichier master.css permet de modifier les css sans toucher au fichier index.php */
 
-@import url("../jquery/themes/databulles3.css"); 
+@import url("normalize.css"); 
 
-@import url("../jquery/themes/jquery.mobile.icons.min.css"); 
+@import url("bootstrap-icons.css"); 
 
-@import url("../jquery/jquery.mobile.structure-1.4.5.css"); 
+@import url("orgues_auxerre.css"); 
 
-@import url("../cms-collectif/cms-collectif.css"); 
+ /* @import url("entrer_securiser.css");  */
 
-@import url("index.css");
+/* @import url("tab-bord.css");  */
+
+/* @import url("../../modules/tooltip/tooltip.css");  */
+
 
 
 

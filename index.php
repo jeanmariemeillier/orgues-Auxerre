@@ -19,17 +19,9 @@
     <meta name="description" content="">
     <meta name="author" content="collectif 11880">
     <title><?php echo $demar["trt_head"]; ?></title>
-    <link href="systeme/css/normalize.css" rel="stylesheet">
-    <link href="systeme/css/bootstrap-icons.css" rel="stylesheet">
-    <link href="systeme/css/orgues_auxerre.css" rel="stylesheet">
-    <link href="systeme/css/entrer_securiser.css" rel="stylesheet">
-    <link href="systeme/css/tab-bord.css" rel="stylesheet">
+    <link href="systeme/css/master" rel="stylesheet">
     <script src="systeme/js/jquery-3.6.4.min.js"></script>
-    <!-- <script src="systeme/js/orgues_auxerre.js"></script> -->
     <script src="systeme/js/puzzle.js"></script>
-         <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
-   
-        <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
     <?php  include("modules/instal_modules.php"); ?>
   </head>
   <body>
