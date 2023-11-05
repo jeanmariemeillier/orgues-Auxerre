@@ -2,9 +2,10 @@
   position: relative;
   display: inline-block;
   cursor: pointer;
-  font-style:italic;
+  font-style: italic;
   text-decoration: underline;
   text-underline-offset: 3px;
+  /* right: 23px; */
 }
 .tooltiptext {
   display: none;
@@ -49,6 +50,12 @@
 .tooltip:hover .tooltiptext {
   display:inline-flex;
   opacity: 1;
+}
+.mot_avant{
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: underline;
+  text-underline-offset: 3px;  
 }
 /* p{
   margin-left:150px;
