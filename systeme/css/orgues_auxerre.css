@@ -396,7 +396,7 @@ a:hover, a:active{
 }
 
 /* section des pages centrees */
-#page_cnt {
+#page_cnt, #page_cath {
     width: 80%;
     margin: 0 auto;
      position: relative;
@@ -404,7 +404,7 @@ a:hover, a:active{
     z-index: -1;
     padding-bottom: 1rem;
 }
-#page_cnt p{
+#page_cnt p,#page_cath p{
     font-size: 1.3rem;
     text-align: justify;
 }
@@ -520,6 +520,9 @@ cite {
     text-align: center;
     font-size: 28px;
 }
+/* #page_cath p{
+    text-indent:50px;
+} */
 .cnt{
     text-align: center;
 }
