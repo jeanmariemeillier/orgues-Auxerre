@@ -1,37 +1,29 @@
 
-<body bgcolor="#bccadb">
-	<center>	
-   		<br>
-   		<font size=7 color="#ff0000">L a &nbsp;&nbsp;&nbsp;C A T H E D R A L E</font>
-   		<br>
-   		<hr width="20%">
-   		<font size=5 color="#0000ff"><i>Quelques mots d'histoire</i></font>
-	</center>
-<table width="100%" border="0">
-  	<tr>
-    	<td width="10%">
-	 	</td>
-	 	<td width="80%">
-	    	<p align = "justify">
-		   		<br>
-		   		Une grande partie de l'histoire des Evêques d'Auxerre et par conséquent de la cathédrale est extraite du livre "Mémoires concernant l'Histoire civile et ecclésiastique d'Auxerre et de son ancien diocèse" de <i>l'Abbé LEBEUF</i> . [renvoi 1]
-		    	<br>[texte en italique module tooltip : "Chanoine et Sous-Chantre de la cathédrale d'Auxerre, membre de l'Académie des Inscriptions et Belles-Lettres.""]
-				<br>
-		    	
-			</p>   
-			<p align = "justify">
-				[<font color="red">paragraphe du texte</font> : PREMIERE PARTIE -CHAPITRE 1er]
-		   		<br> <br> La première cathédrale d'Auxerre fut l'église 
-		   		construite par <i>Saint PELERIN</i> au bord de l'Yonne, c'est seulement vers l'an 400 que <i>l'Evêque St AMATRE</i> la transféra à son endroit actuel. L'Evêque voyant que l'église consacrée du temps de saint Pélerin, sur le bord de la rivière du côté qui regardait <i>l'orient d'hiver</i>, ne pouvait plus contenir le nombre des fidèles qui allait toujours en augmentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé Ruptilius ou Rutilius.</i> Ruptilius refusa d'abord d'accorder à l'Evêque ce qu'il demandait ; mais, étant ensuite tombé égravement malade, il y vit une punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville.<br> 
 
-				   <br>[texte en italique module tooltip : "Saint PELERIN" "Premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre"]  
+	<section id="histoir_acth">
+		<h1>L a &nbsp;&nbsp;&nbsp;C A T H E D R A L E</h1>
+		<hr width="20%">
+		<h2>Quelques mots d'histoire</h2>
+	</section>
+	<section id="page_cnt">
+	    <p>
+		   	Une grande partie de l'histoire des Evêques d'Auxerre et par conséquent de la cathédrale est extraite du livre "Mémoires concernant l'Histoire civile et ecclésiastique d'Auxerre et de son ancien diocèse" de l'Abbé <span class="tooltip">LEBEUF</span>. <!-- [renvoi 1] -->
+		    <!-- [texte en italique module tooltip : "Chanoine et Sous-Chantre de la cathédrale d'Auxerre, membre de l'Académie des Inscriptions et Belles-Lettres.""] -->
+		</p>   
+			<p>
+			<!-- [<font color="red">paragraphe du texte</font> : PREMIERE PARTIE -CHAPITRE 1er] -->
+		   		La première cathédrale d'Auxerre fut l'église 
+		   		construite par <span class="tooltip">Saint PELERIN</span> au bord de l'Yonne, mais c'est seulement vers l'an 400 que <span class="tooltip">l'Evêque St AMATRE</span> la transféra à son endroit actuel. L'Evêque voyant que l'église consacrée du temps de saint Pélerin, sur le bord de la rivière du côté qui regardait <span class="tooltip">l'orient d'hiver</span>, ne pouvait plus contenir le nombre des fidèles qui allait toujours en augmentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé Ruptilius ou Rutilius.</i> Ruptilius refusa d'abord d'accorder à l'Evêque ce qu'il demandait ; mais, étant ensuite tombé égravement malade, il y vit une punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville.
+			</p>
+
+				<!-- <br>[texte en italique module tooltip : "Saint PELERIN" "Premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre"]  
 		   			<br>[texte en italique module tooltip : "l'Evêque St AMATRE" Vè Evêque de 386 à 418.]
 				 <br>         		
 				<br>[texte en italique module tooltip : l'orient d'hiver [N. d. E (Selon le Gesta Pontif. c'était du côté de la porte que les anciens auteurs appelaient la "Porte des Bains")]
 				<br>				 
 		   		<br>
-			    [<font color="red">paragraphe du texte</font>SECONDE PARTIE -CHAPITRE 1er page 211 - 218 chap Hérifrid 
-				<br>
+			    [<font color="red">paragraphe du texte</font>SECONDE PARTIE -CHAPITRE 1er page 211 - 218 chap Hérifrid  -->
+			<p>
 		  		La cathédrale, composée des trois églises de Notre-Dame, Saint-Jean et Saint-Etienne, ayant eté enveloppée dans ce malheur
 				 <!-- aussi bien que la maison épiscopale -->
 				 , Hérifrid, quarantième Evêque d'Auxerre de 887 au 23 octobre 909, se proposa de la rebâtir.  
@@ -41,103 +33,76 @@
 				 Il existait des cryptes au-dessous de la cathédrale. 
 				 <br>
 		   		Ce sanctuaire n'avait pas les dimensions de la cathédrale actuelle. Le portail devait se trouver à l'emplacement du transept d'aujourd'hui. La cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
-		   		<br>
-				   <br>[texte en italique module tooltip :(que Lebeuf dit Vénérable) (selon le langage vulgaire, devrait être prononé Herfroy) <br>
-
-			  <br>
+<!-- 		   		<br>
+				   <br>[texte en italique module tooltip :(que Lebeuf dit Vénérable) (selon le langage vulgaire, devrait être prononé Herfroy) <br> -->
+			</p>
+			<p>
            		[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE II page 236 ligne 18 - CHAPITRE XII page ]
 				<br>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vénérable GUY (XLIVè Evêque d'Auxerre de 933 à 961)
 		   		se mit à l'oeuvre pour réparer le désastre. Il voulut avoir sa sépulture dans sa cathédrale. Jusqu'à lui il n'y avait encore eu aucun évêque inhumé dans l'église cathédrale, et lui-même par humilité n'avait d'abord souhaité d'être inhumé que sous son portique. Mais le malheur de l'incendie arrivé sous son épiscopat fit changer son premier dessein : ainsi, on enterra son corps entre le choeur et la nef devant l'image du crucifix. Comme le bâtiment de l'église était alors beaucoup plus petit que n'est le nouveau qui a été commencé en 1215, le choeur 
 		   		finissait à peu près à l'endroit ou se trouve le petit clocher... Hélas ! le feu, une fois de plus, vint réduire son oeuvre à néant (1023).
-		   		<br>
+			</p>
+			<p>
 		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après le dernier incendie, l'évêque HUGUES DE CHALONS
 		   		(XLVIIIè Evêque du 5 mars 999 au 4 novembre 1039) entreprit la construction d'une cathédrale voûtée, {Hugues, au lieu de la rebâtir de moellon, comme elle avait été auparavant, en jeta les fondements sur le roc avec des pierres de taille ; il voulut que son enceinte fût d'une plus grande étendue, et il y fit faire les grottes ou cryptes telles qu'on les voit encore aujourd'hui sous le sanctuaire et sous la moitié du choeur [Les cryptes de la cathédrale forment un monument très-intéressant. Elles s'étendent sous le choeur entier de l'église et se composent de trois nefs à six travées avec les bas-côtés terminés circulairement et conduisant à la chapelle qui est à l'extrémité orientale. Le système de construction de ces cryptes est le plein-cintre rustique. Les piliers sont cantonnés de quatre colonnes munies d'un chapiteau taillé en bizeau et orné d'un simple cordon sur les angles. Les voûtes sont à nervures. Des baies étroites jettent un jour douteux dans les profondeurs de l'édifice. La chapelle terminale voûtée  en berceau est peinte de fresques représentant le Christ à cheval escorté de quatre anges, et, au fond du cul-de-four, le Christ bénissant, entouré des animaux symboliques.Une restauration intelligente vient de rendre à ce monument sa physionomie primitive (Perriquet, éditeur, 1848)]}dans le style roman qui florissait alors et que la crypte  permet d'évoquer en l'absence de renseignements certains. {L'ouvrage était déjà bien avancé} Ce n'est que de justesse qu'elle échappa à l'incendie de 1035. Elle fut aménagée et embellie par les successeurs d'HUGUES DE CHALONS sur le siège épiscopal d'Auxerre.
 		   		<br><br>
 		  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parmi eux : 
-        	</P>
-        	<table width="100%" border="0">
-           		<tr>
-              		<td width="33%">
-			    		<p align = "justify">
+        		</P>
+
+<!-- 			    		<p align = "justify">
 			     			Geoffroy de CAMPELLEMAN 
 				 			<br>
 				 			ou de Champ-Aleman (Lebeuf)
 				 			<br>
 				 			fils d'Hugues, vicomte de Nevers. Il était surnommé de Champ-Aleman qui est un village du Nivernais, proche Anant. Il était clerc du palais du roi Henri, ce que nous appellerions aujourd'hui aumonier ou chapelain, lorsqu'Héribert (successeur d'Hugues de Chalons) obtint de ce prince qu'il fut son successeur...
-				 		</p>
-						<br><br><br><br><br><br><br>
-					</td>
-              		<td width="67%">
+				 		</p> -->
 			     		<p align = "justify">
 			     			(Lè Evêque du 1er décembre 1051 au 15 septembre 1076) Placé sur le siège épiscopal, il tourna d'abord son attention sur l'église cathédrale ; et ayant remarqué qu'elle était dénuée de tout, il fit en sorte que son successeur ne la trouvât pas dans le même état. L'an 1075. Ce fut cette année-là qu'il arriva, à Auxerre, un incendie dans lequel la cathédrale fut enveloppée.Le pieux évêque ne perdit point courage en voyant ce malheur. Il fit faire si grande diligence pour le réparer, qu'en moins d'un an la nouvelle charpente fut montée et la couverture mise en sa perfection. Pour cet effet, on le vit veiller lui-même sur les ouvriers et leur donner ses domestiques pour les aider et avancer l'ouvrage. A l'égard du vitrage, il chargea cinq de ses officiers de ce soin, voulant que chacun d'eux fit une des cinq verrières du fond de l'église, et il pria son chapelain de se charger de la sixième et plus considérable, qui était celle de la chapelle de Saint-Alexandre. Ayant à coeur le bien et la décoration de son église, il destina quelques prébendes pour des ecclésiastiques qui sauraient des métiers : l'une, pour un habile orfèvre, l'autre, pour un savant peintre, la troisième, pour un vitrier adroit et intelligent ; et les chanoines lui en firent leurs remerciements (Les détails dans lesquels entre l'auteur de la vie de Geoffroy de Champ-Aleman sur les soins que donnait le prélat à la décoration de sa cathédrale et à sa restauration, le choix de clercs artistes qu'il dote de canonicats, tout cela indique d'une manière évidente que le clergé et les évêques eux-mêmes présidaient à la direction des travaux. Les arts tombés dans un anéantissement presque complet au Xè siècle, se relevèrent en France au XIè siècle sous l'influence de quelques prélats, en tête desquels Geoffroy de Champ-Aleman mérite d'être placé (Perriquet, éditeur, 1848)). 
 				 		</p>   
-			  		</td>
-		   		</tr>
-           		<tr>
-              		<td width="33%">
-			     		<p align = "justify">
+
+              		>
+<!-- 			     		<p align = "justify">
 			     			Robert de NEVERS,
 							<br> fils de Guillaume,
-							comte de Nevers, et d'Hermengarde, comtesse de Tonnerre.
-						</p>
-						<br><br><br>
-					</td>
-             		<td width="67%">
+							comte d e Nevers, et d'Hermengarde, comtesse de Tonnerre.
+						</p>-->
+
 			     		<p align = "justify">
 			     			(LIè Evêque de septembre 1076 au 12 février 1084) A son entrée au trône épiscopal il donna un dorsal rouge (cela signifie des tapisseries qui se mettaient aux murs du choeur ou au dos des stalles). Il fit faire une  tribune pour la lecture de l'Evangile, et il y employa la somme de quatre cents sols de ce temps-là. Il fit continuer le vitrage du choeur, dont on n'avait fait que le fond du vivant de son prédécesseur. Comme les cryptes bâties par Hugues de Chalon étaient obscures, il leur donna du jour par le moyen de deux ouvertures qui servirent d'entrées. Les tours pour les cloches, qui ne s'élevaient que jusqu'au bas de la couverture de l'église, furent pareillement achevées par ses soins et à ses frais...
 						</p>  
-			  		</td>
-           		</tr>
-           		<tr>
-              		<td width="33%">
-			    		<p align = "justify">
+
+<!-- 			    		<p align = "justify">
 			     			HUMBAUD (que Lebeuf dit Vénérable)
-				 		</p>
-						<br><br><br><br><br><br><br><br><br><br>
-					</td>
-              		<td width="67%">
+				 		</p> -->
 			     		<p align = "justify">
 			     			(LIIè Evêque de 6 mai 1087 à 20 octobre 1114) L'église d'Auxerre fut si inconsolable de la mort de Robert de Nevers, et la perte qu'elle avait faite en sa personne fut jugée si difficile à réparer, que le siège épiscopal resta vacant pendant trois ans (Le <I>Gesta Pontificum</I> ne dit que deux mots, en passant, sur les troubles qui se sont élevés à la mort de Robert de Nevers et qui ont empêché l'élection de son successeur). Ce successeur fut Humbaud, noble auxerrois...
 				 			<br>
 				 			Le détail de tout ce qu'il fit pour l'embellissement de son église cathédrale est de longue étendue. Il la fit recouvrir à neuf : il fit élever une flèche de charpente sur la tour qui était alors au-dessus de la chapelle de Saint-Alexandre : et, à l'égard de l'autre tour qui était bâtie au-dessus du choeur, il la fit voûter de grosses pierres, pour éviter les accidents qui auraient pu arriver aux cloches. Il fit faire un vitrage très-beau aux quatre fenêtres qui éclairaient le grand autel, aux deux qui donnaient sur le choeur, et à vingt trois autres fenêtres de la nef. 
 				 			Il donna cinq chandeliers d'une hauteur prodigieuse, où l'on devait placer des cierges pour éclairer, pendant la nuit, le clergé et les fidèles qui venaient à l'office... des tapisseries diverses... Il mourut dans un vaisseau brisé par la tempête, lors du retour d'un voyage à Jérusalem.
 				 		</p> 
-              		</td>
-           		</tr>
-           		<tr>
-              		<td width="33%">
-			     		<p align =" justify">
+
+<!-- 			     		<p align =" justify">
 			     			Guillaume de TOUCY,
 							<br>
 							frère de Hugues de Toucy, archevêque de Sens, fils de Girard de Narbonne, qui a été le premier surnom des barons de Toucy...
-				 		</p>
-						<br><br>
-					</td>
-              		<td width="67%">
+				 		</p> -->
+
 			     		<p align = "justify">
 			     			(LVIè Evêque du 2 juillet 1167 au 28 février 1181) ... Il partit pour Rome, à dessein de reconnaître pour pape Alexandre III ; il fut le premier évêque de France qui fit cette démarche.
 				 			<br>
 				 			Ce qu'il fit pour la décoration de son église cathédrale est digne d'attention. Il la fit revêtir, par dehors, d'un entablement de pierre ; il fit refaire à neuf le pignon de devant et celui de derrière, avec les vitrages qui en dépendaient. Il fortifia la tour méridionale, et la fit recouvrir de tuiles au lieu de bois ; il renouvela entièrement la couverture de tout le bâtiment, tant en poutres et en chevrons qu'en tuiles plombées qu'il fit employer pour plus grande sûreté. Il fit des présents au trésor... 
 				 		</p>
-			  		</td>
-          		</tr>
-		  		<tr>    
-             		<td width="33%">
-			    		<p align = "justify">
+<!-- 			    		<p align = "justify">
 			    			Hugues de NOYERS,
 							<br>
 							fils de Miles, seigneur de Noyers...
-						</p>
-						<br>
-					</td>
-             		<td width="67%">
+						</p> -->
+
 			    		<p align = "justify">
 			    			(LVIIè Evêque du 13 mars 1183 au 29 novembre 1206) ... On lui attribue plusieurs décorations faites au bâtiment, comme d'avoir agrandi les fenêtres du frontispice de l'église, pour la rendre plus claire, d'avoir élevé le pavé de l'église en faisant apporter des terres et d'avoir refait ce pavé tout à neuf... 
 						</p>
-			 		</td>
-           		</tr>
-        	</table>
+
 				<p align = "justify">
 		   			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GUILLAUME DE SEIGNELAY (LVIIIè Evêque d'Auxerre de mi février 1206 {quoiqu'en France on ne comptât encore alors que 1206, parce que l'année n'y commençait qu'à Pâques, on comptait à Rome 1207 depuis le premier jour de janvier} à 1220 {mort le 23 novembre 1223}) voyant que de tous côtés on rebâtissait les églises cathédrales, ménagea une somme d'argent pour rebâtir la sienne qui menaçait ruine en quelques endroits dans le nouveau goût (gothique). Il fit commencer à détruire l'ancienne du côté de l'orient, l'an 1215. On n'eut pas besoin de jeter de nouveaux fondements ; ceux qui avaient été assis sur le roc, sous l'épiscopat d'Hugues de Chalon, environ deux cents ans auparavant, furent trouvés solides et excellents ; mais comme on jugea que l'espace de l'église souterraine, qui se trouvait toute faite, pouvait servir à régler la largeur de celle qu'on allait élever au-dessus, on ne crut pas devoir prendre d'autres dimensions, et on se contenta de l'élever beaucoup plus que n'avait été la précédente. C'est ce qui a été cause que l'édifice parut un peu étroit, quant aux bas-côtés, lorsqu'il fut achevé. Toute l'église inférieure ayant donc été conservée en son entier, quant aux piliers du dedans et aux cintres de la voûte, on vit avancer considérablement dans l'espace d'un an l'ouvrage de la nouvelle. L'évêque y employa, pour cette première année, sept cents livres. Les années suivantes il donna souvent, par chaque semaine, dix livres ou au moins cent sous... Moyennant les aumones et les offrandes des peuples, avec tout ce que purent produire les quêtes faites dans son diocèse et dans les diocèses voisins, l'ouvrage continua d'avancer dans un goût qui fut trouvé d'une grande délicatesse. Quelques événements parurent tenir du miracle dans le temps de la démolition de l'ancien choeur. La tour méridionale, manquant de son appui ordinaire, tomba sur celle qui était vers le septentrion, sans que personne fût écrasé, par les précautions qu'on avait prises, et une demi-heure après cette dernière tomba d'elle-même sans autre accident. Pour épreuve de miracle, aucune des cloches qui étaient dans ces deux tours ne fut cassée, les deux jubés, qui étaient adossés à l'un des piliers angulaires de ces tours, ni les autels qui étaient sous chacun, ni la croix placée sur le jubé septentrional, ne furent presque pas endommagés, non plus que les châsses qui étaient sous l'autel de l'un de ces jubés. Plus d'un mois après on retrouva sous les ruines, au milieu du choeur le volume qui contenait la règle d'Aix-la-Chapelle et le martyrologe, avec quelques livres graduels sains et entiers, quoique le coffre qui les renfermait eût été brisé en pièces. Cette chute arriva, l'an 1217, le dimanche de devant le commencement des offices de l'Avent, sur l'heure de midi [Le récit de cet événement présente des détails intéressants. On y voit la situation des deux tours de l'ancienne église ; elles étaient placées aux deux côtés du choeur et assez rapprochées, puisqu'elles étaient alors étayées l'une contre l'autre. Leur chute avait été annoncée par des signes précurseurs. Les chanoines, célébrant l'office au-dessous, effrayés du danger appelèrent le <I>maître des oeuvres</I>. Celui-ci, dont le nom a été malheureusement omis, garantit la solidité des tours et reprit même un de ses ouvriers qui prédisait leur chute prochaine. Cependant, pressé de nouveau, il finit par déclarer qu'il ne répondait de rien ; aussitôt le Chapitre quitta la cathédrale et se retira dans l'église Notre-Dame-de-la-Cité qui était voisine (Perriquet, éditeur, 1848)]. Au reste, il n'y a rien d'absolument merveilleux, ni qui n'eût pu arriver sous un autre évêque, si dès lors on eût affaibli le soutien de ces tours.
 		   			<br>
@@ -245,9 +210,6 @@
 		      	<br>
 			  	Armoiries des Colbert
 		   	</p> 
-		   	<center><b>...</b></center>
-		   	<br>
-		   	<br>
 		   	<p align = "justify">
 		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN-BAPTISTE-MARIE CHAMPION de CICE (Evêque du 14 des calendes de mars 1760 au 16 novembre 1805 "dans l'émigration", à Halbertadt, en Prusse, dans le couvent des Franciscains où il fut enterré).
 		   		<br>
@@ -336,37 +298,5 @@
 		   		compter les chapelles. La longueur de la cathé-
 		   		<br>
 		   		drale à l'intérieur est de 100 m.
-		   		<br><br><br>
-		   		<!-- La presque totalité des faits historiques ci-dessus est tirée de l'Abbé LEBEUF dans ses 
-		   		<br>
-		   		MEMOIRES concernant l'Histoire civile et ecclésiastique d'AUXERRE et de son ANCIEN DIOCESE
-		   		<br>
-		   		dans une réimpression de l'édition d'Auxerre-Paris -1848-1855-, de 1978. -->
 			</p>   
-	  	</TD>
-      	<td width="10%">
-      	</td>
-   	</tr>
-</table>
-<!-- <table width="100%" border="0">
-  <tr>
-     <td>
-	    <P align="center">
-		   <br>
-		   <br>
-		   <a href="javascript:;" onClick="MM_openBrWindow('Vignettes3/Cathedrale_1.jpg','GrandeImage91','width=700,height=700')">
-		   <img src="Vignettes3/Cathedrale.JPG" width="330" height="500" border="0"></a>
-		   <br><br><br><br>
-		   <a href="Musique_religieuse.htm">Musique religieuse</a>
-		   <br>
-		   <a href="Notes_d_art_et_d_histoire.htm">Notes d'art et d'histoire</a>
-		   <br>
-           <a href="lesite1.htm">Retour</a>
-		</p>   
-	 </td>
-   </tr>
-</table> -->
-
-</body>
-
-
+</section>
