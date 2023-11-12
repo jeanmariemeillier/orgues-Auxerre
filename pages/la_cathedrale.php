@@ -22,15 +22,14 @@
 			<p align = "justify">
 				[<font color="red">paragraphe du texte</font> : PREMIERE PARTIE -CHAPITRE 1er]
 		   		<br> <br> La première cathédrale d'Auxerre fut l'église 
-		   		construite par <i>Saint PELERIN</i> au bord de l'Yonne, c'est seulement vers l'an 400 que <i>l'Evêque St AMATRE</i> la transféra à son endroit actuel. L'Evêque voyant que l'église consacrée du temps de saint Pélerin, sur le bord de la rivière du côté qui regardait <i>l'orient d'hiver</i>, ne pouvait plus contenir le nombre des fidèles qui allait toujours en augmentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé Ruptilius ou Rutilius.</i> Ruptilius refusa d'abord d'accorder à l'Evêque ce qu'il demandait ; mais, étant ensuite tombé égravement malade, il y vit une punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville.<br> 
+		   		construite par <i>Saint PELERIN</i> au bord de l'Yonne, c'est seulement vers l'an 400 que <i>l'Evêque St AMATRE</i> la transféra à son endroit actuel. L'Evêque voyant que l'église consacrée du temps de saint Pélerin, sur le bord de la rivière du côté qui regardait <i>l'orient d'hiver</i>, ne pouvait plus contenir le nombre des fidèles qui allait toujours en augmentant, trouva le moyen de se faire céder un grand corps de logis situé dans l'enceinte de la nouvelle cité. Il avait obtenu ce bâtiment d'un riche citoyen nommé Ruptilius ou Rutilius.</i> Ruptilius refusa d'abord d'accorder à l'Evêque ce qu'il demandait ; mais, étant ensuite tombé gravement malade, il y vit une punition divine et s'amenda. Agrandie et embellie par les générations suivantes, la cathédrale de St AMATRE fut détruite par le feu à la fin du IXème siècle, au cours d'un grand incendie qui ravagea toute la ville.<br> 
 
-				   <br>[texte en italique module tooltip : "Saint PELERIN" "Premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre"]  
-		   			<br>[texte en italique module tooltip : "l'Evêque St AMATRE" Vè Evêque de 386 à 418.]
-				 <br>         		
-				<br>[texte en italique module tooltip : l'orient d'hiver [N. d. E (Selon le Gesta Pontif. c'était du côté de la porte que les anciens auteurs appelaient la "Porte des Bains")]
-				<br>				 
-		   		<br>
-			    [<font color="red">paragraphe du texte</font>SECONDE PARTIE -CHAPITRE 1er page 211 - 218 chap Hérifrid 
+				<br>[texte en italique module tooltip : "Saint PELERIN" "Premier Evêque de cette ville de 258 au 16 mai 303 ou 304 martyre"]  
+		   		<br>[texte en italique module tooltip : "l'Evêque St AMATRE" Vè Evêque de 386 à 418.]
+				 <br><br>
+				 [texte en italique module tooltip : l'orient d'hiver [N. d. E (Selon le Gesta Pontif. c'était du côté de la porte que les anciens auteurs appelaient la "Porte des Bains")]
+				<br><br>
+			    [<font color="red">paragraphe du texte</font>SECONDE PARTIE -CHAPITRE 1er page 211 - 218 chap Hérifrid]
 				<br>
 		  		La cathédrale, composée des trois églises de Notre-Dame, Saint-Jean et Saint-Etienne, ayant eté enveloppée dans ce malheur
 				 <!-- aussi bien que la maison épiscopale -->
@@ -38,18 +37,15 @@
 				<!-- et en attendant, il se contenta d'un petit logis qu'il fit accomoder à son usage.  -->
 				Il vint à bout de remettre sur pied les trois églises. 
 				<!-- et la mort l'ayant prévenu, il laissa à son successeur le soin de rebâtir la maison épiscopale. Il l'orna richement et il la dota d'une tour. -->
-				 Il existait des cryptes au-dessous de la cathédrale. 
-				 <br>
-		   		Ce sanctuaire n'avait pas les dimensions de la cathédrale actuelle. Le portail devait se trouver à l'emplacement du transept d'aujourd'hui. La cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
-		   		<br>
-				   <br>[texte en italique module tooltip :(que Lebeuf dit Vénérable) (selon le langage vulgaire, devrait être prononé Herfroy) <br>
-
-			  <br>
-           		[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE II page 236 ligne 18 - CHAPITRE XII page ]
+				Il existait des cryptes au-dessous de la cathédrale. 
 				<br>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vénérable GUY (XLIVè Evêque d'Auxerre de 933 à 961)
-		   		se mit à l'oeuvre pour réparer le désastre. Il voulut avoir sa sépulture dans sa cathédrale. Jusqu'à lui il n'y avait encore eu aucun évêque inhumé dans l'église cathédrale, et lui-même par humilité n'avait d'abord souhaité d'être inhumé que sous son portique. Mais le malheur de l'incendie arrivé sous son épiscopat fit changer son premier dessein : ainsi, on enterra son corps entre le choeur et la nef devant l'image du crucifix. Comme le bâtiment de l'église était alors beaucoup plus petit que n'est le nouveau qui a été commencé en 1215, le choeur 
-		   		finissait à peu près à l'endroit ou se trouve le petit clocher... Hélas ! le feu, une fois de plus, vint réduire son oeuvre à néant (1023).
+		   		Ce sanctuaire n'avait pas les dimensions de la cathédrale actuelle. Le portail devait se trouver à l'emplacement du transept d'aujourd'hui. La cathédrale du Bienheureux HERIFRIED devait, comme celle de St AMATRE, périr par le feu. Elle fut entièrement consumée après un demi-siècle d'existence.
+		   		<br><br>
+				[texte en italique module tooltip :(que Lebeuf dit Vénérable) (selon le langage vulgaire, devrait être prononé Herfroy) 
+				<br><br>
+           		[<font color="red">Retrouver la page et le paragraphe du texte</font> : Tome 1 MEMOIRES HISTORIQUES sur LES EVEQUES D'AUXERRE - SECONDE PARTIE -CHAPITRE II page 235 le nom de l'Evêque, page 236 ligne 18 - CHAPITRE XII page ]
+				<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Vénérable GUY (XLIVè Evêque d'Auxerre de 933 à 961) se mit à l'oeuvre pour réparer le désastre. Il voulut avoir sa sépulture dans sa cathédrale. Jusqu'à lui il n'y avait encore eu aucun évêque inhumé dans l'église cathédrale, et lui-même par humilité n'avait d'abord souhaité d'être inhumé que sous son portique. Mais le malheur de l'incendie arrivé sous son épiscopat lui fit changer son premier dessein : ainsi, on enterra son corps entre le choeur et la nef devant l'image du crucifix. Comme le bâtiment de l'église était alors beaucoup plus petit que n'est le nouveau qui a été commencé en 1215, le choeur finissait à peu près à l'endroit ou se trouve le petit clocher... Hélas ! le feu, une fois de plus, vint réduire son oeuvre à néant (1023).
 		   		<br>
 		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Après le dernier incendie, l'évêque HUGUES DE CHALONS
 		   		(XLVIIIè Evêque du 5 mars 999 au 4 novembre 1039) entreprit la construction d'une cathédrale voûtée, {Hugues, au lieu de la rebâtir de moellon, comme elle avait été auparavant, en jeta les fondements sur le roc avec des pierres de taille ; il voulut que son enceinte fût d'une plus grande étendue, et il y fit faire les grottes ou cryptes telles qu'on les voit encore aujourd'hui sous le sanctuaire et sous la moitié du choeur [Les cryptes de la cathédrale forment un monument très-intéressant. Elles s'étendent sous le choeur entier de l'église et se composent de trois nefs à six travées avec les bas-côtés terminés circulairement et conduisant à la chapelle qui est à l'extrémité orientale. Le système de construction de ces cryptes est le plein-cintre rustique. Les piliers sont cantonnés de quatre colonnes munies d'un chapiteau taillé en bizeau et orné d'un simple cordon sur les angles. Les voûtes sont à nervures. Des baies étroites jettent un jour douteux dans les profondeurs de l'édifice. La chapelle terminale voûtée  en berceau est peinte de fresques représentant le Christ à cheval escorté de quatre anges, et, au fond du cul-de-four, le Christ bénissant, entouré des animaux symboliques.Une restauration intelligente vient de rendre à ce monument sa physionomie primitive (Perriquet, éditeur, 1848)]}dans le style roman qui florissait alors et que la crypte  permet d'évoquer en l'absence de renseignements certains. {L'ouvrage était déjà bien avancé} Ce n'est que de justesse qu'elle échappa à l'incendie de 1035. Elle fut aménagée et embellie par les successeurs d'HUGUES DE CHALONS sur le siège épiscopal d'Auxerre.
