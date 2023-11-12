@@ -99,104 +99,89 @@
 		   		D'AYMERIC GUENAUD (LXXè Evêque d'Auxerre du samedi des Quatre-Temps de l'Avent de l'an 1331 au 15 février 1338)
 		   		Le commencement de son épiscopat ne fournit aucun acte important, il n'y paraît de remarquable que la consécration du grand autel de la cathédrale, en 1334 ; encore ne l'apprend-on que par l'apostille d'un catalogue manuscrit des évêques d'Auxerre. Il consacra aussi, en 1338, l'autel appelé <I>de la Comtesse</I>, au fond du sanctuaire. D'où il resulterait que, jusqu'à son temps, la chaire de pierre, placée depuis au côté droit du sanctuaire, aurait été dans ce fond conformément à la bonne antiquité, et qu'on la déplaça alors pour construire ce nouvel autel ; mais on est sûr, d'ailleurs, qu'il existait au XIIIè siècle un autel de <I>la Comtesse</I>. On a aussi lieu d'inférer que vers le temps de son arrivée, il fit la dédicace de l'église ; au moins cette dédicace ne paraît marquée dans les calendriers du diocèse, que depuis son épiscopat, sous lequel l'année 1335 est la seule où le neuvième juillet ait tombé un dimanche. Mais comme on dédiait les églises les jours de férié aussi bien que les dimanches, rien n'empêche absolument de croire que l'église entière n'ait été dédiée, en 1334, un samedi neuvième juillet [Malgré le silence des chroniqueurs sur les grands travaux de la construction de la cathédrale, après sa fondation par Guillaume de Seignelay, l'oeuvre n'en avait pas moins avancé pendant les temps pacifiques du XIIIè siècle et du commencement du XIVè, grâce aux sacrifices des évêques et du Chapitre, et aux aumônes abondantes des peuples. On avait élevé successivement le choeur tout entier, ce chef d'oeuvre de l'art ogival, les parties basses du grand portail et surtout la porte de droite avec les piliers de l'entrée de la grande nef, les transsepts intérieurs et probablement le portail sud, et enfin le soubassement des murs d'enceinte d'une grande partie des nefs 
 		   			collatérales. Les traces de la cérémonie de dédicace se voient encore sur les deux piliers d'entrée de la nef et sur les quatre piliers des transsepts. (Perriquet, éditeur, 1848)].
-		   			<br><BR> 
-		   			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHILIPPE DES ESSARTS (LXXXVè Evêque du 22 février 1410 au 14 octobre 1426)
-		   			<br>
-		   			Pendant son épiscopat, l'édifice du portail de l'église cathédrale, du côté de l'évéché, fut commencé en 1415, et ensuite continué par les libéralités de Jean de Molins, chantre et chanoine, et celles des fidèles. Quelques-uns ont cru y apercevoir les armoiries de Philippe des Essarts, qui sont trois croissants {on voit un écu chargé de trois écussons, mais il est impossible de le déchiffrer aujourd'hui [Perriquet, éditeur]}.
-		   			<br><br>
-		   			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN BAILLET (LXXXXè Evêque du 15 mai 1478 au 10 novembre 1513)
-		   			<br>
+			</p><p>
+		   			PHILIPPE DES ESSARTS (LXXXVè Evêque du 22 février 1410 au 14 octobre 1426). Pendant son épiscopat, l'édifice du portail de l'église cathédrale, du côté de l'évéché, fut commencé en 1415, et ensuite continué par les libéralités de Jean de Molins, chantre et chanoine, et celles des fidèles. Quelques-uns ont cru y apercevoir les armoiries de Philippe des Essarts, qui sont trois croissants {on voit un écu chargé de trois écussons, mais il est impossible de le déchiffrer aujourd'hui [Perriquet, éditeur]}.
+		   
+			</p><p>BAILLET (LXXXXè Evêque du 15 mai 1478 au 10 novembre 1513) <br>
 		   			... il contribua notablement pour achever le portail septentrional de la croisée de l'église, et pour avancer la tour méridionale du grand portail, qui est restée imparfaite {les travaux de construction des tours du grand portail avaient commencé en l'an 1500. Le Chapitre s'était imposé du sixième de son revenu pour faire avancer l'oeuvre... on lit sur la cage de l'escalier de la tour du nord, à des hauteurs différentes, les dates de 1525, 1530 [Perriquet, éditeur].} On voit ses armoiries en l'un et l'autre endroit.
 		   			<i>Il fut le premier qui rendit utile à l'église d'Auxerre la nouvelle invention de l'imprimerie ; il fit imprimer le Missel et le Bréviaire à l'usage du diocése.</i>
-		   			<br><br>
-				</p>
-		   		<p align="center">
+			</p>
+		  <!--  		<p align="center">
 		      		<img src="Armoiries Eveques Auxerre I/Baillet1.jpg" alt="Armoiries de Jean Baillet">
 		      		<br>
 			  		Armoiries de Jean Baillet
-		   		</p>
-		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DINTEVILLE, 1er du nom (XCIè Evêque du 3 mai 1514 au 29 avril 1530)
-		   		<br>
-		   		... C'est avec raison qu'on a vanté les ornements que François de Dinteville donna à son église cathédrale. Ils éclataient en or et en pierreries, et certainement aucune église de France n'en avait alors de plus beaux [Si ce n'est peut-être la Sainte-Chapelle de Bourges]. Ils furent depuis la proie des calvinistes [Les huguenots s'emparèrent du trésor de la cathédrale en 1567...]. Les orgues qu'il fit construire proche la grande porte de 
-		   		l'église (mais ceci est une autre histoire contée sur ce site [l'auteur])...
-		  		<br>
-		   		Pour ce qui est du jubé... le goût de la nouvelle structure de ce temps-là ne mérite pas d'être suivi ; outre ce défaut dont on ne pouvait pas répondre alors, il pêche essentiellement en ce qu'il traverse toute la face du choeur {L'abbé Lebeuf apprécie avec le goût d'un vrai archéologue la disposition malencontreuse de ce jubé. On ne doit pas être étonné si ses confrères l'ont fait disparaître. - Le bon chanoine,auteur de la vie de l'évêque, regardait ce jubé comme le plus beau de France, et ajoutait : "Miro lapidum tabulatu, raro artificio elegantique et..."(N. d. N.)}
-		  		<br><br>
-		   		<p align="center">
+		   		</p> -->
+		   <p> FRANCOIS DE DINTEVILLE, 1er du nom (XCIè Evêque du 3 mai 1514 au 29 avril 1530). C'est avec raison qu'on a vanté les ornements que François de Dinteville donna à son église cathédrale. Ils éclataient en or et en pierreries, et certainement aucune église de France n'en avait alors de plus beaux [Si ce n'est peut-être la Sainte-Chapelle de Bourges]. Ils furent depuis la proie des calvinistes [Les huguenots s'emparèrent du trésor de la cathédrale en 1567...]. Les orgues qu'il fit construire proche la grande porte de 
+		   		l'église (mais ceci est une autre histoire contée sur ce site [l'auteur]).
+		  	<br>
+		   	Pour ce qui est du jubé... le goût de la nouvelle structure de ce temps-là ne mérite pas d'être suivi ; outre ce défaut dont on ne pouvait pas répondre alors, il pêche essentiellement en ce qu'il traverse toute la face du choeur {L'abbé Lebeuf apprécie avec le goût d'un vrai archéologue la disposition malencontreuse de ce jubé. On ne doit pas être étonné si ses confrères l'ont fait disparaître. - Le bon chanoine,auteur de la vie de l'évêque, regardait ce jubé comme le plus beau de France, et ajoutait : "Miro lapidum tabulatu, raro artificio elegantique et..."(N. d. N.)}
+		   </p>
+		 <!--   		<p align="center">
 		      		<img src="Armoiries Eveques Auxerre I/Dinteville1.jpg" alt="Armoiries de Dinteville I & II">
 		      		<br>
 			  		Armoiries des Dinteville oncle & neveu
-		   		</p>
-		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DINTEVILLE, 2è du nom (XCIIè Evêque du 4 mai 1530 au 27 septembre 1554)
+		   		</p> -->
+		   	<p>FRANCOIS DE DINTEVILLE, 2è du nom (XCIIè Evêque du 4 mai 1530 au 27 septembre 1554). Si ce prélat fit décorer les piliers de l'église d'images en relief, comme le Chapitre le lui avait permis en 1543, il en est resté peu de choses, peut-être parce que les calvinistes jetèrent à terre  ce qui avait été fait pas ses ordres. Les deux portes collatérales des ailes du choeur étaient ornées de figures différentes de celles qu'on y voit aujourd'hui ; à l'une des deux était représentée l'histoire de la visitation de la Sainte-Vierge. 
+			<br>
+		   	Ces figures pouvaient venir de lui, aussi bien que celles qui étaient dans la chapelle de Saint-Georges, au-dessous de l'endroit où l'on voit encore les armoiries de sa famille... <i>On doit croire qu'il contribua à l'abolissement du jeu de la Pelotte, qui se pratiquait l'après-midi du jour de Pâques, dans la nef de la cathédrale</i> [Mercure de France, mai 1726, p. 911 {Le jeu de la pelotte ou de la balle, dégénéré d'un vieil usage grave, d'un hommage symbolique rendu au Chapitre par le chanoine nouvellement élu, avait fini par transformer, le jour où il se célébrait, la nef de la cathédrale en une sorte de jeu de paume. (N. d. N.)}]
 		   		<br>
-		   		... Si ce prélat fit décorer les piliers de l'église d'images en relief, comme le Chapitre le lui avait permis en 1543, il en est resté peu de choses, peut-être parce que les calvinistes jetèrent à terre  ce qui avait été fait pas ses ordres. Les deux portes collatérales des ailes du choeur étaient ornées de figures différentes de celles qu'on y voit aujourd'hui ; à l'une des deux était représentée l'histoire de la visitation de la Sainte-Vierge. 
-		   		Ces figures pouvaient venir de lui, aussi bien que celles qui étaient dans la chapelle de Saint-Georges, au-dessous de l'endroit où l'on voit encore les armoiries de sa famille... <i>On doit croire qu'il contribua à l'abolissement du jeu de la Pelotte, qui se pratiquait l'après-midi du jour de Pâques, dans la nef de la cathédrale</i> [Mercure de France, mai 1726, p. 911 {Le jeu de la pelotte ou de la balle, dégénéré d'un vieil usage grave, d'un hommage symbolique rendu au Chapitre par le chanoine nouvellement élu, avait fini par transformer, le jour où il se célébrait, la nef de la cathédrale en une sorte de jeu de paume. (N. d. N.)}]
+		   	Son portrait est tiré dans des tableaux d'églises, dont la lapidation de saint Etienne, conservé sur l'autel de la chapelle de Saint-Alexandre au fond de l'église cathédrale (<i>époque Lebeuf</i>, à côté de la sacristie, dans le déambulatoire, <i>époque actuelle</i>)
 		   		<br>
-		   		Son portrait est tiré dans des tableaux d'églises, dont la lapidation de saint Etienne, conservé sur l'autel de la chapelle de Saint-Alexandre au fond de l'église cathédrale (<i>époque Lebeuf</i>, à côté de la sacristie, dans le déambulatoire, <i>époque actuelle</i>)
-		   		<br>
-		   		- C'est sous l'épiscopat des évêques du nom de Dinteville que furent reconstruites un grand nombre d'églises des paroisses du diocèse. Les grands travaux de la cathédrale avaient amené dans la pays des <i>maîtres-des-oeuvres</i>, des sculpteurs, des maçons, qui répandirent leurs oeuvres de tous côtés. On remarque surtout au sud-ouest d'Auxerre une suite d'églises  qui semblent coulées dans le même moule, à la richesse près. C'est le style ogival flamboyant complet. Les dais, les clochetons, les feuillages contournés, les moulures prismatiques annoncent la première moitié du XVIè siècle, en même temps que la décadence et la fin de ce style d'architecture qui devait fleurir avec le moyen-âge et mourir avec...
-		   		<br><br>
-		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ROBERT DE LENONCOURT (XCIIIè Evêque du 4 mars 1556 au 29 mars 1558, auquel on comptait à Rome 1559)
-		   		<br>
-		   		Le Chapitre lui députa à Régennes, le onzième jour d'août {1557}, trois dignités pour le remercier de lui avoir procuré la permission d'une coupe de deux cents arpents de bois dans la forêt de Merry [Cette coupe servit aux travaux de la tour de la cathédrale {Le Chapitre publia en 1556 une pancarte contenant l'énumération de toutes les indulgences accordées par les papes et par les évêques d'Auxerre, pour l'achèvement de la cathédrale. Il la fit suivre de l'approbation de Mgr de Lenoncourt ; c'était le moyen usité alors pour la construction de ces vastes et admirables basiliques. (Perriquet, éditeur)}]
-		   		<br>
-		   		<br>
-			</p>
-			<p align="center">
+		   	- C'est sous l'épiscopat des évêques du nom de Dinteville que furent reconstruites un grand nombre d'églises des paroisses du diocèse. Les grands travaux de la cathédrale avaient amené dans la pays des <i>maîtres-des-oeuvres</i>, des sculpteurs, des maçons, qui répandirent leurs oeuvres de tous côtés. On remarque surtout au sud-ouest d'Auxerre une suite d'églises  qui semblent coulées dans le même moule, à la richesse près. C'est le style ogival flamboyant complet. Les dais, les clochetons, les feuillages contournés, les moulures prismatiques annoncent la première moitié du XVIè siècle, en même temps que la décadence et la fin de ce style d'architecture qui devait fleurir avec le moyen-âge et mourir avec...
+		   	</p><p>
+		   	ROBERT DE LENONCOURT (XCIIIè Evêque du 4 mars 1556 au 29 mars 1558, auquel on comptait à Rome 1559).   		Le Chapitre lui députa à Régennes, le onzième jour d'août {1557}, trois dignités pour le remercier de lui avoir procuré la permission d'une coupe de deux cents arpents de bois dans la forêt de Merry [Cette coupe servit aux travaux de la tour de la cathédrale {Le Chapitre publia en 1556 une pancarte contenant l'énumération de toutes les indulgences accordées par les papes et par les évêques d'Auxerre, pour l'achèvement de la cathédrale. Il la fit suivre de l'approbation de Mgr de Lenoncourt ; c'était le moyen usité alors pour la construction de ces vastes et admirables basiliques. (Perriquet, éditeur)}]
+		</p>
+<!-- 			<p align="center">
 		    	<img src="Armoiries Eveques Auxerre I/Lenoncourt1.jpg" alt="Armoiries des Lenoncourt">
 		    	<br>
 				Armoiries des Lenoncourt
-			</p>
-		   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHILIPPE DE LENONCOURT (XCIVè Evêque du 22 octobre 1558 à l'automne 1562)
-		   	<br>
-		   	... (Réception de l'évêque) Le Chapitre en chapes reçut le pontife à la grande porte de l'église qui était fermée, et le doyen l'ayant harangué, lui fit prêter le serment accoutumé ; après quoi le délégué de l'archidiacre le fit entrer, disant <i>Ingredere igitur benedicte Dei</i>, et on chanta le <i>Veni Creator</i>. Etant arrivé au choeur, il lui présenta une des cordes du petit clocher, avec une formule aussi nouvelle que la présentation de cette corde [Selon les anciens procès-verbaux, c'était une corde de sonnette que l'évêque tirait à la grande porte de l'église pour la faire ouvrir. Il faut observer ici que les cordes du petit clocher de la cathédrale d'Auxerre aboutissent à l'aigle du choeur, comme dans la cathédrale de Chartres].
-		   	<br><br>
-		   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JACQUES AMYOT (XCVIè Evêque de mars 1571 au 6 février 1593)
-		   	<br>
-		   	<br>
-		   	<p align="center">
+			</p> -->
+			<p>PHILIPPE DE LENONCOURT (XCIVè Evêque du 22 octobre 1558 à l'automne 1562). (Réception de l'évêque) Le Chapitre en chapes reçut le pontife à la grande porte de l'église qui était fermée, et le doyen l'ayant harangué, lui fit prêter le serment accoutumé ; après quoi le délégué de l'archidiacre le fit entrer, disant <i>Ingredere igitur benedicte Dei</i>, et on chanta le <i>Veni Creator</i>. Etant arrivé au choeur, il lui présenta une des cordes du petit clocher, avec une formule aussi nouvelle que la présentation de cette corde [Selon les anciens procès-verbaux, c'était une corde de sonnette que l'évêque tirait à la grande porte de l'église pour la faire ouvrir. Il faut observer ici que les cordes du petit clocher de la cathédrale d'Auxerre aboutissent à l'aigle du choeur, comme dans la cathédrale de Chartres].
+		</p> 
+		<!-- JACQUES AMYOT (XCVIè Evêque de mars 1571 au 6 février 1593)  -->
+<!-- 		   	<p align="center">
 		      	<img src="Armoiries Eveques Auxerre I/Amyot1.jpg" alt="Armoiries d'Amyot">
 		      	<br>
 			  	Armoiries de Jacques Amyot
-		   	</p>
-		   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FRANCOIS DE DONADIEU (XCVIIè Evêque du 18 avril 1599 à 1625)
-		   	<br>
-		   	... En 1606, il paya la fonte de la seconde cloche de la tour, et huit ans après, celle de la grosse cloche.
+		   	</p> -->
+		<p>
+			
+			FRANCOIS DE DONADIEU (XCVIIè Evêque du 18 avril 1599 à 1625). En 1606, il paya la fonte de la seconde cloche de la tour, et huit ans après, celle de la grosse cloche.
 		   	<br>
 		   	[Voici l'inscription de la plus grosse de ces deux cloches, qui est rapportée dans un registre capitulaire de 1786. 
 		   	<br>
+			[mettre un mise en page]
 		   	<font face="Georgia, Times New Roman, Times, serif">Haec me sacra domus fecit, praesulque refecit,
 		   	<br>Numen et ambo meo perferam astra sono.
 		   	<br>Franciscus de Donadieu episc. Autiss. hoc tympanum
 		   	<br>Pondo X. M., impensis capituli primo constatum, confractum
 		   	<br>Suis expensis dono refici curavit. an 1614.</font>
 		   	<br>La seconde, dont le poids n'est pas connu, portait les armes de M. de Donadieu et la date de 1606.](Perriquet, éditeur)
-		   	<br>
-		   	<br>
-		   	<p align="center">
+		</p>
+		<!--    	<p align="center">
 		      	<img src="Armoiries Eveques Auxerre I/Donadieu1.jpg" alt="Armoiries de Donadieu">
 		      	<br>
 			  	Armoiries de François de Donadieu
-		   	</p>
-		   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PIERRE DE BROC {connu sous le nom d'abbé de Saint-Mars}(Cè Evêque de janvier 1639 au 7 juillet 1671)
-		   	<br>
-		   	... Il donna aussi alors une bonne partie de ce qui fut nécessaire pour refaire à neuf le pavé du choeur, dont les tombes épiscopales avaient été défigurées et brisées dans les guerres de la religion.
-		   	<br>
-		   	<br>
-		   	<p align="center">
+		   	</p> -->
+			<p>
+		   	PIERRE DE BROC {connu sous le nom d'abbé de Saint-Mars}(Cè Evêque de janvier 1639 au 7 juillet 1671). Il donna aussi alors une bonne partie de ce qui fut nécessaire pour refaire à neuf le pavé du choeur, dont les tombes épiscopales avaient été défigurées et brisées dans les guerres de la religion.
+
+		  <!--  	<p align="center">
 		      	<img src="Armoiries Eveques Auxerre I/Broc1.jpg" alt="Armoiries de Broc">
 		      	<br>
 			 	 Armoiries de Pierre de Broc
-		   	</p>
-		   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NICOLAS COLBERT (CIè Evêque du 27 janvier 1671 au 5 septembre 1676)
-		   	<br>
-			<p align="center">
+		   	</p> -->
+		   
+		
+<!-- 			<p align="center">
 		      	<img src="Armoiries Eveques Auxerre I/Colbert1.jpg" alt="Armoiries des Colbert">
 		      	<br>
 			  	Armoiries des Colbert
-		   	</p> 
-		   	<p align = "justify">
-		   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JEAN-BAPTISTE-MARIE CHAMPION de CICE (Evêque du 14 des calendes de mars 1760 au 16 novembre 1805 "dans l'émigration", à Halbertadt, en Prusse, dans le couvent des Franciscains où il fut enterré).
+		   	</p>  -->
+		   	<p>
+			   <!-- NICOLAS COLBERT (CIè Evêque du 27 janvier 1671 au 5 septembre 1676).  -->
+			   
+			   JEAN-BAPTISTE-MARIE CHAMPION de CICE (Evêque du 14 des calendes de mars 1760 au 16 novembre 1805 "dans l'émigration", à Halbertadt, en Prusse, dans le couvent des Franciscains où il fut enterré).
 		   		<br>
 		   		Pendant les premières années de l'épiscopat de M. de Cicé, le Chapitre cathédral occupa l'activité de ses principaux membres à des choses plus utiles et plus durables que les misérables querelles qui l'agitaient sous M. de Condorcet...
 		   		<br>
@@ -210,12 +195,12 @@
  		   		<br>
 		   		<br>
 		   	</p>
-		   	<p align="center">
+		<!--    	<p align="center">
 		      	<img src="Armoiries Eveques Auxerre I/Cic�1.jpg" alt="Armoiries de Champion de Cic�">
 		      	<br>
 			  	Armoiries de Champion de Cicé
 		   	</p>
-		   	<p align = "justify"> 
+		   	<p align = "justify">  -->
 		   		Voici à peu près l'ordre de construction de l'édifice :
 		   		<br>
 		   		&#151;  le choeur fut achevé à la fin du XIIIème siècle ; on jeta à cette époque les bases de la tour sud.
@@ -250,7 +235,7 @@
 		   		transformations. On fit disparaître les peintures du siècle précédent. VIOLLET-LE-DUC restaura le déambulatoire 
 		   		et la crypte. 
 				<br>
-				Nouveau texte octobre 2023
+				<!-- Nouveau texte octobre 2023 -->
 				<br>
 				[<font color="red">Retrouver la page et le paragraphe du texte</font> : L'YONNE SECRETE de Jean-Pierre Fontaine, sixième partie, les secrets de l'art ; Chapitre VI, Menaces sur l'église Saint-Germain ; page 356 2è paragraphe - A. Y. 78T2 (Saint Germain), 74T8 (crypte de la cathédrale)]
 				En 1802, Rougier de la Bergerie, 
