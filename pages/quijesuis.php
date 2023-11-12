@@ -1,28 +1,18 @@
-   <TABLE WIDTH="100%" BORDER="0">
-      <TR>
-         <TD WIDTH="30%">
-	        <P ALIGN=RIGHT>
-		       <img src="systeme/img/fete-1.gif" width="112" height="170" >
-		    </P> 
-         </TD>
-	     <TD WIDTH="40%">
-	        <CENTER>
+ 
+	       <p>
+
+          </p>
+          <br><br>
+          <CENTER>
 	           <H1>L'AUTEUR</H1>
 	        </CENTER>
-         </TD>	  
-         <TD WIDTH="30%">
-	        <P ALIGN=LEFT>
-		       <img src="systeme/img/fete-2.gif" width="112" height="170">
-		    </P> 
-         </TD>
-      </TR>
-   </TABLE>
+
    <article id="Gauche"> 
         Je ne suis pas tout jeune, 
-        puisque n� tout de suite apr�s la derni�re guerre (mondiale) dans la belle 
-        province de Franche-Comt� [dans l'est de la France, pour nos amis francophones 
-        d'outre fronti�res] et lorsque j'�tais �g� de 7 ans, mon p�re -militaire- 
-        propulsa sa petite famille dans les colonies. Nous ne sommes pas all�s 
+        puisque né tout de suite aprés la dernière guerre (mondiale) dans la belle 
+        province de Franche-Comté [dans l'est de la France, pour nos amis francophones 
+        d'outre frontières] et lorsque j'étais âgé de 7 ans, mon pére -militaire- 
+        propulsa sa petite famille dans les colonies. Nous ne sommes pas allés 
         aux antipodes, mais � une �poque o� les gens mettaient leur habit du dimanche 
         pour aller � la ville, l'Afrique Fran�aise du Nord pouvait para�tre le 
         bout du monde. Un an apr�s �tre arriv� dans la banlieue de Tunis (capitale 

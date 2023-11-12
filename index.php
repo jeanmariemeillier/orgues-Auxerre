@@ -1,21 +1,15 @@
 <?php 
   /* 
-  site  orgues auxerre version 2 création 07/05/2023
-  ce site est la proprièté de Jean-Marie Meillier
-  ce site est réalisé avec l'association collectif 11880
+  site  les orgues auxerre version 2 création 07/05/2023
+  ce site est la proprièté de Jean-Marie Meillier et il est réalisé avec l'association collectif 11880
   */
   // session_start();// bug possible
   $json = file_get_contents("donnees_site.json");
   $demar = json_decode($json, true);
   $chem_princ =$demar["chem"]; 
-  $jsonsite = $demar["f_json"]; 
+  /* $jsonsite = $demar["f_json"];  */ /* pour version 5 */
   include($chem_princ."/php/index_deb.php");
 
-   /* BDD pour plus  tard */
-  //include_once ($chem_princ."/php/base_donnees.php"); */
-  
-  // $result_site = $laison->query('SELECT * FROM mise_jour_site');
-  // $misjoursite = $result_site->fetch(PDO::FETCH_ASSOC);
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -25,32 +19,17 @@
     <meta name="description" content="">
     <meta name="author" content="collectif 11880">
     <title><?php echo $demar["trt_head"]; ?></title>
-    <link href="systeme/css/normalize.css" rel="stylesheet">
-    <link href="systeme/css/bootstrap-icons.css" rel="stylesheet">
-    <link href="systeme/css/orgues_auxerre.css" rel="stylesheet">
-    <link href="systeme/css/entrer_securiser.css" rel="stylesheet">
-    <link href="systeme/css/tab-bord.css" rel="stylesheet">
+    <link href="systeme/css/master" rel="stylesheet">
     <script src="systeme/js/jquery-3.6.4.min.js"></script>
-    <script src="systeme/js/orgues_auxerre.js"></script>
     <script src="systeme/js/puzzle.js"></script>
-     <!-- <link href="systeme/css/blog.css" rel="stylesheet"> -->
-   
-    <!-- <script src="systeme/js/jquery-3.6.4.min.js"></script> -->
-    <?php  
-          /* corection d'un bug rajout d'une condition pour afficher le blog ou non
-          modif du 21/05/2023 */
-          if ($liens["mod_blog"]) {
-            echo "<!-- installation du blog -->";
-            include($chem_princ."/blog/installblog.php");
-          } 
-          /* fin de modif */
-          /* test lance fonction defilement en javascript */
-          //echo"<script>Defilement()</script>";
-          echo $rn."</head>".$rn."<body onload=\"Defilement()\">".$rn;
-          echo "\t<nav id=\"navbar\">".$rn; 
-          include $chem_princ."/php/affiche_menu.php"; 
-        echo"</nav>".$rn;
-        if ($aside) {
+    <?php  include("modules/instal_modules.php"); ?>
+  </head>
+  <body>
+    <nav id="navbar">
+      <?php include $chem_princ."/php/affiche_menu.php"; ?>
+    </nav>
+    <?php 
+        if ($liens["aside"]) {
           echo"<main id=\"main\">".$rn;
           echo"<aside id=\"aside\">".$rn; 
           include $affasi; 
@@ -58,9 +37,8 @@
         }
            else  echo"<main id=\"main_total\">".$rn; 
           include $affpg; 
-          // $laison=NULL;
-      ?>
-    </main>
+          echo "</main>";
+    ?>
     <footer>
        <p>
         <?php
@@ -72,6 +50,5 @@
       </p>
     </footer>
   </body>
-  
-   <script>Defilement()</script>
+  <?php include("modules/lance_modules.php"); ?>
 </html>

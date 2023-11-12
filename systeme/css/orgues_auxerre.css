@@ -93,10 +93,10 @@ figcaption {
     min-height: calc(100vh - 152px);
 } */
 main {
-    margin-top: 5rem;
+    margin-top: 6rem;
     width: 100%;
     margin-bottom: 2rem;
-    min-height: calc(100vh - 163px);
+    min-height: calc(100vh - 168px);
 }
 a {
     text-decoration: none;
@@ -396,7 +396,7 @@ a:hover, a:active{
 }
 
 /* section des pages centrees */
-#page_cnt {
+#page_cnt, #page_cath {
     width: 80%;
     margin: 0 auto;
      position: relative;
@@ -404,7 +404,7 @@ a:hover, a:active{
     z-index: -1;
     padding-bottom: 1rem;
 }
-#page_cnt p{
+#page_cnt p,#page_cath p{
     font-size: 1.3rem;
     text-align: justify;
 }
@@ -510,6 +510,19 @@ cite {
    width:100%;
    clear:both;
 }
+#histoir_acth h1 {
+    font-size: 36px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+#histoir_acth h2 {
+    font-style: italic;
+    text-align: center;
+    font-size: 28px;
+}
+/* #page_cath p{
+    text-indent:50px;
+} */
 .cnt{
     text-align: center;
 }

@@ -1,0 +1,27 @@
+/*collectif 11880 fichier master.css permet de modifier les css sans toucher au fichier index.php */
+
+@import url("normalize.css"); 
+
+@import url("bootstrap-icons.css"); 
+
+@import url("orgues_auxerre.css"); 
+
+ /* @import url("entrer_securiser.css");  */
+
+/* @import url("tab-bord.css");  */
+
+@import url("../../modules/tooltip/tooltip.css"); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+				   

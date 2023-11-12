@@ -1,0 +1,102 @@
+{
+  "LEBEUF": {
+    "word": "LEBEUF",
+    "short_explanation": "Chanoine et Sous-Chantre de la cathédrale d'Auxerre ...",
+    "long_explanation": "Chanoine et Sous-Chantre de la cathédrale d'Auxerre, membre de l'Académie des Inscriptions et Belles-Lettres."
+  },
+  "another": {
+    "word": "another",
+    "short_explanation": "this is another test hope it works",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "apple": {
+    "word": "apple",
+    "short_explanation": "A delicious fruit",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "banana": {
+    "word": "banana",
+    "short_explanation": "A yellow fruit",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "car": {
+    "word": "car",
+    "short_explanation": "A mode of transportation",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "dog": {
+    "word": "dog",
+    "short_explanation": "A loyal companion",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "cat": {
+    "word": "cat",
+    "short_explanation": "A furry friend",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "book": {
+    "word": "book",
+    "short_explanation": "A source of knowledge",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "computer": {
+    "word": "computer",
+    "short_explanation": "A technological marvel",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "code": {
+    "word": "code",
+    "short_explanation": "A set of instructions for computers",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "music": {
+    "word": "music",
+    "short_explanation": "An auditory delight",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "coffee": {
+    "word": "coffee",
+    "short_explanation": "A caffeinated beverage",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "keyboard": {
+    "word": "keyboard",
+    "short_explanation": "An input device for computers",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "guitar": {
+    "word": "guitar",
+    "short_explanation": "A musical instrument",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "beach": {
+    "word": "beach",
+    "short_explanation": "A sandy shoreline",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "mountain": {
+    "word": "mountain",
+    "short_explanation": "A towering landform",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "ocean": {
+    "word": "ocean",
+    "short_explanation": "A vast body of water",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "sun": {
+    "word": "sun",
+    "short_explanation": "A bright celestial object",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so I have to write anything here so from now on it won't make anything so if you're still reading this you're just wasting your time but yeah if you're still reading, good man"
+  },
+  "planet": {
+    "word": "planet",
+    "short_explanation": "Celestial bodies in space",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so i have to write anything here so from now on it won't make anything so if you still reading this your just wasting your time but yeah if you still reading good man"
+  },
+  "star": {
+    "word": "star",
+    "short_explanation": "Distant luminous objects",
+    "long_explanation": "this is a large text hope it will work but yeah it's a very big text so i have to write anything here so from now on it won't make anything so if you still reading this your just wasting your time but yeah if you still reading good man"
+  }
+}

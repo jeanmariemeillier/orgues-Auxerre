@@ -1,0 +1,22 @@
+{
+    "_commentaire1": "module blog création au 01/10/2023",
+
+    "slide_blog" : false,
+	"tmp_blog" : "20000",
+	"id_blog" : "info_accueil",
+	"fich_blog" : "accueil",
+    "lien_txt": "textes_blog/",
+    "dossier_sys" : "bin/",
+    "fichier_sys" : "cpblog.txt",
+
+    "_commentaire2": "données non modifiables par l'utilisateur",
+    "url_serv" : "servblog.php",
+    "fich_js" : "affich-blog",
+
+    "text_blog" : "info_accueil",
+    "defil_blog" : true,
+    "debut_top" : 430,
+    "tempo" : 50,
+    "fin_top" : -355,
+    "pas_defil" : 1
+}

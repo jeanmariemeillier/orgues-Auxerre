@@ -1,0 +1,62 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  /* right: 23px; */
+}
+.tooltiptext {
+  display: none;
+  width: 238px;
+  background-color: #c2daf3;
+  border-radius: 4px;
+  border: 1px solid black;
+  padding: 19px 10px 10px 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 32px;
+  left: 1px;
+  height: 60px;
+  margin-left: -100px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  font-style: normal;
+}
+.tooltiptext::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  top: 58px;
+  left: 108px;
+  width: 0;
+  height: 0;
+  border: 20px solid transparent;
+  border-top-color: #222;
+  border-bottom: 0;
+  margin-left: -20px;
+}
+.learn_more {
+  display: inline-flex;
+  height: 20px;
+  width: 20px;  
+  top:0%;
+  right:0%;
+  /* filter: invert(1); */
+  margin-right:4px;
+  margin-top: 2px;
+}
+.tooltip:hover .tooltiptext {
+  display:inline-flex;
+  opacity: 1;
+}
+.mot_avant{
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: underline;
+  text-underline-offset: 3px;  
+}
+/* p{
+  margin-left:150px;
+}  */

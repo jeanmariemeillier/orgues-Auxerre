@@ -1,14 +1,13 @@
 <?php
 	/*
-	création fichier tabbord_deb.php le 20/04/2023 version 2.1.1
-
-	par l'association collectif 11880
-
+	création fichier tabbord_deb.php pour l'association collectif 11880
+	ne peut fonctionner sans son moteur "index_deb.php"
 	permet l'acces serurisé d'un site avec mot de passe code en MD5
 
-	modifications importantes!
-	le 20/04/2023 par Fateh: rajout d'un test si la variable quit existe et est égale à 1 
-	permet de quiter le mode tabbord et suprimer le cookie
+	actuellement à la version version 2.1.1 au 20/04/2023
+
+	modifications importante par Fateh!
+	ajout d'un test si la variable quit existe et est égale à 1 permet de quiter le mode tabbord et suprimer le cookie
 	*/
 	$tempo_cle = 86400; /* modif de la valeur: nouvelle valeur= 24h */
 

@@ -1,0 +1,11 @@
+{	
+	"_commentaire0": "fichier données du module Tooltip  version: 1.0.0 au 31/10/2023",
+    
+    "_commentaire1": "données modifiables par l'utilisateur",
+        "lexique_tooltip" :"lexique_test",
+        "fich_tooltip" : "accueil",
+
+    "_commentaire2": "données non modifiables par l'utilisateur",
+        "fich_js" : "tooltip"
+
+}

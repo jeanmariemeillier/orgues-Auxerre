@@ -28,6 +28,6 @@
       </a>  
    </section>
    <section id="blog">
-      <?php include("systeme/blog/actualite.php");?>
+      <?php include("pages/elements/actualite.php");?>
    </section>
 </div>

@@ -1,28 +1,29 @@
 {
     "milieu_cath": "remerciements",
 	"tit_cath" : "Les orgues de la Cathédrale d'Auxerre",
+	"tit_blog_acc" : "ACTUALITES", 
 
     "_commentaire": "slide dans orgue cathédrale auxerre nom image",
 
     
-    "slide01" : "",
-	"slide02" : "",
-	"slide03" : "",
-	"slide04" : "",
-	"slide05" : "",
-	"slide06" : "",
-	"slide07" : "",
-	"slide08" : "",
+    "slide1" : "",
+	"slide2" : "",
+	"slide3" : "",
+	"slide4" : "",
+	"slide5" : "",
+	"slide6" : "",
+	"slide7" : "",
+	"slide8" : "",
 
     "_commentaire": "slide dans orgue cathédrale auxerre description",
 
-    "comment01" : "",
-	"comment02" : "",
-	"comment03" : "",
-	"comment04" : "",
-	"comment05" : "",
-	"comment06" : "",
-	"comment07" : "",
-	"comment08" : ""
+    "comment1" : "",
+	"comment2" : "",
+	"comment3" : "",
+	"comment4" : "",
+	"comment5" : "",
+	"comment6" : "",
+	"comment7" : "",
+	"comment8" : ""
 
 }
