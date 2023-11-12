@@ -408,7 +408,11 @@ a:hover, a:active{
     font-size: 1.3rem;
     text-align: justify;
 }
-.image_cnt {
+.img_text{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.image_cnt, .img_left{
     margin: 0;
     position: relative;
     text-align: center;
@@ -417,7 +421,15 @@ a:hover, a:active{
     width: 45%;
     position: relative;
 }
-
+.img_left  .blason{
+    width: 50%;
+    position: relative;
+}
+.para_text {
+    display: inline-grid;
+    align-content: center;
+    /* text-indent: 10%; */
+}
 
 /* section orgue virtuel */
 #orgue_virtuel h1{
