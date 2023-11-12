@@ -242,6 +242,7 @@
 				
 				... agronome réputé, préfet depuis sa nomination à auxerre, a découvert les joies de la viticulture. Où trouver un lieu propice à l'élevage de son vin ? Sans rien dire à personne, il entrepose parmi les piliers romans de la crypte de la cathédrale, fûts et cuves, ainsi placés à proximité de la préfecture installée dans l'ancien palais épiscopal au chevet du sanctuaire... A toutes les réclamations du curé, léabbé Viart, il fait la sourde oreille. Même après sa mutation, il maintient dans l'antique sanctuaire son "vendangeoir". Finalament, tout rentre dans l'ordre. En 1811,... le préfet Defermont évacue les cryptes de la cathédrale...
 				<br>  
+				
 				En 1927, les vitraux furent restaurés et remis autant que possible dans leur ordre chronologique. 
 		   		Ils ont été mis à l'abrit au cours de la dernière guerre. Leur pose a été considérablement ralentie le
 		   		4 août 1947 par une grêle très violente qui a endommagé ceux qui étaient déjà remis en place. A la réfection
