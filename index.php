@@ -1,15 +1,11 @@
 <?php 
   /* 
-  site  les orgues auxerre version 2 création 07/05/2023
-  ce site est la proprièté de Jean-Marie Meillier et il est réalisé avec l'association collectif 11880
+    site  les orgues auxerre version 2 création 07/05/2023
+    ce site est la proprièté de Jean-Marie Meillier et il est réalisé avec l'association collectif 11880
+    modification au 26/11/2023 :
+     réation d'un module php "demarage pour regrouper toutes les commandes au démarage du fichier index!
   */
-  // session_start();// bug possible
-  $json = file_get_contents("donnees_site.json");
-  $demar = json_decode($json, true);
-  $chem_princ =$demar["chem"]; 
-  /* $jsonsite = $demar["f_json"];  */ /* pour version 5 */
-  include($chem_princ."/php/index_deb.php");
-
+   include "demarage.php";
 ?>
 <!DOCTYPE html>
 <html lang="fr">

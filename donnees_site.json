@@ -18,6 +18,7 @@
 	"_commentaire 6": "nom du dossier ou sont stokés les modules",
 	"dos_modul" : "modules/",
 	
+	
 	"_commentaire 2": "Données utiles pour le module tab_bord",
   	"tabbord" : false,
   	"fich_tabbord" : "tab_bord",

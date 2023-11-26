@@ -7,19 +7,19 @@
 	 	Ce fichier est libre d'utilisation en citant l'association: www.collectif11880.org.
 
 		modif au 30/10/2023 par pascal:
-			correction bug sur la variable $pg_court : elle renseignais le chemin et la page encours au lieu que de la page!
-			ajout d'une variable $pg_court contenant le nom de la page courante pour faire fonctionner les modules
-			récuperation d'une condition de la version 4.20.2 pour lancer l'installation du module blog à réecrire pour la version 5 et accecible pour tous les modules
-			corction d'un bug vesrsion 2:
-			oubli de déclarer la variable $v_tbrd à false par défaut. elle renseige de l'activation ou non du module tabbord
+			Correction d'un bug sur la variable $pg_court : elle renseignais le chemin et la page encours au lieu que de la page!
+			Ajout d'une variable $pg_court contenant le nom de la page courante pour faire fonctionner les modules.
+			Récuperation d'une condition de la version 4.20.2 pour lancer l'installation du module blog à réecrire pour la version 5 et accecible pour tous les modules.
+		Corction d'un bug vesrsion 2:
+			Oubli de déclarer la variable $v_tbrd à false par défaut. elle renseige de l'activation ou non du module tabbord.
 		modif au 1/11/2023 par pascal:
-			déplace les déclaration des modules soit principaux, soit optionel dans le fichier instal_module_deb.php
-			mise à jour des commentaires
-			ajout de l'extention .js pour les modules!
+			Déplacer les déclarations des modules soit principaux, soit optionel dans le fichier instal_module_deb.php.
+			Mise à jour des commentaires.
+			Ajout de l'extention .js pour les modules!
 	 	Nouvelle version 5: 
-			la nouvelle version permet d'intégrer le mode front-end et back-end avec la gestion des liens du menu par le javascript.
-			 la gestion des liens du menu de la version 4 fonctionnant grace au php devient une option definie dans le fichier json : donnees_site.json à la racine du site.
-			supression de toutes données en dur, elles sont définie dans le fichier json donnees_site.json
+			Lla nouvelle version permet d'intégrer le mode front-end et back-end avec la gestion des liens du menu par le javascript.
+			La gestion des liens du menu de la version 4 fonctionnant grace au php devient une option definie dans le fichier json : donnees_site.json à la racine du site.
+			Supression de toutes données en dur, elles sont définie dans le fichier json donnees_site.json
 					
 		Si vous vouyez un bug ou une amélioration contactez le collectif sur infos@collectif11880.com, on sitera votre nom, merci!
 	*/
@@ -27,8 +27,8 @@
 	$lp = ".php";
 	$lh = ".html";
 	$lxt = ".txt";
-	$jsn = ".json"; // nouvelle variable pour extention json V5
-	$js = ".js"; // nouvell extention pour  les modules
+	$jsn = ".json";
+	$js = ".js"; 
 	$v_tbrd = false; // bug version 5 variable definisant si le tabbord est actvé ou non
 	if ($demar["tabbord"]) 	include ($demar["fich_instal"]); 
 	else  $jsonsite = $demar["f_json"];
