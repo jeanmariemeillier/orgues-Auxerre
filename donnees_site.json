@@ -24,9 +24,14 @@
   	"fich_tabbord" : "tab_bord",
   	"pas_bord" :"b17810f37ce753aca00c932e9cb17ee3",
 	
-  	"trt_head" : "Orgues Auxerre V2",
-	"version" : "2.0.0",
+	"_commentaire 7": "Données personnelle pour le site",
 	"edition" : "Jean-Marie Meillier",
+	"trt_head" : "Orgues Auxerre V2",
+	
+
+	"_commentaire 8": "Données locale pour la version ou en BDD",
+	"version_bdd" : false,
+	"version" : "2.0.0",
 	"date" : "16/07/2023",
 	"copy_dte":"2010/2023",
 	"realis" :"l’association Collectif 11880",
